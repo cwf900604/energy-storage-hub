@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-28T05:30:19.109660+00:00",
-  "count": 108,
+  "updated": "2026-05-28T18:27:44.488938+00:00",
+  "count": 117,
   "items": [
+    {
+      "id": "7411652d2c2d",
+      "title": "Argentina storage tender attracts 235 bids totaling over 8.300 MW",
+      "url": "https://www.pv-magazine.com/2026/05/28/la-licitacion-de-almacenamiento-de-argentina-recibe-235-ofertas-por-mas-de-8-300-mw/",
+      "published": "2026-05-28T13:07:49+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "El 16 de junio publicarán las solicitudes admitidas, el 24 del mismo mes se abrirán las ofertas económicas y la adjudicación está prevista para los primeros días de julio. The post Argentina storage tender attracts 235 bids totaling over 8.300 MW appeared first on pv magazine Global."
+    },
+    {
+      "id": "fbec831866c6",
+      "title": "‘The urgency is real’: PJM considers its future amidst substantial load growth",
+      "url": "https://www.energy-storage.news/the-urgency-is-real-pjm-considers-its-future-amidst-substantial-load-growth/",
+      "published": "2026-05-28T12:25:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Brattle Group's Andrew Levitt and Dr Long Lam, about PJM and managing load growth."
+    },
+    {
+      "id": "81a73272914d",
+      "title": "ERCOT incentivises grid-forming BESS with US$25 million programme",
+      "url": "https://www.energy-storage.news/ercot-incentivises-grid-forming-bess-with-us25-million-programme/",
+      "published": "2026-05-28T12:04:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Electric Reliability Council of Texas (ERCOT) has initiated a programme to encourage battery energy storage systems (BESS) and other inverter-based resources to adopt grid-forming technology."
+    },
+    {
+      "id": "755d9cfc061d",
+      "title": "LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy",
+      "url": "https://www.energy-storage.news/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy/",
+      "published": "2026-05-28T11:36:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "LG Energy Solution’s US battery storage system integrator arm has signed a 1.5GW/6GWh deal with Michigan utility DTE Energy."
+    },
+    {
+      "id": "49483bfa4294",
+      "title": "Swiss power distributors allowed to remunerate solar power at market rates",
+      "url": "https://www.pv-magazine.com/2026/05/28/schweizer-verteilnetzbetreiber-duerfen-solarstrom-kuenftig-nach-marktpreis-vergueten/",
+      "published": "2026-05-28T10:41:28+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Switzerland will allow grid operators to remunerate photovoltaic electricity at real-time market prices from 2027, aiming to better align solar feed-in with demand. Small PV systems will be protected by a minimum remuneration premium, while storage and local consumption are expected to become more i…"
+    },
+    {
+      "id": "9b05329f1728",
+      "title": "ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
+      "url": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
+      "published": "2026-05-28T09:26:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP ContourGlobal has put a solar-plus-storage project in Chile with a 6.5-hour BESS into commercial operation in Chile."
+    },
+    {
+      "id": "07ee34ef30f4",
+      "title": "Battery storage key to solar project bankability in Africa",
+      "url": "https://www.pv-magazine.com/2026/05/28/battery-storage-key-to-solar-project-bankability-in-africa/",
+      "published": "2026-05-28T09:26:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Webinar hosted by the Africa Solar Industry Association (AFSIA) tells attendees why projects can fail to materialize in Africa and offers advice to investors looking to develop projects on the continent. The post Battery storage key to solar project bankability in Africa appeared first on pv magazin…"
+    },
+    {
+      "id": "8430f10fd37a",
+      "title": "EU Roundup: TagEnergy, Iberdrola commission France and Spain’s largest batteries, construction launched elsewhere",
+      "url": "https://www.energy-storage.news/eu-roundup-tagenergy-iberdrola-commission-france-and-spains-largest-batteries-construction-launched-elsewhere/",
+      "published": "2026-05-28T09:02:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "TagEnergy has commissioned a 240MW/480MWh project in France while Iberdrola has done the same with a 58MW/120MWh system in Spain, the two largest projects in each country. Meanwhile Engie, ACL Energy and Chint Solar Europe have moved to construction on projects in Belgium, Italy and Germany."
+    },
+    {
+      "id": "dbfeb0dde697",
+      "title": "HyperStrong signs deal to supply battery storage project selected in Malaysia government tender",
+      "url": "https://www.energy-storage.news/hyperstrong-signs-deal-to-supply-battery-storage-project-selected-in-malaysia-government-tender/",
+      "published": "2026-05-28T08:45:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chinese system integrator HyperStrong has been contracted to work on a 100MW/440MWh battery storage project in Malaysia."
+    },
     {
       "id": "91a15f22509c",
       "title": "Low-Income Families Bear Highest Energy Burden — New Analysis",
