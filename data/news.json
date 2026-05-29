@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-28T18:27:44.488938+00:00",
-  "count": 117,
+  "updated": "2026-05-29T18:20:57.387980+00:00",
+  "count": 128,
   "items": [
+    {
+      "id": "73204db907e0",
+      "title": "US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power & Stella and Prevalon",
+      "url": "https://www.energy-storage.news/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon/",
+      "published": "2026-05-29T11:40:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this Energy-Storage.news roundup, a collection of battery energy storage system (BESS)-related announcements from NeoVolta, Goshe Energy Storage, Frontier Power USA and Stella Energy Solutions, and Prevalon Energy."
+    },
+    {
+      "id": "88bbb984a68a",
+      "title": "‘Time to prove its potential’: Gresham House UK BESS fund at a crossroads",
+      "url": "https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/",
+      "published": "2026-05-29T11:30:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Managers of the UK’s largest BESS owner-operator Gresham House Energy Storage Fund (GRID) discussed recent investment news and future strategy this week."
+    },
+    {
+      "id": "f0c8763518bc",
+      "title": "Inclusive leadership is not a trend, it is how resilient industries are built",
+      "url": "https://www.pv-magazine.com/2026/05/29/inclusive-leadership-is-not-a-trend-it-is-how-resilient-industries-are-built/",
+      "published": "2026-05-29T11:12:12+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "This week, Women in Solar+ Europe (WiSEu) shares insights from a panel at Solar &#38; Storage Live España 2026, examining how inclusive leadership and psychological safety drive innovation, collaboration, and resilience in the energy transition. Leaders from consulting, sustainability, and multi-ene…"
+    },
+    {
+      "id": "768441302343",
+      "title": "German regulator’s grid fee decision ‘restores investor confidence’ in energy storage market",
+      "url": "https://www.energy-storage.news/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market/",
+      "published": "2026-05-29T10:32:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The German network regulator’s decision to maintain grid fee exemptions for battery storage “ensures that billions in private investment remain directed” into the market, Energy-Storage.news has heard."
+    },
+    {
+      "id": "ab562267ee94",
+      "title": "SolaX ORI energy storage system completes large-scale fire test under extreme conditions",
+      "url": "https://www.pv-magazine.com/2026/05/29/solax-ori-energy-storage-system-completes-large-scale-fire-test-under-extreme-conditions/",
+      "published": "2026-05-29T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Energy storage safety is increasingly being assessed not by individual component performance alone, but by how a complete system behaves under severe and credible fault conditions. The post SolaX ORI energy storage system completes large-scale fire test under extreme conditions appeared first on pv …"
+    },
+    {
+      "id": "ff23494fae24",
+      "title": "Nextpower gets into energy storage",
+      "url": "https://www.pv-magazine.com/2026/05/29/nextpower-gets-into-energy-storage/",
+      "published": "2026-05-29T08:36:34+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Nextpower joins the BESS market with an eye on the enormous opportunity as the AI data center build-out continues to rely on power. The post Nextpower gets into energy storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "28b67e3e4593",
+      "title": "Nord Pool’s new European BESS revenue index ‘reduces trader bias risk’ for merchant plays",
+      "url": "https://www.energy-storage.news/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays/",
+      "published": "2026-05-29T07:55:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from Clean Horizon about the consultancy’s European battery storage revenue index being added to Nord Pool’s Data Portal."
+    },
+    {
+      "id": "fff6e7265db5",
+      "title": "Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/",
+      "published": "2026-05-29T03:17:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ausgrid has submitted its 150MW/300MWh Berkeley Vale BESS to the Australian government's EPBC Act for federal environmental assessment."
+    },
+    {
+      "id": "51d017349a49",
+      "title": "South Australia awards 1.3GW+ of battery storage in first Firm Energy Reliability Mechanism tender",
+      "url": "https://www.energy-storage.news/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender/",
+      "published": "2026-05-29T03:12:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Australia's first Firm Energy Reliability Mechanism (FERM) tender has awarded agreements to six battery energy storage projects totalling 1,334MW and 5,336MWh."
+    },
+    {
+      "id": "23f16a45505a",
+      "title": "Flagship Executive SUV NIO ES9 Officially Launched",
+      "url": "https://cleantechnica.com/2026/05/28/flagship-executive-suv-nio-es9-officially-launched/",
+      "published": "2026-05-29T00:34:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Beijing, China — NIO officially launched its flagship executive SUV, the NIO ES9. The Executive Premium Edition starts at RMB 498,000, or RMB 390,000 with the Battery-as-a-Service (BaaS) subscription plan. The Executive Signature Edition starts at RMB 558,000, or RMB 450,000 with BaaS. The Horizon E…"
+    },
+    {
+      "id": "718ce93f9149",
+      "title": "New Mexico has the nation’s best DER interconnection policy: report",
+      "url": "https://www.utilitydive.com/news/new-mexico-der-interconnection-irec-vote-solar/821397/",
+      "published": "2026-05-28T19:11:30+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The state received high marks for its robust energy storage interconnection framework, frequent public reports on its interconnection queue and incorporating IEEE&rsquo;s technical standard for DER interconnections."
+    },
     {
       "id": "7411652d2c2d",
       "title": "Argentina storage tender attracts 235 bids totaling over 8.300 MW",
