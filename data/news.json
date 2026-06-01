@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-31T12:18:30.203951+00:00",
-  "count": 132,
+  "updated": "2026-06-01T21:17:38.890159+00:00",
+  "count": 139,
   "items": [
+    {
+      "id": "aa23703891f6",
+      "title": "Mexico launches fast-track permitting programme for renewables and BESS",
+      "url": "https://www.energy-storage.news/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess/",
+      "published": "2026-06-01T13:48:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Mexico’s Ministry of Energy (SENER) has launched a new call for renewable power projects including generating and energy storage assets."
+    },
+    {
+      "id": "bbc1a68679f3",
+      "title": "Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
+      "url": "https://www.energy-storage.news/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess/",
+      "published": "2026-06-01T11:44:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chinese-based OEM Sungrow and Spanish IPP Sonnedix have signed a supply agreement for 643.8MWh of Sungrow’s PowerTitan 2.0 solution."
+    },
+    {
+      "id": "2c4d89d922dc",
+      "title": "Hoymiles launches new hybrid residential battery series",
+      "url": "https://www.pv-magazine.com/2026/06/01/hoymiles-launches-new-hybrid-residential-battery-series/",
+      "published": "2026-06-01T09:17:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Hoymiles has launched the HiBattery 4020 hybrid series for residential storage, including the PV-coupled 4020 X and AC-coupled 4020 AC designed for retrofit solar systems. Both models are modular and use LiFePO₄ cells with advanced safety features. The post Hoymiles launches new hybrid residential b…"
+    },
+    {
+      "id": "bd8fc16f0863",
+      "title": "What lies beneath: Unearthing advanced compressed air energy storage",
+      "url": "https://www.utilitydive.com/spons/what-lies-beneath-unearthing-advanced-compressed-air-energy-storage/821061/",
+      "published": "2026-06-01T09:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "More than 2,000 feet below the surface, long duration energy storage is being built to deliver reliability where the grid needs it most."
+    },
+    {
+      "id": "a81304b32f24",
+      "title": "Germany: Level playing field for storage vs conventional generation is major challenge, says developer Kyon",
+      "url": "https://www.energy-storage.news/germany-level-playing-field-for-storage-vs-conventional-generation-is-major-challenge-says-developer-kyon/",
+      "published": "2026-06-01T06:48:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "That's according to Benedikt Deuchert, head of business development and regulatory affairs for German battery energy storage system (BESS) developer and EPC firm Kyon Energy."
+    },
+    {
+      "id": "6d2346aa8815",
+      "title": "CATL opens ‘world’s largest’ energy storage testing platform in China",
+      "url": "https://www.energy-storage.news/catl-opens-worlds-largest-energy-storage-testing-platform-in-china/",
+      "published": "2026-06-01T06:43:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL has opened what it describes as the “world's largest and most comprehensive testing and validation platform for energy storage systems” at its headquarters in Ningde, China."
+    },
+    {
+      "id": "c06b5c78c6d6",
+      "title": "RES Australia’s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
+      "url": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
+      "published": "2026-06-01T01:32:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "RES Australia's 2,400MWh Bunyip North BESS has cleared the federal environmental assessment process under Australia's EPBC Act."
+    },
     {
       "id": "512d283e6c0c",
       "title": "Lointek supplies 50 MW / 300 MWh liquid air energy storage system in the United Kingdom",
