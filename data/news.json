@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-01T21:17:38.890159+00:00",
-  "count": 139,
+  "updated": "2026-06-02T19:58:45.971469+00:00",
+  "count": 152,
   "items": [
+    {
+      "id": "261be9af2ad3",
+      "title": "Energy Storage Technology Company Volt Harbor Raises $2 Million In Funding",
+      "url": "https://cleantechnica.com/2026/06/02/energy-storage-technology-company-volt-harbor-raises-2-million-in-funding/",
+      "published": "2026-06-02T15:14:11+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Michigan-based battery energy storage technology startup Volt Harbor has raised $2 million in seed money. The company makes a modular, software-defined energy storage platform for data centers and the grid. Volt Harbor’s technology works with EV batteries, which are in abundant supply and are gr…"
+    },
+    {
+      "id": "49e243537df6",
+      "title": "Why some US BESS developers are forgoing the investment tax credit",
+      "url": "https://www.energy-storage.news/why-some-us-bess-developers-are-forgoing-the-investment-tax-credit/",
+      "published": "2026-06-02T12:00:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Ravi Manghani at Anza Renewables about why some BESS developers are forgoing the ITC altogether."
+    },
+    {
+      "id": "46e0e0e15368",
+      "title": "Germany: interaction between grid fees, BKZ and FCAs still need to be solved",
+      "url": "https://www.energy-storage.news/germany-interaction-between-grid-fees-bkz-and-fcas-still-need-to-be-solved/",
+      "published": "2026-06-02T11:35:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from Christina Hepp, strategy director at battery energy storage system (BESS) owner-operator Green Flexibility, on the big successes and challenges in the German market today."
+    },
+    {
+      "id": "f44b5a7f40d3",
+      "title": "US BESS integrator Prevalon becomes Nextpower’s latest acquisition for US$365 million",
+      "url": "https://www.energy-storage.news/us-bess-integrator-prevalon-becomes-nextpowers-latest-acquisition-for-us365-million/",
+      "published": "2026-06-02T11:01:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Solar PV solutions provider Nextpower has entered into a definitive agreement to acquire BESS system integrator Prevalon Energy for up to US$365 million."
+    },
+    {
+      "id": "109837699aa5",
+      "title": "Philippines proposes stricter PV, battery product certification rules",
+      "url": "https://www.pv-magazine.com/2026/06/02/philippines-proposes-stricter-solar-and-battery-product-certification-rules/",
+      "published": "2026-06-02T10:00:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The proposed regulation for product safety and quality standards applies to all solar and PV components, whether locally manufactured or imported. The post Philippines proposes stricter PV, battery product certification rules appeared first on pv magazine Global."
+    },
+    {
+      "id": "b92a02e67b94",
+      "title": "EU approves Spain’s €9 billion capacity market for generation, demand response and energy storage",
+      "url": "https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/",
+      "published": "2026-06-02T09:49:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Commission has approved a €9 billion (US$10.5 billion) scheme to shore up its energy capacity, which will be open to new and existing projects including energy storage."
+    },
+    {
+      "id": "3ef541bbae1d",
+      "title": "Marstek debuts new plug-in battery series",
+      "url": "https://www.pv-magazine.com/2026/06/02/marstek-debuts-new-plug-in-battery-series/",
+      "published": "2026-06-02T07:10:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Marstek Energy has launched its Venus residential plug-in battery series, comprising the 2 kWh Venus E Mini, 5 kWh Venus E Gen 4.0 and 10 kWh Venus E Max. The new battery familiy is suitable for applications ranging from balcony solar storage to whole-home energy management and backup power. The pos…"
+    },
+    {
+      "id": "51f01b68b723",
+      "title": "Fluence to integrate Smartstack into Siemens’ Nvidia AI data centre reference architecture",
+      "url": "https://www.energy-storage.news/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture/",
+      "published": "2026-06-02T06:34:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Engineering giant Siemens will develop a reference architecture purpose-built for Nvidia AI data centres, in collaboration with Fluence and incorporating nVent-aligned design considerations."
+    },
+    {
+      "id": "f96cb5a8cc4f",
+      "title": "ROUNDUP: Japan’s BESS market sees domestic and overseas players pursue larger-scale projects",
+      "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
+      "published": "2026-06-02T06:32:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "This special Japanese market roundup covers large-scale BESS project announcements from PowerX, Eku Energy and SMFL."
+    },
+    {
+      "id": "3d25c34d93f0",
+      "title": "Electricity Prices Fall Across Australia As Renewables Build Momentum",
+      "url": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
+      "published": "2026-06-02T03:58:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "As bulk power costs reduce in Australia’s eastern states due to high renewable energy inputs, the price reductions are finally reaching the household and small business consumer. As well as grid-scale wind and solar, we have the highest penetration of rooftop solar, and now home batteries are being …"
+    },
+    {
+      "id": "4d4175ac41e3",
+      "title": "Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
+      "url": "https://www.energy-storage.news/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships/",
+      "published": "2026-06-02T02:52:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Madiha Waseem of Fluence explores how early supplier engagement &#038; procurement models are reshaping BESS delivery amid supply pressures."
+    },
+    {
+      "id": "7e63e8f6362b",
+      "title": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
+      "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
+      "published": "2026-06-02T02:47:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Queensland's growing battery energy storage system (BESS) fleet set new instantaneous records for both the renewables-plus-storage (RES) share of consumption and the battery storage share of consumption on 31 May 2026."
+    },
+    {
+      "id": "13cc1d480ead",
+      "title": "Battery Storage Boom Brings Free Electricity To Australia",
+      "url": "https://cleantechnica.com/2026/06/01/battery-storage-boom-brings-free-electricity-to-australia/",
+      "published": "2026-06-01T23:35:30+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Grid scale and residential Battery storage in Australia has increased so much the energy regulator will supply free electricity next month. The post Battery Storage Boom Brings Free Electricity To Australia appeared first on CleanTechnica."
+    },
     {
       "id": "aa23703891f6",
       "title": "Mexico launches fast-track permitting programme for renewables and BESS",
