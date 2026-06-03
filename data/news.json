@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-02T19:58:45.971469+00:00",
-  "count": 152,
+  "updated": "2026-06-03T20:28:51.742801+00:00",
+  "count": 161,
   "items": [
+    {
+      "id": "4388f5c9fce5",
+      "title": "DTE Energy partners with LG to deploy 6 GWh of battery storage",
+      "url": "https://www.utilitydive.com/news/dte-energy-lg-battery-storage/821856/",
+      "published": "2026-06-03T13:22:28+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "By 2042, DTE expects to have more than 2.9 GW of energy storage on its system, more than doubling its current storage capacity."
+    },
+    {
+      "id": "2dbbf652dae0",
+      "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
+      "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
+      "published": "2026-06-03T12:48:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We caught up with NeoVolta CEO Ardes Johnson about its US domestic BESS manufacturing partnership with Chinese firms Potis Edge and Longi, and how it has been structured to be FEOC compliant."
+    },
+    {
+      "id": "0ba46eec590c",
+      "title": "Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
+      "url": "https://www.energy-storage.news/alsym-energy-partners-with-rebuild-manufacturing-to-scale-us-na-ion-bess/",
+      "published": "2026-06-03T12:05:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US sodium-ion (Na-ion) battery startup Alsym Energy and domestic manufacturing company Re:Build Manufacturing are partnering to develop commercial-scale battery cell manufacturing capacity in the US."
+    },
+    {
+      "id": "961fd0d49c1f",
+      "title": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
+      "url": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
+      "published": "2026-06-03T10:30:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NTPC Green Energy is tendering EPC contracts to develop 3,300MWh of battery storage at Khavda hybrid renewable energy park in Gujarat, India."
+    },
+    {
+      "id": "bd650034daa0",
+      "title": "Why BESS performance guarantees are more complex than they seem",
+      "url": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
+      "published": "2026-06-03T10:22:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS performance guarantees are essential and ubiquitous, yet can be challenging to navigate, writes Intertek CEA senior energy storage engineer Yilin Huang."
+    },
+    {
+      "id": "5ecb2e562fe9",
+      "title": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
+      "url": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
+      "published": "2026-06-03T09:55:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Owner-operator Eco Stor has secured a long-term toll with utility Next Kraftwerke for its 300MW/700MWh project in Förderstedt, Germany, one of the largest being built in the country."
+    },
+    {
+      "id": "b92260c1c359",
+      "title": "Third-party technologies for preventing or dealing with thermal runaway in BESS assets",
+      "url": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
+      "published": "2026-06-03T08:09:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Liam Critchley examines a selection of third-party technologies for preventing thermal runaway events in battery storage systems."
+    },
+    {
+      "id": "9b386ecf899c",
+      "title": "Akaysha Energy’s 415MW/1,660MWh Orana BESS reaches full output in Australia",
+      "url": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
+      "published": "2026-06-03T01:56:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Akaysha Energy's 415MW/1,660MWh Orana BESS has reached full output, with the facility now listed as operating in Australia's NEM."
+    },
+    {
+      "id": "a219fba2e058",
+      "title": "Australia’s Queensland opens AU$200 million fund for battery storage and generation projects",
+      "url": "https://www.energy-storage.news/australias-queensland-opens-au200-million-fund-for-battery-storage-and-generation-projects/",
+      "published": "2026-06-03T01:51:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Queensland Investment Corporation has opened a formal call for proposals under the state government's AU$200 million North West Energy Fund."
+    },
     {
       "id": "261be9af2ad3",
       "title": "Energy Storage Technology Company Volt Harbor Raises $2 Million In Funding",
