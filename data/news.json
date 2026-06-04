@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-03T20:28:51.742801+00:00",
-  "count": 161,
+  "updated": "2026-06-04T17:58:06.555670+00:00",
+  "count": 171,
   "items": [
+    {
+      "id": "ee209f1acd31",
+      "title": "What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas",
+      "url": "https://cleantechnica.com/2026/06/04/evs-batteries-lfp-cathode-texas-invest-energyx-wildcat-holyvolt/",
+      "published": "2026-06-04T16:31:22+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A $230 million battery manufacturing facility is proposed for Texas, aimed at scaling up the production of LFP cathodes for use in EVs among other applications. The post What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas appeared first on CleanTechnica."
+    },
+    {
+      "id": "c320e003bfb2",
+      "title": "‘This should have already been done’: Deploy Action on accelerating California DERs",
+      "url": "https://www.energy-storage.news/this-should-have-already-been-done-deploy-action-on-accelerating-california-ders/",
+      "published": "2026-06-04T12:40:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Arnab Pal, executive director at nonprofit Deploy Action, about the company’s recent California polling results."
+    },
+    {
+      "id": "fa797dcd4ccd",
+      "title": "US solar startup T1 Energy to acquire BESS company KORE Power for US$32 million",
+      "url": "https://www.energy-storage.news/us-solar-startup-t1-energy-to-acquire-bess-company-kore-power-for-us32-million/",
+      "published": "2026-06-04T12:35:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US solar manufacturer T1 Energy has entered into a definitive agreement to acquire vertically integrated battery energy storage system (BESS) company KORE Power."
+    },
+    {
+      "id": "a0abc845587e",
+      "title": "Giga-scale Swiss data centre project will be ‘world-first’ in carving out niche for flow batteries, Invinity says",
+      "url": "https://www.energy-storage.news/giga-scale-swiss-data-centre-project-will-be-world-first-in-carving-out-niche-for-flow-batteries-invinity-says/",
+      "published": "2026-06-04T11:39:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A 2.1GWh, data centre-paired vanadium redox flow battery (VRFB) project in Switzerland will be among the first of its scale that represents a specific use case for the technology, the president of design partner Invinity Energy Systems told Energy-Storage.news."
+    },
+    {
+      "id": "ae4987a39862",
+      "title": "Brazil’s first energy storage auctions are coming this year, regulatory framework approved",
+      "url": "https://www.energy-storage.news/brazils-first-energy-storage-auctions-are-coming-this-year-regulatory-framework-approved/",
+      "published": "2026-06-04T11:33:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two potential game-changing developments for Brazil’s energy storage sector were announced this week by its regulator and its energy ministry."
+    },
+    {
+      "id": "49ea55ae3512",
+      "title": "US adds 6.4 GW of utility-scale solar, wind, storage in Q1",
+      "url": "https://www.pv-magazine.com/2026/06/04/the-pipeline-for-new-u-s-solar-and-energy-storage-surges-as-wind-dies-down-report/",
+      "published": "2026-06-04T11:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Report from the American Clean Power Association finds told clean power capacity in the U.S. hit 370 GW in Q1, enough to power 80 million homes, while the pipeline for new projects grew 6% over the previous year. The post US adds 6.4 GW of utility-scale solar, wind, storage in Q1 appeared first on p…"
+    },
+    {
+      "id": "4bc8a1c8a86f",
+      "title": "EU Roundup: R.Power, OX2, BRUC, Aukera finance BESS in Poland, Spain and Belgium totalling 2.2GWh for 2027 COD",
+      "url": "https://www.energy-storage.news/eu-roundup-r-power-ox2-bruc-aukera-finance-bess-in-poland-spain-and-belgium-totalling-2-2gwh-for-2027-cod/",
+      "published": "2026-06-04T10:08:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Four large-scale BESS projects totalling a combined 2.2GWh of capacity in major EU markets can now proceed with construction following successful financing by owners OX2, R.Power, BRUC and Aukera."
+    },
+    {
+      "id": "823c0312671a",
+      "title": "Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
+      "url": "https://www.energy-storage.news/europe-must-support-role-of-long-duration-energy-storage-in-electrification-security-and-competitiveness-trade-groups-say/",
+      "published": "2026-06-04T08:08:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Commission must “acknowledge the clear role of long-duration energy storage,” organisations including Energy Storage Europe and the LDES Council have urged."
+    },
+    {
+      "id": "9fdb25bd06f4",
+      "title": "Mauritius tenders 220 MW of solar and storage via new ‘e-Marketplace’",
+      "url": "https://www.pv-magazine.com/2026/06/04/mauritius-tenders-220-mw-of-solar-and-storage-via-new-e-marketplace/",
+      "published": "2026-06-04T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Mauritius has published tenders for solar plus storage projects totalling 220 MW. The tender is launched on a new E-Marketplace created by the International Solar Alliance, which aims to improve bankability and access to finance for projects in small island developing states (SIDS). The post Mauriti…"
+    },
+    {
+      "id": "92bf5137ae5d",
+      "title": "Taiwan’s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
+      "url": "https://www.energy-storage.news/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia/",
+      "published": "2026-06-04T01:52:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Recharge Power, a Taiwanese battery energy storage system (BESS) developer and integrator, has signed a strategic cooperation agreement with Australian renewable energy developer Energy Decarb to establish a joint venture targeting the Australian solar PV and battery storage market."
+    },
     {
       "id": "4388f5c9fce5",
       "title": "DTE Energy partners with LG to deploy 6 GWh of battery storage",
