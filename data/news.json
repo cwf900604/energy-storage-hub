@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-04T17:58:06.555670+00:00",
-  "count": 171,
+  "updated": "2026-06-05T17:02:23.830607+00:00",
+  "count": 177,
   "items": [
+    {
+      "id": "3b03bc03d6b3",
+      "title": "The Hydrogen Stream: Toyota demonstrates its liquid-hydrogen racing prototype",
+      "url": "https://www.pv-magazine.com/2026/06/05/the-hydrogen-stream-toyota-demonstrates-its-liquid-hydrogen-racing-prototype/",
+      "published": "2026-06-05T13:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "On June 11 and June 13, the TR LH2 Racing Prototype will complete demonstration laps of a 13.626km circuit in France. Meanwhile, Chinese researchers propose a new electrochemical pathway for high-capacity chemical hydrogen storage at room temperature and ambient pressure. The post The Hydrogen Strea…"
+    },
+    {
+      "id": "9c4f08229976",
+      "title": "EDF and Masdar enter 15-year PPAs for 160MWh hybrid California BESS",
+      "url": "https://www.energy-storage.news/edf-and-masdar-enter-15-year-ppas-for-160mwh-hybrid-california-bess/",
+      "published": "2026-06-05T09:09:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developer EDF power solutions North America and developer-operator Abu Dhabi Future Energy Company – Masdar, have entered into 15-year power purchase agreements (PPAs) for a California, US solar-plus-storage project."
+    },
+    {
+      "id": "3659722df2ab",
+      "title": "Google signs 100MW distributed energy resource VPP agreement with Voltus for PJM",
+      "url": "https://www.energy-storage.news/google-signs-100mw-distributed-energy-resource-vpp-agreement-with-voltus-for-pjm/",
+      "published": "2026-06-05T09:08:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Virtual power plant (VPP) operator and distributed energy resource (DER) platform Voltus and tech giant Google have signed a three-year 100MW agreement for the PJM region in the US."
+    },
+    {
+      "id": "0f482d046b2b",
+      "title": "Modelling approaches to detecting and preventing thermal runaway risk in Li-ion BESS",
+      "url": "https://www.energy-storage.news/modelling-approaches-to-detecting-and-preventing-thermal-runaway-risk-in-li-ion-bess/",
+      "published": "2026-06-05T08:37:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Liam Critchley examines the modelling, safety standards and analytics that aim to mitigate the risk of thermal runaway in lithium-ion battery energy storage systems (BESS)."
+    },
+    {
+      "id": "3be9f00a4cc0",
+      "title": "Akaysha Energy’s Waratah Super Battery in Australia returns to 700MW as Transformer 2 comes back online",
+      "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-in-australia-returns-to-700mw-as-transformer-2-comes-back-online/",
+      "published": "2026-06-05T04:31:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Akaysha Energy's Waratah Super Battery is now operating at 700MW and 1,680MWh following the successful return to service of High Voltage Transformer 2 (HVT2), the BlackRock-backed developer confirmed in a market update today (4 June)."
+    },
+    {
+      "id": "6a833e3ad07b",
+      "title": "Australia’s Victoria fast-tracks 1,390MW of battery storage Development Facilitation Program approval round",
+      "url": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
+      "published": "2026-06-05T02:20:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's Victorian government has approved four new energy projects worth a combined AU$2.4 billion via its DFP, including 1,390MW of BESS."
+    },
     {
       "id": "ee209f1acd31",
       "title": "What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas",
