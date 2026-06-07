@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-06T12:05:38.286895+00:00",
-  "count": 177,
+  "updated": "2026-06-07T13:10:10.303813+00:00",
+  "count": 179,
   "items": [
+    {
+      "id": "ec77192b10ad",
+      "title": "CATL Developing 12,000 Wh Per Kg Lithium-Air Battery",
+      "url": "https://cleantechnica.com/2026/06/06/catl-developing-12000-wh-per-kg-lithium-air-battery/",
+      "published": "2026-06-06T19:21:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "CATL said this week it is developing lithium air batteries that could have an energy density of up to 12,000 Wh/kg. The post CATL Developing 12,000 Wh Per Kg Lithium-Air Battery appeared first on CleanTechnica."
+    },
+    {
+      "id": "a4f6bf517ef0",
+      "title": "GM Pitches New LMR EV Battery On Earth, New EV On The Moon",
+      "url": "https://cleantechnica.com/2026/06/06/ev-battery-lmr-gm-vehicle-electrification-us-nasa-lunar-rover/",
+      "published": "2026-06-06T16:01:57+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "GM aims for the Moon as part of the Pegasus lunar rover collaboration, while prepping a fresh round of lower-costing EV battery technology for vehicles on Earth. The post GM Pitches New LMR EV Battery On Earth, New EV On The Moon appeared first on CleanTechnica."
+    },
     {
       "id": "3b03bc03d6b3",
       "title": "The Hydrogen Stream: Toyota demonstrates its liquid-hydrogen racing prototype",
