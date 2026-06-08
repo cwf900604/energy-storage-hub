@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-07T13:10:10.303813+00:00",
-  "count": 179,
+  "updated": "2026-06-08T18:12:23.608863+00:00",
+  "count": 186,
   "items": [
+    {
+      "id": "126d62bde3a1",
+      "title": "Steel Needs A Route Transition, Not A Hydrogen Story",
+      "url": "https://cleantechnica.com/2026/06/08/steel-decarbonization-route-transition/",
+      "published": "2026-06-08T16:56:39+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Steel decarbonization keeps being pulled into the wrong conversation. Call it a future hydrogen market, and the discussion moves quickly to electrolyzers, pipelines, storage caverns, offtake contracts, national hydrogen strategies, and industrial-policy speeches looking for a customer. That framing …"
+    },
+    {
+      "id": "44e0b3faede9",
+      "title": "Battery Giant CATL Expects Half Of Its 2030 Sales Will Be For Energy Storage",
+      "url": "https://cleantechnica.com/2026/06/08/battery-giant-catl-expects-half-of-its-2030-sales-will-be-for-energy-storage/",
+      "published": "2026-06-08T15:47:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Technically, batteries are always being used for energy storage. However, in this industry, saying they will be used for &#8220;energy storage&#8221; means for stationary energy storage systems rather than in electric vehicles. Anyway, the largest battery maker in the world, China&#8217;s CATL, has …"
+    },
+    {
+      "id": "ab9580198bf1",
+      "title": "Key takeaways from SNEC 2026 in Shanghai",
+      "url": "https://www.pv-magazine.com/2026/06/08/key-takeaways-from-snec-2026-in-shanghai/",
+      "published": "2026-06-08T12:59:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "SNEC 2026 showed that the solar industry is undergoing “soft consolidation,” with companies expanding across the value chain and into storage rather than consolidating through mergers or exits. Despite ongoing oversupply and financial losses, manufacturers are shifting from volume to quality and dif…"
+    },
+    {
+      "id": "320612459cb3",
+      "title": "esVolta closes US$450 million expanded credit facility to expand US BESS portfolio",
+      "url": "https://www.energy-storage.news/esvolta-closes-us450-million-expanded-credit-facility-to-expand-us-bess-portfolio/",
+      "published": "2026-06-08T11:34:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "California-headquartered developer esVolta has closed an expanded corporate credit facility providing up to US$450 million of capital to expand new utility-scale energy storage projects in the US."
+    },
+    {
+      "id": "2254ed421d93",
+      "title": "Data centre developer DayOne signs solar and BESS PPAs in Malaysia with TNB subsidiaries",
+      "url": "https://www.energy-storage.news/data-centre-developer-dayone-signs-solar-and-bess-ppas-in-malaysia-with-tnb-subsidiaries/",
+      "published": "2026-06-08T10:46:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Data centre developer DayOne has signed agreements through Malaysia’s government-launched Corporate Renewable Energy Supply Scheme (CRESS)."
+    },
+    {
+      "id": "044be52d1b38",
+      "title": "Contracting, audits and operational controls: How to protect your BESS investment",
+      "url": "https://www.energy-storage.news/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment/",
+      "published": "2026-06-08T09:16:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "To avoid pitfalls that harm BESS investments, developers must sign well-structured contracts, writes Intertek CEA's Yilin Huang."
+    },
+    {
+      "id": "85ba3c3a4071",
+      "title": "SVOLT showcases comprehensive energy storage solutions at SNEC 2026",
+      "url": "https://www.pv-magazine.com/2026/06/08/svolt-showcases-comprehensive-energy-storage-solutions-at-snec-2026/",
+      "published": "2026-06-08T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The portfolio features two new variants of SVOLT’s 122 Ah stacked-electrode residential energy storage cell: a Fast-Charging Edition and a Low-Temperature, Long-Life Edition. This expansion marks the evolution of products from a single cell into a platform-based offering. The post SVOLT showcases co…"
+    },
     {
       "id": "ec77192b10ad",
       "title": "CATL Developing 12,000 Wh Per Kg Lithium-Air Battery",
