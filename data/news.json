@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-08T18:12:23.608863+00:00",
-  "count": 186,
+  "updated": "2026-06-09T17:13:09.712172+00:00",
+  "count": 205,
   "items": [
+    {
+      "id": "5a6051ed3b0a",
+      "title": "DOE reinstates $57M American Battery grant",
+      "url": "https://www.utilitydive.com/news/american-battery-announces-reinstated-57m-grant-from-doe/822379/",
+      "published": "2026-06-09T15:46:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "American Battery Technology Co. won its appeal after the agency canceled the grant last year. It will continue plans to build a $115 million commercial-scale lithium refinery alongside its lithium-ion battery recycling efforts."
+    },
+    {
+      "id": "c2665843221d",
+      "title": "Batteries Don’t Need To Electrify Every Ship To Reshape Shipping Fuels",
+      "url": "https://cleantechnica.com/2026/06/09/maritime-battery-electrification-fuel-demand/",
+      "published": "2026-06-09T15:41:46+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A useful paper has landed in the Nature family on the techno-economics of electrifying short-sea shipping, and the result should make the maritime fuel debate a little less vague. The paper does not claim that every ship becomes battery-electric. It does not need to. It finds that by 2030 a ... [con…"
+    },
+    {
+      "id": "a9c28cbf1979",
+      "title": "Not-for-profit utilities turn to energy storage as data centers drive cost, reliability concerns",
+      "url": "https://www.utilitydive.com/news/not-for-profit-utilities-turn-to-energy-storage-as-data-centers-drive-cost/822370/",
+      "published": "2026-06-09T14:57:17+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Reliability, power price hedging and avoided infrastructure investment are among the top reasons for the battery push."
+    },
+    {
+      "id": "ec56ba374a7f",
+      "title": "German BESS market has moved beyond peak hype",
+      "url": "https://www.energy-storage.news/german-bess-market-moved-beyond-peak-tsunami-hype/",
+      "published": "2026-06-09T13:22:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "“The word tsunami describes very well the hype that was in Germany,” said Cristina Yandiola at this week’s Energy Storage Summit."
+    },
+    {
+      "id": "5b82172aaea8",
+      "title": "Energy storage ‘needs to last longer as heatwaves and data centres strain infrastructure’",
+      "url": "https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/",
+      "published": "2026-06-09T12:10:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Dr Thomas Sisto, of flow battery developer XL Batteries, about using LDES to combat grid strain from heatwaves and data centres."
+    },
+    {
+      "id": "044eb403a65d",
+      "title": "‘Critical’ for Germany’s capacity market design to enable battery storage participation",
+      "url": "https://www.energy-storage.news/capacity-market-design-critical-facilitating-bess-involvement-german-market/",
+      "published": "2026-06-09T11:41:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The upcoming German capacity market must be designed in such a way that enables BESS to generate revenue, according to industry experts."
+    },
+    {
+      "id": "780e3139559f",
+      "title": "Abu Dhabi’s solar self-supply framework marks shift to energy intelligence",
+      "url": "https://www.pv-magazine.com/2026/06/09/abu-dhabis-solar-self-supply-framework-marks-a-shift-to-energy-intelligence/",
+      "published": "2026-06-09T11:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Middle East Solar Industry Association (MESIA) recently convened an industry discussion examining how Abu Dhabi’s self-supply framework will impact distributed solar deployment, storage integration and future market design. The post Abu Dhabi’s solar self-supply framework marks shift to energy i…"
+    },
+    {
+      "id": "be89b76cfed2",
+      "title": "UK BESS M&A rebounds with CIP, Fidra, Elements Green, Gresham House, Eelpower transacting on 4.2GWh",
+      "url": "https://www.energy-storage.news/uk-bess-ma-rebounds-with-cip-fidra-elements-green-gresham-house-eelpower-transacting-on-4-2gwh/",
+      "published": "2026-06-09T11:01:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "After a quiet period, M&#038;A in the UK's large-scale BESS market has picked up with transactions from CIP, Fidra Energy, Elements Green, Gresham House and Eelpower in the past fortnight."
+    },
+    {
+      "id": "19cab453aac2",
+      "title": "Glint Solar names Otovo co-founder as CEO, targets US expansion and data center push",
+      "url": "https://www.pv-magazine.com/2026/06/09/glint-solar-names-otovo-co-founder-as-ceo-targets-us-expansion-and-data-center-push/",
+      "published": "2026-06-09T10:50:56+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Founder Harald Olderheim tells pv magazine time is right for Otovo co-founder Simen Fure Jørgensen to take on chief executive role, as the company pursues trans-Atlantic growth strategy. Adding data center features to solar and battery energy storage system (BESS) project design tools is a natural n…"
+    },
+    {
+      "id": "f30aff96c377",
+      "title": "Hithium targets 8-hour storage with 1300 Ah cell and 6.9 MWh system",
+      "url": "https://www.pv-magazine.com/2026/06/09/hithium-targets-8-hour-storage-with-1300-ah-cell-and-6-9-mwh-system/",
+      "published": "2026-06-09T10:50:14+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese battery manufacturer is targeting 4- to 8-hour energy storage applications with new large-format cells and containerized systems. The post Hithium targets 8-hour storage with 1300 Ah cell and 6.9 MWh system appeared first on pv magazine Global."
+    },
+    {
+      "id": "7f24c16aac71",
+      "title": "Policy clarity on FCAs, grid fees needed to realise the potential of German BESS",
+      "url": "https://www.energy-storage.news/policy-and-fca-clarity-needed-realise-potential-german-bess/",
+      "published": "2026-06-09T10:45:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Greater clarity in both government policy and market mechanisms could be essential if the German BESS industry is to realise its potential."
+    },
+    {
+      "id": "506e29c65254",
+      "title": "CATL, Rolls-Royce & Fluence secure Northern Europe, Poland BESS supply deals",
+      "url": "https://www.energy-storage.news/catl-rolls-royce-fluence-secure-northern-europe-poland-bess-supply-deals/",
+      "published": "2026-06-09T09:58:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Rolls-Royce and Fluence have secured BESS orders in Latvia and Poland, respectively, while CATL has partnered with Merus Power for 3GWh of deployments across Northern Europe."
+    },
+    {
+      "id": "a32f1301d7ac",
+      "title": "SNEC 2026: Energy storage launches and tech spec reveals at China’s biggest clean energy trade show",
+      "url": "https://www.energy-storage.news/snec-2026-energy-storage-launches-and-tech-spec-reveals-at-chinas-biggest-clean-energy-trade-show/",
+      "published": "2026-06-09T08:43:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The solar PV and energy storage expo SNEC 2026 in Shanghai, China, was the place to see product launches and showcases from the big players."
+    },
+    {
+      "id": "e5eb8c501e7b",
+      "title": "CATL to supply 2,400MWh of battery storage for Edify Energy’s Australian hybrid projects",
+      "url": "https://www.energy-storage.news/catl-to-supply-2400mwh-of-battery-storage-for-edify-energys-australian-hybrid-projects/",
+      "published": "2026-06-09T05:29:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chinese battery manufacturer CATL will supply 2,400MWh of battery energy storage systems (BESS) for Edify Energy's Smoky Creek and Guthrie's Gap Solar Power Stations in central Queensland."
+    },
+    {
+      "id": "73a19d63d73d",
+      "title": "150 New Power Plants: The Cost of Balancing the Grid If the EU Slashes EV Targets",
+      "url": "https://cleantechnica.com/2026/06/08/150-new-power-plants-the-cost-of-balancing-the-grid-if-the-eu-slashes-ev-targets/",
+      "published": "2026-06-09T03:57:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Scaling back the EU’s electric car targets makes the transition to renewables far more expensive to achieve. Europe’s electricity system could be one of the biggest victims of plans to scale back electric vehicle targets. By providing ‘batteries on wheels’, EVs are set to fundamentally rewire the ma…"
+    },
+    {
+      "id": "1f00f3896603",
+      "title": "New Zealand’s Meridian Energy wins draft approval to access 545GWh of contingent hydro storage",
+      "url": "https://www.energy-storage.news/new-zealands-meridian-energy-wins-draft-approval-to-access-545gwh-of-contingent-hydro-storage/",
+      "published": "2026-06-09T02:03:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New Zealand's Meridian Energy has received a draft decision proposing to ease access restrictions on contingent hydro storage at Lake Pūkaki."
+    },
+    {
+      "id": "7e958e2adaaf",
+      "title": "Eku Energy submits 10-hour duration Griffith BESS to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/eku-energy-submits-10-hour-duration-griffith-bess-to-australias-epbc-act/",
+      "published": "2026-06-09T02:00:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Eku Energy has submitted its 1,000MWh Griffith battery energy storage system (BESS) for environmental assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "676999a8a54f",
+      "title": "Ark Energy’s 3.1GWh solar-plus-storage site in Australia bags AEMO grid connection",
+      "url": "https://www.energy-storage.news/ark-energys-3-1gwh-solar-plus-storage-site-in-australia-bags-aemo-grid-connection/",
+      "published": "2026-06-09T01:55:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ark Energy has received approval from AEMO and Transgrid to connect its 3,148MWh Richmond Valley solar-plus-storage site to the NEM."
+    },
+    {
+      "id": "9873a69f6143",
+      "title": "US Clean Energy Can Now Power ~80 Million Homes!",
+      "url": "https://cleantechnica.com/2026/06/08/us-clean-energy-can-now-power-80-million-homes/",
+      "published": "2026-06-08T23:56:05+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The solar power and battery storage project pipelines are growing in the United States. Even if government support for solar has dropped — in the US as a whole as well as in the #1 solar state of California — the clean electricity option is still hyper-competitive due to its ... [continued] The post…"
+    },
     {
       "id": "126d62bde3a1",
       "title": "Steel Needs A Route Transition, Not A Hydrogen Story",
