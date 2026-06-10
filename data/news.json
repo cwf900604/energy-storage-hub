@@ -1,7 +1,160 @@
 {
-  "updated": "2026-06-09T17:13:09.712172+00:00",
-  "count": 205,
+  "updated": "2026-06-10T18:16:46.101641+00:00",
+  "count": 222,
   "items": [
+    {
+      "id": "cd813784f371",
+      "title": "Electric Airplane Powered By Solid-State Batteries Completes Test Flight",
+      "url": "https://cleantechnica.com/2026/06/10/electric-airplane-powered-by-solid-state-batteries-completes-test-flight/",
+      "published": "2026-06-10T15:20:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "If you have been following battery energy storage developments for a while, you know the prospect of solid-state batteries is both real and seems to perpetually not arrive. Many of us might like to speculate what will happen when solid-state batteries are readily available to be used in electric veh…"
+    },
+    {
+      "id": "fc02a01aad2c",
+      "title": "Thermal energy storage tech analysis: Rondo, Antora, Malta Inc, MGA, 1414, EnergyNest, Polar Night and Brenmiller",
+      "url": "https://www.energy-storage.news/thermal-energy-storage-tech-analysis-rondo-antora-malta-inc-mga-1414-energynest-polar-night-and-brenmiller/",
+      "published": "2026-06-10T13:28:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We go through the main movers and shakers commercialising large-scale thermal energy storage technologies today."
+    },
+    {
+      "id": "b992c48d87c7",
+      "title": "Challenges remain for inertia in Germany, but value to BESS ‘will only go up’",
+      "url": "https://www.energy-storage.news/challenges-remain-inertia-german-bess-value-will-only-go-up/",
+      "published": "2026-06-10T13:13:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The inertia market could be a significant contributor to the German energy mix, despite the challenges that remain."
+    },
+    {
+      "id": "47a9169e78ff",
+      "title": "JA Solar changes name into JA",
+      "url": "https://www.pv-magazine.com/2026/06/10/ja-solar-changes-name-into-ja/",
+      "published": "2026-06-10T12:38:44+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The move marks a shift toward a fully integrated cleantech ecosystem spanning solar, storage, smart energy, and financing in line with broader industry trends toward end-to-end energy solutions. The post JA Solar changes name into JA appeared first on pv magazine Global."
+    },
+    {
+      "id": "db7f6b82aeaa",
+      "title": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP & MISO, Waymo second-life partnership",
+      "url": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
+      "published": "2026-06-10T12:37:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EDP and SRP complete 200MW/800MWh Arizona BESS, Pathway Power closes $150m facility, and B2U secures Waymo supply deal for second-life EV batteries in grid storage."
+    },
+    {
+      "id": "6edf8793edab",
+      "title": "Expert counterparties and tolling structures key to minimising uncertainty in German BESS market",
+      "url": "https://www.energy-storage.news/working-with-experts-signing-tolling-agreements-options-minimise-uncertainty-german-bess/",
+      "published": "2026-06-10T11:57:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Minimising counterparty risk is a key component of the German BESS sector, particularly amid ongoing political uncertainty."
+    },
+    {
+      "id": "ca8adf96557d",
+      "title": "Chile’s president attends inauguration of 3.5GWh BESS at Grenergy’s Oasis de Atacama solar-plus-storage complex",
+      "url": "https://www.energy-storage.news/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex/",
+      "published": "2026-06-10T10:23:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The president of Chile, José Antonio Kast Rist, was in attendance as IPP Grenergy inaugurated a 3.5GWh battery energy storage system (BESS)."
+    },
+    {
+      "id": "03c56ef9f89c",
+      "title": "General Motors plots sodium-ion tech leapfrog into grid-scale energy storage market",
+      "url": "https://www.energy-storage.news/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market/",
+      "published": "2026-06-10T10:22:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "General Motors (GM) has partnered with sodium-ion (Na-ion) battery storage startup Peak Energy to target the grid-scale energy storage market."
+    },
+    {
+      "id": "a824b5a92cf3",
+      "title": "US government restricts trade with prominent Chinese storage companies",
+      "url": "https://www.pv-magazine.com/2026/06/10/us-government-restricts-trade-with-prominent-chinese-storage-companies/",
+      "published": "2026-06-10T10:18:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "CATL, BYD, JA Solar, Trina Solar, Three Gorges and Huawei are among those listed under the US Department of Defense’s trade restriction, effective from 2027. The post US government restricts trade with prominent Chinese storage companies appeared first on pv magazine Global."
+    },
+    {
+      "id": "89586d3d57de",
+      "title": "Germany Roundup: ‘First fully merchant financing’, 180MWh M&A, analytics deal on 282MWh project",
+      "url": "https://www.energy-storage.news/germany-roundup-first-fully-merchant-financing-180mwh-ma-analytics-deal-on-282mwh-project/",
+      "published": "2026-06-10T09:59:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A trio of notable Germany announcements: Aquila Clean Energy EMEA has financed a merchant project, Chint Solar has sold a portfolio to Second Foundation while Twaice will provide analytics on behalf of BayWa r.e.."
+    },
+    {
+      "id": "fe934dedf0c5",
+      "title": "Pakistan targets solar sector with higher sales tax on modules, increased duties on batteries and inverters",
+      "url": "https://www.pv-magazine.com/2026/06/10/pakistan-targets-solar-sector-with-higher-sales-tax-on-modules-increased-duties-on-batteries-and-inverters/",
+      "published": "2026-06-10T09:53:56+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar industry campaigns against tax on panels and inverters ahead of proposed hike in budget. Calls for abolition of customs duties on batteries and inverters. The PSA has warned more action is needed to support battery energy storage system (BESS) deployment in a market where solar’s share of the …"
+    },
+    {
+      "id": "af4543d1860d",
+      "title": "Gamuda Renewables acquires interest in 1.8GWh solar-plus-storage site in Victoria, Australia",
+      "url": "https://www.energy-storage.news/gamuda-renewables-acquires-interest-in-1-8gwh-solar-plus-storage-site-in-victoria-australia/",
+      "published": "2026-06-10T01:59:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gamuda Renewables has secured an interest in the 1,800MWh Hazelwood North solar-plus-storage project in Victoria, Australia."
+    },
+    {
+      "id": "d7b7349f5258",
+      "title": "16 Utah Cities Choose to Opt-in to Groundbreaking Clean Energy Program to Bring 100% Clean Energy to Grid",
+      "url": "https://cleantechnica.com/2026/06/09/16-utah-cities-choose-to-opt-in-to-groundbreaking-clean-energy-program-to-bring-100-clean-energy-to-grid/",
+      "published": "2026-06-10T01:50:27+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Salt Lake City — The 90-day ordinance adoption period for the Utah Renewable Communities (URC) program concluded on Tuesday, June 2 after the city of Midvale unanimously voted to adopt the program, bringing the total number of participating communities to 16. The first-of-its-kind program that has s…"
+    },
+    {
+      "id": "6f4e4825d638",
+      "title": "GM Empower Event — GM Announces Sodium-Ion Grid-Scale Battery Storage Developed In The US",
+      "url": "https://cleantechnica.com/2026/06/09/gm-empower-event-gm-announces-sodium-ion-grid-scale-battery-storage-developed-in-the-us/",
+      "published": "2026-06-10T01:49:34+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I was invited to a GM event in San Francisco on June 9th where GM made three big announcements: GM is activating vehicle-to-grid (V2G) capability for existing customers, with no new hardware required. GM is expanding grid-scale battery storage with a big bet on sodium-ion technology (this article). …"
+    },
+    {
+      "id": "8753d81be22b",
+      "title": "Solar & Storage Provide Over 90% of All New Power Added to the U.S. Grid in Q1, Despite Headwinds in Washington",
+      "url": "https://cleantechnica.com/2026/06/09/solar-storage-provide-over-90-of-all-new-power-added-to-the-u-s-grid-in-q1-despite-headwinds-in-washington/",
+      "published": "2026-06-10T01:30:50+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "U.S. Exceeds 6 Million Solar Installations Nationwide WASHINGTON, D.C. — The United States added 7.8 gigawatts (GW) of new solar capacity in the first quarter of 2026, surpassing 6 million cumulative installations as solar remained the leading source of new power added to the grid. Despite changing …"
+    },
+    {
+      "id": "b361fdd05ac1",
+      "title": "GM Energy Pass: One Universal Interface For Public Charging",
+      "url": "https://cleantechnica.com/2026/06/09/gm-energy-pass-one-universal-interface-for-public-charging/",
+      "published": "2026-06-10T01:03:08+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I was invited to a GM event in San Francisco on June 9th where GM made three big announcements: GM is activating vehicle-to-grid (V2G) capability for existing customers, with no new hardware required. GM is expanding grid-scale battery storage with a big bet on sodium-ion technology. GM&#8217;s new …"
+    },
+    {
+      "id": "ef2ea596d325",
+      "title": "GM Activates Vehicle To Grid (V2G) Capability For Existing Customers, With No New Hardware Required",
+      "url": "https://cleantechnica.com/2026/06/09/gm-activates-vehicle-to-grid-v2g-capability-for-existing-customers-with-no-new-hardware-required/",
+      "published": "2026-06-10T00:23:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I was invited to a GM event in San Francisco on June 9th where GM made three big announcements: GM is activating vehicle-to-grid (V2G) capability for existing customers, with no new hardware required (this article). GM is expanding grid-scale battery storage with a big bet on sodium-ion technology. …"
+    },
     {
       "id": "5a6051ed3b0a",
       "title": "DOE reinstates $57M American Battery grant",
