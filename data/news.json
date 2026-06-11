@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-10T18:16:46.101641+00:00",
-  "count": 222,
+  "updated": "2026-06-11T18:37:59.677253+00:00",
+  "count": 232,
   "items": [
+    {
+      "id": "da9647cc56e9",
+      "title": "VDA calls for ‘staged approach’ to implement EU Battery Passport",
+      "url": "https://www.energy-storage.news/vda-calls-for-staged-approach-implement-eu-battery-passport/",
+      "published": "2026-06-11T13:43:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A 'staged approach' to implementing the EU Battery Passport could be essential if Europe is to improve its battery supply chain."
+    },
+    {
+      "id": "7c3cebedf99c",
+      "title": "Pylontech launches 8 MWh storage system with 426 Wh/L energy density",
+      "url": "https://www.pv-magazine.com/2026/06/11/pylontech-launches-8-mwh-storage-system-with-426-wh-l-energy-density/",
+      "published": "2026-06-11T12:16:43+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The series uses Pylontech’s in-house 588 Ah and 601 Ah cells for grid-side and large commercial and industrial (C&#38;I) storage applications. The post Pylontech launches 8 MWh storage system with 426 Wh/L energy density appeared first on pv magazine Global."
+    },
+    {
+      "id": "c79d2bbf8750",
+      "title": "Greenvolt inaugurates Hungary’s largest BESS; pipelines progressed and financed elsewhere in EU",
+      "url": "https://www.energy-storage.news/greenvolt-inaugurates-hungarys-largest-bess-pipelines-progressed-and-financed-elsewhere-in-eu/",
+      "published": "2026-06-11T11:56:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Greenvolt has put a 99.8MW/288.6MWh BESS into commercial operation in Hungary, the largest in the country, while pipelines and projects have been progressed in Italy, France, Netherlands, Belgium and Spain."
+    },
+    {
+      "id": "46e54cdd638b",
+      "title": "Europe is ‘walking into new dependencies’ in global battery supply chain",
+      "url": "https://www.energy-storage.news/europe-walking-into-new-dependencies-global-battery-supply-chain/",
+      "published": "2026-06-11T10:46:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "'We are walking with open eyes into new dependencies,' said ReCharge's Ilka von Dalwigk at the Energy Storage Summit."
+    },
+    {
+      "id": "e2e9ba20739d",
+      "title": "Established manufacturing footprint, new technology: SK On’s US BESS market strategy",
+      "url": "https://www.energy-storage.news/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy/",
+      "published": "2026-06-11T10:30:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "SK On's North America president tells ESN Premium about the battery company's vertically integrated push for market share across the US."
+    },
+    {
+      "id": "b686a3a73b89",
+      "title": "Spain’s BESS pipeline is real: the PE models are wrong",
+      "url": "https://www.energy-storage.news/spains-bess-pipeline-is-real-the-pe-models-are-wrong/",
+      "published": "2026-06-11T09:51:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There is a big gap in the industry's understanding of the Spanish energy storage market, but that gap also creates opportunities for smart operators, writes Ignacio López Martín, chair of developer Capflex Energía."
+    },
+    {
+      "id": "9ccbebb9ed5a",
+      "title": "SNEC 2026: BESS overtakes PV modules in expo floor space, more than 97GWh of deals signed",
+      "url": "https://www.energy-storage.news/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed/",
+      "published": "2026-06-11T09:48:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Carrie Xiao reports back from this year's edition of SNEC in Shanghai, China, the world's biggest solar and energy storage expo."
+    },
+    {
+      "id": "12cd00ae216f",
+      "title": "DNV verifies 98.7% availability of Fluence’s global battery energy storage fleet",
+      "url": "https://www.energy-storage.news/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet/",
+      "published": "2026-06-11T08:42:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "DNV has independently verified that Fluence's global fleet of battery energy storage systems (BESS) achieved 98.7% MW-weighted availability."
+    },
+    {
+      "id": "9f317ece36e7",
+      "title": "2027 Chevy Bolt Test Drive Impressions",
+      "url": "https://cleantechnica.com/2026/06/10/2027-chevy-bolt-test-drive-impressions/",
+      "published": "2026-06-11T03:59:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I was invited to a GM Event in San Francisco where GM made 3 big announcements: GM activates Vehicle to Grid (V2G) for existing customers with no new hardware required GM expands grid-scale battery storage with a big bet on sodium-ion GM announces Energy Pass — one universal interface for ... [conti…"
+    },
+    {
+      "id": "61aa632d9adf",
+      "title": "VinFast Brings Battery-Swapping Electric Motorcycles To The Philippines",
+      "url": "https://cleantechnica.com/2026/06/10/vinfast-brings-battery-swapping-electric-motorcycles-to-the-philippines/",
+      "published": "2026-06-11T01:48:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Southeast Asia Expansion Accelerates on Two Wheels Less than a month after opening reservations for the same models in Indonesia, VinFast has introduced its battery-swapping electric motorcycle lineup to the Philippines, signaling a faster-than-expected rollout of the Vietnamese company&#8217;s two-…"
+    },
     {
       "id": "cd813784f371",
       "title": "Electric Airplane Powered By Solid-State Batteries Completes Test Flight",
