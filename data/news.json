@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-11T18:37:59.677253+00:00",
-  "count": 232,
+  "updated": "2026-06-12T17:42:04.214923+00:00",
+  "count": 242,
   "items": [
+    {
+      "id": "de35893093d9",
+      "title": "Panasonic to convert Kansas EV battery factory for data centre applications",
+      "url": "https://www.energy-storage.news/panasonic-to-convert-kansas-ev-battery-factory-for-data-centre-applications/",
+      "published": "2026-06-12T11:52:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Japanese consumer electronics giant Panasonic intends to convert its electric vehicle (EV) battery cell manufacturing facility in Kansas, US, to produce batteries for data centre applications, beginning Q3 of 2029."
+    },
+    {
+      "id": "3732b1f73c26",
+      "title": "New Jersey Senators advance bill to incentivise customer-sited energy storage installations",
+      "url": "https://www.energy-storage.news/new-jersey-senators-advance-bill-to-incentivise-customer-sited-energy-storage-installations/",
+      "published": "2026-06-12T11:47:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Legislation to create an incentive programme for behind-the-meter (BTM) energy storage in New Jersey has been advanced by the US state’s Senate Environment and Energy Committee."
+    },
+    {
+      "id": "87d3247fb2f3",
+      "title": "European BESS M&A ‘up materially’ in Q1, market maturing and repricing risk",
+      "url": "https://www.energy-storage.news/european-bess-ma-up-materially-in-q1-market-maturing-and-repricing-risk/",
+      "published": "2026-06-12T11:46:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What is driving and shaping European BESS project financing and M&#038;A this year?"
+    },
+    {
+      "id": "93132be2b5ef",
+      "title": "Home cooling panel based on PV and waste cooking oil",
+      "url": "https://www.pv-magazine.com/2026/06/12/home-cooling-panel-based-on-pv-and-waste-cooking-oil/",
+      "published": "2026-06-12T10:25:35+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers have designed a system that incorporates PV power generation, thermoelectric cooling, and latent heat storage using waste cooking oil. They have simulated an optimized it using an array of models. Results suggest that a single panel can deliver approximately 6–15 kWh/day of cooling. The …"
+    },
+    {
+      "id": "06899b3ff964",
+      "title": "Wärtsilä on why AI data centres need BESS to smooth demand and avoid ‘destroying the grid’",
+      "url": "https://www.energy-storage.news/wartsila-on-why-ai-data-centres-need-bess-to-smooth-demand-and-avoid-destroying-the-grid/",
+      "published": "2026-06-12T09:31:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Scott Blalock, general manager, integrated applications engineering, at BESS integrator Wärtsilä Energy Storage."
+    },
+    {
+      "id": "e57b815d414e",
+      "title": "Portion of Czech hydropower station to be transformed into 154MW/750MWh pumped storage plant",
+      "url": "https://www.energy-storage.news/portion-of-czech-hydropower-station-to-be-transformed-into-154mw-750mwh-pumped-storage-plant/",
+      "published": "2026-06-12T09:26:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Czech Republic's fourth pumped hydro energy storage plant is to be built within an existing hydropower complex, converting convention run-of-river into reversible units, creating 750MWh of energy storage capacity."
+    },
+    {
+      "id": "0a4720d3b961",
+      "title": "Chinese PV Industry Brief: Daqo expands beyond polysilicon",
+      "url": "https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/",
+      "published": "2026-06-12T08:49:58+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Daqo New Energy will invest CNY 6 billion ($835 million) to build a smart energy systems manufacturing base in Kunshan focused on advanced power equipment and storage solutions for AI data center applications. The post Chinese PV Industry Brief: Daqo expands beyond polysilicon appeared first on pv m…"
+    },
+    {
+      "id": "186965c19a14",
+      "title": "Why GM Will Focus On Sodium-Ion Batteries For Energy Storage",
+      "url": "https://cleantechnica.com/2026/06/11/why-gm-will-focus-on-sodium-ion-batteries-for-energy-storage/",
+      "published": "2026-06-12T03:40:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "GM announced this week a partnership with Peak 'Energy that will bring sodium-ion battery technology to more energy storage facilities. The post Why GM Will Focus On Sodium-Ion Batteries For Energy Storage appeared first on CleanTechnica."
+    },
+    {
+      "id": "b991562787d5",
+      "title": "RWE officially opens Australia’s first 8-hour battery storage system",
+      "url": "https://www.energy-storage.news/rwe-officially-opens-australias-first-8-hour-battery-storage-system/",
+      "published": "2026-06-12T02:08:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "RWE Renewables Australia has officially opened the 50MW/400MWh Limondale battery energy storage system (BESS) near Balranald in south-west New South Wales."
+    },
+    {
+      "id": "6a4e7b6b01a7",
+      "title": "Sembcorp completes US$4.32 billion acquisition of Alinta Energy, adds 10.4GW Australian pipeline",
+      "url": "https://www.energy-storage.news/sembcorp-completes-us4-32-billion-acquisition-of-alinta-energy-adds-10-4gw-australian-pipeline/",
+      "published": "2026-06-12T02:06:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sembcorp Industries has completed its acquisition of Alinta Energy at a value of AU$6.5 billion (US$4.32 billion)."
+    },
     {
       "id": "da9647cc56e9",
       "title": "VDA calls for ‘staged approach’ to implement EU Battery Passport",
