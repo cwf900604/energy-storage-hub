@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-14T15:24:30.589357+00:00",
-  "count": 244,
+  "updated": "2026-06-15T20:34:48.217997+00:00",
+  "count": 252,
   "items": [
+    {
+      "id": "0a707c84c03d",
+      "title": "Austria allocates €12 million for solar-plus-storage rebates",
+      "url": "https://www.pv-magazine.com/2026/06/15/austria-allocates-e12-million-for-solar-plus-storage-rebates-2/",
+      "published": "2026-06-15T13:35:44+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Austria will open its second 2026 PV funding round on June 17 with a total budget of €12 million, while continuing incentives for battery storage and European-made components. The first funding round showed strong demand and a clear shift toward PV-plus-storage systems, with around 90% of applicatio…"
+    },
+    {
+      "id": "20051960b042",
+      "title": "Wärtsilä wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
+      "url": "https://www.energy-storage.news/wartsila-wraps-energy-storage-business-into-joint-venture-with-solar-manufacturer-rct-solutions/",
+      "published": "2026-06-15T11:13:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There has been another twist in the long-running saga of Wärtsilä’s energy storage business and how the company aims to run it going forward."
+    },
+    {
+      "id": "044d68c564e9",
+      "title": "Energy density up 25%, site footprint down 20%",
+      "url": "https://www.pv-magazine.com/2026/06/15/energy-density-up-25-site-footprint-down-20/",
+      "published": "2026-06-15T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "CRRC Zhuzhou Institute to showcase 6.X Liquid-Cooled Energy Storage System at The smarter E Europe 2026. The post Energy density up 25%, site footprint down 20% appeared first on pv magazine Global."
+    },
+    {
+      "id": "87c914901dbd",
+      "title": "Airengy, Hagag Europe to build 5 GWh compressed-air energy storage plant in Romania",
+      "url": "https://www.pv-magazine.com/2026/06/15/airengy-hagag-europe-to-build-5-gwh-compressed-air-energy-storage-plant-in-romania/",
+      "published": "2026-06-15T08:42:52+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Hagag Europe and Airengy’s Romania project will harness the latter’s long duration energy storage AirBattery technology with underground salt caverns to eventually reach 5 GWh storage capacity. Airengy told ESS News commercial operation is likely to begin in early 2028. The post Airengy, Hagag Europ…"
+    },
+    {
+      "id": "e7a5c74415dd",
+      "title": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
+      "url": "https://www.energy-storage.news/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case/",
+      "published": "2026-06-15T07:21:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news presents this sponsored webinar with Clean Horizon, on how Germany’s grid connection agreements can affect the business case for battery storage projects."
+    },
+    {
+      "id": "4b9801f40d70",
+      "title": "World’s largest solar-hydrogen-storage project goes online in China",
+      "url": "https://www.pv-magazine.com/2026/06/15/worlds-largest-solar-hydrogen-storage-project-goes-online-in-china/",
+      "published": "2026-06-15T06:11:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "CHN Energy has completed construction of a 400 MW solar-hydrogen-storage project in Jiangsu, combining coastal PV, battery storage and green hydrogen production in a single integrated system. The project, which includes a 60 MW/120 MWh battery and a hydrogen facility producing 482 tons annually, is …"
+    },
+    {
+      "id": "e3dc6e8378d2",
+      "title": "Inside South Australia’s FERM tender: Why a technology-neutral process produced an all-battery outcome",
+      "url": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
+      "published": "2026-06-15T03:16:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with ASL on the latest FERM tender results in South Australia and why batteries excelled."
+    },
+    {
+      "id": "dffbf125ff5e",
+      "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
+      "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
+      "published": "2026-06-15T00:57:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "APAC’s AI data centres look set to lock in a decade of coal and gas dependency, but long-duration energy storage can break that cycle, says Pavina Adunratanasee of ArkTerra Partners."
+    },
     {
       "id": "dfcad4410c02",
       "title": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
