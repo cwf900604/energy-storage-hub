@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-15T20:34:48.217997+00:00",
-  "count": 252,
+  "updated": "2026-06-16T12:57:21.348794+00:00",
+  "count": 256,
   "items": [
+    {
+      "id": "4bf96e2464a4",
+      "title": "US Roundup: Virginia’s biggest standalone BESS, Cypress Creek raises US$3.5 billion and Kore sells mobile battery business",
+      "url": "https://www.energy-storage.news/us-roundup-virginias-biggest-standalone-bess-cypress-creek-raises-us3-5-billion-and-kore-sells-mobile-battery-business/",
+      "published": "2026-06-16T10:17:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Virginia’s biggest standalone BESS comes online, Cypress Creek raises funding for a gigawatt-scale hybrid resource, and Kore Power’s mobile solutions subsidiary is sold, in this edition of news in brief."
+    },
+    {
+      "id": "8f2b1977fb2b",
+      "title": "Tesla Cybercab Specs Are Public — But Questions Remain",
+      "url": "https://cleantechnica.com/2026/06/15/tesla-cybercab-specs-are-public-but-questions-remain/",
+      "published": "2026-06-16T03:55:40+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Tesla Cybercab specs have been revealed via an EPA filing. It&#8217;s a 15-page document, but here are some of the key facts and figures: Battery Capacity: 326-volt system, 146 Ah — probably around 50 kWh energy storage capacity Electric Motor: 163 kW (219 hp), front-mounted AC permanent magnet moto…"
+    },
+    {
+      "id": "601061af45fe",
+      "title": "Western Power begins work on 18 new community batteries in Western Australia",
+      "url": "https://www.energy-storage.news/western-power-begins-work-on-18-new-community-batteries-in-western-australia/",
+      "published": "2026-06-16T01:32:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Western Power has started construction on 18 community battery energy storage systems across Perth and Bunbury in Western Australia."
+    },
+    {
+      "id": "e20430452fa6",
+      "title": "Australia’s Energy Security Corporation’s debut investment backs 650MW Ausgrid battery storage platform",
+      "url": "https://www.energy-storage.news/australias-energy-security-corporations-debut-investment-backs-650mw-ausgrid-battery-storage-platform/",
+      "published": "2026-06-16T01:22:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The NSW Energy Security Corporation has deployed its first investment, committing AU$100 million to a large-scale battery storage platform."
+    },
     {
       "id": "0a707c84c03d",
       "title": "Austria allocates €12 million for solar-plus-storage rebates",
