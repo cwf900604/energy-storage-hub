@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-16T12:57:21.348794+00:00",
-  "count": 256,
+  "updated": "2026-06-17T12:19:41.037304+00:00",
+  "count": 268,
   "items": [
+    {
+      "id": "8d1b3a16e0b2",
+      "title": "Rept Battero unveils 320 Ah sodium-ion cell for long-duration storage",
+      "url": "https://www.pv-magazine.com/2026/06/17/rept-battero-unveils-320-ah-sodium-ion-cell-for-long-duration-storage/",
+      "published": "2026-06-17T12:18:08+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Rept Battero has unveiled a 320 Ah sodium-ion battery cell for long-duration energy storage, claiming more than 20,000 cycles. Commercial production is scheduled to start in 2027. The post Rept Battero unveils 320 Ah sodium-ion cell for long-duration storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "20831a95d204",
+      "title": "EU Roundup: Octopus and Eco Stor financing deals for large-scale BESS in Italy and Germany enable 1.6GWh of capacity",
+      "url": "https://www.energy-storage.news/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity/",
+      "published": "2026-06-17T09:56:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Octopus Energy Generation has partnered with ZE Energy to invest in and build one of Italy's biggest BESS projects, while Eco Stor has secured financing for one of Germany's, which it is already building. Optimiser Entrix has also won two large contracts in Germany and the Netherlands."
+    },
+    {
+      "id": "3e1825ccc419",
+      "title": "Dunext releases 261 kWh C&I storage system",
+      "url": "https://www.pv-magazine.com/2026/06/17/dunext-releases-261kwh-ci-storage-system/",
+      "published": "2026-06-17T09:24:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Dunext has launched a 261 kWh PowerHill C&#38;I energy storage system with LiFePO4 batteries, liquid cooling, 125 kW power output, IP55 protection, and scalable deployment of up to 10 units in parallel. The post Dunext releases 261 kWh C&amp;I storage system appeared first on pv magazine Global."
+    },
+    {
+      "id": "edb9a4bd21e2",
+      "title": "Solar Energy Corporation of India invites bids for 4.8GWh of energy storage-backed FDRE capacity",
+      "url": "https://www.energy-storage.news/solar-energy-corporation-of-india-invites-bids-for-4-8gwh-of-energy-storage-backed-fdre-capacity/",
+      "published": "2026-06-17T08:24:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "SECI is inviting bids for 4,800MWh of firm and dispatchable renewable energy (FDRE) capacity supported by co-located energy storage."
+    },
+    {
+      "id": "18bb269590a4",
+      "title": "14.6GWh of BESS deployed globally in May; activity up 24% in 2026 so far",
+      "url": "https://www.energy-storage.news/14-6gwh-of-bess-deployed-globally-in-may-activity-up-24-in-2026-so-far/",
+      "published": "2026-06-17T08:17:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Around 4.9GW/14.6GWh of large-scale BESS came online in May, with a much more balanced regional breakdown than usual."
+    },
+    {
+      "id": "0c0c1d3839c5",
+      "title": "India adds 4.6 GWh of battery storage capacity in Q1",
+      "url": "https://www.pv-magazine.com/2026/06/17/india-adds-4-6-gwh-of-battery-storage-capacity-in-q1/",
+      "published": "2026-06-17T08:09:22+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The country’s cumulative installed battery storage capacity reached 5.9 GWh as of March 2026. The post India adds 4.6 GWh of battery storage capacity in Q1 appeared first on pv magazine Global."
+    },
+    {
+      "id": "9011a806c23a",
+      "title": "Southeast Asia’s BESS developers must ‘engage early with regulators, utilities and communities’",
+      "url": "https://www.energy-storage.news/southeast-asias-bess-developers-must-engage-early-with-regulators-utilities-and-communities/",
+      "published": "2026-06-17T05:51:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developers of battery storage projects across Southeast Asia must heed lessons learned elsewhere and engage with key stakeholders as early as possible, Energy-Storage.news has heard."
+    },
+    {
+      "id": "66dac44aafd1",
+      "title": "Peak Energy, GM partner to scale domestic sodium-ion battery supplies",
+      "url": "https://www.utilitydive.com/news/peak-energy-gm-partner-to-scale-domestic-sodium-ion-battery-supplies/823050/",
+      "published": "2026-06-16T16:20:18+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Peak cofounder and CEO Landon Mossburg told Utility Dive the technology is &ldquo;purpose-built&rdquo; for AI data centers and grid-scale applications."
+    },
+    {
+      "id": "de5383daf370",
+      "title": "Energy Dome, Invinity Energy Systems advance non-lithium LDES projects in the US",
+      "url": "https://www.energy-storage.news/energy-dome-invinity-energy-systems-advance-non-lithium-ldes-projects-in-the-us/",
+      "published": "2026-06-16T15:03:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy Dome is advancing a 10-hour CO2 Battery project in Arizona, with SRP and Google, while Invinity announces the sale of North America’s largest VRFB, in California."
+    },
+    {
+      "id": "4bd3140b02a3",
+      "title": "AESC signs 10GWh US domestic content BESS cell and module deal with system integrator Prevalon",
+      "url": "https://www.energy-storage.news/aesc-signs-10gwh-us-domestic-content-bess-cell-and-module-deal-with-system-integrator-prevalon/",
+      "published": "2026-06-16T14:50:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AESC has announced a strategic supply partnership with BESS system integrator Prevalon Energy."
+    },
+    {
+      "id": "cb90a0236163",
+      "title": "Energy Dome, Salt River Project to build 19-MW CO2 battery system",
+      "url": "https://www.utilitydive.com/news/energy-dome-srp-salt-river-project-build-19-mw-co2-battery-system/823015/",
+      "published": "2026-06-16T14:32:32+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The project is expected to come online in 2029 and store enough energy to power around 4,275 homes for 10 hours,&nbsp;Salt River Project said."
+    },
+    {
+      "id": "f4ac04a0f591",
+      "title": "Ontario IESO procures 640MW energy storage in LT2 Request for Proposals",
+      "url": "https://www.energy-storage.news/ontario-ieso-procures-640mw-energy-storage-in-lt2-request-for-proposals/",
+      "published": "2026-06-16T13:59:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ontario, Canada’s Independent Electricity System Operator (IESO) has secured 640MW of new capacity through three projects selected under the capacity stream of the Second Long-Term Request for Proposals (LT2)."
+    },
     {
       "id": "4bf96e2464a4",
       "title": "US Roundup: Virginia’s biggest standalone BESS, Cypress Creek raises US$3.5 billion and Kore sells mobile battery business",
