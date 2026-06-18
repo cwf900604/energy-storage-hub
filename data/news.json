@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-17T12:19:41.037304+00:00",
-  "count": 268,
+  "updated": "2026-06-18T11:52:50.355122+00:00",
+  "count": 281,
   "items": [
+    {
+      "id": "240c23ca3513",
+      "title": "Energy trader Second Foundation on owning projects and the ‘art’ of trading batteries in Germany",
+      "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
+      "published": "2026-06-18T11:31:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We chat to Stephan Lehrke, head of Germany at Second Foundation, a Czech Republic-headquartered energy asset trading firm which is becoming an owner-operator of BESS."
+    },
+    {
+      "id": "8731078c0a6f",
+      "title": "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
+      "url": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
+      "published": "2026-06-18T09:55:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Activity in Central and Eastern Europe (CEE) continues to accelerate, with two separate c.600MWh projects completed in Bulgaria by Solarpro &#038; CATL and Sunotec and Sungrow, plus around 800MWh of capacity progressed across Romania, Estonia, Lithuania, and Finland."
+    },
+    {
+      "id": "e215c4591f02",
+      "title": "Mongolia tenders 110 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/06/18/mongolia-tenders-110-mw-of-solar/",
+      "published": "2026-06-18T08:30:05+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A tender is open in Mongolia for the development of 110 MW of solar tied to 52 MW/188 MWh of battery energy storage across five different sites. The deadline for expressions of interest is August 16. The post Mongolia tenders 110 MW of solar appeared first on pv magazine Global."
+    },
+    {
+      "id": "02d9d5ad3e2c",
+      "title": "Argentina advances 232 battery bids in AlmaSADI tender",
+      "url": "https://www.pv-magazine.com/2026/06/18/argentina-advances-232-battery-bids-in-almasadi-tender/",
+      "published": "2026-06-18T08:26:04+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Argentina has cleared 232 of 235 bids totaling 8.3 GW to proceed in its AlmaSADI storage tender, after proposals exceeded the scheme’s 700 MW reference target by almost 12 times. The post Argentina advances 232 battery bids in AlmaSADI tender appeared first on pv magazine Global."
+    },
+    {
+      "id": "ad4daf90e4bf",
+      "title": "Portugal plans capacity market with dedicated battery storage auction",
+      "url": "https://www.pv-magazine.com/2026/06/18/portugal-plans-capacity-market-with-dedicated-battery-storage-auction/",
+      "published": "2026-06-18T08:22:44+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Portugal is developing a capacity market open to batteries, power plants and flexible demand, and has reaffirmed plans to auction 750 MVA of battery storage capacity. The post Portugal plans capacity market with dedicated battery storage auction appeared first on pv magazine Global."
+    },
+    {
+      "id": "e1f6c291a384",
+      "title": "Europe foresees 20% rise in power demand driven by electrification",
+      "url": "https://www.pv-magazine.com/2026/06/18/europe-foresees-20-rise-in-power-demand-driven-by-electrification/",
+      "published": "2026-06-18T07:15:30+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "EU planning scenarios show electricity demand rising sharply toward 2050 as electrification accelerates, with battery storage emerging as a key flexibility and system-balancing technology alongside hydrogen. The post Europe foresees 20% rise in power demand driven by electrification appeared first o…"
+    },
+    {
+      "id": "f9882b90cdae",
+      "title": "How Can Europe Reduce Its Strategic Dependencies by Boosting Recycling?",
+      "url": "https://cleantechnica.com/2026/06/17/how-can-europe-reduce-its-strategic-dependencies-by-boosting-recycling/",
+      "published": "2026-06-18T03:40:02+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Europe talks the talk on recycling. But can it walk the walk? The upcoming Circular Economy Act must prove we have what it takes. Our valuable battery waste is currently leaving Europe on ships headed halfway across the world. And we’re doing little to stop them. Whilst Europe manages to ... [contin…"
+    },
+    {
+      "id": "8794a34ca1e1",
+      "title": "Fire and Rescue NSW mandates 240-minute fire resistance for lithium-ion battery storage rooms in data centres",
+      "url": "https://www.energy-storage.news/fire-and-rescue-nsw-mandates-240-minute-fire-resistance-for-lithium-ion-battery-storage-rooms-in-data-centres/",
+      "published": "2026-06-18T03:21:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Fire and Rescue NSW (FRNSW) in Australia has set out its requirements for lithium-ion battery storage rooms and diesel generator structures in data centres."
+    },
+    {
+      "id": "12441c06008b",
+      "title": "Neoen Australia signs virtual battery deals for 2.3GWh Western Downs Battery",
+      "url": "https://www.energy-storage.news/neoen-australia-signs-virtual-battery-deals-for-540mwh-western-downs-battery/",
+      "published": "2026-06-18T03:19:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Neoen Australia has signed virtual battery agreements with energy retailers Nectr and SmartestEnergy for Stages 2 and 3 of the Western Downs Battery in Queensland."
+    },
+    {
+      "id": "58a13bfb5936",
+      "title": "Jackery FridgeGuard Takes Stylish, Customer-Centric Design to Refrigerator Backup Battery",
+      "url": "https://cleantechnica.com/2026/06/17/jackery-fridgeguard-takes-stylish-customer-centric-design-to-refrigerator-backup-battery/",
+      "published": "2026-06-17T17:39:39+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery launched its stylish, slim FridgeGuard CleanTechnica was given an exclusive preview of the FridgeGuard a couple of months ago and we came away impressed with what we saw. Clear attention was given to design the refrigerator backup battery to fit customer needs and the refrigerator applicatio…"
+    },
+    {
+      "id": "e89e8f886a0b",
+      "title": "Heat pump shipments rise through April, with more use for both heating and cooling",
+      "url": "https://www.utilitydive.com/news/heat-pump-shipments-rise-through-april-with-more-use-for-both-heating-and/823153/",
+      "published": "2026-06-17T15:27:37+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Ongoing legal battles regarding non-condensing commercial gas water heaters and residential gas furnaces have not yet slowed U.S. gas storage water-heat shipments, AHRI data shows."
+    },
+    {
+      "id": "b3f2196fc10e",
+      "title": "Limited synergies and profitability drive Wärtsilä’s energy storage divestment",
+      "url": "https://www.energy-storage.news/limited-synergies-and-profitability-drive-wartsilas-energy-storage-divestment/",
+      "published": "2026-06-17T14:51:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Wärtsilä spinning out its energy storage activities and divesting a 50% stake this week reflects difficulties in making the business profitable and synergistic within the wider group activities, analysts said."
+    },
+    {
+      "id": "cf6b8bba9237",
+      "title": "100 Battery Energy Storage Systems To Be Installed At Commercial Sites",
+      "url": "https://cleantechnica.com/2026/06/17/100-battery-energy-storage-systems-to-be-installed-at-commercial-sites/",
+      "published": "2026-06-17T14:09:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The energy-as-a-service company Budderfly has partnered with Viridi to add battery energy storage systems at some of the commercial sites it manages. Budderfly provides energy-efficient equipment, measuring and billing technology, virtual power plants, smart technology monitoring, and more. Typicall…"
+    },
     {
       "id": "8d1b3a16e0b2",
       "title": "Rept Battero unveils 320 Ah sodium-ion cell for long-duration storage",
