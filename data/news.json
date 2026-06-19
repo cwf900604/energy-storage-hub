@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-18T11:52:50.355122+00:00",
-  "count": 281,
+  "updated": "2026-06-19T12:10:13.526566+00:00",
+  "count": 294,
   "items": [
+    {
+      "id": "ca331fad03d3",
+      "title": "US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
+      "url": "https://www.energy-storage.news/us-bess-integrator-flexgen-ldes-tech-provider-eos-enter-european-market-with-first-deals/",
+      "published": "2026-06-19T11:04:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "FlexGen and Eos Energy Enterprises, two US energy storage sector companies with different specialisations, have entered the European market."
+    },
+    {
+      "id": "b9e521e7de82",
+      "title": "European utilities’ association Eurelectric: Long-duration energy storage an increasingly viable flexibility option",
+      "url": "https://www.energy-storage.news/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option/",
+      "published": "2026-06-19T10:57:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Long-duration energy storage (LDES) technologies are becoming increasingly viable options to add flexibility to the European electricity network, according to a new report."
+    },
+    {
+      "id": "783d0c8d15d9",
+      "title": "Investment under uncertainty: How AI, volatility and real-options thinking are reshaping battery storage economics",
+      "url": "https://www.energy-storage.news/investment-under-uncertainty-how-ai-volatility-and-real-options-thinking-are-reshaping-battery-storage-economics/",
+      "published": "2026-06-19T09:25:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery storage is effectively a hardware-backed multi-strategy trading platform, writes Partha Sharma, president of BBNR Capital Management."
+    },
+    {
+      "id": "5d08d2ce4177",
+      "title": "Fraunhofer IWU storage analyzer reduces peak loads in factories",
+      "url": "https://www.pv-magazine.com/2026/06/19/fraunhofer-iwu-storage-analyzer-reduces-peak-loads-in-factories/",
+      "published": "2026-06-19T08:48:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Fraunhofer Institute for Machine Tools and Forming Technology IWU says its energy storage systems in production (ESiP) analyzer can enable the use of close to half of electricity generated on-site. The post Fraunhofer IWU storage analyzer reduces peak loads in factories appeared first on pv maga…"
+    },
+    {
+      "id": "69ee1a2fbda0",
+      "title": "Here Comes Another New Addition To The US EV Battery Ecosystem",
+      "url": "https://cleantechnica.com/2026/06/19/ev-battery-supply-chain-us-graphite-alaska-ohio/",
+      "published": "2026-06-19T04:53:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Canadian firm Graphite One has a plan in the works to onshore the graphite supply for EV batteries and other energy storage applications, with a mine in Alaska and a processing facility in Ohio. The post Here Comes Another New Addition To The US EV Battery Ecosystem appeared first on CleanTechni…"
+    },
+    {
+      "id": "bad865dc4b5e",
+      "title": "BLT Energy bags development approval for 4.8GWh Red Gully BESS in Western Australia",
+      "url": "https://www.energy-storage.news/blt-energy-bags-development-approval-for-4-8gwh-red-gully-bess-in-western-australia/",
+      "published": "2026-06-19T00:27:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developer BLT Energy has received development approval for the 800MW/4,800MWh Red Gully BESS in Western Australia."
+    },
+    {
+      "id": "4313eb09a69e",
+      "title": "Eku Energy submits two 1,200MWh battery storage projects to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/eku-energy-submits-two-1200mwh-battery-storage-projects-to-australias-epbc-act/",
+      "published": "2026-06-19T00:13:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage developer Eku Energy has submitted two BESS, each sized at 300MW and 1,200MWh, for assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "554241ae394f",
+      "title": "Jackery Solar Roof & SolarVault 3 Home Energy Storage System — CleanTechnica Field Trip",
+      "url": "https://cleantechnica.com/2026/06/18/jackery-solar-roof-solarvault-3-home-energy-storage-system-cleantechnica-field-trip/",
+      "published": "2026-06-18T23:19:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery was one of the early pioneers in portable power stations and has continued to push the envelope in the space. It recently hosted CleanTechnica on a dedicated media tour at its headquarters in Shenzhen, China, where the company gave us an early look at its new solar roof system ... [continued…"
+    },
+    {
+      "id": "53ea631eef06",
+      "title": "20 New Fast Chargers With Energy Storage Installed In Santa Barbara",
+      "url": "https://cleantechnica.com/2026/06/18/20-new-fast-chargers-with-energy-storage-installed-in-santa-barbara/",
+      "published": "2026-06-18T17:00:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Electrify America recently opened a new, public EV charging station in Santa Barbara, California, with 20 fast chargers delivering up to 350 kW. The new charging station also possesses a 1.9 MW energy storage system, which is Electrify America’s largest battery system to date. The battery can be use…"
+    },
+    {
+      "id": "8dc264af150e",
+      "title": "Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck",
+      "url": "https://cleantechnica.com/2026/06/18/ford-affordable-lfp-ev-battery-hiring-jobs-prismatic/",
+      "published": "2026-06-18T16:03:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "What war on EVs? Ford is hiring hundreds of workers to manufacture a new LFP battery for EVs in the US, with an assist from the leading Chinese energy storage firm CATL. The post Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck appeared first on CleanTechnica."
+    },
+    {
+      "id": "2ed9a1325642",
+      "title": "Enphase co-founder says solid-state transformer can ease data centre ‘power problems’",
+      "url": "https://www.energy-storage.news/enphase-co-founder-says-solid-state-transformer-can-ease-data-centre-power-problems/",
+      "published": "2026-06-18T12:32:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with co-founder and chief products officer of microinverter and home energy storage system supplier Enphase Energy, Raghu Belur, about the company’s recent focus on solid-state transformer technology."
+    },
+    {
+      "id": "e20dc020fc5a",
+      "title": "US sodium-ion startups form coalition to challenge China’s battery dominance",
+      "url": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
+      "published": "2026-06-18T12:30:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A group of sodium-ion (Na-ion) battery-focused companies have launched a new industry coalition, the American Battery Leadership Coalition (ABLC)."
+    },
+    {
+      "id": "43cb7824f417",
+      "title": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project’s busy June",
+      "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
+      "published": "2026-06-18T12:25:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage developer-operator Aypa Power and utility Salt River Project (SRP) have brought the 250MW/1,000MWh Pediment energy storage project online in Mesa, Arizona."
+    },
     {
       "id": "240c23ca3513",
       "title": "Energy trader Second Foundation on owning projects and the ‘art’ of trading batteries in Germany",
