@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-19T12:10:13.526566+00:00",
-  "count": 294,
+  "updated": "2026-06-20T10:35:24.026655+00:00",
+  "count": 297,
   "items": [
+    {
+      "id": "4d5db42755ca",
+      "title": "BESS as a ‘Swiss Army knife’ for data centers",
+      "url": "https://www.pv-magazine.com/2026/06/20/bess-as-a-swiss-army-knife-for-data-centers/",
+      "published": "2026-06-20T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Artificial intelligence is changing how data centers consume electricity. New workloads are introducing levels of variability that conventional power systems were not designed to handle, creating operational challenges both inside the facility and across the wider grid. Battery energy storage system…"
+    },
+    {
+      "id": "bd6a2553f71f",
+      "title": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
+      "url": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
+      "published": "2026-06-19T23:07:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New utility-scale renewable electricity generation is creating global demand for reliable, high-efficiency power conversion and grid integration solutions. Enhanced ABB Proteus utility-scale power conversion portfolio delivers industry-leading efficiency up to 99.45 percent for maximum energy yield.…"
+    },
+    {
+      "id": "bef6456e7196",
+      "title": "9,000 Miles Of Proof: Electric Trucks Can Tow, But Battery Size Is Everything",
+      "url": "https://cleantechnica.com/2026/06/19/9000-miles-of-proof-electric-trucks-can-tow-but-battery-size-is-everything/",
+      "published": "2026-06-19T14:24:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A couple of years ago, I wrote an article titled &#8220;We May Have Been Wrong To Mock GM&#8217;s Big Battery Approach To Electric Trucks.&#8221; Back then, it was incredibly easy to point and laugh at vehicles like the Hummer EV for carrying around absurdly massive battery packs just to go ... [con…"
+    },
     {
       "id": "ca331fad03d3",
       "title": "US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
