@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-20T10:35:24.026655+00:00",
-  "count": 297,
+  "updated": "2026-06-21T11:18:38.849504+00:00",
+  "count": 299,
   "items": [
+    {
+      "id": "89762de26464",
+      "title": "BYD Battery Production Ramps Up In Brazil",
+      "url": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
+      "published": "2026-06-21T03:57:47+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "As we&#8217;ve been writing, BYD is focusing more and more on sales outside of China for its core EV business and a hopeful return to EV sales growth. The company&#8217;s vehicle exports have grown 65% this year so far, for example, and grew by 80% in May. BYD also now ... [continued] The post BYD B…"
+    },
+    {
+      "id": "d667cc0d60bd",
+      "title": "India Needs 10 GWh of Battery Storage Now to Stop Coal’s Inflexibility Wasting Clean Power",
+      "url": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
+      "published": "2026-06-21T03:53:44+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Batteries are the fastest fix to make room for India’s midday solar surge as coal-based power plants are unable to ramp down far enough for the same India needs around 10 gigawatt-hours (GWh) of battery storage immediately to stop renewable energy curtailment when the s coal fleet cannot ramp down .…"
+    },
     {
       "id": "4d5db42755ca",
       "title": "BESS as a ‘Swiss Army knife’ for data centers",
