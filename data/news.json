@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-21T11:18:38.849504+00:00",
-  "count": 299,
+  "updated": "2026-06-22T13:37:47.863162+00:00",
+  "count": 305,
   "items": [
+    {
+      "id": "a3284db6fb81",
+      "title": "There is now more installed energy storage capacity than nuclear in Europe, yet ‘no country has reached its potential’",
+      "url": "https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/",
+      "published": "2026-06-22T11:19:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As of the second quarter of this year, installed energy storage capacity in Europe overtook nuclear, according to trade association Energy Storage Europe’s new report."
+    },
+    {
+      "id": "304ea6f3a8ac",
+      "title": "Energy Start-up Map: From project development and battery hardware to battery diagnostics and flexibility marketing",
+      "url": "https://www.pv-magazine.com/2026/06/22/energy-start-up-map-energy-from-project-development-and-battery-hardware-to-battery-diagnostics-and-flexibility-marketi/",
+      "published": "2026-06-22T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "As part of our “Start-up of the Month” series—published by pv magazine in collaboration with Vireo Ventures—we invited start-ups to submit information about their companies. Ninety-one responded. We have categorized them and provide an overview of their fields of activity, target audiences, and busi…"
+    },
+    {
+      "id": "5215cb855a48",
+      "title": "Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
+      "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
+      "published": "2026-06-22T08:07:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Startup Ore Energy has signed an agreement with a utility in the Netherlands to deploy up to 1,000MWh of multi-day-duration iron-air batteries."
+    },
+    {
+      "id": "522cd1e502e6",
+      "title": "The EV Battery Call Is Coming From Inside The House",
+      "url": "https://cleantechnica.com/2026/06/21/ev-battery-solid-state-lithium-metal-quantumscape-manufacturing/",
+      "published": "2026-06-22T02:56:44+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The US energy storage startup QuantumScape is among the domestic EV battery innovators marching steadily towards commercial-level production, despite the sharp U-turn in federal electrification technology. The post The EV Battery Call Is Coming From Inside The House appeared first on CleanTechnica."
+    },
+    {
+      "id": "3e1889f5a18d",
+      "title": "‘Policy certainty takes priority’ in APAC battery storage investment decisions, says Banpu NEXT",
+      "url": "https://www.energy-storage.news/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next/",
+      "published": "2026-06-22T02:12:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this interview with Energy-Storage.news, Colin Koon Peng Ho of Banpu NEXT explains why policy certainty now outweighs cost in APAC battery storage investment decisions, and discusses regulatory barriers, supply chain localisation and the most attractive BESS opportunities."
+    },
+    {
+      "id": "1a5c72af64ef",
+      "title": "South Australia hits AU$20,300/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
+      "url": "https://www.energy-storage.news/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000/",
+      "published": "2026-06-22T00:45:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Australia's SA1 trading region reached the NEM AU$20,300/MWh price cap twice during the evening of 21 June."
+    },
     {
       "id": "89762de26464",
       "title": "BYD Battery Production Ramps Up In Brazil",
