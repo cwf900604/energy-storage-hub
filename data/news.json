@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-22T13:37:47.863162+00:00",
-  "count": 305,
+  "updated": "2026-06-23T11:20:52.310442+00:00",
+  "count": 314,
   "items": [
+    {
+      "id": "aa1ed76fe3e5",
+      "title": "Phenogy unveils modular sodium-ion storage solution",
+      "url": "https://www.pv-magazine.com/2026/06/23/phenogy-unveils-modular-sodium-ion-storage-solution/",
+      "published": "2026-06-23T09:50:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Swiss sodium-ion battery company Phenogy has launched the modular Phenogy 1.1 energy storage system for commercial and industrial applications at The Smarter E Europe in Munich. The 50 kW, 100 Ah system offers scalable storage, air-cooled thermal management and integrated safety features, The post P…"
+    },
+    {
+      "id": "4086aa8e1eb5",
+      "title": "Jackery showcases SolarVault 3 home energy storage solutions at The smarter E Europe 2026",
+      "url": "https://www.pv-magazine.com/2026/06/23/jackery-showcases-solarvault-3-home-energy-storage-solutions-at-the-smarter-e-europe-2026/",
+      "published": "2026-06-23T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At the Munich trade show, the company debuted Jackery Ark and three plug-in residential energy storage models, along with a range of smart accessories and a Solar Gazebo, highlighting the company’s evolution from portable power solutions to home energy ecosystems. The post Jackery showcases SolarVau…"
+    },
+    {
+      "id": "9148db9dffcd",
+      "title": "Grids, solar and BESS – Balancing the buildout",
+      "url": "https://www.pv-magazine.com/2026/06/23/balancing-the-buildout/",
+      "published": "2026-06-23T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar installations in Europe have begun to slow, as markets struggle with high levels of variable generation. Batteries and grid infrastructure need time to catch up, and Bernhard Suchland, CEO at energy infrastructure developer Sunotec, sees the need for a more integrated approach to developing en…"
+    },
+    {
+      "id": "d0812cda4e8c",
+      "title": "UK startup presents sodium-ion storage solution for rooftop PV",
+      "url": "https://www.pv-magazine.com/2026/06/23/uk-startup-presents-sodium-ion-storage-solution-for-rooftop-pv/",
+      "published": "2026-06-23T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Eleven Energy has launched its residential sodium-ion storage system at The smarter E in Munich. The fully integrated platform combines sodium-optimized batteries, inverters, and AI energy management to improve safety, flexibility, and tariff-driven optimization. The post UK startup presents sodium-…"
+    },
+    {
+      "id": "ed099b9f70ee",
+      "title": "EU Roundup: Optimisation and offtake for large-scale BESS with Flower and ENGIE in Germany; Entrix and DRI in Poland",
+      "url": "https://www.energy-storage.news/eu-roundup-optimisation-and-offtake-for-large-scale-bess-with-flower-and-engie-in-germany-entrix-and-dri-in-poland/",
+      "published": "2026-06-23T08:07:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Flower and ENGIE sign a 7-year virtual toll for 126MW in Germany, while Entrix wins optimisation rights for DRI's 133MW Polish BESS."
+    },
+    {
+      "id": "989482b260ab",
+      "title": "Meridian Energy’s 622MW Waiinu hybrid project enters New Zealand fast-track consenting pathway",
+      "url": "https://www.energy-storage.news/meridian-energys-622mw-waiinu-hybrid-project-enters-new-zealand-fast-track-consenting-pathway/",
+      "published": "2026-06-23T04:19:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Meridian's Waiinu Energy Park has been referred for consideration under New Zealand's Fast-track Approvals Act."
+    },
+    {
+      "id": "d77ec5be79ae",
+      "title": "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry",
+      "url": "https://www.energy-storage.news/catl-claims-purpose-built-sodium-ion-bess-can-help-solve-uncertainties-facing-industry/",
+      "published": "2026-06-23T03:57:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL held the global launch of its large-scale sodium-ion BESS yesterday, unveiling a 30MWh+ module which it will ship outside China from next year."
+    },
+    {
+      "id": "0e49c5f54937",
+      "title": "Prototyping Data Tools With AI, A Case Study: Solar + Battery Atlas",
+      "url": "https://cleantechnica.com/2026/06/22/prototyping-data-tools-with-ai-a-case-study-solar-battery-atlas/",
+      "published": "2026-06-23T03:41:24+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Ember has been experimenting with using artificial intelligence (AI) to expand the scale, depth and usability of our analytical work. AI allows us to move faster from a research question to a working analytical tool, but more importantly it helps us test more scenarios, combine more datasets and gen…"
+    },
+    {
+      "id": "23863bddc155",
+      "title": "CleanTech Constraints Are Real, But They Aren’t Static",
+      "url": "https://cleantechnica.com/2026/06/22/cleantech-constraints-real-not-static/",
+      "published": "2026-06-22T16:28:27+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A lot of weak energy-transition analysis makes the same mistake in opposite directions. The booster version assumes every deployment curve will keep rising smoothly, as if grids, mines, factories, workers, permitting systems and customers are all waiting obediently for the spreadsheet. The fatalist …"
+    },
     {
       "id": "a3284db6fb81",
       "title": "There is now more installed energy storage capacity than nuclear in Europe, yet ‘no country has reached its potential’",
