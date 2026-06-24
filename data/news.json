@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-23T11:20:52.310442+00:00",
-  "count": 314,
+  "updated": "2026-06-24T10:53:42.689556+00:00",
+  "count": 330,
   "items": [
+    {
+      "id": "3c423df18d39",
+      "title": "Grid-forming technology explored and explained: Download our white paper, with Kehua Digital Energy & TÜV Rheinland",
+      "url": "https://www.energy-storage.news/grid-forming-technology-explored-and-explained-download-our-white-paper-with-kehua-digital-energy-tuv-rheinland/",
+      "published": "2026-06-24T09:25:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "‘Enhancing System Stability through Grid-Forming Energy Storage Technologies,’ has been launched by Energy-Storage.news, sponsor Kehua Digital Energy and TÜV Rheinland."
+    },
+    {
+      "id": "1182efb94952",
+      "title": "Energy sharing, storage reshaping Slovenia’s PV market",
+      "url": "https://www.pv-magazine.com/2026/06/24/energy-sharing-storage-reshaping-slovenias-pv-market/",
+      "published": "2026-06-24T09:07:53+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "pv magazine spoke with Nina Hojnik, General Manager of the Slovenian Photovoltaic Association at the Smarter E tradeshow in Munich, about the launch of energy sharing and its first registrations, alongside a residential rebound driven by solar-plus-storage. The post Energy sharing, storage reshaping…"
+    },
+    {
+      "id": "935b784e41c6",
+      "title": "NatPower, Tesla sign 25GWh Megapack supply and execution agreement for Italy and UK BESS projects",
+      "url": "https://www.energy-storage.news/natpower-tesla-sign-25gwh-megapack-supply-and-execution-agreement-for-italy-and-uk-bess-projects/",
+      "published": "2026-06-24T09:05:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NatPower and Tesla have signed a multi-year supply and execution agreement covering more than 25GWh of BESS across Italy and the UK."
+    },
+    {
+      "id": "8fa536311978",
+      "title": "Escaping the energy straitjacket",
+      "url": "https://www.pv-magazine.com/2026/06/24/escaping-the-energy-straitjacket/",
+      "published": "2026-06-24T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Europe’s split grid infrastructure and lack of central planning mean it fails to use its renewables. It is stuck in volatile prices driven by reliance on imported fossil fuels. Treating the system as one network rather than separate national grids would unlock PV, storage and wind, says Christian Kj…"
+    },
+    {
+      "id": "f49886ed955c",
+      "title": "AlphaESS introducing AlphaConnect connectivity platform for energy storage projects",
+      "url": "https://www.pv-magazine.com/2026/06/24/alphaess-introducing-alphaconnect-connectivity-platform-for-energy-storage-projects/",
+      "published": "2026-06-24T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The manufacturer is expanding into utility-scale storage and integrated energy solutions to meet the evolving needs of the European market, according to Thomas Yuan, Chairman of AlphaESS. The post AlphaESS introducing AlphaConnect connectivity platform for energy storage projects appeared first on p…"
+    },
+    {
+      "id": "42b688b7a48c",
+      "title": "Germany’s battery energy storage market is entering a new phase of maturity",
+      "url": "https://www.energy-storage.news/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity/",
+      "published": "2026-06-24T05:13:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Germany's policymakers, regulators and energy storage industry must carefully consider the issues of grid connections and grid fees, writes Thomas Antonioli of developer Terra One."
+    },
+    {
+      "id": "a0abc81951c9",
+      "title": "Australia awards 4.2GW/16.1GWh of battery storage under Capacity Investment Scheme Tender 8",
+      "url": "https://www.energy-storage.news/australia-awards-4-2gw-16-1gwh-of-battery-storage-under-capacity-investment-scheme-tender-8/",
+      "published": "2026-06-24T05:12:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Australian government has announced the results of Capacity Investment Scheme (CIS) Tender 8, selecting 15 battery energy storage projects across the National Electricity Market (NEM), totalling 4.2GW/16.1GWh."
+    },
+    {
+      "id": "429848195a1d",
+      "title": "Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
+      "url": "https://www.energy-storage.news/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing/",
+      "published": "2026-06-23T23:09:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The trend for mainland China-listed energy storage firms to seek secondary listings on the Hong Kong Stock Exchange shows no sign of abating, writes Carrie Xiao."
+    },
+    {
+      "id": "a5aabd42ca82",
+      "title": "US sees record Q1 2026 energy storage installations amid rosy outlook",
+      "url": "https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/",
+      "published": "2026-06-23T17:35:53+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Relative certainty around tax policy and demand from large load customers are among factors driving the country&rsquo;s energy storage boom, according to two reports out this month."
+    },
+    {
+      "id": "8b0ca01774b6",
+      "title": "Australian Mine Goes 155 Hours Powered 100% By Renewables",
+      "url": "https://cleantechnica.com/2026/06/23/australian-mine-goes-155-hours-powered-100-by-renewables/",
+      "published": "2026-06-23T16:58:49+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Solar power and battery storage have become the leading options for new grid power capacity across the world, so they&#8217;re also clearly top options for off-grid power. So, they are being used more and more for off-grid applications like mining. We have the story this month of a gold mine ... [co…"
+    },
+    {
+      "id": "bbf14ccc8892",
+      "title": "Two Microgrids With Solar Power Being Developed For Tribal Community In California",
+      "url": "https://cleantechnica.com/2026/06/23/two-microgrids-with-solar-power-being-developed-for-tribal-community-in-california/",
+      "published": "2026-06-23T15:14:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Paskenta Band of Nomlaki Indians and OATI are partnering to develop two microgrids for the tribal community in Northern California. The goal of the project is to bring renewable energy onto tribal lands so they can have greater energy independence and control over their electricity supply. The t…"
+    },
+    {
+      "id": "7b99e14f21ce",
+      "title": "A Bleating, Bloviating US President Picks A Fight Against Clean Energy, Loses",
+      "url": "https://cleantechnica.com/2026/06/23/clean-energy-us-sunzia-wind-power-new-technology/",
+      "published": "2026-06-23T14:41:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Swiss firm Hitachi Energy is behind new transmission technology that enables clean energy to travel long distances, supporting grid reliability in far-flung areas of the US. The post A Bleating, Bloviating US President Picks A Fight Against Clean Energy, Loses appeared first on CleanTechnica."
+    },
+    {
+      "id": "13ad40718cf3",
+      "title": "rPlus Energies’ 1,600MWh Utah solar-plus-storage project begins commercial operation",
+      "url": "https://www.energy-storage.news/rplus-energies-1600mwh-utah-solar-plus-storage-project-begins-commercial-operation/",
+      "published": "2026-06-23T12:43:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Renewables developer rPlus Energies has announced start of commercial operations for the 400MW/1,600MWh Green River Energy Centre in Emery County, Utah, US."
+    },
+    {
+      "id": "5337653bac54",
+      "title": "ZincFive bets on revenue track record in US$752 million SPAC merger after 2021 cohort struggles",
+      "url": "https://www.energy-storage.news/zincfive-bets-on-revenue-track-record-in-us752-million-spac-merger-after-2021-cohort-struggles/",
+      "published": "2026-06-23T12:26:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ZincFive, a manufacturer of nickel-zinc battery systems for data centre and AI infrastructure applications, announced on 11 June that it will become publicly traded through a merger with special purpose acquisition company (SPAC) Spark I Acquisition Corporation."
+    },
+    {
+      "id": "8ee32d1e4169",
+      "title": "CATL: System- and cell-level advances driving sodium-ion energy density improvements",
+      "url": "https://www.energy-storage.news/catl-system-and-cell-level-advances-driving-sodium-ion-energy-density-improvements/",
+      "published": "2026-06-23T12:21:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Executives from lithium-ion battery and BESS manufacturer CATL discussed sodium-ion technology at Smarter E Europe today."
+    },
+    {
+      "id": "c696cd06b60b",
+      "title": "REV Renewables and LS Power commission California’s first 8-hour duration lithium-ion BESS",
+      "url": "https://www.energy-storage.news/rev-renewables-and-ls-power-commission-californias-first-8-hour-duration-lithium-ion-bess/",
+      "published": "2026-06-23T12:10:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "LS Power-owned REV Renewables and US development and investment company LS Power have commissioned the Tumbleweed Energy Storage facility in Kern County, California, US."
+    },
     {
       "id": "aa1ed76fe3e5",
       "title": "Phenogy unveils modular sodium-ion storage solution",
