@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-24T10:53:42.689556+00:00",
-  "count": 330,
+  "updated": "2026-06-25T10:46:01.749081+00:00",
+  "count": 345,
   "items": [
+    {
+      "id": "68414bca0773",
+      "title": "Top Cable unveils flexible cable for battery storage projects",
+      "url": "https://www.pv-magazine.com/2026/06/25/top-cable-unveils-flexible-cable-for-battery-storage-projects/",
+      "published": "2026-06-25T10:44:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Spanish cable manufacturer Top Cable has launched a new product for battery energy storage systems (BESS), targeting installation constraints in densely wired projects. The post Top Cable unveils flexible cable for battery storage projects appeared first on pv magazine Global."
+    },
+    {
+      "id": "c7039772cd63",
+      "title": "Norway’s solar market slows as batteries gain traction",
+      "url": "https://www.pv-magazine.com/2026/06/25/norways-solar-market-slows-as-batteries-gain-traction/",
+      "published": "2026-06-25T10:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Mette Kristine Kanestrøm, Head of Solar, Storage and Smart Grids at Multiconsult, tells pv magazine that while solar deployment has halted through the first months of the year, increasing battery deployment and emerging utility-scale projects offer new opportunties. The post Norway’s solar market sl…"
+    },
+    {
+      "id": "895c7d5ed163",
+      "title": "Solar, storage uptake grows in Ukraine as community prosumers emerge",
+      "url": "https://www.pv-magazine.com/2026/06/25/solar-storage-uptake-grows-in-ukraine-as-community-prosumers-emerge/",
+      "published": "2026-06-25T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In an interview with pv magazine, Lena Sukholdolska, Head of Communications at Atmosfera, said demand for solar, energy storage and energy management solutions continues to grow in Ukraine. The post Solar, storage uptake grows in Ukraine as community prosumers emerge appeared first on pv magazine Gl…"
+    },
+    {
+      "id": "c5d8702838f0",
+      "title": "Storage leading growth in Denmark’s energy market",
+      "url": "https://www.pv-magazine.com/2026/06/25/storage-leading-growth-in-denmarks-energy-market/",
+      "published": "2026-06-25T08:17:37+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In an interview with pv magazine, board members of the Danish Solar Association Johan Christensen and Jacob Engdal explain that interest in battery energy storage is growing significantly in Denmark. The interest spans across market segments, with market signals and electricity price volatility acti…"
+    },
+    {
+      "id": "aaa75cd35cb1",
+      "title": "ees Europe 2026: Grid-forming PCS, DC-coupling, C&I and data centre solutions among product launches and market debuts",
+      "url": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
+      "published": "2026-06-25T06:16:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "With ees Europe taking place in Munich, Germany, this week alongside Intersolar Europe and Smarter E, Energy-Storage.news takes a look at some expo highlights."
+    },
+    {
+      "id": "37d5d0b72305",
+      "title": "The Smarter E spotlights Renewables 24/7",
+      "url": "https://www.pv-magazine.com/2026/06/25/the-smarter-e-spotlights-renewables-24-7/",
+      "published": "2026-06-25T05:42:44+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The German trade fair was fully booked again this year. Although there are slightly fewer exhibitors than in 2025, average stand sizes have increased. Exhibitors showcased their products and services—ranging from photovoltaics and battery storage to electromobility, energy management and connectivit…"
+    },
+    {
+      "id": "540d2c581a61",
+      "title": "Samduo launches residential AC-coupled plug-in storage systems",
+      "url": "https://www.pv-magazine.com/2026/06/25/samduo-launches-residential-ac-coupled-plug-in-storage-systems-2/",
+      "published": "2026-06-25T05:16:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Another entrant into the AC-coupled plug-in home storage field, targeting homes in the Netherlands that must adjust to net metering ending in 2027. The post Samduo launches residential AC-coupled plug-in storage systems appeared first on pv magazine Global."
+    },
+    {
+      "id": "a48cc19c3a8b",
+      "title": "Virtual home-energy trading study lowers costs, boosts access to clean power",
+      "url": "https://www.pv-magazine.com/2026/06/25/virtual-home-energy-trading-study-lowers-costs-boosts-access-to-clean-power/",
+      "published": "2026-06-25T04:25:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Deakin University has released findings from a large-scale randomised control trial exploring a new technology that enables households and small businesses to buy and sell solar and battery power, and which lowered electricity prices, while boosting access to solar and battery power. The post Virtua…"
+    },
+    {
+      "id": "2e09d792d7b9",
+      "title": "Charging Solutions for Heavy-Duty Electric Trucks",
+      "url": "https://cleantechnica.com/2026/06/24/charging-solutions-for-heavy-duty-electric-trucks/",
+      "published": "2026-06-25T03:59:56+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "More and more heavy-duty electric trucks are hitting the roads in Australia. CleanTechnica has written about that here and here. Before we go any further, we need to note that most trucks in Australia run on defined short routes. Electrifying those routes, either with battery swapping (as does Janus…"
+    },
+    {
+      "id": "af2228e50843",
+      "title": "Australia: AEMO calls for 35GW of short and medium-duration storage plus 5GW of long-duration storage by 2050",
+      "url": "https://www.energy-storage.news/australia-aemo-calls-for-35gw-of-short-and-medium-duration-storage-plus-5gw-of-long-duration-storage-by-2050/",
+      "published": "2026-06-25T02:30:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AEMO has set out a storage requirement of almost 50GW in its latest 2026 Integrated System Plan (ISP), split between 35GW of short and medium-duration battery storage for daily firming and 5GW of long-duration energy storage (LDES) for seasonal reliability."
+    },
+    {
+      "id": "dd28fd726786",
+      "title": "The Bluetti Apex 300 & B300K Portable Power Station — CleanTechnica Tested (Prime Day Specials!)",
+      "url": "https://cleantechnica.com/2026/06/24/the-bluetti-apex-300-b300k-portable-power-station-cleantechnica-tested/",
+      "published": "2026-06-24T18:13:04+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "BLUETTI has been making some big moves in the energy storage space and is shaking things up again in the large portable power station market with the introduction of its new BLUETTI Apex 300 and B300K energy storage units. The BLUETTI Apex 300 serves as the base unit and brains ... [continued] The p…"
+    },
+    {
+      "id": "ed8027a0c01d",
+      "title": "Geopolitics Smooths The Energy Transition Curve",
+      "url": "https://cleantechnica.com/2026/06/24/geopolitics-energy-transition-curve/",
+      "published": "2026-06-24T15:13:10+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "One of the easiest ways to misread the energy transition is to stand inside one country and mistake local political weather for the global climate. A U.S. reversal, European permitting drag, Indian coal and grid constraints, Indonesian diesel politics, Pakistani fuel-price exposure, Chinese overbuil…"
+    },
+    {
+      "id": "6c758d927944",
+      "title": "Dominion Energy launches long-duration energy storage RFI in Virginia",
+      "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
+      "published": "2026-06-24T13:44:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US utility Dominion Energy Virginia (DEV) is issuing a request for information (RFI) for information on long-duration energy storage (LDES) technologies."
+    },
+    {
+      "id": "1efbe5ca3314",
+      "title": "EU funding ban on Chinese inverters drives BESS industry towards optionality, supply chain resiliency",
+      "url": "https://www.energy-storage.news/eu-funding-ban-on-chinese-inverters-drives-bess-industry-towards-optionality-supply-chain-resiliency/",
+      "published": "2026-06-24T11:58:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium heard from executives at battery energy storage system (BESS) firms Rept and Fluence on the EU funding ban on Chinese inverters in solar and BESS projects."
+    },
+    {
+      "id": "a8442f3d596d",
+      "title": "US energy storage installations will quadruple by 2031, Wood Mackenzie forecasts",
+      "url": "https://www.energy-storage.news/us-energy-storage-installations-will-quadruple-by-2031-wood-mackenzie-forecasts/",
+      "published": "2026-06-24T11:56:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Market research firm Wood Mackenzie predicted that the US energy storage market will almost quadruple over the next six years."
+    },
     {
       "id": "3c423df18d39",
       "title": "Grid-forming technology explored and explained: Download our white paper, with Kehua Digital Energy & TÜV Rheinland",
