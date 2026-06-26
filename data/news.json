@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-25T10:46:01.749081+00:00",
-  "count": 345,
+  "updated": "2026-06-26T10:54:24.740595+00:00",
+  "count": 360,
   "items": [
+    {
+      "id": "363f3e222f22",
+      "title": "Energy Dome’s second CO2 Battery project with Google will secure carbon-free energy for tech giant while easing grid congestion in Ireland",
+      "url": "https://www.energy-storage.news/energy-domes-second-co2-battery-project-with-google-will-secure-carbon-free-energy-for-tech-giant-while-easing-grid-congestion-in-ireland/",
+      "published": "2026-06-26T10:25:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy Dome has signed its second low-carbon energy supply contract with Google."
+    },
+    {
+      "id": "9280477b33b3",
+      "title": "How storage is reshaping Italy’s energy system",
+      "url": "https://www.pv-magazine.com/2026/06/26/how-storage-is-reshaping-italys-energy-system/",
+      "published": "2026-06-26T10:21:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "pv magazine has spoken with Federico Brucciani, secretary of Italian PV association Italia Solare, about the rapid expansion of residential solar-plus-storage in Italy, where 80% of new PV systems now include batteries. He also discussed the structural weaknesses of the C&#38;I segment and the slow …"
+    },
+    {
+      "id": "aa6ae66d2f2f",
+      "title": "Germany wraps up solar-plus-storage tender with average price of €0.0534/kWh",
+      "url": "https://www.pv-magazine.com/2026/06/26/germany-wraps-up-solar-plus-storage-tender-with-average-price-of-e0-0534-kwh/",
+      "published": "2026-06-26T08:10:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Germany has concluded a new renewables tender for innovative projects, securing 482 MW of capacity at final prices ranging from €0.0475 ($0.0540)/kWh to €0.0559/kWh. The post Germany wraps up solar-plus-storage tender with average price of €0.0534/kWh appeared first on pv magazine Global."
+    },
+    {
+      "id": "115479a470d8",
+      "title": "Sungrow releases its first all-in-one battery inverter for residential use",
+      "url": "https://www.pv-magazine.com/2026/06/26/sungrow-releases-its-first-all-in-one-battery-inverter-for-residential-use/",
+      "published": "2026-06-26T07:45:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sungrow’s new PowerHarbor residential all-in-one hybrid inverter system offers 10–30 kW inverter power, 6–10 kWh modular LFP battery blocks, 1.6× PV-to-battery fast charging, AI-driven energy optimization, and up to 150% phase unbalance output. The post Sungrow releases its first all-in-one battery …"
+    },
+    {
+      "id": "ba782b88a045",
+      "title": "Pilot study targets solar and battery access for apartments",
+      "url": "https://www.pv-magazine.com/2026/06/26/pilot-study-targets-solar-and-battery-access-for-apartments/",
+      "published": "2026-06-26T06:16:36+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A Sydney-based pilot study aims to energize the dormant uptake of solar and batteries for apartment buildings by applying AI strategies to an existing modular power portal system. The post Pilot study targets solar and battery access for apartments appeared first on pv magazine Global."
+    },
+    {
+      "id": "eeb423c32177",
+      "title": "Volkswagen Group & Elli Bring Vehicle-to-Grid Offer to the Volume Market!",
+      "url": "https://cleantechnica.com/2026/06/25/volkswagen-group-elli-bring-vehicle-to-grid-offer-to-the-volume-market/",
+      "published": "2026-06-26T03:59:23+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Elli presents an integrated product package for bidirectional charging in Germany together with Volkswagen, Volkswagen Commercial Vehicles and CUPRA at Power2Drive. The offer combines compatible electric vehicles, the Elli BiDi Charger, Volkswagen Naturstrom V2G Flow electricity tariff and the Elli …"
+    },
+    {
+      "id": "f4954507937c",
+      "title": "Sunrun, Renew Home, & Tesla Team Up to Deliver More Than 16 Gigawatts of Fast, Flexible Power for Data Centers and Large Loads",
+      "url": "https://cleantechnica.com/2026/06/25/sunrun-renew-home-tesla-team-up-to-deliver-more-than-16-gigawatts-of-fast-flexible-power-for-data-centers-and-large-loads/",
+      "published": "2026-06-26T03:59:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The nation’s largest developers and operators of home battery storage, smart thermostats, and vehicle-to-grid systems can orchestrate more than 16 GW of home energy resources to help meet surging electricity demand from data centers and AI growth, while helping lower household energy costs. Sunrun (…"
+    },
+    {
+      "id": "d7d61c90b3b1",
+      "title": "LiTime Brings Off-Grid LiFePO4 Battery Solutions for Reliable, Low-Maintenance Outdoor Security Monitoring",
+      "url": "https://cleantechnica.com/2026/06/25/litime-brings-off-grid-lifepo4-battery-solutions-for-reliable-low-maintenance-outdoor-security-monitoring/",
+      "published": "2026-06-26T03:50:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "As security monitoring systems expand into outdoor, mobile, and off-grid environments, more equipment is being deployed along highways, construction sites, parking areas, industrial parks, energy facilities, and remote regions. Unlike fixed, grid-tied systems, these applications demand true 24/7 upt…"
+    },
+    {
+      "id": "82f0ecdc6dc9",
+      "title": "Asian Development Bank supports 500MWh grid-forming battery energy storage project in Cambodia",
+      "url": "https://www.energy-storage.news/asian-development-bank-supports-500mwh-grid-forming-battery-energy-storage-project-in-cambodia/",
+      "published": "2026-06-26T03:01:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ADB has approved a Royal Government of Cambodia application for financial support for a 250MW/500MWh battery storage project."
+    },
+    {
+      "id": "093d9a33f462",
+      "title": "Goldwind Capital submits 1GWh wind-plus-storage site to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/goldwind-capital-submits-1gwh-wind-plus-storage-site-to-australias-epbc-act/",
+      "published": "2026-06-26T02:50:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Goldwind Capital has submitted the Milpulling Wind Farm, a 1GWh wind-plus-storage site for assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "aec471d37722",
+      "title": "Trends to look out for at Energy Storage Summit Asia 2026",
+      "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-asia-2026/",
+      "published": "2026-06-26T00:02:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy Storage Summit Asia 2026 convenes in Bangkok as Vietnam's tariff reform, Cambodia's grid milestone, and AI demand reshape the region."
+    },
+    {
+      "id": "219fdea912fb",
+      "title": "Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
+      "url": "https://www.energy-storage.news/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm/",
+      "published": "2026-06-25T14:00:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US residential solar and energy storage installer Sunrun, energy management platform Renew Home, and Tesla have announced an agreement to deliver more than 16GW of flexible energy capacity to US hyperscalers and utilities."
+    },
+    {
+      "id": "f0d56a210276",
+      "title": "US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
+      "url": "https://www.energy-storage.news/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas/",
+      "published": "2026-06-25T13:56:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this US news roundup, e-Storage, Spearmint Energy, and OCI Energy advance battery energy storage system (BESS) projects and financing in Michigan and Texas."
+    },
+    {
+      "id": "d6fae9773e86",
+      "title": "Sodium-ion will reach cost parity with LFP ‘in two to three years’, BESS firm says",
+      "url": "https://www.energy-storage.news/sodium-ion-will-reach-lcos-parity-with-lfp-in-two-to-three-years-bess-firm-says/",
+      "published": "2026-06-25T12:25:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sodium-ion BESS startup Moonwatt expects the battery chemistry to reach price cost parity with lithium iron phosphate (LFP) in the next two or three years, according to its CCO, Valentin Rota. Speaking to us at the Smarter E Europe trade show in Munich, Germany, this week, Rota said: “We think LFP w…"
+    },
+    {
+      "id": "b20a9074392c",
+      "title": "Nextpower and Prevalon CEOs discuss acquisition background and future strategy",
+      "url": "https://www.energy-storage.news/nextpower-and-prevalon-ceos-discuss-acquisition-background-and-future-strategy/",
+      "published": "2026-06-25T10:54:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Nextpower CEO Dan Shugar and Prevalon’s Tom Cornell about the solar PV solutions company’s (re)entry into the energy storage space."
+    },
     {
       "id": "68414bca0773",
       "title": "Top Cable unveils flexible cable for battery storage projects",
