@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-26T10:54:24.740595+00:00",
-  "count": 360,
+  "updated": "2026-06-27T10:12:21.355025+00:00",
+  "count": 372,
   "items": [
+    {
+      "id": "0fe508806ecb",
+      "title": "The Limitations Of Powered Trailers That Nobody Thinks About",
+      "url": "https://cleantechnica.com/2026/06/26/the-limitations-of-powered-trailers-that-nobody-thinks-about/",
+      "published": "2026-06-27T03:50:43+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Startups like Evotrex, Pebble, and Lightship are heavily pushing &#8220;active-assist&#8221; trailers. These are campers with their own built-in battery packs and electric motors designed to eliminate EV towing range anxiety. They basically push themselves down the highway to take the load off your …"
+    },
+    {
+      "id": "350d3df84c62",
+      "title": "CATL Debuts World’s 1st Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Reality",
+      "url": "https://cleantechnica.com/2026/06/26/catl-debuts-worlds-1st-field-validated-sodium-ion-bess-bringing-sodium-storage-to-commercial-reality/",
+      "published": "2026-06-27T03:43:05+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "CATL this week officially unveiled the TENER Sodium Energy Storage System, the world&#8217;s first real-world validated sodium-ion energy storage solution in Munich, Germany. The solution has reached full commercial maturity across technology, production capacity, and supply chain readiness. Cumulat…"
+    },
+    {
+      "id": "12fcafe91fdb",
+      "title": "CATL — 36 Battery Swap Stations for Hong Kong, 3000 Total This Year",
+      "url": "https://cleantechnica.com/2026/06/26/catl-36-battery-swap-stations-for-hong-kong-3000-total-this-year/",
+      "published": "2026-06-27T03:41:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Going through our CATL archives, I see tons of articles about sodium-ion batteries, but I have to go back more than a year to find a story about CATL battery swapping stations. The company is moving forward with this in places, though. CATL is apparently planning to launch 36 battery ... [continued]…"
+    },
+    {
+      "id": "a635fd66d926",
+      "title": "Octopus Energy Partners With DTEK To Bring Solar & Battery Storage To Ukraine",
+      "url": "https://cleantechnica.com/2026/06/26/octopus-energy-partners-with-dtek-to-bring-solar-battery-storage-to-ukraine/",
+      "published": "2026-06-26T23:14:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Where others see great risk, Octopus Energy and DTEK see great opportunity to bring renewable energy and battery storage to Ukraine. The post Octopus Energy Partners With DTEK To Bring Solar &#038; Battery Storage To Ukraine appeared first on CleanTechnica."
+    },
+    {
+      "id": "8a20dada421a",
+      "title": "ASHRAE to tackle data centers, thermal systems at annual conference",
+      "url": "https://www.utilitydive.com/news/ashrae-to-tackle-data-centers-thermal-systems-at-annual-conference/823900/",
+      "published": "2026-06-26T14:44:24+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The engineering society&rsquo;s annual meeting, starting this weekend in Austin, Texas, will have programs on managing energy costs and integrating energy storage projects, among others."
+    },
+    {
+      "id": "582df1ca8076",
+      "title": "445 GW — mainly solar, storage — to come online by 2030 as demand growth surges: ICF",
+      "url": "https://www.utilitydive.com/news/solar-storage-demand-growth-data-centers-icf/823866/",
+      "published": "2026-06-26T13:43:03+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "PJM and ERCOT have no spare capacity for demand growth beyond 2027, the consulting firm said. Demand response and GETs can help meet an expected 39% jump in U.S. electric use by 2035, it suggests."
+    },
+    {
+      "id": "ad084dd0a327",
+      "title": "Enlight secures financing for 1.2GW/4GWh Arizona solar and storage ‘Complex’",
+      "url": "https://www.energy-storage.news/enlight-secures-financing-for-1-2gw-4gwh-arizona-solar-and-storage-complex/",
+      "published": "2026-06-26T11:55:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Enlight Renewable Energy has announced that its US subsidiary Clēnera Holdings has entered into a debt financing framework agreement for the CO Bar Complex in Arizona, US."
+    },
+    {
+      "id": "118a829f831b",
+      "title": "UK’s Ofgem goes big on LDES cap-and-floor window 1; 18-hour lithium-ion among winners",
+      "url": "https://www.energy-storage.news/uks-ofgem-goes-big-on-ldes-cap-and-floor-window-1-18-hour-lithium-ion-among-winners/",
+      "published": "2026-06-26T11:54:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UK energy regulator Ofgem has shortlisted 16 projects for the first ever long-duration energy storage (LDES) cap-and-floor scheme, totalling 7.6GW of capacity ranging from 8- to 22-hour durations."
+    },
+    {
+      "id": "f1dc691e8e44",
+      "title": "Argentina battery storage auction attracts bids as low as $7,397/MW-month",
+      "url": "https://www.pv-magazine.com/2026/06/26/argentina-battery-storage-auction-attracts-bids-as-low-as-7397-mw-month/",
+      "published": "2026-06-26T11:53:14+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Financial bids in Argentina’s first large-scale battery storage procurement came in well below the auction price cap, with 232 qualified proposals competing for 700 MW of capacity. The post Argentina battery storage auction attracts bids as low as $7,397/MW-month appeared first on pv magazine Global…"
+    },
+    {
+      "id": "04b4f941decc",
+      "title": "The Leadership Lens: Highlighting the double standards shaping leadership in the energy transition",
+      "url": "https://www.pv-magazine.com/2026/06/26/the-leadership-lens-highlighting-the-double-standards-shaping-leadership-in-the-energy-transition/",
+      "published": "2026-06-26T11:48:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "This week, Women in Solar+ Europe (WiSEu) shares key insights from its flagship breakfast workshop at Intersolar Europe 2026, where professionals across the solar and storage sectors explored the double standards that continue to shape women’s careers. From visibility and credibility to motherhood, …"
+    },
+    {
+      "id": "f8f9d16a9f6c",
+      "title": "GHG Protocol uncertainty is cooling solar corporate PPA market, says Renewabl CEO",
+      "url": "https://www.pv-magazine.com/2026/06/26/ghg-protocol-uncertainty-is-cooling-solar-corporate-ppa-market-says-renewabl-ceo/",
+      "published": "2026-06-26T11:32:34+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Corporate PPA volumes fell 10% in 2025, and Renewabl CEO JP Cerda says uncertainty around pending scope 2 accounting changes are causing some buyers to hold off. A shift to hourly matching should see battery storage center stage. The post GHG Protocol uncertainty is cooling solar corporate PPA marke…"
+    },
+    {
+      "id": "26e162ab3e58",
+      "title": "Inside Nextpower’s acquisition-driven expansion strategy",
+      "url": "https://www.pv-magazine.com/2026/06/26/inside-nextpowers-acquisition-driven-expansion-strategy/",
+      "published": "2026-06-26T11:19:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At The smarter E Europe in Munich, NextPower CEO Dan Shugar discussed with pv magazine the company's transformation from a solar tracker specialist into a broader clean energy technology provider, explaining how recent acquisitions in inverters, battery storage and mounting systems fit into a custom…"
+    },
     {
       "id": "363f3e222f22",
       "title": "Energy Dome’s second CO2 Battery project with Google will secure carbon-free energy for tech giant while easing grid congestion in Ireland",
