@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-28T10:30:03.948571+00:00",
-  "count": 374,
+  "updated": "2026-06-29T12:38:02.657382+00:00",
+  "count": 379,
   "items": [
+    {
+      "id": "8d723a3d66d2",
+      "title": "Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
+      "url": "https://www.energy-storage.news/flow-batteries-selected-for-microgrid-deployments-in-maldives-paskenta-tribe-lands-in-california/",
+      "published": "2026-06-29T11:09:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two recent microgrid projects highlight the expanding role of flow batteries, with Quino Energy deploying organic flow batteries in the Maldives and the Paskenta Band of Nomlaki Indians integrating zinc hybrid cathode storage in Northern California."
+    },
+    {
+      "id": "12f4de834251",
+      "title": "EU tripartite agreement targets 30-35GW of storage deployments by 2028",
+      "url": "https://www.energy-storage.news/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028/",
+      "published": "2026-06-29T09:32:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Union (EU) has announced a tripartite agreement to accelerate energy storage deployments in the next two years."
+    },
+    {
+      "id": "8e455c7a66f7",
+      "title": "Envision to supply 660MWh of battery storage for South Africa’s ‘largest private hybrid power project’",
+      "url": "https://www.energy-storage.news/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project/",
+      "published": "2026-06-29T07:57:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Envision has signed a 660MWh BESS supply agreement with SOLA Group and construction company WBHO in South Africa's Free State."
+    },
+    {
+      "id": "b760885bbfde",
+      "title": "AGL submits 50MW/100MWh Awaba BESS to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/agl-submits-50mw-100mwh-awaba-bess-to-australias-epbc-act/",
+      "published": "2026-06-29T07:53:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian utility AGL Energy has submitted a 100MWh BESS in New South Wales for federal environmental assessment under the EPBC Act."
+    },
+    {
+      "id": "78bcaf498149",
+      "title": "‘Decisions look obvious after the event. They rarely are in real time’: OptiGrid on South Australia’s battery storage price cap event",
+      "url": "https://www.energy-storage.news/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event/",
+      "published": "2026-06-29T07:52:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "OptiGrid's Sahand Karimi examines why state of charge &#038; algorithm quality drove divergent outcomes during SA1's AU$20,300/MWh price cap on 21 June."
+    },
     {
       "id": "8922c089f41f",
       "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
