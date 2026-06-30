@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-29T12:38:02.657382+00:00",
-  "count": 379,
+  "updated": "2026-06-30T11:13:09.491105+00:00",
+  "count": 392,
   "items": [
+    {
+      "id": "c25e126ebcc3",
+      "title": "Ireland expected to exceed 3.3 GW of connected solar capacity by year-end",
+      "url": "https://www.pv-magazine.com/2026/06/30/ireland-expected-to-exceed-3-3-gw-of-connected-solar-capacity-by-year-end/",
+      "published": "2026-06-30T10:49:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Ireland's solar market is continuing to mature rapidly, according to Solar Ireland's 2026 annual report which also identified the emergence of a 'duck curve' and called for more energy storage to balance out the 2.7 GW of solar now connected to the grid. The post Ireland expected to exceed 3.3 GW of…"
+    },
+    {
+      "id": "0e98af588d34",
+      "title": "EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
+      "url": "https://www.energy-storage.news/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany/",
+      "published": "2026-06-30T09:47:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EnBW and VPI have launched construction on large-scale BESS projects in Germany, while Elements Green and Eku Energy have agreed supply and acquisition deals respectively for separate 400MW/1,600MWh projects."
+    },
+    {
+      "id": "35edcd5e5a21",
+      "title": "EU Roundup: Axpo and e-Storage partner in Italy, RES secures Nordic asset management deal, R.Power sells Poland BESS to Engie",
+      "url": "https://www.energy-storage.news/eu-roundup-axpo-and-e-storage-partner-in-italy-res-secures-nordic-asset-management-deal-r-power-sells-poland-bess-to-engie/",
+      "published": "2026-06-30T09:15:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Axpo and e-Storage have partnered on a BESS in southern Italy, RES Group has signed a full-scope battery asset management agreement in Sweden, while R.Power has agreed to sell a Poland BESS project to Engie."
+    },
+    {
+      "id": "4867f4f63eb7",
+      "title": "Europe could integrate 614 GW of solar within hourly demand limits",
+      "url": "https://www.pv-magazine.com/2026/06/30/europe-could-integrate-614-gw-of-solar-within-hourly-demand-limits/",
+      "published": "2026-06-30T08:48:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Research assessing the demand-constrained solar potential of 38 European countries finds the continent could feasibly deploy around 614 GW of solar, before storage or flexibility measures are added. The post Europe could integrate 614 GW of solar within hourly demand limits appeared first on pv maga…"
+    },
+    {
+      "id": "b1a635185fe1",
+      "title": "EU approves 45 GW energy storage target in bid to reduce gas exposure",
+      "url": "https://www.pv-magazine.com/2026/06/30/eu-approves-45-gw-energy-storage-target-in-bid-to-reduce-gas-exposure/",
+      "published": "2026-06-30T06:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Tripartite agreement puts new energy storage obligations on 22 member states, while renewable and energy storage developers commit to robust deployment pipeline, and multinational investors prepare to assign more capital to segment. More funds for EU manufacturing anticipated plus significant C&#38;…"
+    },
+    {
+      "id": "8eeb00bec61d",
+      "title": "Pumped hydro and lithium BESS top UK LDES cap and floor",
+      "url": "https://www.pv-magazine.com/2026/06/30/pumped-hydro-and-lithium-bess-top-uk-ldes-cap-and-floor/",
+      "published": "2026-06-30T06:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Ofgem has revealed provisional list of 16 projects that can progress through new support scheme for long-duration energy storage (LDES). Four technologies selected, with pumped storage hydro and lithium-ion batteries the biggest winners. The post Pumped hydro and lithium BESS top UK LDES cap and flo…"
+    },
+    {
+      "id": "b6302b256f50",
+      "title": "CATL, CALB among backers of new China BESS industry payment and contracting initiative",
+      "url": "https://www.energy-storage.news/catl-calb-among-backers-of-new-china-bess-industry-payment-and-contracting-initiative/",
+      "published": "2026-06-30T04:44:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "On 29 June, the China Energy Storage Alliance (CNESA) and the China Automotive Battery Industry Innovation Alliance jointly released the 'Initiative on Standardising Supplier Payment Practices for Power and Stationary Storage Battery Enterprises.'"
+    },
+    {
+      "id": "83c174becc80",
+      "title": "Off-grid solar and battery system delivers energy solution for remote Fiji islands",
+      "url": "https://www.pv-magazine.com/2026/06/30/off-grid-solar-and-battery-system-delivers-energy-solution-for-remote-fiji-islands/",
+      "published": "2026-06-30T04:16:40+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A 760 kW rooftop solar array and 1.6 MWh battery energy storage system deployed across three off-grid island resorts in Fiji has already slashed diesel use by 35% and is expected to deliver a 50% diesel cost saving in the first year of operations. The post Off-grid solar and battery system delivers …"
+    },
+    {
+      "id": "a889addbb87d",
+      "title": "Energy North submits 1GW off-grid hyperscale data centre with 16GWh of battery storage to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/energy-north-submits-1gw-off-grid-hyperscale-data-centre-with-16gwh-of-battery-storage-to-australias-epbc-act/",
+      "published": "2026-06-30T03:36:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy North has submitted a proposed 1GW hyperscale data centre campus with a co-located 16GWh BESS to Australia's EPBC Act."
+    },
+    {
+      "id": "af82a578e364",
+      "title": "Neoen Australia begins construction on 963MWh battery storage system at 440MWp solar PV plant",
+      "url": "https://www.energy-storage.news/neoen-australia-begins-construction-on-963mwh-battery-storage-system-at-440mwp-solar-pv-plant/",
+      "published": "2026-06-30T03:31:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "French independent power producer (IPP) Neoen Australia has begun construction of a 215MW/963MWh battery energy storage system (BESS) at its 440MWp Culcairn Solar Farm in New South Wales, Australia."
+    },
+    {
+      "id": "d6bf3e8ccc63",
+      "title": "Jackery SolarVault 3 Taps Balcony Solar Potential At InterSolar Europe",
+      "url": "https://cleantechnica.com/2026/06/29/jackery-solarvault-3-taps-balcony-solar-potential-at-intersolar-europe/",
+      "published": "2026-06-30T03:29:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I recently had the opportunity to attend InterSolar Europe in Munich, the headlining show of The smarter E Europe. The show was both overwhelming and encouraging. Battery storage is becoming essential to solar power. Balcony solar is extending the benefits of solar and storage to new customers, like…"
+    },
+    {
+      "id": "638f0c536103",
+      "title": "Akaysha Energy’s 1,660MWh Orana BESS reaches commercial operations in Australia",
+      "url": "https://www.energy-storage.news/akaysha-energys-1660mwh-orana-bess-reaches-commercial-operations-in-australia/",
+      "published": "2026-06-30T03:29:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BlackRock-backed developer Akaysha Energy has announced that its 1,660MWh Orana BESS has reached commercial operations in Australia."
+    },
+    {
+      "id": "0bab8ccc6be1",
+      "title": "Energyminer’s River Turbines Are Real. The Cheap Baseload Claim Needs Operating Data.",
+      "url": "https://cleantechnica.com/2026/06/29/energyminer-river-turbines-cheap-baseload-operating-data/",
+      "published": "2026-06-29T14:17:24+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Energyminer has something much better than a rendering. Its Energyfish is a small floating hydrokinetic turbine, mostly underwater, anchored in a river current, sending power to shore through a cable and feeding a land-side power box for grid-compliant electricity. It is not a dam, not a conventiona…"
+    },
     {
       "id": "8d723a3d66d2",
       "title": "Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
