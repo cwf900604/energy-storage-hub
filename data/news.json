@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-01T11:27:03.999787+00:00",
-  "count": 405,
+  "updated": "2026-07-02T10:44:08.688163+00:00",
+  "count": 412,
   "items": [
+    {
+      "id": "a0c17778d5d0",
+      "title": "Vopak takes FID on 800MWh Netherlands ‘controllable congestion mitigator’ BESS",
+      "url": "https://www.energy-storage.news/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage/",
+      "published": "2026-07-02T09:16:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tank storage company Vopak has marked its energy into the BESS sector with a final investment decision (FID) for a 200MW/800MWh BESS in the Netherlands, which recently entered into a first-of-its-kind agreement with TSO TenneT."
+    },
+    {
+      "id": "cfb1bed47264",
+      "title": "Alsym Energy signs 9GWh sodium-ion BESS agreement with consultancy for global mining operations",
+      "url": "https://www.energy-storage.news/alsym-energy-signs-9gwh-sodium-ion-bess-agreement-with-consultancy-for-global-mining-operations/",
+      "published": "2026-07-02T09:08:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US sodium-ion (Na-ion) battery startup Alsym Energy and consulting organisation for the mining and energy sectors, Erity, have signed a 9GWh strategic relationship agreement (SRA) for global mining use-cases."
+    },
+    {
+      "id": "ee9a44743e8f",
+      "title": "Vena Energy secures AU$1.4 billion to scale Australian platform with solar and battery storage infrastructure",
+      "url": "https://www.energy-storage.news/vena-energy-secures-au1-4-billion-to-scale-australian-platform-with-solar-and-battery-storage-infrastructure/",
+      "published": "2026-07-02T08:24:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Singapore-headquartered clean energy developer Vena Energy has raised AU$1.4 billion (US$970 million) in green finance to support 614MW of solar PV capacity and 1,141MWh of battery energy storage systems (BESS) in Australia."
+    },
+    {
+      "id": "1586a82edbb9",
+      "title": "New PV module recycling tech achieves 97.75% silicon recovery for electrode production",
+      "url": "https://www.pv-magazine.com/2026/07/02/new-pv-module-recycling-tech-achieves-97-75-silicon-recovery-for-electrode-production/",
+      "published": "2026-07-02T07:16:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers developed a process to recover silicon and silicon dioxide (SiO₂) from end-of-life crystalline silicon solar cells for use in lithium-ion (Li-ion) battery electrodes across different substrates. The recovered material achieved around 97.75% silicon yield and showed substrate-dependent pe…"
+    },
+    {
+      "id": "44f7c1e964ae",
+      "title": "Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation & Battery Storage",
+      "url": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
+      "published": "2026-07-02T01:41:36+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Firmus today announced a landmark 12-year wholesale energy supply agreement with Gunvor Group for 600 MW of firm electricity to support the next phase of Project Southgate, its strategy to develop large-scale AI Factory campuses across regional Australia. Under the agreement, Gunvor will support the…"
+    },
+    {
+      "id": "5d66de615618",
+      "title": "AVILOO Launches UK Used EV Battery Warranty",
+      "url": "https://cleantechnica.com/2026/07/01/aviloo-launches-uk-used-ev-battery-warranty/",
+      "published": "2026-07-01T16:48:48+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Anyone who follows electric vehicles understands there is an active, if not robust, used electric vehicle market. Battery health is top of mind for many potential buyers because no one wants to buy a used EV to find out the battery needs to be replaced or requires repairs. Similarly, no ... [continu…"
+    },
+    {
+      "id": "c9e7010b7da1",
+      "title": "Co-location of solar and BESS still has a long way to go",
+      "url": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
+      "published": "2026-07-01T11:31:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A lot of work and thought still needs to go into maximising the potential for co-location of solar and BESS technology, panellists at the Clean Power 2030 Summit said yesterday (30 June)."
+    },
     {
       "id": "0be8e95b5d80",
       "title": "Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
