@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-02T10:44:08.688163+00:00",
-  "count": 412,
+  "updated": "2026-07-03T10:39:47.973510+00:00",
+  "count": 425,
   "items": [
+    {
+      "id": "8a6027dbc190",
+      "title": "VIDEO: Fluence’s Lars Stephan on what data centres and cybersecurity developments mean for BESS in Europe",
+      "url": "https://www.energy-storage.news/video-fluences-lars-stephan-on-what-data-centres-and-cybersecurity-developments-mean-for-bess-in-europe/",
+      "published": "2026-07-03T10:15:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We sat down with Lars Stephan, EMEA director of marketing, policy and public affairs for system integrator Fluence, to discuss energy storage, data centres and cybersecurity at Intersolar last month."
+    },
+    {
+      "id": "ba6a80ccaca5",
+      "title": "‘It’s really about flexibility’: FERC issues ‘show cause’ orders to US grid operators on large load integration",
+      "url": "https://www.energy-storage.news/its-really-about-flexibility-ferc-issues-show-cause-orders-to-us-grid-operators-on-large-load-integration/",
+      "published": "2026-07-03T10:04:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with energy storage market experts Raafe Khan of Camelot Energy Group and Oliver Kerr of Aurora Energy Research on FERC’s recently issued show cause orders."
+    },
+    {
+      "id": "f8276dc620fc",
+      "title": "EDF, Total, ACWA, Tesla, Gotion and Envision among qualified bidders for Saudi’s 12GWh BESS tender",
+      "url": "https://www.energy-storage.news/edf-total-acwa-tesla-gotion-and-envision-qualified-bidders-saudis-12gwh-bess-tender/",
+      "published": "2026-07-03T09:10:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The state-owned Saudi Power Procurement Company (SPPC) has revealed the qualified bidders for its second build own operate (BOO) BESS tender, totalling 3GW/12GWh of capacity across six projects."
+    },
+    {
+      "id": "163b5fdf0906",
+      "title": "HiTHIUM showcases its 6.9 MWh, eight-hour LDES solution at The smarter E Europe",
+      "url": "https://www.pv-magazine.com/2026/07/03/hithium-showcases-its-6-9-mwh-eight-hour-ldes-solution-at-the-smarter-e-europe/",
+      "published": "2026-07-03T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Long-duration energy storage (LDES) can provide reliable, flexible power for European electrification, and HiTHIUM provided a comprehensive overview of its ∞Power 6.9 MWh eight-hour LDES BESS at The smarter E Europe in Munich. The post HiTHIUM showcases its 6.9 MWh, eight-hour LDES solution at The s…"
+    },
+    {
+      "id": "b68ecc49ad7f",
+      "title": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
+      "url": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
+      "published": "2026-07-03T08:46:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As hardware margins compress and consolidation accelerates, smart appliance brand's energy division argues that intelligent software—not just batteries—will determine who survives"
+    },
+    {
+      "id": "f2a6e6189e2f",
+      "title": "Australia’s grid-scale battery storage fleet generates AU$17.98 million in the NEM as revenue capture reaches 32%",
+      "url": "https://www.energy-storage.news/australias-grid-scale-battery-storage-fleet-generates-au17-98-million-in-the-nem-as-revenue-capture-reaches-32/",
+      "published": "2026-07-03T07:55:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's 55 grid-scale BESS generated a combined AU$17.98 million in estimated gross energy and FCAS market revenue during June 2026."
+    },
+    {
+      "id": "c83bc0f035b7",
+      "title": "AGL to deliver 10.2MWh battery storage microgrid for South Australia’s largest almond orchard",
+      "url": "https://www.energy-storage.news/agl-to-deliver-10-2mwh-battery-storage-microgrid-for-south-australias-largest-almond-orchard/",
+      "published": "2026-07-03T07:52:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AGL has delivered a solar and battery microgrid described as “one of the largest privately owned non-mining microgrids in Australia”."
+    },
+    {
+      "id": "56e39518cfcd",
+      "title": "Residential Batteries Are Becoming An Active Grid Management Tool",
+      "url": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
+      "published": "2026-07-03T01:01:41+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Residential storage batteries are soaring in popularity in the US and other countries as their use in virtual power plants increases. The post Residential Batteries Are Becoming An Active Grid Management Tool appeared first on CleanTechnica."
+    },
+    {
+      "id": "ea468bfed643",
+      "title": "Volkswagen Group Shows Leadership With Elli V2G Service Launch",
+      "url": "https://cleantechnica.com/2026/07/02/volkswagen-group-shows-leadership-with-elli-v2g-service-launch/",
+      "published": "2026-07-02T17:16:55+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Last week, Volkswagen Group’s Elli launched its V2G service in Germany. Vehicle to Grid (V2G) means that an EV can charge off the grid and also feed energy back into the grid when needed. I had briefly mentioned the launch in key takeaways from InterSolar/Power2Drive, but it deserves a deeper ... [c…"
+    },
+    {
+      "id": "231177d5de31",
+      "title": "Why the true cost of new gas plants is much higher than the sticker price",
+      "url": "https://www.utilitydive.com/news/sticker-shock-gas-power-plants-pipeline-gridlab/824061/",
+      "published": "2026-07-02T13:04:17+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "When reviewing gas-fired power plant proposals, regulators often fail to consider pipeline, fuel and storage costs, which can add about 30% to a project&rsquo;s total cost, GridLab&rsquo;s Cassady Craighill writes."
+    },
+    {
+      "id": "8bcbb0857116",
+      "title": "Scotland: ContourGlobal 2GWh acquisition, Zenobē and Revera FIDs on 800MWh projects",
+      "url": "https://www.energy-storage.news/scotland-contourglobal-2gwh-acquisition-zenobe-and-revera-fids-on-800mwh-projects/",
+      "published": "2026-07-02T12:46:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A roundup of recent large-scale BESS activity in the UK, with IPPs ContourGlobal, Zenobē and Revera buying or taking FID on three separate projects totalling 3.6GWh of capacity."
+    },
+    {
+      "id": "d62c5ec6320c",
+      "title": "Calculating state of charge (SOC) in BESS",
+      "url": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
+      "published": "2026-07-02T12:22:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "State of charge (SOC) is on the face of it a straightforward measurement for batteries and BESS. But in reality, it's highly complex and under- or over-reporting still happens in the industry, leading to under-performance and losses in revenue."
+    },
+    {
+      "id": "043d2e869292",
+      "title": "New “Air” Battery Makes Larger Electric Aircraft Possible",
+      "url": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
+      "published": "2026-07-02T12:17:48+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A new solid state, lithium-air battery is on its way to pilot-scale production, offering less weight and higher energy density for electric aircraft. The post New &#8220;Air&#8221; Battery Makes Larger Electric Aircraft Possible appeared first on CleanTechnica."
+    },
     {
       "id": "a0c17778d5d0",
       "title": "Vopak takes FID on 800MWh Netherlands ‘controllable congestion mitigator’ BESS",
