@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-05T10:17:58.817569+00:00",
-  "count": 429,
+  "updated": "2026-07-06T12:07:20.952051+00:00",
+  "count": 434,
   "items": [
+    {
+      "id": "231224213289",
+      "title": "Poweroad receives China’s first pilot Battery Passport from Bureau Veritas",
+      "url": "https://www.pv-magazine.com/2026/07/06/poweroad-receives-chinas-first-pilot-battery-passport-from-bureau-veritas/",
+      "published": "2026-07-06T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "POWEROAD has received China’s first pilot Battery Passport issued by Bureau Veritas through the Circulor platform, marking an early step toward Digital Battery Passport implementation under the EU Battery Regulation and toward improved battery lifecycle transparency. The post Poweroad receives China…"
+    },
+    {
+      "id": "07526d8abeab",
+      "title": "AI is reshaping the grid. Utilities need capacity that can move faster.",
+      "url": "https://www.utilitydive.com/spons/ai-is-reshaping-the-grid-utilities-need-capacity-that-can-move-faster/824175/",
+      "published": "2026-07-06T09:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "New large loads arrive in months. Grid upgrades take years. Fast storage helps close the gap."
+    },
+    {
+      "id": "0cee01ba1c20",
+      "title": "Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
+      "url": "https://www.energy-storage.news/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia/",
+      "published": "2026-07-06T08:10:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tech giant Amazon has signed a new power purchase agreement (PPA) to procure energy from IPP European Energy’s 220MWh Winton North solar-plus-storage project in northeast Victoria, Australia."
+    },
+    {
+      "id": "b00bfa6bb45e",
+      "title": "Australia’s Zen Energy appoints administrators with wholesale electricity volatility cited as main driver",
+      "url": "https://www.energy-storage.news/australias-zen-energy-appoints-administrators-with-wholesale-electricity-volatility-cited-as-main-driver/",
+      "published": "2026-07-06T08:08:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Zen Energy, a South Australian renewable energy company co-founded by economist Ross Garnaut, has appointed voluntary administrators after its retail business failed to secure a viable buyer."
+    },
+    {
+      "id": "115277377af4",
+      "title": "Battery Swapping Is Finally Coming To The USA, Two Wheels At A Time",
+      "url": "https://cleantechnica.com/2026/07/05/battery-swapping-us-e-bikes-honda-nyc/",
+      "published": "2026-07-05T15:57:12+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New York City has become the focus of efforts to bring e-bike battery swapping to the US, with the aim of reducing fire hazards linked to home recharging while also benefiting deliveristas. The post Battery Swapping Is Finally Coming To The USA, Two Wheels At A Time appeared first on CleanTechnica."
+    },
     {
       "id": "8b3de9907969",
       "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
