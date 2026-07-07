@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-06T12:07:20.952051+00:00",
-  "count": 434,
+  "updated": "2026-07-07T11:11:08.417506+00:00",
+  "count": 444,
   "items": [
+    {
+      "id": "6bb8e5d9c16d",
+      "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
+      "url": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
+      "published": "2026-07-07T10:52:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "System integrator HyperStrong will deploy sodium-ion BESS first in its home market of China, before bringing a product to the international markets, its president of technology said."
+    },
+    {
+      "id": "b89045f3da95",
+      "title": "European battery & BESS manufacturing gets boost with Eni Storage and Hithium gigafactory milestones in Italy, Spain",
+      "url": "https://www.energy-storage.news/european-battery-manufacturing-boost-eni-storage-hithium-lfp-gigafactory-milestones-italy-spain/",
+      "published": "2026-07-07T10:47:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Eni Storage Systems has broken ground on a gigafactory in Italy set to build LFP cells for energy storage applications, while Chinese firm Hithium has won an €80 million grant from the Spanish government for a battery and BESS plant there."
+    },
+    {
+      "id": "3516eb1f9089",
+      "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
+      "url": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
+      "published": "2026-07-07T09:26:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developers must use all the tools at their disposal and be aware of the frontline climate risks that battery storage projects in Southeast Asia will be subject to."
+    },
+    {
+      "id": "f8bfa7c29e38",
+      "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
+      "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
+      "published": "2026-07-07T08:56:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chinese system integrators have cemented their dominance of the global battery energy storage system (BESS) market, capturing 76% of global market share in 2025."
+    },
+    {
+      "id": "0be7dfd152e3",
+      "title": "Meridian Energy secures three-year consent to access 545GWh hydro storage at New Zealand’s Lake Pūkaki",
+      "url": "https://www.energy-storage.news/meridian-energy-secures-three-year-consent-to-access-545gwh-hydro-storage-at-new-zealands-lake-pukaki/",
+      "published": "2026-07-07T05:30:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New Zealand state-owned energy company from a Fast-track Approvals Panel to access contingent hydro storage at Lake Pūkaki in New Zealand."
+    },
+    {
+      "id": "a21c2f619ef0",
+      "title": "How a Colorado tribe beat the federal solar permit freeze",
+      "url": "https://www.pv-magazine.com/2026/07/07/how-a-colorado-tribe-beat-the-federal-solar-permit-freeze/",
+      "published": "2026-07-07T05:29:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "By utilizing the legacy grid infrastructure of a demolished coal plant and racing to secure regulatory signatures mere days ahead of federal permitting freezes, the Ute Mountain Ute tribe successfully stayed on track to break ground on its 170 MW solar-plus-storage asset while other developments sta…"
+    },
+    {
+      "id": "a844bec220b9",
+      "title": "Grenergy Launches A Reverse Energy Auction In Chile",
+      "url": "https://cleantechnica.com/2026/07/06/grenergy-launches-a-reverse-energy-auction-in-chile/",
+      "published": "2026-07-07T03:50:40+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "It will auction 1.5 TWh through its subsidiary GR Power The energy, for both the nighttime and daytime periods, comes from solar generation and battery storage across different Grenergy plants in the north and center of the country Companies may submit their applications until July 22 Grenergy has l…"
+    },
+    {
+      "id": "8bdfb71d9bf4",
+      "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
+      "url": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
+      "published": "2026-07-07T01:52:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Renewables company CleanPeak Energy has inked a 15-year agreement to supply Western Sydney International (WSI) Airport with 100% renewable energy, with 30MW/120MWh of battery energy storage on-site as part of the commercial arrangement."
+    },
+    {
+      "id": "3edb11f956e3",
+      "title": "3.8GWh of battery storage progresses through Australia’s EPBC Act process across three projects",
+      "url": "https://www.energy-storage.news/3-8gwh-of-battery-storage-progresses-through-australias-epbc-act-process-across-three-projects/",
+      "published": "2026-07-07T01:50:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "More than 3.8GWh of combined BESS capacity has either cleared or is undergoing federal environmental assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "498a7f7a073b",
+      "title": "Engie agrees offtake deal with developer for 625MWh of Spain BESS",
+      "url": "https://www.energy-storage.news/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll/",
+      "published": "2026-07-06T13:37:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Power firm Engie has entered into a long-term flexibility purchase agreement with developer Ignis for 625MWh of BESS capacity in Spain."
+    },
     {
       "id": "231224213289",
       "title": "Poweroad receives China’s first pilot Battery Passport from Bureau Veritas",
