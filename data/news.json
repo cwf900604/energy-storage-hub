@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-07T11:11:08.417506+00:00",
-  "count": 444,
+  "updated": "2026-07-08T10:21:44.409123+00:00",
+  "count": 454,
   "items": [
+    {
+      "id": "bc3a6dfad7f5",
+      "title": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
+      "url": "https://www.energy-storage.news/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform/",
+      "published": "2026-07-08T10:06:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "This edition of news in brief features portfolio acquisitions, project completions, a supply deal and investments across Europe."
+    },
+    {
+      "id": "b2da328af3b6",
+      "title": "A rebuildable solar array to train students and access ‘beginner’s mind’",
+      "url": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/",
+      "published": "2026-07-08T08:34:53+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A US master electrician deployed a solar-plus-storage project at a Pennsylvania trade school that students can take apart and rebuild every year for continued hands-on training. The post A rebuildable solar array to train students and access &#8216;beginner’s mind&#8217; appeared first on pv magazin…"
+    },
+    {
+      "id": "09019ede6f7c",
+      "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
+      "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
+      "published": "2026-07-08T08:01:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Dutch long-duration energy storage (LDES) developer Elestor has partnered with Windpark Zeewolde to deploy a 20MW/200-800MWh hydrogen-iron flow battery storage system at what is described as Europe's largest onshore wind farm."
+    },
+    {
+      "id": "8ec750a9146d",
+      "title": "Grid expansion, storage, flexibility lag behind Europe’s renewables growth",
+      "url": "https://www.pv-magazine.com/2026/07/08/grid-expansion-storage-flexibility-lag-behind-europes-renewables-growth/",
+      "published": "2026-07-08T07:49:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "New report from the European Climate Neutrality Observatory says the grid expansion, electricity storage and flexibility needed to use renewable power at scale in Europe is not moving fast enough. The post Grid expansion, storage, flexibility lag behind Europe’s renewables growth appeared first on p…"
+    },
+    {
+      "id": "cf04907790d4",
+      "title": "Australian utility delivers solar microgrid for farming operation",
+      "url": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
+      "published": "2026-07-08T05:04:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "AGL Energy has delivered a solar and battery-based microgrid in South Australia that will supply about 85% of power for one of the country’s largest almond orchards, helping reduce its reliance on grid electricity and slashing its diesel use by almost 90%. The post Australian utility delivers solar …"
+    },
+    {
+      "id": "44b85b932324",
+      "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
+      "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
+      "published": "2026-07-08T04:54:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Waratah Super Battery developer Akaysha Energy and partners have begun construction of a large-scale battery project in Fukuoka, Japan."
+    },
+    {
+      "id": "d0a1e0e51beb",
+      "title": "CleanPeak Energy & Western Sydney International Airport Partner on 100% Renewable Electricity Deal",
+      "url": "https://cleantechnica.com/2026/07/07/cleanpeak-energy-western-sydney-international-airport-partner-on-100-renewable-electricity-deal/",
+      "published": "2026-07-08T03:46:17+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "CleanPeak Energy has partnered with Western Sydney International (Nancy-Bird Walton) Airport (WSI) to deliver 100% renewable electricity to Australia’s newest airport. CleanPeak Energy will invest over $50m at the site to develop 9 MWp of new rooftop solar and a 120 MWh Battery Energy Storage System…"
+    },
+    {
+      "id": "2aa94ba434f5",
+      "title": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
+      "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
+      "published": "2026-07-08T03:13:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Australian government has introduced a dedicated First Nations Set Aside pilot into both Capacity Investment Scheme Tenders 9 and 10."
+    },
+    {
+      "id": "c90e91390f6c",
+      "title": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
+      "url": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
+      "published": "2026-07-08T03:12:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Arash Shojaie of QIC Infrastructure outlines how Queensland's North West Energy Fund will approach cost reduction, technology selection and more."
+    },
+    {
+      "id": "43635feee7c3",
+      "title": "Massachusetts utilities ink contracts for 4.5 GWh of energy storage",
+      "url": "https://www.utilitydive.com/news/massachusetts-utilities-dpu-contracts-energy-storage/824614/",
+      "published": "2026-07-07T17:18:06+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "One project, set for a former fossil power plant site, reflects the diverging fortunes of New England&rsquo;s offshore wind and energy storage industries."
+    },
     {
       "id": "6bb8e5d9c16d",
       "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
