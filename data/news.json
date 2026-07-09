@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-08T10:21:44.409123+00:00",
-  "count": 454,
+  "updated": "2026-07-09T10:57:36.856357+00:00",
+  "count": 468,
   "items": [
+    {
+      "id": "4c9208729393",
+      "title": "Premier Energies inaugurates 5.6 GW solar module manufacturing facility in India",
+      "url": "https://www.pv-magazine.com/2026/07/09/premier-energies-inaugurates-5-6-gw-solar-module-manufacturing-facility-in-telangana/",
+      "published": "2026-07-09T10:47:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Indian solar cell and module manufacturer also broke ground on a 6 GWh battery energy storage system (BESS) manufacturing facility and an aluminium frame manufacturing plant with an annual capacity of 18,000 metric tonnes. The post Premier Energies inaugurates 5.6 GW solar module manufacturing f…"
+    },
+    {
+      "id": "bea201d5552f",
+      "title": "Study finds residential heat pumps offer flexibility potential even during coldest periods",
+      "url": "https://www.pv-magazine.com/2026/07/09/study-finds-residential-heat-pumps-offer-flexibility-potential-even-during-coldest-periods/",
+      "published": "2026-07-09T10:39:24+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers in Germany found that residential air-to-water heat pumps retain significant operational flexibility even during extreme winter conditions, as they rarely operate at their maximum capacity. The study of 761 systems in southern Germany shows that intelligent control and thermal storage st…"
+    },
+    {
+      "id": "5c94634efd65",
+      "title": "Battery storage business models explored for AI data centres with Nordic reserve market revenues and US household computing power",
+      "url": "https://www.energy-storage.news/battery-storage-business-models-explored-for-ai-data-centres-with-nordic-reserve-market-revenues-and-us-household-computing-power/",
+      "published": "2026-07-09T10:07:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AI data centre battery storage announcements on both sides of the Atlantic explore the tapping of grid-balancing revenues and distributed computing."
+    },
+    {
+      "id": "3af62f243d83",
+      "title": "The State of BESS Analytics: Three Views from The Smarter E 2026",
+      "url": "https://www.energy-storage.news/the-state-of-bess-analytics-three-views-from-the-smarter-e-2026/",
+      "published": "2026-07-09T10:03:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Three companies across the BESS value chain, including PowerUp, describe how battery analytics has become a decision layer that the whole ecosystem acts upon."
+    },
+    {
+      "id": "32025037158f",
+      "title": "Argentina awards 700.5 MW of battery storage across critical grid nodes",
+      "url": "https://www.pv-magazine.com/2026/07/09/argentina-awards-700-5-mw-of-battery-storage-across-critical-grid-nodes/",
+      "published": "2026-07-09T09:32:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Argentina has awarded 20 battery energy storage system (BESS) projects to five developers under the AlmaSADI tender, with an estimated investment of $700 million to strengthen the national grid outside the Buenos Aires metropolitan area. The post Argentina awards 700.5 MW of battery storage across c…"
+    },
+    {
+      "id": "047462094306",
+      "title": "Brazilian grid operator expects PV, wind curtailment to reach 40 GW",
+      "url": "https://www.pv-magazine.com/2026/07/09/brazilian-grid-operators-expects-pv-wind-courtailment-to-reach-40-gw/",
+      "published": "2026-07-09T09:11:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Brazil’s ONS warns that wind and solar curtailment could reach 40 GW annually by 2030 as renewable expansion outpaces demand growth and grid flexibility. The operator highlights transmission upgrades, storage, demand response, and better management of distributed generation as key measures to mainta…"
+    },
+    {
+      "id": "96eb20fb7b9c",
+      "title": "LONGi showcases solar+storage solution at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/09/longi-showcases-solarstorage-solution-at-the-smarter-e-2026/",
+      "published": "2026-07-09T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In his interview at the event, LONGi Vice President Dennis She explains why the company is focusing on its full stack system and discusses plans to establish 15 local service centers across Europe. The post LONGi showcases solar+storage solution at The smarter E 2026 appeared first on pv magazine Gl…"
+    },
+    {
+      "id": "0db74375094e",
+      "title": "Ban on high-risk PV inverters to impact 14% of EU solar demand to 2030",
+      "url": "https://www.pv-magazine.com/2026/07/09/ban-on-high-risk-pv-inverters-to-impact-14-of-eu-solar-demand-to-2030/",
+      "published": "2026-07-09T08:11:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Wood Mackenzie is forecasting that an EU funding ban on projects using solar inverters from China and other countries deemed high risk will impact 14% of EU solar demand through to 2030, as well as 12% of energy storage deployments. The post Ban on high-risk PV inverters to impact 14% of EU solar de…"
+    },
+    {
+      "id": "c43322b5aa22",
+      "title": "UK ROUNDUP: Field closes financing on 1GWh portfolio; Pulse Clean Energy selects Envision for 310MWh project",
+      "url": "https://www.energy-storage.news/uk-roundup-field-closes-financing-on-1gwh-portfolio-pulse-clean-energy-selects-envision-for-310mwh-project/",
+      "published": "2026-07-09T08:04:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Field and Pulse Clean Energy have each advanced UK battery storage projects this week, with a combined capacity of over 1.3GWh."
+    },
+    {
+      "id": "d419fbd43034",
+      "title": "In the age of AI data centres and electrification, the grid is the real bottleneck",
+      "url": "https://www.energy-storage.news/in-the-age-of-ai-data-centres-and-electrification-the-grid-is-the-real-bottleneck/",
+      "published": "2026-07-09T07:56:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Europe is suddenly seeing AI data centre scale-up take centre stage in energy planning considerations amid the ongoing electrification of the economy."
+    },
+    {
+      "id": "34a68b4f649d",
+      "title": "Avangrid Begins Panel Installation at Oregon Trail Solar, Supports Local Jobs",
+      "url": "https://cleantechnica.com/2026/07/08/avangrid-begins-panel-installation-at-oregon-trail-solar-supports-local-jobs/",
+      "published": "2026-07-09T03:30:14+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Company recently installed first solar panels on the 57 MWdc (41 MWac) project in Gilliam County. Avangrid, Inc., a leading energy company and member of the Iberdrola Group, today announced that it has begun panel installation at Oregon Trail Solar, a 57 MWdc (41 MWac) energy project located in Gill…"
+    },
+    {
+      "id": "f30c4ccf5c93",
+      "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
+      "url": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
+      "published": "2026-07-08T13:43:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developer New Leaf Energy withdrew its application for a battery energy storage system (BESS) in Santa Cruz County, California, US, choosing to seek approval through the California Energy Commission (CEC)."
+    },
+    {
+      "id": "da2b6ab2f81c",
+      "title": "Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
+      "url": "https://www.energy-storage.news/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility/",
+      "published": "2026-07-08T12:58:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "L-H Battery Company commenced lithium-ion (Li-ion) cell production at its Jeffersonville, Ohio, US plant this month, for automotive and stationary power applications."
+    },
+    {
+      "id": "adc6483856af",
+      "title": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
+      "url": "https://www.energy-storage.news/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe/",
+      "published": "2026-07-08T10:29:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-storage.news spoke with Gerry Liu, GM of Hiconincs, at Intersolar Europe in Munich. We discussed the company’s residential energy offerings and its plans for the European market."
+    },
     {
       "id": "bc3a6dfad7f5",
       "title": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
