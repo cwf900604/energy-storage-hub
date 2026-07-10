@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-09T10:57:36.856357+00:00",
-  "count": 468,
+  "updated": "2026-07-10T10:57:47.066062+00:00",
+  "count": 480,
   "items": [
+    {
+      "id": "ac13ba262612",
+      "title": "Canadian Solar unveils new EP Cube systems featuring higher power, scalable storage",
+      "url": "https://www.pv-magazine.com/2026/07/10/canadian-solar-unveils-new-ep-cube-systems-featuring-higher-power-scalable-storage/",
+      "published": "2026-07-10T10:52:47+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Canadian Solar has launched upgraded EP Cube Single-Phase 2.0 and Three-Phase Pro energy storage systems, combining hybrid inverters with modular LFP batteries for residential, C&#38;I, and scalable backup applications. The new systems deliver higher output, expanded MPPT flexibility, and storage ca…"
+    },
+    {
+      "id": "fb5c034371eb",
+      "title": "SVOLT brings LFP battery expertise from EVs to C&I and utility-scale storage markets",
+      "url": "https://www.pv-magazine.com/2026/07/10/svolt-brings-lfp-battery-expertise-from-evs-to-ci-and-utility-scale-storage-markets/",
+      "published": "2026-07-10T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At The smarter E 2026, Xu Tian, General Manager of Overseas Energy Storage Sales for SVOLT, announced the company’s plans to launch a 6 MWh container solution later in 2026. The post SVOLT brings LFP battery expertise from EVs to C&amp;I and utility-scale storage markets appeared first on pv magazin…"
+    },
+    {
+      "id": "833e682afdd7",
+      "title": "US-based BESS companies Peak Energy, ESS Inc and Unigrid aim to commercialise sodium-ion in US, Europe",
+      "url": "https://www.energy-storage.news/us-based-bess-companies-peak-energy-ess-inc-and-unigrid-aim-to-commercialise-sodium-ion-in-us-europe/",
+      "published": "2026-07-10T08:25:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Peak Energy, ESS Tech Inc, and Unigrid have made recent announcements advancing sodium-ion energy storage technology in the US and Europe."
+    },
+    {
+      "id": "8208203eaa95",
+      "title": "State of health: The critical metric for measuring battery ageing and performance, and why it matters for BESS",
+      "url": "https://www.energy-storage.news/state-of-health-the-critical-metric-for-measuring-battery-ageing-and-performance-and-why-it-matters-for-bess/",
+      "published": "2026-07-10T07:42:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Liam Critchley takes a deep dive into battery state of health (SoH), one of the most important metrics for battery storage operational and lifecycle management."
+    },
+    {
+      "id": "cf2046b92910",
+      "title": "SEC and Energy Dome to deploy 20MW/200MWh compressed CO2 energy storage system in Victoria, Australia",
+      "url": "https://www.energy-storage.news/sec-and-energy-dome-to-deploy-20mw-240mwh-compressed-co2-energy-storage-system-in-victoria-australia/",
+      "published": "2026-07-10T04:14:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Victoria's State Electricity Commission (SEC) and Italian clean technology company Energy Dome have announced plans to develop the state's first long-duration energy storage (LDES) facility."
+    },
+    {
+      "id": "bcee41c93214",
+      "title": "Palau solar-plus-storage site to add 19.8MWh BESS in Australian-backed augmentation",
+      "url": "https://www.energy-storage.news/palau-solar-plus-storage-site-to-add-19-8mwh-bess-in-australian-backed-augmentation/",
+      "published": "2026-07-10T02:46:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A 19.8MWh battery energy storage system (BESS) is to be added to an existing solar-plus-storage facility in the Republic of Palau, with Australian development finance backing the expansion of one of the Western Pacific's flagship hybrid renewable energy projects."
+    },
+    {
+      "id": "020b9eae9455",
+      "title": "Australia’s HMC Capital closes KKR investment, unifies energy platform under new Illuma Energy brand",
+      "url": "https://www.energy-storage.news/australias-hmc-capital-closes-kkr-investment-unifies-energy-platform-under-new-illuma-energy-brand/",
+      "published": "2026-07-10T02:44:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "HMC Capital has launched Illuma Energy, a new identity that brings together the ASX-listed asset manager's energy investment, development and operating activities under a single platform."
+    },
+    {
+      "id": "bfb341723a27",
+      "title": "ComEd Commissions Two New Substations, Unlocking Up To 550MW of Wind Energy to the Grid",
+      "url": "https://cleantechnica.com/2026/07/09/comed-commissions-two-new-substations-unlocking-up-to-550mw-of-wind-energy-to-the-grid/",
+      "published": "2026-07-10T02:23:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New transmission substations in LaSalle and Woodford Counties expand capacity to enable utility scale wind farms while enhancing reliability for surrounding communities. ComEd today announced the successful energization of two new 345 kV transmission substations to its grid, enabling the interconnec…"
+    },
+    {
+      "id": "261fb52bcedc",
+      "title": "KKR to buy EDF power solutions’ North American operations for $4.2B",
+      "url": "https://www.utilitydive.com/news/kkr-to-buy-edf-power-solutions-north-american-operations-for-42b/824599/",
+      "published": "2026-07-09T16:33:16+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "EDF power solutions owns and runs a portfolio of solar, wind and battery storage assets across multiple regions. The company said its U.S. and Canada operations serve a wide range of utilities, companies and institutional customers."
+    },
+    {
+      "id": "81e60b5d7b12",
+      "title": "Opdenergy closes US$227 million financing for Chile renewables and BESS portfolio",
+      "url": "https://www.energy-storage.news/opdenergy-closes-us227-million-financing-for-chile-renewables-and-bess-portfolio/",
+      "published": "2026-07-09T13:28:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Independent power producer (IPP) Opdenergy has closed a US$227 million financing for its operating renewable energy portfolio in Chile."
+    },
+    {
+      "id": "3819f9f6023c",
+      "title": "Frontier Power USA picks four sites to deploy 920MWh of Eos zinc hybrid-cathode BESS",
+      "url": "https://www.energy-storage.news/frontier-power-usa-picks-four-sites-to-deploy-920mwh-of-eos-zinc-hybrid-cathode-bess/",
+      "published": "2026-07-09T13:25:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Long-duration energy storage (LDES) development and investment company Frontier Power USA (FPUSA) has exercised its exclusive Selection Right with respect to four BESS projects from clean energy platform Stella Energy Solutions."
+    },
+    {
+      "id": "9c4ac905a054",
+      "title": "Swiss firm Alpiq acquires 90% stake in BESS developer-operator Harmony Energy",
+      "url": "https://www.energy-storage.news/alpiq-acquires-harmony-energy/",
+      "published": "2026-07-09T12:57:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Switzerland-headquartered power firm Alpiq will acquire a 90% stake in UK-based BESS developer-operator Harmony Energy."
+    },
     {
       "id": "4c9208729393",
       "title": "Premier Energies inaugurates 5.6 GW solar module manufacturing facility in India",
