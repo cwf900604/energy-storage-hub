@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-10T10:57:47.066062+00:00",
-  "count": 480,
+  "updated": "2026-07-11T09:40:23.218177+00:00",
+  "count": 484,
   "items": [
+    {
+      "id": "0f5375321d42",
+      "title": "China could produce more batteries than global demand by 2030, says US think tank",
+      "url": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
+      "published": "2026-07-11T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "China’s battery cell manufacturing capacity could exceed projected global demand by 2030, according to a new Carnegie Endowment report, which recommends selective cooperation with Chinese companies to reduce supply chain risks. The post China could produce more batteries than global demand by 2030, …"
+    },
+    {
+      "id": "41d28c80f731",
+      "title": "A Tour of the Jackery Energy Storage Factory & Product Testing Lab — CleanTechnica Field Trip",
+      "url": "https://cleantechnica.com/2026/07/10/a-tour-of-the-jackery-energy-storage-factory-product-testing-lab-cleantechnica-field-trip/",
+      "published": "2026-07-10T21:55:54+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery&#8217;s rugged products have been pushing out power to keep our outdoor adventures moving for years, so we were excited to get a look behind the proverbial curtain at its energy storage production lines. Disclaimer: the author&#8217;s travel and accommodations were paid for by iMpact PR as p…"
+    },
+    {
+      "id": "4938775d1d8f",
+      "title": "Volvo’s Electric Truck Is Moving Faster Than Its Hydrogen Strategy",
+      "url": "https://cleantechnica.com/2026/07/10/volvo-electric-truck-hydrogen-strategy/",
+      "published": "2026-07-10T14:19:16+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Volvo’s new FH Aero Electric is the kind of truck legacy manufacturers used to imply battery-electric trucking could not really become. It claims up to 700 kilometers of range, carries up to 725 kWh of usable battery energy, supports megawatt charging, and uses a new e-axle to free more chassis ... …"
+    },
+    {
+      "id": "388278d0eec1",
+      "title": "California School District Jumps Into Solar, Storage, & Electric Buses",
+      "url": "https://cleantechnica.com/2026/07/10/california-school-district-jumps-into-solar-storage-electric-buses/",
+      "published": "2026-07-10T13:53:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The quite rural Porterville Unified School District (PUSD) in California, which sits between Los Angeles and San Francisco, or Los Angeles and Sacramento, has decided to go all-in on cleantech. It is getting solar, battery energy storage, and also electric school buses. The school district is workin…"
+    },
     {
       "id": "ac13ba262612",
       "title": "Canadian Solar unveils new EP Cube systems featuring higher power, scalable storage",
