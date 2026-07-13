@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-12T09:53:14.082591+00:00",
-  "count": 485,
+  "updated": "2026-07-13T11:15:27.429249+00:00",
+  "count": 489,
   "items": [
+    {
+      "id": "1ab914ffb1fe",
+      "title": "What the U.S. can learn from Australia’s home battery boom",
+      "url": "https://www.utilitydive.com/spons/what-the-us-can-learn-from-australias-home-battery-boom/824718/",
+      "published": "2026-07-13T09:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Australia's home battery boom offers the U.S. a blueprint for the data center energy surge."
+    },
+    {
+      "id": "ce72e2bb8f17",
+      "title": "Germany energy provider builds 50 MW power-to-heat system",
+      "url": "https://www.pv-magazine.com/2026/07/13/germany-energy-provider-builds-50-mw-power-to-heat-system/",
+      "published": "2026-07-13T08:08:33+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Enercity is building a 50 MW power-to-heat plant in Hanover to support its coal phase-out, decarbonize district heating, and absorb surplus renewable electricity. The facility will expand the utility’s flexibility by converting excess power into heat for the district heating network and storage syst…"
+    },
+    {
+      "id": "2cf93068531b",
+      "title": "‘Australian first’ compressed CO2 battery project takes shape",
+      "url": "https://www.pv-magazine.com/2026/07/13/sec-plans-australian-first-compressed-co2-battery-in-victorian-coal-country/",
+      "published": "2026-07-13T06:23:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Victorian government and Italian clean technology company Energy Dome have announced plans to develop Australia’s first long-duration compressed carbon dioxide battery energy storage facility in the heart of the state's coal country. The post ‘Australian first’ compressed CO2 battery project tak…"
+    },
+    {
+      "id": "14c29927ee09",
+      "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
+      "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
+      "published": "2026-07-13T04:12:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's AEMC is consulting on minimum system load in the NEM, with battery energy storage investment at the heart of the debate."
+    },
     {
       "id": "69e9a960580b",
       "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
