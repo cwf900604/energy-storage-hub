@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-13T11:15:27.429249+00:00",
-  "count": 489,
+  "updated": "2026-07-14T10:01:15.503481+00:00",
+  "count": 505,
   "items": [
+    {
+      "id": "f1400e541c54",
+      "title": "VIDEO: FEOC and the Future of BESS Procurement, a webinar with Intertek CEA",
+      "url": "https://www.energy-storage.news/video-feoc-and-the-future-of-bess-procurement-a-webinar-with-intertek-cea/",
+      "published": "2026-07-14T09:50:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news proudly presents this webinar, sponsored by Intertek CEA, examining the impact of foreign entity of concern (FEOC) restrictions on US battery storage procurement."
+    },
+    {
+      "id": "7c5c24145879",
+      "title": "Giga Storage secures finance for 2.8GWh ‘critical infrastructure’ Belgium BESS",
+      "url": "https://www.energy-storage.news/giga-storage-secures-finance-for-2-8gwh-critical-infrastructure-belgium-bess/",
+      "published": "2026-07-14T09:10:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Owner-operator has secured a €450 million (US$512 million) financing package for its 700MW/2,800MWh Green Turtle BESS project in Belgium."
+    },
+    {
+      "id": "8c3e1a34413f",
+      "title": "The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform",
+      "url": "https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/",
+      "published": "2026-07-14T09:05:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Huawei FusionSolar’s new Smart String Grid-Forming ESS Platform, LUTERRA, is born from technology breakthroughs designed to drive customer success."
+    },
+    {
+      "id": "7ac66c5d4981",
+      "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
+      "url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/",
+      "published": "2026-07-14T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At The smarter E 2026, the company highlighted its new SolarVault 3 Series of plug-in solar energy storage products, along with its Home Energy Management System and related smart accessories. The post Jackery showcases plug-in solar storage systems and energy management accessories in Munich appear…"
+    },
+    {
+      "id": "ceb94d687d91",
+      "title": "Lazard: US utility-scale energy storage LCOS has increased since restrictions on Chinese cells came into force",
+      "url": "https://www.energy-storage.news/lazard-us-utility-scale-energy-storage-lcos-has-increased-since-restrictions-on-chinese-cells-came-into-force/",
+      "published": "2026-07-14T08:54:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "According to Lazard’s annual benchmarking report, the levelised cost of storage (LCOS) of utility-scale battery energy storage systems (BESS) in the US has risen, reversing declines reported in the 2025 edition."
+    },
+    {
+      "id": "1cfcb4116cda",
+      "title": "Intertek CEA says 587Ah cells could drive down BESS costs through 2027",
+      "url": "https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/",
+      "published": "2026-07-14T07:50:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "US research firm Intertek CEA says wider adoption of 587Ah battery cells could lower the cost of standard battery energy storage system (BESS) containers through 2027, even as lithium carbonate prices have risen sharply. The post Intertek CEA says 587Ah cells could drive down BESS costs through 2027…"
+    },
+    {
+      "id": "3159bf860ca0",
+      "title": "Peru proposes national energy planning framework with solar and storage scenarios",
+      "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
+      "published": "2026-07-14T06:01:52+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Peru’s Ministry of Energy and Mines (MINEM) has published draft provisions to establish a national energy planning framework covering long-, medium-, and short-term horizons. The proposal does not include specific deployment targets for solar PV or energy storage but aims to develop the scenarios, s…"
+    },
+    {
+      "id": "dab59aac4a05",
+      "title": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
+      "url": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
+      "published": "2026-07-14T05:44:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers in Spain found that hydraulic storage can be more cost-effective than batteries for photovoltaic irrigation systems, while combined storage maximizes self-sufficiency. The study shows that the optimal solution depends on whether the priority is reducing grid dependence or minimizing oper…"
+    },
+    {
+      "id": "fcbb8ccfaa8f",
+      "title": "Thailand is creating a ‘flexible and competitive environment’ for energy storage market participation",
+      "url": "https://www.energy-storage.news/thailand-is-creating-a-flexible-and-competitive-environment-for-energy-storage-market-participation/",
+      "published": "2026-07-14T03:37:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New market rules will encourage investment in energy storage as a key component of Thailand’s national energy vision, according to the country’s energy ministry."
+    },
+    {
+      "id": "5eaece0d907b",
+      "title": "Australia’s Queensland government reportedly shelves 20GWh pumped hydro project",
+      "url": "https://www.energy-storage.news/australias-queensland-government-reportedly-shelves-20gwh-pumped-hydro-project/",
+      "published": "2026-07-14T01:07:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Queensland government has reportedly shelved the proposed AU$6 billion (US$4 billion) Mt Rawdon pumped hydro project, ending state support for a mine-repurposing scheme that had attracted AU$50 million in government funding."
+    },
+    {
+      "id": "664fe3f5e0a5",
+      "title": "Canada Has Named Five Interties. It Still Has To Build A National Grid",
+      "url": "https://cleantechnica.com/2026/07/13/canada-five-interties-national-electricity-grid/",
+      "published": "2026-07-13T21:47:50+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Canada’s electricity strategy is finally becoming specific enough to test. Ottawa is no longer speaking only about clean power, energy security, nation building and doubling grid capacity. The federal government has started naming provincial boundaries where new electricity infrastructure may cross:…"
+    },
+    {
+      "id": "233b3cd5c55a",
+      "title": "My 12 Year EV Saga … Finishing with FSD V14, the Ultimate Driving Machine",
+      "url": "https://cleantechnica.com/2026/07/13/my-12-year-ev-saga-finishing-with-fsd-v14-the-ultimate-driving-machine/",
+      "published": "2026-07-13T21:38:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "On February 31, 2014, twelve years and four months ago, I took the plunge and leased my first battery electric car, a 2014 Nissan Leaf. As you can see from the 100% electric sticker, I immediately became an EV evangelist. At $200/month, I figured that I would easily save that ... [continued] The pos…"
+    },
+    {
+      "id": "336c8bbdb852",
+      "title": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
+      "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
+      "published": "2026-07-13T14:44:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Argentinian Government has awarded 700MW of battery energy storage system (BESS) in its latest tender, AlmaSADI, covering the entire country."
+    },
+    {
+      "id": "b40b38fd3857",
+      "title": "CMBlu Energy advances US manufacturing plans and targets multiple market segments for organic flow battery technology",
+      "url": "https://www.energy-storage.news/cmblu-energy-advances-us-manufacturing-plans-and-targets-multiple-market-segments-for-organic-flow-battery-technology/",
+      "published": "2026-07-13T11:54:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium catches up with Giovanni Damato, US president of organic flow battery company CMBlu Energy about the company’s recent activity."
+    },
+    {
+      "id": "004c0e59ba87",
+      "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
+      "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
+      "published": "2026-07-13T11:43:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "According to a leaked draft of its Electrification Action Plan, the European Union (EU) must deploy 200GW of energy storage by 2030 to meet energy system flexibility needs."
+    },
+    {
+      "id": "ea9ae4b85644",
+      "title": "How Dahua is expanding into renewable energy with AI-powered solutions",
+      "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
+      "published": "2026-07-13T11:32:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We catch up with Dahua Technology, one of the world’s largest video-centric AIoT tech companies globally, about its expansion into clean energy technologies like EV charging."
+    },
     {
       "id": "1ab914ffb1fe",
       "title": "What the U.S. can learn from Australia’s home battery boom",
