@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-14T10:01:15.503481+00:00",
-  "count": 505,
+  "updated": "2026-07-15T10:05:39.463889+00:00",
+  "count": 517,
   "items": [
+    {
+      "id": "d5cb2d56d935",
+      "title": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
+      "url": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
+      "published": "2026-07-15T09:51:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Ben Potter at CO2 Battery startup Energy Dome about the company’s latest project with Google and why the market is turning in favour of long-duration energy storage (LDES)."
+    },
+    {
+      "id": "a0f831b4838e",
+      "title": "Germany ROUNDUP: TotalEnergies and Kyon, Envision and Ju:niz, Flower progress BESS portfolios",
+      "url": "https://www.energy-storage.news/germany-roundup-totalenergies-and-kyon-envision-and-juniz-flower-progress-bess-portfolios/",
+      "published": "2026-07-15T08:56:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy companies are accelerating battery storage deployment in Germany, with TotalEnergies and Kyon, Envision Energy and Ju:niz, and Flower announcing significant project developments and acquisitions."
+    },
+    {
+      "id": "954ad6e9a029",
+      "title": "What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
+      "url": "https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/",
+      "published": "2026-07-15T07:59:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "With technology risk now largely removed from the equation, assessing how a battery storage project will perform across market opportunities is now the main object of financiers’ scrutiny, writes Ryan Alexander of enspired."
+    },
+    {
+      "id": "7796c62b66fa",
+      "title": "Australian grid operator backs grid-forming battery technology to bolster system strength",
+      "url": "https://www.pv-magazine.com/2026/07/15/transgrid-backs-grid-forming-battery-technology-to-bolster-system-strength/",
+      "published": "2026-07-15T05:46:43+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Grid-forming battery energy storage technology will play an expanded role in Transgrid’s plan to close system strength gaps in the New South Wales grid as coal generation exits and inverter-based resources continue to grow. The post Australian grid operator backs grid-forming battery technology to b…"
+    },
+    {
+      "id": "209b154e6c62",
+      "title": "Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S.",
+      "url": "https://www.pv-magazine.com/2026/07/15/google-agrees-to-purchase-100-of-power-from-largest-solar-plus-storage-project-in-u-s/",
+      "published": "2026-07-15T04:59:52+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Developed with Cypress Creek Energy, the virtual power purchase agreement covers the Steel River Energy Center, which will add 2.5 GW of solar capacity and 2.9 GW/GWh of battery storage. The post Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S. appeared first o…"
+    },
+    {
+      "id": "1d2a0688746b",
+      "title": "Over 4GWh of battery storage added to Australia’s updated National Renewable Energy Priority List",
+      "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
+      "published": "2026-07-15T03:04:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's federal government has added 11 new generation and energy storage projects to its National Renewable Energy Priority List."
+    },
+    {
+      "id": "878d616a8817",
+      "title": "Pumped hydro costs revised up, battery storage costs down, as Australia’s CSIRO publishes final GenCost 2025-26 report",
+      "url": "https://www.energy-storage.news/pumped-hydro-costs-revised-up-battery-storage-costs-down-as-australias-csiro-publishes-final-gencost-2025-26-report/",
+      "published": "2026-07-15T02:59:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's CSIRO has revised pumped hydro storage costs upward in the final version of its annual GenCost electricity cost report."
+    },
+    {
+      "id": "ca8cf805cbde",
+      "title": "Cypress Creek & Google Break Ground on America’s Largest Solar Project",
+      "url": "https://cleantechnica.com/2026/07/14/cypress-creek-google-break-ground-on-americas-largest-solar-project/",
+      "published": "2026-07-15T01:23:18+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Project will include 2.5 GWdc of solar and 2.9 GWh of battery storage once fully complete Will support 700 construction jobs per phase Built with Arkansas steel and American-made components, the project strengthens America’s manufacturing base by tapping it to power America’s energy future Google an…"
+    },
+    {
+      "id": "368e17e37e09",
+      "title": "The 10 Top Battery Integrators in the World",
+      "url": "https://cleantechnica.com/2026/07/14/the-10-top-battery-integrators-in-the-world/",
+      "published": "2026-07-15T00:20:09+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Who gets the most stationary energy storage batteries integrated into the grid? That&#8217;s been a question many have wondered about for years. Well, Wood Mackenzie has just started publishing a new report on this. Unfortunately, we&#8217;re not getting many details from Wood Mackenzie — no numbers…"
+    },
+    {
+      "id": "fa5234bb0cd0",
+      "title": "Insane “Gigascale” 5.2GW, 19GWh Solar + Storage Project Moves Forward",
+      "url": "https://cleantechnica.com/2026/07/14/insane-gigascale-5-2gw-19gwh-solar-storage-project-moves-forward/",
+      "published": "2026-07-14T18:46:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Yesterday, Masdar reached financial close on what it calls the &#8220;world’s first gigascale Round-the-Clock (RTC) renewable energy project.&#8221; As indicated in the title, this project involves a 5.2 gigawatt (GW) solar power installation and a 19 gigawatt-hour (GWh) battery storage installation…"
+    },
+    {
+      "id": "b9ef915bed57",
+      "title": "ESS Tech launches 1.2-MWh sodium-ion battery ‘building block’ system",
+      "url": "https://www.utilitydive.com/news/ess-tech-launches-12-mwh-sodium-ion-battery-building-block-system/825204/",
+      "published": "2026-07-14T16:49:40+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The announcement marks the latest in a string of sodium battery developments as utilities and customers look for new sources of grid-tied and behind-the-meter capacity."
+    },
+    {
+      "id": "0583fd8dd363",
+      "title": "VIDEO: Scaling solar-coupled, distributed sodium-ion NFPP battery storage with startup Moonwatt",
+      "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
+      "published": "2026-07-14T13:55:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We caught up with the CCO of Netherlands-headquartered startup Moonwatt at last month's Smarter E Europe trade show in Munich for a video interview."
+    },
     {
       "id": "f1400e541c54",
       "title": "VIDEO: FEOC and the Future of BESS Procurement, a webinar with Intertek CEA",
