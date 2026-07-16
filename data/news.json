@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-15T10:05:39.463889+00:00",
-  "count": 517,
+  "updated": "2026-07-16T10:11:50.726496+00:00",
+  "count": 528,
   "items": [
+    {
+      "id": "ff53b306238e",
+      "title": "EU ROUNDUP: Operators commission 682MWh of BESS in Germany, Estonia, Belgium, Denmark and Bulgaria",
+      "url": "https://www.energy-storage.news/eu-roundup-operators-commission-682mwh-of-bess-in-germany-estonia-belgium-denmark-and-bulgaria/",
+      "published": "2026-07-16T09:16:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There's been a flurry of project completions across Europe this past week, with projects completed in Germany, Estonia, Belgium, Denmark and Bulgaria by RheinEnergie/SMA, BSP, BStor, European Energy and Sunotec respectively, totalling nearly 700MWh of capacity."
+    },
+    {
+      "id": "207bdcdf46c9",
+      "title": "Behind CATL’s ‘zero degradation’ BESS technology",
+      "url": "https://www.energy-storage.news/behind-catls-zero-degradation-bess-technology/",
+      "published": "2026-07-16T09:14:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We analyse recent details that have emerged on battery OEM CATL's zero-degradation BESS technology, which was first announced two years ago."
+    },
+    {
+      "id": "eaa9ed068e3a",
+      "title": "Panama plans two 2027 power tenders with a key role for battery storage",
+      "url": "https://www.pv-magazine.com/2026/07/16/panama-plans-two-2027-power-tenders-with-a-key-role-for-battery-storage/",
+      "published": "2026-07-16T08:39:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Panama will launch two power tenders in 2027 that will allow battery energy storage systems to participate as the country seeks greater grid flexibility and renewable integration. The post Panama plans two 2027 power tenders with a key role for battery storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "8d07362120ec",
+      "title": "Hithium on the European C&I BESS market and its need for a 4-hour solution",
+      "url": "https://www.energy-storage.news/hithium-on-the-european-ci-bess-market-and-its-need-for-a-4-hour-solution/",
+      "published": "2026-07-16T08:34:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A shift is happening in Europe’s commercial &#038; industrial (C&#038;I) energy storage market, and integrated energy storage solutions provider Hithium is addressing this demand with a purpose-built 4-hour solution."
+    },
+    {
+      "id": "a67ef6a65f1c",
+      "title": "Malaysia unveils sixth large-scale solar tender",
+      "url": "https://www.pv-magazine.com/2026/07/16/malaysia-unveils-sixth-large-scale-solar-tender/",
+      "published": "2026-07-16T08:00:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The sixth round of Malaysia’s large-scale solar program is targeting 2.5 GW of solar tied to 1.25 GW of storage. Interested developers will be able to purchase the request for proposals document from July 27. The post Malaysia unveils sixth large-scale solar tender appeared first on pv magazine Glob…"
+    },
+    {
+      "id": "ee71b1cfcc67",
+      "title": "Australia’s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
+      "url": "https://www.energy-storage.news/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine/",
+      "published": "2026-07-16T04:57:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gloucester Coa has received planning approval from the New South Wales government for the 3.6GWh Stratford Pumped Hydro and Solar project."
+    },
+    {
+      "id": "54f7cab779a6",
+      "title": "Australia’s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
+      "url": "https://www.energy-storage.news/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38/",
+      "published": "2026-07-16T04:52:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian transmission operator Transgrid has opened a pathway for 900MW of grid-forming inverter-equipped battery storage to contribute to New South Wales' minimum system strength requirements."
+    },
+    {
+      "id": "126278905bac",
+      "title": "PJM Capacity Auction Hits Price Cap for Third Consecutive Time",
+      "url": "https://cleantechnica.com/2026/07/15/pjm-capacity-auction-hits-price-cap-for-third-consecutive-time/",
+      "published": "2026-07-15T22:30:57+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Yesterday, the nation’s largest grid operator PJM held its capacity auction for the 2028/2029 Delivery Year. The auction ended when prices reached the price cap, signaling more costly energy bills for everyday Americans who have been paying soaring energy prices for years due to PJM’s poor planning …"
+    },
+    {
+      "id": "14750c203df5",
+      "title": "Sunrun ‘distributed data center’ pilot taps its home solar and battery network",
+      "url": "https://www.utilitydive.com/news/sunrun-distributed-data-center-pilot-taps-its-home-solar-and-battery-netw/825314/",
+      "published": "2026-07-15T16:06:04+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The announcement comes as ratepayer and clean energy advocates push capacity-hungry hyperscalers to subsidize residential solar, batteries and energy efficiency."
+    },
+    {
+      "id": "5d7697f55a48",
+      "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
+      "url": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
+      "published": "2026-07-15T11:47:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Avantus, with Fluence, is progressing on two solar-plus-battery energy storage system (BESS) projects in California, US."
+    },
+    {
+      "id": "e12480cee7a1",
+      "title": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
+      "url": "https://www.energy-storage.news/global-bess-deployments-soar-27-in-h1-2026-saudi-arabia-drives-figures-in-june/",
+      "published": "2026-07-15T10:28:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Some 9.1GW/33.5GWh of large-scale BESS came online globally last month, with Saudi Arabia accounting for over one-third of the figure."
+    },
     {
       "id": "d5cb2d56d935",
       "title": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
