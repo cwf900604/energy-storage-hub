@@ -1,7 +1,160 @@
 {
-  "updated": "2026-07-16T10:11:50.726496+00:00",
-  "count": 528,
+  "updated": "2026-07-17T10:01:02.104542+00:00",
+  "count": 545,
   "items": [
+    {
+      "id": "afcacee62292",
+      "title": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
+      "url": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
+      "published": "2026-07-17T09:46:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A subsidiary of Indian renewable energy equipment and component manufacturer Waaree Energies has opened a battery energy storage system (BESS) enclosure factory."
+    },
+    {
+      "id": "7ba2cb3f3147",
+      "title": "Bluetti features new Balco Series line of products at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/17/bluetti-features-new-balco-series-line-of-products-at-the-smarter-e-2026/",
+      "published": "2026-07-17T09:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At The smarter E 2026, the company highlighted its new balcony energy storage solutions that enable homeowners to optimize self-consumption of solar. Henrik Zhai, Bluetti’s Head of Sales for the DACH region, demonstrated the plug-and-play aspects of the company’s smart meter accessories. The post Bl…"
+    },
+    {
+      "id": "7c435d8eb0e1",
+      "title": "Giving away excess daytime solar for free",
+      "url": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
+      "published": "2026-07-17T07:27:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Australia is turning excess midday solar into a consumer benefit through free “solar sharer” electricity tariffs, enabling households to shift loads, charge batteries and EVs, and cut energy bills dramatically. With rooftop solar, storage, electrification, and smarter tariffs, Australia is showing h…"
+    },
+    {
+      "id": "96886288a6ec",
+      "title": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
+      "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
+      "published": "2026-07-17T04:21:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "German solar and storage developer ib vogt has received state planning approval for the 120MW/480MWh Wagga North battery energy storage system (BESS) in New South Wales, Australia."
+    },
+    {
+      "id": "670c0c49951a",
+      "title": "Port of Newcastle cleared to safely stage grid-scale battery storage systems in New South Wales, Australia",
+      "url": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
+      "published": "2026-07-17T04:18:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Port of Newcastle has become the first port in New South Wales, Australia, to be approved to safely store grid-scale lithium-ion battery storage systems."
+    },
+    {
+      "id": "ecf1ec6c573c",
+      "title": "6 Records Solar & Storage Have Crushed in the First Half of 2026",
+      "url": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/",
+      "published": "2026-07-17T03:30:38+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Electricity demand is rising. Prices are climbing. And America needs more power, fast. The good news is solar and storage are delivering. Across the country, from California to Texas to the Midwest, the industry is breaking records at a pace that would have seemed unimaginable just a few years ago. …"
+    },
+    {
+      "id": "daffae296da4",
+      "title": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
+      "url": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
+      "published": "2026-07-17T03:11:29+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Beijing, 16 July – China now operates the world’s largest battery energy storage fleet, and new analysis from Ember shows there is still headroom to do more with it. Used to its full potential, China’s utility-scale batteries could have shifted an additional 23 TWh of clean electricity in 2025 to th…"
+    },
+    {
+      "id": "8af79048457f",
+      "title": "From Mine to Megawatt: How NLR Is Securing Critical Mineral Supply Chains for the Power Grid",
+      "url": "https://cleantechnica.com/2026/07/16/from-mine-to-megawatt-how-nlr-is-securing-critical-mineral-supply-chains-for-the-power-grid/",
+      "published": "2026-07-16T20:17:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Sarah Inskeep Talks Supply Chains for Energy Technologies—and One NLR Model That Brings Them Together When you plug in your phone or laptop, do you ever think about the wires that carry the electricity to the battery? Okay, now what about the powerlines, transformers, and substations that move the e…"
+    },
+    {
+      "id": "0ce306e56e96",
+      "title": "Smart Energy Management Research Could Unlock Grid Flexibility & Cost Savings",
+      "url": "https://cleantechnica.com/2026/07/16/smart-energy-management-research-could-unlock-grid-flexibility-cost-savings/",
+      "published": "2026-07-16T20:10:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Partnership With Xcel Energy Reveals Solutions To Meet Needs of and Avoid Unnecessary Expenses for Grid Customers. As demand for electricity in the United States grows and evolves, utilities need to continually analyze whether distribution infrastructure is up to the task. Strain on the power grid c…"
+    },
+    {
+      "id": "739710ade371",
+      "title": "NLR Battery Innovation Awarded NASA’s Invention of the Year",
+      "url": "https://cleantechnica.com/2026/07/16/nlr-battery-innovation-awarded-nasas-invention-of-the-year-2/",
+      "published": "2026-07-16T20:04:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "To Shoot for the Moon, Lab Researchers Must First Learn How To Fail on Earth NLR Senior Energy Storage Engineer Matthew Keyser holds a sheet of copper discs, one of the metals that comprise the internal short-circuit device recently recognized by NASA’s 2025 Invention of the Year Award. Photo by ...…"
+    },
+    {
+      "id": "47fe94c0471b",
+      "title": "China’s Electric Truck Moment Has Arrived — And It’s About To Hit Global Diesel Demand",
+      "url": "https://cleantechnica.com/2026/07/16/chinas-electric-truck-moment-has-arrived-and-its-about-to-hit-global-diesel-demand/",
+      "published": "2026-07-16T19:20:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "By Ray Wills and Peter Newman If the electric car was the opening chapter of China’s transport transition, battery-electric heavy trucks are the next — and it is now moving from promise to industrial reality. And this is happening inside the fastest energy transition in human history. For global oil…"
+    },
+    {
+      "id": "390439b1f934",
+      "title": "Google inks deal for massive Arkansas solar and storage project",
+      "url": "https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/",
+      "published": "2026-07-16T16:34:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "With a target completion date of 2029, the project is expected to deliver 2.5 GW of generation and 2.9 GWh of battery storage to the regional grid, the tech giant said."
+    },
+    {
+      "id": "cbbdccb38c2c",
+      "title": "The All-New VW ID. Polo Now Available with 37-kWh Battery — Affordable Entry into Electric Mobility",
+      "url": "https://cleantechnica.com/2026/07/16/the-all-new-vw-id-polo-now-available-with-37-kwh-battery-affordable-entry-into-electric-mobility/",
+      "published": "2026-07-16T16:25:58+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The 37-kWh battery (net) provides a range suitable for everyday use of up to 334 km (WLTP); the attractive entry-level model is designed for urban traffic and typical commuting routes Output stages with 85 kW (116 PS) and 99 kW (135 PS) are now available to order, with DC charging from 10 to ... [co…"
+    },
+    {
+      "id": "1695640b81da",
+      "title": "World’s Largest Integrated Solar & Battery Storage Project Inaugurated in the Philippines",
+      "url": "https://cleantechnica.com/2026/07/16/worlds-largest-integrated-solar-battery-storage-project-inaugurated-in-the-philippines/",
+      "published": "2026-07-16T13:41:23+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Philippines has taken another major step in its clean energy transition with the inauguration of the first phase of the MTerra Solar project, a massive solar and battery storage development that President Ferdinand Marcos Jr. described as proof that the country can deliver world-class energy inf…"
+    },
+    {
+      "id": "2487ebf2d363",
+      "title": "Sunrun, FranklinWH expand BESS virtual power plant capacity in California, Texas",
+      "url": "https://www.energy-storage.news/sunrun-franklinwh-expand-bess-virtual-power-plant-capacity-in-california-texas/",
+      "published": "2026-07-16T13:20:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Distributed energy resource (DER)-focused companies Sunrun and FranklinWH are expanding in California and Texas, US, respectively."
+    },
+    {
+      "id": "4a29eca589d5",
+      "title": "Alfen and CATL agree 5GWh sodium-ion BESS partnership in Europe",
+      "url": "https://www.energy-storage.news/alfen-and-catl-agree-5gwh-sodium-ion-bess-partnership-in-europe/",
+      "published": "2026-07-16T11:39:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "System integrator Alfen and battery company CATL have struck a 5GWh partnership for sodium-ion BESS deployments in Europe."
+    },
+    {
+      "id": "f3eaf079c3b9",
+      "title": "Thailand needs ‘many regulatory reforms’ of electricity sector to catch up with ASEAN leaders on energy storage",
+      "url": "https://www.energy-storage.news/thailand-needs-many-regulatory-reforms-of-electricity-sector-to-catch-up-with-asean-leaders-on-energy-storage/",
+      "published": "2026-07-16T11:20:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Electricity sector regulations in Thailand require significant reforms to support the use of energy storage as a critical tool for renewable energy integration."
+    },
     {
       "id": "ff53b306238e",
       "title": "EU ROUNDUP: Operators commission 682MWh of BESS in Germany, Estonia, Belgium, Denmark and Bulgaria",
