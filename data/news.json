@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-17T10:01:02.104542+00:00",
-  "count": 545,
+  "updated": "2026-07-18T09:36:32.778830+00:00",
+  "count": 552,
   "items": [
+    {
+      "id": "4833c7b18b2c",
+      "title": "Pass Permitting Reform. Unleash American Solar and Storage.",
+      "url": "https://cleantechnica.com/2026/07/17/pass-permitting-reform-unleash-american-solar-and-storage/",
+      "published": "2026-07-18T02:22:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Solar energy is the most affordable source of new electricity generation on the market today. It is the fastest energy source to build and is helping prop up the grid during even the most severe heatwaves. As electricity demand continues to climb, these technologies are well positioned to meet Ameri…"
+    },
+    {
+      "id": "5f47d3a30a9a",
+      "title": "AI data center growth could force US utilities to rethink generation plans, BofA says",
+      "url": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
+      "published": "2026-07-17T14:45:39+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage."
+    },
+    {
+      "id": "29b3635dd163",
+      "title": "The Grid Needs Storage, Not Every Storage Idea",
+      "url": "https://cleantechnica.com/2026/07/17/grid-storage-2100-batteries-pumped-hydro/",
+      "published": "2026-07-17T14:28:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Grid-storage debates are usually framed as a contest among technologies. Lithium-ion batteries compete with flow batteries, compressed air, liquid air, gravity systems, iron-air and whatever new long-duration acronym has arrived with a funding announcement. That framing skips the more important syst…"
+    },
+    {
+      "id": "12624ce122ee",
+      "title": "California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
+      "url": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
+      "published": "2026-07-17T12:53:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery energy storage systems (BESS) operating in California's grid left approximately US$98 million on the table due to suboptimal bidding strategies, according to a new analysis from Gridmatic."
+    },
+    {
+      "id": "6b6748c940ad",
+      "title": "Ingeteam announces central inverter for utility-scale BESS",
+      "url": "https://www.pv-magazine.com/2026/07/17/ingeteam-announces-central-inverter-for-utility-scale-bess/",
+      "published": "2026-07-17T12:51:41+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Ingeteam has launched the Ingecon Sun Storage M Series, a modular central inverter platform for utility-scale BESS applications, offering power ratings of up to 4.54 MVA and battery voltage support up to 1,500 Vdc without derating. The series includes standalone inverter units and skid-mounted mediu…"
+    },
+    {
+      "id": "d02b2171867a",
+      "title": "Eos to provide energy storage for US Department of Defense ‘Golden Dome,’ releases preliminary Q2 financials",
+      "url": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
+      "published": "2026-07-17T12:45:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Zinc hybrid cathode battery and storage system maker Eos Energy Enterprises has announced a strategic partnership with the US Department of Defense (DoD) to “enhance the resilience of national defence infrastructure.”"
+    },
+    {
+      "id": "e3436a338558",
+      "title": "‘It’s on the up now’: How grid fee clarity unlocked BW ESS’ German ambitions",
+      "url": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
+      "published": "2026-07-17T10:53:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BW ESS' executive director Roberto Jimenez discusses the company's recently-announced first Germany project, in Klostermansfeld, Saxony-Anhalt, which could be one of Europe's largest when completed in 2028."
+    },
     {
       "id": "afcacee62292",
       "title": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
