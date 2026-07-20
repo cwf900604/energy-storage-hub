@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-19T09:54:08.872486+00:00",
-  "count": 555,
+  "updated": "2026-07-20T10:55:26.521330+00:00",
+  "count": 565,
   "items": [
+    {
+      "id": "3d02a780d832",
+      "title": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
+      "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
+      "published": "2026-07-20T10:36:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UAE state-owned IPP Masdar has reached financial close on what it has claimed is the world’s “first gigascale 24/7 renewable energy project”."
+    },
+    {
+      "id": "0c0ae3cf0f22",
+      "title": "EU releases Electrification Action Plan, reaffirms 200GW 2030 energy storage target",
+      "url": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
+      "published": "2026-07-20T10:18:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Commission has released its final Electrification Action Plan, reaffirming its belief that the bloc needs 200GW of energy storage by 2030."
+    },
+    {
+      "id": "2700fd9cd3b6",
+      "title": "Middle East, Southeast Asia and India emerge as key alternate manufacturing hubs to China",
+      "url": "https://www.energy-storage.news/middle-east-southeast-asia-and-india-emerge-as-key-alternate-manufacturing-hubs-to-china/",
+      "published": "2026-07-20T09:48:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As the battery storage market continues its strong growth trajectory, battery manufacturers are ramping up production to meet increased demand."
+    },
+    {
+      "id": "c72ffd982749",
+      "title": "Autowell showcases latest PV and energy storage solutions at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/20/autowell-showcases-latest-pv-and-energy-storage-solutions-at-the-smarter-e-2026/",
+      "published": "2026-07-20T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Johnny Wang, International Sales Deputy General Manager for Autowell (ATW), highlighted multi-cut and multi-busbar (0BB) stringing technology, as well as advanced analytical system in smart manufacturing. The post Autowell showcases latest PV and energy storage solutions at The smarter E 2026 appear…"
+    },
+    {
+      "id": "a6e09030b10e",
+      "title": "Hithium looks to replicate residential solution ARKVOLT’s Asian success into Europe",
+      "url": "https://www.energy-storage.news/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe/",
+      "published": "2026-07-20T08:16:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Hithium, an integrated energy storage solutions provider known for its leadership in long-duration energy storage, is now seeing strong momentum across its residential businesses and C&#038;I. We discussed this with the company at the Smarter E Europe trade show in Germany last month."
+    },
+    {
+      "id": "22082d5c6e47",
+      "title": "CHINT: Bridging AI infrastructure and energy transition through integrated power solutions",
+      "url": "https://www.energy-storage.news/chint-bridging-ai-infrastructure-and-energy-transition-through-integrated-power-solutions/",
+      "published": "2026-07-20T08:14:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CHINT Global's Beibei Zheng discusses how the company is responding to Europe's dual challenge of AI sovereignty and energy security."
+    },
+    {
+      "id": "18ceb603ac63",
+      "title": "Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
+      "url": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
+      "published": "2026-07-20T07:57:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's NEM connected 9.1GW of new generation and energy storage to full output in FY26, more than double the result achieved in FY25."
+    },
+    {
+      "id": "33a34c0ca862",
+      "title": "Australia sees record surge in solar, wind and battery projects",
+      "url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/",
+      "published": "2026-07-20T05:40:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Australia’s energy market operator says the past financial year was the best yet for the completion of large-scale renewable energy projects in the country, with a record 9.1 GW of new generation and storage capacity reaching full output. The post Australia sees record surge in solar, wind and batte…"
+    },
+    {
+      "id": "ad46a82739b6",
+      "title": "Australia moves to legislate net-generator requirement for large-scale data centres",
+      "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
+      "published": "2026-07-19T22:48:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian Prime Minister Anthony Albanese has said that large-scale data centres will be legally required to put at least as much energy into the grid as they draw from it, and that this supply must be renewable energy."
+    },
+    {
+      "id": "489736f8f698",
+      "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
+      "url": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
+      "published": "2026-07-19T14:49:04+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "PUTRAJAYA, Malaysia — The rapid transition of Southeast Asia toward clean energy is moving from the early adoption of electric mobility to a regional industrialization effort. When the 4th ASEAN Battery Technology Conference opens next month in Sepang, Malaysia, the focus will pivot from policy fram…"
+    },
     {
       "id": "0e872279b9c5",
       "title": "Philippines Logistics Firm Sees Swappable Battery Scooters As The Next Milestone In Last-Mile Deliveries",
