@@ -1,7 +1,142 @@
 {
-  "updated": "2026-07-20T10:55:26.521330+00:00",
-  "count": 565,
+  "updated": "2026-07-21T10:27:23.026226+00:00",
+  "count": 580,
   "items": [
+    {
+      "id": "dd8a0ea027f9",
+      "title": "‘Set it and forget it’: California BESS operators miss out on millions with static bidding strategies, Gridmatic says",
+      "url": "https://www.energy-storage.news/set-it-and-forget-it-california-bess-operators-miss-out-on-millions-with-static-bidding-strategies-gridmatic-reports/",
+      "published": "2026-07-21T10:23:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with David Miller, CCO of Gridmatic, about the company’s latest report from CAISO."
+    },
+    {
+      "id": "c97a46108ad2",
+      "title": "Spearmint Energy receives permit for 600MWh Minnesota BESS",
+      "url": "https://www.energy-storage.news/spearmint-energy-receives-permit-for-600mwh-minnesota-bess/",
+      "published": "2026-07-21T10:15:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery storage developer-operator Spearmint Energy has received a site permit for the 150MW/600MWh Midwater Energy Storage Project, in Freeborn County, Minnesota, US."
+    },
+    {
+      "id": "d6f27c2d10b3",
+      "title": "FEOC compliance for BESS is a decade-long obligation",
+      "url": "https://www.energy-storage.news/feoc-compliance-for-bess-is-a-decade-long-obligation/",
+      "published": "2026-07-21T09:52:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Intertek CEA's Daniel Finn-Foley and Paul Wormser dive into the new world US energy storage developers are navigating since the introduction of FEOC restrictions."
+    },
+    {
+      "id": "e4f6e5039cfe",
+      "title": "Return and Engie, EnBW and Zelestra agree long-term BESS tolls in Spain, Italy",
+      "url": "https://www.energy-storage.news/return-and-engie-enbw-and-zelestra-agree-long-term-bess-tolls-in-spain-italy/",
+      "published": "2026-07-21T09:05:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Return and Engie have agreed a long-term BESS toll in Spain while EnBW and Zelestra have finalised one in Italy, totalling 55MW and 300MW of capacity respectively."
+    },
+    {
+      "id": "5c347830b8fd",
+      "title": "Romania ROUNDUP: Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables advance BESS projects",
+      "url": "https://www.energy-storage.news/romania-roundup-aukera-enevo-group-and-kraftfeld-energy-and-ppc-renewables-advance-bess-projects/",
+      "published": "2026-07-21T09:03:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy companies are accelerating battery storage deployment in Romania, with Aukera, ENEVO Group and Kraftfeld Energy, and PPC Renewables Romania announcing significant project developments."
+    },
+    {
+      "id": "3a67597a74f0",
+      "title": "India awards long-duration energy storage contracts for 1,344MW pumped hydro, utility-scale flow battery",
+      "url": "https://www.energy-storage.news/india-awards-long-duration-energy-storage-contracts-for-1344mw-pumped-hydro-utility-scale-flow-battery/",
+      "published": "2026-07-21T07:30:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two big developments for India’s emerging long-duration energy storage (LDES) sector, with contracts awarded for pumped hydro energy storage (PHES) and the country’s first large-scale flow battery."
+    },
+    {
+      "id": "4d7b9f62ff7e",
+      "title": "Chile tenders 2,835 GWh of backup supply open to renewables, storage",
+      "url": "https://www.pv-magazine.com/2026/07/21/chile-tenders-2835-gwh-of-backup-supply-open-to-renewables-storage/",
+      "published": "2026-07-21T06:37:43+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The technology-neutral tender excludes coal and other high-emission fuels while allowing solar, wind, hydro and battery storage projects to participate individually or in hybrid configurations. The post Chile tenders 2,835 GWh of backup supply open to renewables, storage appeared first on pv magazin…"
+    },
+    {
+      "id": "8c2c635a9e2b",
+      "title": "European Energy reaches financial close on 80MWh Mokoan solar-plus-storage site in Australia",
+      "url": "https://www.energy-storage.news/european-energy-reaches-financial-close-on-80mwh-mokoan-solar-plus-storage-site-in-australia/",
+      "published": "2026-07-21T01:58:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Danish developer European Energy has reached financial close on the 80MWh Mokoan solar-plus-storage project in Victoria, Australia."
+    },
+    {
+      "id": "128180311241",
+      "title": "South Australia’s Lunio Energy brings 20MWh grid-scale battery storage system online",
+      "url": "https://www.energy-storage.news/south-australias-lunio-energy-brings-20mwh-grid-scale-battery-storage-system-online/",
+      "published": "2026-07-21T01:57:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Australia battery storage developer Lunio Energy has energised its first grid-scale BESS at Strathalbyn and started trading in the NEM."
+    },
+    {
+      "id": "775e3b332a00",
+      "title": "6 States Leading the USA on Smart Energy Policy Halfway through 2026",
+      "url": "https://cleantechnica.com/2026/07/20/6-states-leading-the-usa-on-smart-energy-policy-halfway-through-2026/",
+      "published": "2026-07-20T18:54:51+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Across the country, governors and state lawmakers are facing the same challenge: electricity demand is rising, power bills are increasing, and constituents expect solutions. Increasingly, policymakers from both parties are arriving at the same answer. Solar and energy storage are among the fastest, …"
+    },
+    {
+      "id": "5a829bf654cc",
+      "title": "Asia-Pacific Races to Build a $50B Clean Power Grid to Feed AI Boom",
+      "url": "https://cleantechnica.com/2026/07/20/asia-pacific-races-to-build-a-50b-clean-power-grid-to-feed-ai-boom/",
+      "published": "2026-07-20T18:38:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The race to dominate artificial intelligence is forcing Asia and the Pacific into an infrastructure buildout unlike any in its history, with electricity grids emerging as the next strategic battleground. The Asian Development Bank is betting that the region cannot sustain the coming wave of AI data …"
+    },
+    {
+      "id": "f46ce30f6bd6",
+      "title": "US Startup Pitches Green Hydrogen And Solar Power For Off-Grid Reliability",
+      "url": "https://cleantechnica.com/2026/07/20/green-hydrogen-ev-charging-offgrid-us-innovation-startups/",
+      "published": "2026-07-20T14:46:45+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The California-based green hydrogen startup HyWatts is pitching a modular, transportable \"Power Plant In A Box\" combination electrolyzer system and fuel cell for off-grid EV charging, among other purposes. The post US Startup Pitches Green Hydrogen And Solar Power For Off-Grid Reliability appeared f…"
+    },
+    {
+      "id": "7347150a622b",
+      "title": "Residential BESS ‘access without upfront cash’: Palmetto launches battery subscription in 25 US states",
+      "url": "https://www.energy-storage.news/residential-bess-access-without-upfront-cash-palmetto-launches-battery-subscription-in-25-us-states/",
+      "published": "2026-07-20T13:18:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Residential renewable energy solutions company Palmetto recently launched its Palmetto Energy Backup Plan, a residential battery subscription aimed at making residential storage more accessible in 25 US states."
+    },
+    {
+      "id": "5cceecd1e7c4",
+      "title": "1.8GWh Germany BESS moves to construction; 15GWh+ progressed since grid fees decision",
+      "url": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
+      "published": "2026-07-20T11:44:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The shareholders of the 900MW Waltrop BESS project in Germany have approved key infrastructure works for the project, with full construction scheduled for the next few months."
+    },
+    {
+      "id": "f06e0478ec3a",
+      "title": "Cradle-to-Crisis Approach Improves Battery Safety & Performance",
+      "url": "https://cleantechnica.com/2026/07/20/cradle-to-crisis-approach-improves-battery-safety-performance/",
+      "published": "2026-07-20T11:00:47+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Battery failures can escalate quickly: Heat accumulates, materials break down, and gases ignite in a chain reaction known as thermal runaway. Such events are rare thanks to carefully applied safeguards in material design and battery management systems. Still, continued research is needed to anticipa…"
+    },
     {
       "id": "3d02a780d832",
       "title": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
