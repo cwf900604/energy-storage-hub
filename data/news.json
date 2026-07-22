@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-21T10:27:23.026226+00:00",
-  "count": 580,
+  "updated": "2026-07-22T10:28:17.571488+00:00",
+  "count": 592,
   "items": [
+    {
+      "id": "901758d87030",
+      "title": "SINEXCEL on engineering grid-forming PCS for European utility-scale BESS projects",
+      "url": "https://www.energy-storage.news/sinexcel-on-engineering-grid-forming-pcs-for-european-utility-scale-bess-projects/",
+      "published": "2026-07-22T08:50:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "SINEXCEL’s Luke Lu discusses grid-forming power conversion systems, noise constraints and O&#038;M as the company builds its presence in Europe."
+    },
+    {
+      "id": "d8ed1bc192f6",
+      "title": "Energy Storage Awards 2026: Judges seek winners with the ambition to solve industry problems",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-judges-seek-winners-with-the-ambition-to-solve-industry-problems/",
+      "published": "2026-07-22T08:24:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "With the Energy Storage Awards 2026 entry deadline less than two months away, we speak to four judges to hear what they are looking for from successful entrants."
+    },
+    {
+      "id": "ba1cab099982",
+      "title": "Northern Europe: Delta Capacity adds to Nordic BESS portfolio, Ignitis takes FID on Latvia project",
+      "url": "https://www.energy-storage.news/northern-europe-delta-capacity-adds-to-nordic-bess-portfolio-ignitis-takes-fid-on-latvia-project/",
+      "published": "2026-07-22T08:21:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Delta Capacity has brought online the Nordic region’s biggest project to date and has acquired another project that would be almost twice the size."
+    },
+    {
+      "id": "8f0db93299ca",
+      "title": "VIDEO: ‘Not enough priority given to BESS asset management and operation’",
+      "url": "https://www.energy-storage.news/video-not-enough-priority-given-to-bess-asset-management-and-operation/",
+      "published": "2026-07-22T08:05:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS deployments in Europe are growing exponentially year-on-year, but is asset management, operations &#038; maintenance (O&#038;M) and data given enough priority? A data executive from BayWa r.e. discussed the topic."
+    },
+    {
+      "id": "163c87adb59e",
+      "title": "Remote Australian mining town targets 80% renewables with solar and battery microgrid",
+      "url": "https://www.pv-magazine.com/2026/07/22/remote-goldfields-town-targets-80-renewables-with-solar-and-battery-microgrid/",
+      "published": "2026-07-22T06:12:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The remote mining town of Menzies in Western Australia’s Goldfields region is to source 80% of its power needs from renewable energy with a new microgrid, including solar generation and battery energy storage, to be built in the small community. The post Remote Australian mining town targets 80% ren…"
+    },
+    {
+      "id": "8dbf6924a0de",
+      "title": "Samsung C&T submits 1,000MWh solar-plus-storage project in New South Wales to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/samsung-ct-submits-1000mwh-solar-plus-storage-project-in-new-south-wales-to-australias-epbc-act/",
+      "published": "2026-07-22T03:20:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Samsung C&#038;T Renewable Energy Australia has submitted the 1GWh Boro solar-plus-storage project in New South Wales to Australia's EPBC Act."
+    },
+    {
+      "id": "f9b8c5358e22",
+      "title": "Honda Pulls the Plug Out of the Prologue in North America",
+      "url": "https://cleantechnica.com/2026/07/21/honda-pulls-the-plug-out-of-the-prologue-in-north-america/",
+      "published": "2026-07-22T03:04:58+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Honda Motor Co. has confirmed it will discontinue the Prologue, ending sales of its only battery-electric vehicle in North America and leaving the automaker without a mainstream all-electric passenger model in the region once dealer inventories are exhausted in early 2027. The decision did not come …"
+    },
+    {
+      "id": "089315d0f1bb",
+      "title": "Isuzu to Use Swappable Battery Tech for Yokohama’s Garbage Collection Route",
+      "url": "https://cleantechnica.com/2026/07/21/isuzu-to-use-swappable-battery-tech-for-yokohamas-garbage-collection-route/",
+      "published": "2026-07-22T02:53:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "YOKOHAMA, Japan — Isuzu Motors is testing a three-minute battery-swapping system for municipal electric garbage trucks in Yokohama, aiming to eliminate lengthy charging delays for high-demand commercial vehicles. This was first reported in Japan Times but confirmation of the timing came from CleanTe…"
+    },
+    {
+      "id": "1fdf1c6670f8",
+      "title": "Wärtsilä completes delivery of 1,038 Quantum units to 1,400MWh Wooreen BESS in Australia",
+      "url": "https://www.energy-storage.news/wartsila-completes-delivery-of-1038-quantum-units-to-1400mwh-wooreen-bess-in-australia/",
+      "published": "2026-07-22T02:09:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "All 1,038 Wärtsilä Quantum battery units have been delivered and installed at the 1.4GWh Wooreen BESS in Victoria, Australia."
+    },
+    {
+      "id": "76709cf19ccc",
+      "title": "EU Backs Electrification to Make Europe More Secure",
+      "url": "https://cleantechnica.com/2026/07/21/eu-backs-electrification-to-make-europe-more-secure/",
+      "published": "2026-07-22T01:00:11+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "EU Commission identifies grids as a bottleneck for electrification, promising to standardise vehicle-to-grid (V2G) technology The EU Commission has announced an electrification target of 46% by 2040 — doubling the current level. Accelerating electrification is crucial if Europe is to reduce its reli…"
+    },
+    {
+      "id": "264190f32c33",
+      "title": "35.5%! LONGi Once Again Breaks World Record for Crystalline Silicon-Perovskite Tandem Solar Cell Efficiency",
+      "url": "https://cleantechnica.com/2026/07/21/35-5-longi-once-again-breaks-world-record-for-crystalline-silicon-perovskite-tandem-solar-cell-efficiency/",
+      "published": "2026-07-21T17:53:34+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "At the 2026 Solar and Energy Storage Innovation Conference, LONGi officially announced that its independently developed crystalline silicon-perovskite tandem solar cell has achieved a conversion efficiency of 35.5%, certified by the European Solar Test Installation (ESTI), once again setting a new w…"
+    },
+    {
+      "id": "65ba37e95ebb",
+      "title": "SRP to propose mixed-resource project to its board in September",
+      "url": "https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/",
+      "published": "2026-07-21T16:16:37+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The Marigold Energy Center, about 45 miles south of Phoenix, would include 400 MW of battery storage, 600 MW of solar generation, up to 675 MW of gas generation and a new substation."
+    },
     {
       "id": "dd8a0ea027f9",
       "title": "‘Set it and forget it’: California BESS operators miss out on millions with static bidding strategies, Gridmatic says",
