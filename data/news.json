@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-23T10:25:37.027346+00:00",
-  "count": 610,
+  "updated": "2026-07-24T10:21:49.613395+00:00",
+  "count": 623,
   "items": [
+    {
+      "id": "821454f70e66",
+      "title": "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deployments",
+      "url": "https://www.energy-storage.news/sodium-ion-bess-catl-in-2gwh-eastern-europe-collaboration-ess-inc-signs-loi-for-500mwh-of-us-deployments/",
+      "published": "2026-07-24T08:40:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESS Tech Inc is deploying sodium-ion BESS in the US with Juniper Energy, while CATL deploys its sodium-ion technology in Eastern Europe with Solarpro."
+    },
+    {
+      "id": "951a42f34069",
+      "title": "Alpiq follows Harmony Energy acquisition with 1.2GWh project announcement",
+      "url": "https://www.energy-storage.news/alpiq-follows-harmony-energy-acquisition-with-1-2gwh-project-announcement/",
+      "published": "2026-07-24T08:35:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two weeks after announcing its acquisition of Harmony Energy, Swiss power firm Alpiq has unveiled its first large-scale battery project in its home country."
+    },
+    {
+      "id": "f4c33eef1364",
+      "title": "AI data centres’ battery dilemma: when mission-critical uptime meets thermal runaway risk",
+      "url": "https://www.energy-storage.news/ai-data-centres-battery-dilemma-when-mission-critical-uptime-meets-thermal-runaway-risk/",
+      "published": "2026-07-24T08:16:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Qingfeng Yuan, CTO of Ampace, explains how semi-solid state cell chemistry and high-frequency cycling validation are addressing the artificial intelligence infrastructure sector's zero-tolerance requirements for safety and reliability."
+    },
+    {
+      "id": "5997e9fd3655",
+      "title": "Europe ROUNDUP: Grenergy, MaxSolar with Saft, and Amarenco progress BESS projects in Spain, Germany, and France",
+      "url": "https://www.energy-storage.news/europe-roundup-grenergy-maxsolar-with-saft-and-amarenco-progress-bess-projects-in-spain-germany-and-france/",
+      "published": "2026-07-24T07:01:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this news roundup, Grenergy, MaxSolar and Saft, and Amarenco have made significant advancements on BESS projects in Spain, Germany, and France."
+    },
+    {
+      "id": "ceb440808523",
+      "title": "Idemitsu plans 864 MWh vanadium flow battery at Australian coal mine site",
+      "url": "https://www.pv-magazine.com/2026/07/24/idemitsu-plans-864-mwh-vanadium-flow-battery-at-australian-coal-mine-site/",
+      "published": "2026-07-24T06:18:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Idemitsu Australia is proposing a 108 MW vanadium flow battery with eight hours of storage at a former coal mine site in New South Wales. The post Idemitsu plans 864 MWh vanadium flow battery at Australian coal mine site appeared first on pv magazine Global."
+    },
+    {
+      "id": "6a10ba92db9d",
+      "title": "JinkoSolar targets retail power bills with Sunny 365 solar-storage platform",
+      "url": "https://www.pv-magazine.com/2026/07/24/jinkosolar-targets-retail-power-bills-with-sunny-365-solar-storage-platform/",
+      "published": "2026-07-24T05:06:42+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "JinkoSolar has launched a standardized solar-plus-storage package for commercial and industrial customers, combining solar modules, liquid-cooled batteries, and AI-based energy management under one platform. The post JinkoSolar targets retail power bills with Sunny 365 solar-storage platform appeare…"
+    },
+    {
+      "id": "b89b367bd5b4",
+      "title": "Renewables Provide More Than 30% of US Electricity",
+      "url": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
+      "published": "2026-07-24T02:05:53+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Washington DC — New data just released by the U.S. Energy Information Administration (EIA), and reviewed by the SUN DAY Campaign, reveal growth of more than 10% in electrical generation by renewable energy sources in the first five months of 2026. Moreover, solar, wind, and battery storage are proje…"
+    },
+    {
+      "id": "4cb3399e3f18",
+      "title": "Voters Know America Needs More Energy. Solar & Storage Are the Overwhelming Choice.",
+      "url": "https://cleantechnica.com/2026/07/23/voters-know-america-needs-more-energy-solar-storage-are-the-overwhelming-choice/",
+      "published": "2026-07-23T21:04:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Skyrocketing energy demand, unpredictable fuel prices, and scorching summer heatwaves are sending U.S. electricity bills through the roof. With just 100 days until the 2026 midterm elections, the window is closing for lawmakers to tackle rising costs before voters render their verdict at the ballot …"
+    },
+    {
+      "id": "833b6e4bf73c",
+      "title": "NIO Launches the ES8 Five-Seat Version",
+      "url": "https://cleantechnica.com/2026/07/23/nio-launches-the-es8-five-seat-version/",
+      "published": "2026-07-23T18:41:08+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "On July 9, 2026, NIO officially launched the five-seat version of the NIO ES8, its flagship premium SUV. The Executive Premium variant starts at RMB 382,800, or RMB 274,800 with Battery as a Service (BaaS). The Executive Signature variant starts at RMB 422,800, or RMB 314,800 with BaaS. Deliveries o…"
+    },
+    {
+      "id": "02dcd49f80ef",
+      "title": "Renewables, storage can meet one-third of US industrial heat demand: report",
+      "url": "https://www.utilitydive.com/news/renewables-and-storage-can-meet-one-third-of-us-industrial-heat-demand-r/826057/",
+      "published": "2026-07-23T17:17:17+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The UC Berkeley analysis should be welcome news for a manufacturing industry that is heavily reliant on natural gas, with its volatile prices, said&nbsp;Jose Dominguez, one of the report&rsquo;s authors."
+    },
+    {
+      "id": "b0c5ccdfcc9e",
+      "title": "Brookfield buys BESS developer Aypa Power from Blackstone",
+      "url": "https://www.energy-storage.news/brookfield-buys-bess-developer-aypa-power-from-blackstone/",
+      "published": "2026-07-23T14:53:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Brookfield has agreed to acquire battery storage developer-operator Aypa Power at an enterprise value of ~US$7 billion."
+    },
+    {
+      "id": "9ec5dea6ecf1",
+      "title": "Germany sets September date for first capacity market auction",
+      "url": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
+      "published": "2026-07-23T11:40:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Germany will have its first capacity market (CM) auction in September this year, following confirmation from the country's energy regulator."
+    },
+    {
+      "id": "2e224666650c",
+      "title": "Analysis: Recent AI data centre BESS technology and deployment partnerships",
+      "url": "https://www.energy-storage.news/analysis-recent-ai-data-centre-bess-technology-and-deployment-partnerships/",
+      "published": "2026-07-23T10:37:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS has huge potential to be deployed alongside AI data centres, but how are industry players positioning themselves to capture this opportunity?"
+    },
     {
       "id": "ae81659ce49a",
       "title": "‘Growing interest’ in US microgrids attracts tax equity investor Foss & Company to US$30 million Maryland deal",
