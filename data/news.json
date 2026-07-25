@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-24T10:21:49.613395+00:00",
-  "count": 623,
+  "updated": "2026-07-25T09:51:33.406891+00:00",
+  "count": 628,
   "items": [
+    {
+      "id": "12d4b1d29eac",
+      "title": "Germany Is Subsidizing Hydrogen Truck Purchases, Not Battery-Electric Ones",
+      "url": "https://cleantechnica.com/2026/07/24/germany-hydrogen-truck-purchase-subsidy/",
+      "published": "2026-07-24T15:25:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Germany’s latest hydrogen truck programme attracted 526 applications seeking €455 million from a €220 million funding pool. That has been presented as evidence that hydrogen freight is finally finding a market. A more revealing fact sits inside the programme design: Germany is offering purchase supp…"
+    },
+    {
+      "id": "9a5b395a0828",
+      "title": "Hyundai Motor Group Launches AllDayEnergy, Its Global V2X Service",
+      "url": "https://cleantechnica.com/2026/07/24/hyundai-motor-group-launches-alldayenergy-its-global-v2x-service/",
+      "published": "2026-07-24T13:16:42+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New global name brings Hyundai Motor Group’s V2X services together under a single identity AllDayEnergy integrates Smart Charging (V1G), Vehicle-to-Grid (V2G) and Vehicle-to-Home (V2H) services under a single global identity Starting with V1G smart charging, rollout will begin in the UK first via th…"
+    },
+    {
+      "id": "efdffb1afd68",
+      "title": "Tunisia authorizes residential solar-plus-storage amid heatwave",
+      "url": "https://www.pv-magazine.com/2026/07/24/tunisia-authorizes-residential-solar-plus-storage-amid-heatwave/",
+      "published": "2026-07-24T11:59:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Tunisia has authorized residential battery storage systems paired with hybrid inverters as record heat drives electricity demand and strains the national grid. The new framework enables PV system owners to use stored solar power during outages, with national utility STEG issuing technical requiremen…"
+    },
+    {
+      "id": "7d08055ba8e6",
+      "title": "German startup launches high-voltage sodium-ion battery for residential applications",
+      "url": "https://www.pv-magazine.com/2026/07/24/german-startup-launches-high-voltage-sodium-ion-battery-for-residential-applications/",
+      "published": "2026-07-24T11:33:44+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Revolta has introduced a high-voltage residential sodium-ion battery storage system with modular capacity from 2 kWh to 20 kWh. The system features a 450 V DC nominal voltage, over 95% efficiency, 105 Wh/kg energy density, and IP65 protection. The post German startup launches high-voltage sodium-ion…"
+    },
+    {
+      "id": "d18ba4bf8190",
+      "title": "Poland: R.Power enlists EPCs for 2.2GWh of BESS, EDF and Eurus, Eiffel and Ergy co-invest in projects",
+      "url": "https://www.energy-storage.news/poland-r-power-enlists-epcs-for-2-2gwh-of-bess-edf-and-eurus-eiffel-and-ergy-co-invest-in-projects/",
+      "published": "2026-07-24T10:48:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "It's been a busy week for the large-scale energy storage market in Poland, with projects moved to construction and delivery by EDF Power Solutions &#038; Eurus Energy Europe, Eiffel Investment Group &#038; Ergy, R.Power Renewables, and EDP."
+    },
     {
       "id": "821454f70e66",
       "title": "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deployments",
