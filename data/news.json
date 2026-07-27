@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-26T10:02:28.678455+00:00",
-  "count": 629,
+  "updated": "2026-07-27T11:27:33.921355+00:00",
+  "count": 634,
   "items": [
+    {
+      "id": "1f513223cd40",
+      "title": "Energy storage generates nearly 20% of CATL’s revenues in first half of 2026",
+      "url": "https://www.energy-storage.news/energy-storage-generates-nearly-20-of-catls-revenues-in-first-half-of-2026/",
+      "published": "2026-07-27T10:31:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL’s energy storage division represented 19.23% of the Chinese battery manufacturer’s total revenue in the first half of 2026."
+    },
+    {
+      "id": "01f786d9ff6a",
+      "title": "Lebanon tenders 350 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/07/27/lebanon-tenders-350-mw-of-solar/",
+      "published": "2026-07-27T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A tender is open in Lebanon covering five grid-connected solar projects with a combined capacity of 350 MW, to be paired with up to 1 GWh of battery storage. The deadline to submit expressions of interest is August 31. The post Lebanon tenders 350 MW of solar appeared first on pv magazine Global."
+    },
+    {
+      "id": "ee6af3fbd9a7",
+      "title": "HyperStrong introduces C&I energy storage solutions at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/27/hyperstrong-introduces-ci-energy-storage-solutions-at-the-smarter-e-2026/",
+      "published": "2026-07-27T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The company emphasizes that its innovative configuration – splitting the standard 20-foot container in two – addresses weight and transportation issues common to traditional energy storage solutions. The post HyperStrong introduces C&amp;I energy storage solutions at The smarter E 2026 appeared firs…"
+    },
+    {
+      "id": "96134a851799",
+      "title": "Ark Energy locks in AU$1.3 billion for 2.2GWh solar-plus-storage site in New South Wales, Australia",
+      "url": "https://www.energy-storage.news/ark-energy-locks-in-au1-3-billion-for-2-2gwh-solar-plus-storage-site-in-new-south-wales-australia/",
+      "published": "2026-07-27T02:35:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two Australian solar-plus-storage projects advance: Ark Energy secures AU$1.3 billion for 2.2GWh Richmond Valley project; Quinbrook submits 250MWp Queensland site."
+    },
+    {
+      "id": "33d2798dd661",
+      "title": "Partnership with EnergyHub, Sunrun, & The Mobility House to Test Massachusetts Residential Vehicle-to-Grid Program for Eversource & National Grid Customers",
+      "url": "https://cleantechnica.com/2026/07/26/partnership-with-energyhub-sunrun-the-mobility-house-to-test-massachusetts-residential-vehicle-to-grid-program-for-eversource-national-grid-customers/",
+      "published": "2026-07-27T01:55:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Partnership designed to enable EV drivers in Massachusetts to earn incentives while supporting grid reliability and affordability. NEW YORK — Eversource, National Grid, EnergyHub, Sunrun, and The Mobility House — leaders in grid flexibility and smart charging technology — today announced a joint eff…"
+    },
     {
       "id": "314498a5368b",
       "title": "This New Underground Energy Storage System Supports Wind And Solar Power",
