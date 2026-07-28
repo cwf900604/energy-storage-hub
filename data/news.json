@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-27T11:27:33.921355+00:00",
-  "count": 634,
+  "updated": "2026-07-28T10:38:21.680782+00:00",
+  "count": 648,
   "items": [
+    {
+      "id": "fffd0fbd9164",
+      "title": "Inside the container: looking at CATL’s sodium-ion Tener’s specs",
+      "url": "https://www.energy-storage.news/inside-the-container-looking-at-catls-sodium-ion-teners-specs/",
+      "published": "2026-07-28T10:19:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this deep-dive, we go through and analyse all of the technical features and claims of CATL's new sodium-ion grid-scale BESS product, including its 'millisecond-level self-healing'."
+    },
+    {
+      "id": "9930309c7ed8",
+      "title": "VIDEO: How Envision Energy is positioning itself as a system-level energy infrastructure provider",
+      "url": "https://www.energy-storage.news/video-how-envision-energy-is-positioning-itself-as-a-system-level-energy-infrastructure-provider/",
+      "published": "2026-07-28T10:14:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We caught up with Kevin Huang, Senior Vice President and President of Energy Storage Product Line at Envision Energy at Smarter E in Munich for a video interview on the company's energy storage strategy and the growing role of AI data centres in power demand."
+    },
+    {
+      "id": "40a8805564e4",
+      "title": "Forecasts are always wrong: Co-location depends on real-time data and integration",
+      "url": "https://www.energy-storage.news/forecasts-are-always-wrong-co-location-depends-on-real-time-data-and-integration/",
+      "published": "2026-07-28T09:54:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There can be great value in co-location, but the operational reality is not as simple as it may sound, writes Daniel Moore-Oats of Arenko."
+    },
+    {
+      "id": "e89d0eac7ba0",
+      "title": "Zenobē buys German BESS developer SDP Energie, inheriting 1.75GW transmission-level pipeline",
+      "url": "https://www.energy-storage.news/zenobe-buys-german-bess-developer-sdp-energie-inheriting-1-75gw-transmission-level-pipeline/",
+      "published": "2026-07-28T09:40:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UK-based BESS and EV charging firm Zenobē has entered the German market with the acquisition of Bavaria-headquartered BESS developer SDP Energie."
+    },
+    {
+      "id": "0c531f4660b9",
+      "title": "Solmeria opens platform for buying solar, storage projects",
+      "url": "https://www.pv-magazine.com/2026/07/28/solmeria-opens-platform-for-buying-solar-storage-projects/",
+      "published": "2026-07-28T09:20:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The French company, formerly known as Ferme Solaire, launched the new marketplace for buying and selling solar and storage projects in Europe earlier this month. The post Solmeria opens platform for buying solar, storage projects appeared first on pv magazine Global."
+    },
+    {
+      "id": "479d2e9595d5",
+      "title": "Minister of Energy leads ceremony to commission Malawi’s first grid-scale standalone BESS",
+      "url": "https://www.energy-storage.news/minister-of-energy-leads-ceremony-to-commission-malawis-first-grid-scale-standalone-bess/",
+      "published": "2026-07-28T08:52:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Malawi’s energy minister was on hand last week as the southeast African country inaugurated its first large-scale standalone battery energy storage system (BESS)."
+    },
+    {
+      "id": "2c183db4ce7f",
+      "title": "Malaysia launches tender for 2.5GW of solar PV with co-located battery storage",
+      "url": "https://www.energy-storage.news/malaysia-launches-tender-for-2-5gw-of-solar-pv-with-co-located-battery-storage/",
+      "published": "2026-07-28T05:17:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The government of Malaysia has unveiled the next round of its Large-scale solar (LSS) program tender seeking 2.5GW of solar PV co-located with 1.25GW of battery energy storage system (BESS) capacity."
+    },
+    {
+      "id": "5787614b6e96",
+      "title": "Hanoi Power Corporation inaugurates the first 100MWh battery storage portfolio in Vietnamese capital",
+      "url": "https://www.energy-storage.news/hanoi-power-corporation-inaugurates-the-first-100mwh-battery-storage-portfolio-in-vietnamese-capital/",
+      "published": "2026-07-28T04:47:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Hanoi Power Corporation (EVNHANOI) has begun pilot operation of five battery energy storage systems at substations in Hanoi, Vietnam."
+    },
+    {
+      "id": "9f0a1a2c5c1e",
+      "title": "Affordable Homes, Cooling Centers, and a Faster Grid? Yes, Please",
+      "url": "https://cleantechnica.com/2026/07/27/affordable-homes-cooling-centers-and-a-faster-grid-yes-please/",
+      "published": "2026-07-28T02:49:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "How 4 Companies Are Working To Bring New Technologies to Communities in Need—With Help From National Laboratory Experts By Caitlin McDermott-Murphy and Stacy Parker, NLR A year after the Palisades and Eaton wildfires destroyed more than 13,000 homes in Los Angeles County, fewer than a dozen had been…"
+    },
+    {
+      "id": "3276cfbeec41",
+      "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+      "url": "https://cleantechnica.com/2026/07/27/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration/",
+      "published": "2026-07-28T02:41:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In the second quarter of 2026 (2Q26), 24% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, up from 22% in 2Q25. Between 2Q25 and 2Q26, hybrid electric vehicles continued to gain market share, reaching a record 16% of li…"
+    },
+    {
+      "id": "81a8835ca053",
+      "title": "Ameren Missouri Bets Big on Expensive New Gas",
+      "url": "https://cleantechnica.com/2026/07/27/ameren-missouri-bets-big-on-expensive-new-gas/",
+      "published": "2026-07-28T00:28:08+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Supply chain problems driving up new gas turbine prices as solar &#38; storage compete on cost ST. LOUIS, MO — Amid surging costs for new turbines, Ameren Missouri announced today its plan to build a new 2.1 gigawatt (GW) gas plant in St. Charles County. While the monopoly utility’s press release do…"
+    },
+    {
+      "id": "5852594f7655",
+      "title": "Hawaiian Electric Seeks to Expand Renewables, Energy Storage on Oʻahu, Hawaiʻi Island, and Maui",
+      "url": "https://cleantechnica.com/2026/07/27/hawaiian-electric-seeks-to-expand-renewables-energy-storage-on-o%ca%bbahu-hawai%ca%bbi-island-and-maui/",
+      "published": "2026-07-27T15:01:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Represents significant progress toward 100% renewable energy One of state’s largest energy procurements ever Additional 500 MW of firm generation on O‘ahu to be sought HONOLULU — Hawaiian Electric Company, Inc. (Hawaiian Electric), a subsidiary of Hawaiian Electric Industries, Inc. (HEI) (NYSE &#821…"
+    },
+    {
+      "id": "b2305c8f3c22",
+      "title": "ESS & Juniper Energy Sign Agreement for 500 MWh+ of Sodium-Ion Energy Storage Deployments",
+      "url": "https://cleantechnica.com/2026/07/27/ess-juniper-energy-sign-agreement-for-500-mwh-of-sodium-ion-energy-storage-deployments/",
+      "published": "2026-07-27T13:03:44+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Partnership Begins with Planned 80 MWh California Project and Establishes Framework for Long-term Collaboration WILSONVILLE, Oregon — ESS Tech, Inc. (ESS) (NYSE: GWH) (“ESS” or the “company”), a leading provider of non-lithium energy storage solutions, has announced the signing of a Letter of Intent…"
+    },
+    {
+      "id": "f02963eb52ee",
+      "title": "Vehicle-to-grid added to Massachusetts utilities’ ConnectedSolutions demand response VPP",
+      "url": "https://www.energy-storage.news/vehicle-to-grid-added-to-massachusetts-utilities-connectedsolutions-demand-response-vpp/",
+      "published": "2026-07-27T12:08:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Eversource and National Grid will enable customers in Massachusetts to enrol vehicle-to-grid (V2G) -capable EVs in their demand side flexibility programme."
+    },
     {
       "id": "1f513223cd40",
       "title": "Energy storage generates nearly 20% of CATL’s revenues in first half of 2026",
