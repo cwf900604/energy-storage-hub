@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-28T10:38:21.680782+00:00",
-  "count": 648,
+  "updated": "2026-07-29T10:41:45.395178+00:00",
+  "count": 658,
   "items": [
+    {
+      "id": "c09e5ef51a36",
+      "title": "Why consumers are choosing solar over fossil fuels",
+      "url": "https://www.pv-magazine.com/2026/07/29/why-consumers-are-choosing-solar-over-fossil-fuels/",
+      "published": "2026-07-29T10:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "People across the world have woken up to the fact that renewable energy is a source of local economic stability and energy security, particularly when it’s on their roofs, with a recent global survey finding two in three people now support renewable energy and storage investment. The post Why consum…"
+    },
+    {
+      "id": "587b08ef7264",
+      "title": "Financing secured for Timor-Leste’s first solar-storage project",
+      "url": "https://www.pv-magazine.com/2026/07/29/financing-secured-for-timor-lestes-first-solar-storage-project/",
+      "published": "2026-07-29T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Asian Development Bank, World Bank and investors from Canada and Japan have partnered on a $85.7 million financing package for Timor-Leste’s first independent power project. The post Financing secured for Timor-Leste’s first solar-storage project appeared first on pv magazine Global."
+    },
+    {
+      "id": "05338605ef36",
+      "title": "German battery manufacturer files for self-administered insolvency",
+      "url": "https://www.pv-magazine.com/2026/07/29/german-battery-manufacturer-files-for-self-administered-insolvency/",
+      "published": "2026-07-29T08:20:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "German battery manufacturer Varta has filed for self-administered insolvency, with the proceedings covering its solar-storage and energy management business. The post German battery manufacturer files for self-administered insolvency appeared first on pv magazine Global."
+    },
+    {
+      "id": "f2d078ee24df",
+      "title": "Neoen Australia begins construction on 907MWh grid-forming BESS in South Australia",
+      "url": "https://www.energy-storage.news/neoen-australia-begins-construction-on-907mwh-grid-forming-bess-in-south-australia/",
+      "published": "2026-07-29T03:20:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Neoen Australia has commenced construction of a 227MW/907MWh grid-forming battery storage system in South Australia."
+    },
+    {
+      "id": "53e9f8f5a671",
+      "title": "NEM battery price spreads fall 85% in a year as Australia’s grid-scale BESS fleet passes 9,000MW",
+      "url": "https://www.energy-storage.news/nem-battery-price-spreads-fall-85-in-a-year-as-australias-grid-scale-bess-fleet-passes-9000mw/",
+      "published": "2026-07-29T03:17:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NEM-wide battery price spreads fell 85% in a single year to average AU$51/MWh (US$35/MWh) in Q2 2026, according to AEMO."
+    },
+    {
+      "id": "f5ddcc10b357",
+      "title": "Quinbrook’s Supernode BESS becomes the largest in operation across Australia’s NEM",
+      "url": "https://www.energy-storage.news/quinbrooks-supernode-bess-becomes-the-largest-in-operation-across-australias-nem/",
+      "published": "2026-07-29T03:13:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Quinbrook has completed construction and commenced commercial operations at Stage 2 of its Supernode BESS in Australia."
+    },
+    {
+      "id": "190c18a6bd6f",
+      "title": "30-MW Nebraska microgrid gets a non-lithium battery boost",
+      "url": "https://www.utilitydive.com/news/30-mw-nebraska-microgrid-gets-a-non-lithium-battery-boost/826393/",
+      "published": "2026-07-28T18:16:21+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Lincoln Electric System is energizing a 3-MW /12-MWh zinc-based battery to support the Nebraska state Capitol complex and other critical infrastructure."
+    },
+    {
+      "id": "2097a2ce2d31",
+      "title": "Who Needs Natural Gas Power Plants When Grid Solutions, VPPs, And DERs Are Here?",
+      "url": "https://cleantechnica.com/2026/07/28/grid-modernization-energy-storage-vpp-wind-solar-ders/",
+      "published": "2026-07-28T17:35:23+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The US energy storage startup Viridi is among the US stakeholders deploying advanced technologies that improve resiliency while adding more distributed energy resources -- namely, wind and solar power -- to the nation's grid. The post Who Needs Natural Gas Power Plants When Grid Solutions, VPPs, And…"
+    },
+    {
+      "id": "70d3bd3d236d",
+      "title": "CATL Net Profit Jumps 42%",
+      "url": "https://cleantechnica.com/2026/07/28/catl-net-profit-jumps-42/",
+      "published": "2026-07-28T13:50:55+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "CATL is the largest battery maker in the world. Based in China, it definitely feeds off of the ginormous electric vehicle industry in the country. However, it also quickly became a popular supplier for Western automakers as well in the past decade. Previous leaders like LG Chem (now LG Energy ... [c…"
+    },
+    {
+      "id": "bfdc1005f032",
+      "title": "Slovakian battery and BESS manufacturer InoBat eyes SPAC merger for Nasdaq listing",
+      "url": "https://www.energy-storage.news/slovakian-battery-and-bess-manufacturer-inobat-eyes-spac-merger-for-nasdaq-listing/",
+      "published": "2026-07-28T11:41:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "European battery manufacturer and energy storage system integrator InoBat plans to get a Nasdaq listing through a business combination with a special purpose acquisition company (SPAC)."
+    },
     {
       "id": "fffd0fbd9164",
       "title": "Inside the container: looking at CATL’s sodium-ion Tener’s specs",
