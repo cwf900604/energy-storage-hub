@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-29T10:41:45.395178+00:00",
-  "count": 658,
+  "updated": "2026-07-30T10:27:37.126580+00:00",
+  "count": 670,
   "items": [
+    {
+      "id": "08a5c63139ba",
+      "title": "Axpo and Zelestra agree 207MW Italy BESS toll, second in July for IPP",
+      "url": "https://www.energy-storage.news/axpo-and-zelestra-agree-207mw-italy-bess-toll-second-in-july-for-ipp/",
+      "published": "2026-07-30T09:22:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Power firm Axpo and IPP Zelestra have entered into a long-term toll for a BESS project in northern Italy, Zelestra's second deal in July."
+    },
+    {
+      "id": "33a20f3e7b2e",
+      "title": "EV demand in Europe, BESS in the US drive LG Energy Solution’s return to profit in Q2",
+      "url": "https://www.energy-storage.news/ev-demand-in-europe-bess-in-the-us-drive-lg-energy-solutions-return-to-profit-in-q2/",
+      "published": "2026-07-30T08:56:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "LG Energy Solution (LG ES) posted a profitable second quarter this year, with investments in battery storage in the US and EV cell production in Europe paying off."
+    },
+    {
+      "id": "3c89c2027479",
+      "title": "Tesla, ContourGlobal enter 1 TWh solar-storage PPA in Arizona",
+      "url": "https://www.pv-magazine.com/2026/07/30/tesla-contourglobal-enter-1-twh-solar-storage-ppa-in-arizona/",
+      "published": "2026-07-30T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Tesla will buy around 1 TWh per year of electricity from ContourGlobal’s hybrid solar and storage project in the US state of Arizona, which is due to begin commercial operations in 2028. The post Tesla, ContourGlobal enter 1 TWh solar-storage PPA in Arizona appeared first on pv magazine Global."
+    },
+    {
+      "id": "90c4916aff15",
+      "title": "South Africa energizes 216 MW solar, 500 MWh BESS project",
+      "url": "https://www.pv-magazine.com/2026/07/30/south-africa-energizes-216-mw-solar-500-mwh-bess-project/",
+      "published": "2026-07-30T07:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A consortia led by TotalEnergies has switched on its Hydra project in South Africa's Northern Cape, billed as Africa's largest hybrid renewable energy project to date. The post South Africa energizes 216 MW solar, 500 MWh BESS project appeared first on pv magazine Global."
+    },
+    {
+      "id": "8120c0e9047c",
+      "title": "Quinbrook submits 520MW Flat Rock BESS in Australia’s ACT to EPBC Act",
+      "url": "https://www.energy-storage.news/quinbrook-submits-520mw-flat-rock-bess-in-australias-act-to-epbc-act/",
+      "published": "2026-07-30T05:17:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Quinbrook Infrastructure Partners has submitted a 520MW standalone BESS in the ACT to Australia's EPBC Act."
+    },
+    {
+      "id": "2cd2d50bfb73",
+      "title": "Tesla & ContourGlobal Sign Long-Term Power Agreement Covering 1 Terawatt-Hour/Year for Sterling Renewable Project",
+      "url": "https://cleantechnica.com/2026/07/29/tesla-contourglobal-sign-long-term-power-agreement-covering-1-terawatt-hour-year-for-sterling-renewable-project/",
+      "published": "2026-07-30T02:29:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "This is one of the largest solar-plus-battery storage corporate PPA ever signed from a single plant in the U.S., and it will be served by the largest renewable plant in ContourGlobal’s portfolio. Project Sterling is a hybrid solar PV + BESS project in Arizona. With more than 1.4 GWh of ... [continue…"
+    },
+    {
+      "id": "d04d78a16a7c",
+      "title": "Australia should treat data centres as ‘anchor tenants’ for clean energy infrastructure, says AirTrunk",
+      "url": "https://www.energy-storage.news/australia-should-treat-data-centres-as-anchor-tenants-for-clean-energy-infrastructure-says-airtrunk/",
+      "published": "2026-07-30T02:17:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Large data centres should serve as “anchor tenants” for new renewable energy generation, storage, and transmission investment, leveraging the scale and longevity of digital infrastructure commitments to advance energy projects rather than waiting for supply to arrive."
+    },
+    {
+      "id": "f87397819ad9",
+      "title": "The 2100 Projections Came First. Then Clients Asked For 2050 Roadmaps.",
+      "url": "https://cleantechnica.com/2026/07/29/2100-projections-2050-decarbonization-roadmaps/",
+      "published": "2026-07-29T17:22:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Most decarbonization scenarios stop at 2050 because policy targets do. Steel mills, aircraft fleets, ports, electricity grids and industrial supply chains do not. A pathway can reach net zero in a target-year spreadsheet while leaving behind an energy system that is expensive, physically implausible…"
+    },
+    {
+      "id": "dd10c79dd839",
+      "title": "Battery storage is an important growth driver, NextEra CEO says, amid merger to create largest regulated utility in US",
+      "url": "https://www.energy-storage.news/battery-storage-is-an-important-growth-driver-nextera-ceo-says-amid-merger-to-create-largest-regulated-utility-in-us/",
+      "published": "2026-07-29T14:19:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NextEra Energy recorded a 9.5% increase in its net earnings in Q2 2026, as the company advanced its plan to merge with Dominion Energy to form the world's largest regulated power utility."
+    },
+    {
+      "id": "e6d5abf19049",
+      "title": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base",
+      "url": "https://www.energy-storage.news/georgia-power-completes-construction-of-198mwh-bess-next-to-moody-air-force-base/",
+      "published": "2026-07-29T12:52:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Utility Georgia Power has completed construction of the 49.5MW/198MWh Moody Battery Facility, located outside of Valdosta, Georgia, US."
+    },
+    {
+      "id": "4b6cd249360c",
+      "title": "‘Tremendously important market for storage’: US BESS integrator FlexGen on its start of European operations",
+      "url": "https://www.energy-storage.news/tremendously-important-market-for-storage-us-bess-integrator-flexgen-on-its-start-of-european-operations/",
+      "published": "2026-07-29T10:56:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Jason Abiecunas and Mike Wallace of FlexGen, one of a growing number of US BESS companies establishing operations in Europe."
+    },
+    {
+      "id": "1041d632913a",
+      "title": "RWE building 470MWh BESS in Germany; Kallista enlists Envision for 386MWh in France",
+      "url": "https://www.energy-storage.news/rwe-building-470mwh-bess-in-germany-kallista-enlists-envision-for-386mwh-in-france/",
+      "published": "2026-07-29T10:46:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "RWE has launched construction on a 236MW/470MWh BESS in Germany, while IPP Kallista has done the same on a 193MW/386MWh system in France, supplied by Envision Energy."
+    },
     {
       "id": "c09e5ef51a36",
       "title": "Why consumers are choosing solar over fossil fuels",
