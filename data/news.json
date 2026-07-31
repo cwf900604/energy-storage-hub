@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-30T10:27:37.126580+00:00",
-  "count": 670,
+  "updated": "2026-07-31T10:42:23.303002+00:00",
+  "count": 679,
   "items": [
+    {
+      "id": "d2a7f16cde8f",
+      "title": "Greenvolt inaugurates 200MW/800MWh capacity market-contracted BESS in Poland",
+      "url": "https://www.energy-storage.news/greenvolt-inaugurates-200mw-800mwh-capacity-market-contracted-bess-in-poland/",
+      "published": "2026-07-31T10:40:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Greenvolt Power has inaugurated the 200MW Turośń Kościelna Battery Energy Storage Facility in Poland, which energy trader Entrix will optimise."
+    },
+    {
+      "id": "bb495668f9ff",
+      "title": "Colombia awards 725 MW of solar on second day of green energy auction",
+      "url": "https://www.pv-magazine.com/2026/07/31/colombia-awards-725-mw-of-solar-on-second-day-of-green-energy-auction/",
+      "published": "2026-07-31T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The country's Clean Energy Procurement Auction awarded 995 MW of solar and nearly 100 MW of battery energy storage systems across two days. The post Colombia awards 725 MW of solar on second day of green energy auction appeared first on pv magazine Global."
+    },
+    {
+      "id": "4b6199d409fc",
+      "title": "China’s 15th Five-Year Carbon Peaking Action Plan aims to accelerate shift of energy mix from coal-dominant",
+      "url": "https://www.energy-storage.news/chinas-15th-five-year-carbon-peaking-action-plan-aims-to-accelerate-shift-of-energy-mix-from-coal-dominant/",
+      "published": "2026-07-31T05:40:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The State Council of China recently released the 15th Five-Year Carbon Peaking Action Plan, outlining a roadmap for carbon peaking through the Action Plan period."
+    },
+    {
+      "id": "72eee9b55fec",
+      "title": "Thermal energy storage company 1414 Degrees secures 1GW data centre deal in South Australia",
+      "url": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
+      "published": "2026-07-31T03:32:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "1414 Degrees has signed a deal to develop up to 1GW of AI data centre infrastructure at its Aurora Energy Precinct in South Australia."
+    },
+    {
+      "id": "bb569ecf1f33",
+      "title": "“Hot Blocks” Thermal Energy Storage Startup Nails Down $550 Million More To Chase Fossil Fuels Away",
+      "url": "https://cleantechnica.com/2026/07/30/energy-storage-factory-made-carbon-blocks-us-startup-antora/",
+      "published": "2026-07-31T01:34:49+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The US energy storage startup Antora Energy is scaling up with a $550 million assist from leading investors. The post &#8220;Hot Blocks&#8221; Thermal Energy Storage Startup Nails Down $550 Million More To Chase Fossil Fuels Away appeared first on CleanTechnica."
+    },
+    {
+      "id": "f2afc2813a50",
+      "title": "Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
+      "url": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
+      "published": "2026-07-30T12:27:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Infrastructure and construction company Aecon Group has executed an agreement with Ontario’s Independent Electricity System Operator (IESO) for the 150MW/1,200MWh Simcoe energy storage project in Norfolk County, Ontario."
+    },
+    {
+      "id": "ffa725c0912d",
+      "title": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
+      "url": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
+      "published": "2026-07-30T12:17:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Eolian has begun construction on Flint Grid, a 200MW/1.06GWh energy storage project in Jersey Township, Licking County, Ohio, US."
+    },
+    {
+      "id": "e50e5a4dfaf7",
+      "title": "VIDEO: Rept Battero’s overseas team on navigating the evolving landscape and requirements for Chinese OEMs",
+      "url": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
+      "published": "2026-07-30T10:57:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "How do Chinese OEMs respond to evolving customer requirements and new risks that come with business outside their home market? We sat down with executives from Rept Battero at Intersolar in June to discuss."
+    },
+    {
+      "id": "764c0cfb01da",
+      "title": "Central & Eastern Europe: UK’s Alcemi buys 2.3GWh Romania projects, Slovakia’s biggest BESS brought online",
+      "url": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
+      "published": "2026-07-30T10:30:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alcemi, developer of some of the UK’s biggest projects, has entered the Romanian battery storage market, while Slovakia’s biggest project to date has gone into operation."
+    },
     {
       "id": "08a5c63139ba",
       "title": "Axpo and Zelestra agree 207MW Italy BESS toll, second in July for IPP",
