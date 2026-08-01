@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-31T10:42:23.303002+00:00",
-  "count": 679,
+  "updated": "2026-08-01T10:01:56.029893+00:00",
+  "count": 685,
   "items": [
+    {
+      "id": "9a4c62163fc4",
+      "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
+      "url": "https://cleantechnica.com/2026/08/01/lower-saxony-hydrogen-trains-battery-exit/",
+      "published": "2026-08-01T06:20:01+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Lower Saxony’s hydrogen trains will probably not be retired because a politician announces that battery-electric multiple units were the better technology. They will be retired when the bill arrives for extending the life of an underused, specialized hydrogen system and the state has to compare that…"
+    },
+    {
+      "id": "916fccd7d8b5",
+      "title": "VICTORY: Courts Rule in Favor of Sierra Club, Approves FERC Order to Speed Up Clean Energy Projects",
+      "url": "https://cleantechnica.com/2026/07/31/victory-courts-rule-in-favor-of-sierra-club-approves-ferc-order-to-speed-up-clean-energy-projects/",
+      "published": "2026-07-31T23:39:43+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Today, the D.C. Circuit Court of Appeals agreed with Sierra Club that the Federal Energy Regulatory Commission properly issued Order 2023—an order that directs grid operators to address longstanding delays with interconnection queues and speed up the process. Order 2023 required critical reforms to …"
+    },
+    {
+      "id": "be65d69dd773",
+      "title": "Antora Energy closes US$550 million Series C to scale US thermal battery deployment",
+      "url": "https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/",
+      "published": "2026-07-31T11:48:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Thermal energy storage (TES) technology provider Antora Energy has closed a US$550 million Series C funding round to accelerate deployment of its thermal battery storage systems for industrial facilities and data centres in the US."
+    },
+    {
+      "id": "26a37c9d906a",
+      "title": "Veolia to operate 350MW microgrid for AI data centre in central Ohio",
+      "url": "https://www.energy-storage.news/veolia-to-operate-350mw-microgrid-for-ai-data-centre-in-central-ohio/",
+      "published": "2026-07-31T11:43:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Environmental services company Veolia has been selected to operate and maintain a 350MW microgrid to power an AI data centre campus in New Albany, Ohio, US, which includes a 430MWh BESS."
+    },
+    {
+      "id": "36447c633ce1",
+      "title": "‘Business as usual, just accelerated’: Harmony Energy CEO on life after Alpiq acquisition",
+      "url": "https://www.energy-storage.news/business-as-usual-just-accelerated-harmony-energy-ceo-on-life-after-alpiq-acquisition/",
+      "published": "2026-07-31T11:24:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We caught up with Peter Kavanagh, CEO of BESS developer Harmony Energy, after it was acquired by Switzerland-headquartered power group Alpiq."
+    },
+    {
+      "id": "6b378121ae1a",
+      "title": "Sierra Leone switches on solar-storage project",
+      "url": "https://www.pv-magazine.com/2026/07/31/sierra-leone-switches-on-first-solar-storage-project/",
+      "published": "2026-07-31T11:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese manufacturer Sungrow, which commissioned the project, says its the country’s first national-scale power generation project connected to the grid in nearly a decade. The post Sierra Leone switches on solar-storage project appeared first on pv magazine Global."
+    },
     {
       "id": "d2a7f16cde8f",
       "title": "Greenvolt inaugurates 200MW/800MWh capacity market-contracted BESS in Poland",
