@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-01T10:01:56.029893+00:00",
-  "count": 685,
+  "updated": "2026-08-02T10:00:02.108798+00:00",
+  "count": 689,
   "items": [
+    {
+      "id": "f4f88ed93d62",
+      "title": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
+      "url": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
+      "published": "2026-08-02T09:03:00+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Edinburgh makes electric transit visible. The city has electrified regional rail, trams and a growing number of electric buses, including large battery-electric double-deckers that stand out from the pavement. That progress is important, but it is not especially surprising. Urban buses were always e…"
+    },
+    {
+      "id": "a36598e50945",
+      "title": "Janus Battery Swap Trucks Show The Way",
+      "url": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
+      "published": "2026-08-02T01:18:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Recent CleanTechnica stories from Michael Barnard have highlighted CATL’s joint venture to introduce electric truck swap infrastructure to Europe. That company provides turnkey solutions for swap stations and batteries. Electric truck swap developments extend to other areas of the globe as well. Jan…"
+    },
+    {
+      "id": "9cb8bd0177b8",
+      "title": "Zambia’s Government Delivers On Its Promise To Ramp Up Electricity Generation Capacity, With Solar Playing A Key Role",
+      "url": "https://cleantechnica.com/2026/08/01/zambias-government-delivers-on-its-promise-to-ramp-up-electricity-generation-capacity-with-solar-playing-a-key-role/",
+      "published": "2026-08-01T20:08:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "There may be a lot of denialists around the world, but millions of people are unfortunately bearing the brunt of climate change induced disruptions to their lives. Let&#8217;s look at Zambia, a country that made a conscious decision to have an electricity grid powered by renewable energy, mostly hyd…"
+    },
+    {
+      "id": "a6aef6e41c98",
+      "title": "KIA Elects To Manufacture The EV3 In Mexico",
+      "url": "https://cleantechnica.com/2026/08/01/kia-elects-to-manufacture-the-ev3-in-mexico/",
+      "published": "2026-08-01T18:41:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "By all accounts, the Kia EV3 should be the perfect electric car for many US drivers. After all, it was named World Car of the Year in 2025. It is a thoroughly modern battery electric vehicle inside a compact SUV shell that faithfully follows the acclaimed design language of Kia&#8217;s ... [continue…"
+    },
     {
       "id": "9a4c62163fc4",
       "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
