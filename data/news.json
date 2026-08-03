@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-02T10:00:02.108798+00:00",
-  "count": 689,
+  "updated": "2026-08-03T11:27:53.767560+00:00",
+  "count": 698,
   "items": [
+    {
+      "id": "10bc8d500bfe",
+      "title": "European Commission approves scheme to support 370MWh of battery storage in Slovenia",
+      "url": "https://www.energy-storage.news/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia/",
+      "published": "2026-08-03T11:23:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Commission (EC) has approved a financial support scheme to accelerate the deployment of battery storage technologies in Slovenia."
+    },
+    {
+      "id": "12f038161971",
+      "title": "Morocco hosts Africa’s first battery manufacturing plant",
+      "url": "https://www.pv-magazine.com/2026/08/03/morocco-hosts-africas-first-battery-manufacturing-plant/",
+      "published": "2026-08-03T11:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The factory, belonging to Chinese company Gotion High-Tech, is based on the cathode-to-cell lithium-iron-phosphate (LFP) battery technology with an initial capacity of 10 GWh intended for the automotive market. The post Morocco hosts Africa&#8217;s first battery manufacturing plant appeared first on…"
+    },
+    {
+      "id": "67f39ef6af3c",
+      "title": "Dutch researchers present power management system for PV, batteries, heat pumps, EVs",
+      "url": "https://www.pv-magazine.com/2026/08/03/dutch-researchers-develop-power-management-system-for-pv-batteries-heat-pumps-evs/",
+      "published": "2026-08-03T10:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "An optimization framework from TU Delft researchers jointly manages PV, battery storage, electric vehicles and heat pumps while participating in energy arbitrage and ancillary service markets. The post Dutch researchers present power management system for PV, batteries, heat pumps, EVs appeared firs…"
+    },
+    {
+      "id": "cec41d36159e",
+      "title": "Ulanqab selects developers for 4.4 GWh grid-forming storage buildout",
+      "url": "https://www.pv-magazine.com/2026/08/03/ulanqab-selects-developers-for-4-4-gwh-grid-forming-storage-buildout/",
+      "published": "2026-08-03T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The city of Ulanqab in Inner Mongolia, China, has assigned five independent storage projects to developers including Datang and China Resources New Energy. The post Ulanqab selects developers for 4.4 GWh grid-forming storage buildout appeared first on pv magazine Global."
+    },
+    {
+      "id": "57519779e419",
+      "title": "Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
+      "url": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
+      "published": "2026-08-03T08:31:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Samsung SDI is on track to begin production of lithium iron phosphate (LFP) battery cells in the US in the third quarter of this year."
+    },
+    {
+      "id": "a6c385d103e8",
+      "title": "Solar-plus-storage-driven heat pumps can reduce grid electricity use by 59.89%",
+      "url": "https://www.pv-magazine.com/2026/08/03/solar-plus-storage-driven-heat-pumps-can-reduce-grid-electricity-use-by-59-89/",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers in Italy found that combining demand response, thermal storage, insulation, and PV-battery systems can significantly improve building energy performance. The optimized strategy increased comfort compliance to 81.22% and reduced electricity consumption by up to 28.22%, with PV-battery int…"
+    },
+    {
+      "id": "653ffc9091b9",
+      "title": "‘You cannot build a whole electricity system purely on solar hybrids’: Squadron Energy CEO warns",
+      "url": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
+      "published": "2026-08-03T03:50:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS and solar have driven Australia past the halfway mark in NEM renewable penetration, but the technology mix is not yet broad enough."
+    },
+    {
+      "id": "f3e0785a72aa",
+      "title": "Grid-forming BESS not yet confirmed for minimum system strength in Australia as AEMO launches fault current trial",
+      "url": "https://www.energy-storage.news/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial/",
+      "published": "2026-08-03T03:29:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Grid-forming BESS have not yet been confirmed to meet the highest tier of system strength requirements in Australia's NEM, according to AEMO."
+    },
+    {
+      "id": "568b40435a2d",
+      "title": "Believe It Or Not, EV Battery Swapping Is Coming To The US",
+      "url": "https://cleantechnica.com/2026/08/02/ev-battery-swapping-us-fuel-saving-diesel-startup-revoy/",
+      "published": "2026-08-02T15:24:29+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "EV battery swapping -- in one form or another -- could finally come to the US, if the startup Revoy succeeds in pitching its swap-in, swap-out retrofit for Class 8 diesel trucks with the potential for up to 90% savings on fuel depending on the terrain and route. The post Believe It Or Not, EV Batter…"
+    },
     {
       "id": "f4f88ed93d62",
       "title": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
