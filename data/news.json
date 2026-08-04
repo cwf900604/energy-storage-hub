@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-03T11:27:53.767560+00:00",
-  "count": 698,
+  "updated": "2026-08-04T10:42:02.716108+00:00",
+  "count": 703,
   "items": [
+    {
+      "id": "efe3d62df2ec",
+      "title": "European multi-day energy storage startup Ore Energy raises US$43 million in Series A",
+      "url": "https://www.energy-storage.news/european-multi-day-energy-storage-startup-ore-energy-raises-us43-million-in-series-a/",
+      "published": "2026-08-04T10:17:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Iron-air battery company Ore Energy has raised US$43 million in a Series A funding round to commercialise its multi-day energy storage technology."
+    },
+    {
+      "id": "4dad6fa80bb6",
+      "title": "Load smoothing, cold-start backup and speed-to-power: Fluence maps the battery storage opportunity for Australian data centres",
+      "url": "https://www.energy-storage.news/load-smoothing-cold-start-backup-and-speed-to-power-fluence-maps-the-battery-storage-opportunity-for-australian-data-centres/",
+      "published": "2026-08-04T04:16:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Fluence's Jeff Monday and Sam Markham on the opportunity battery energy storage could provide data centres in Australia."
+    },
+    {
+      "id": "33aa8dbf0a48",
+      "title": "Habitat Energy appointed to optimise DC-coupled 614MWh solar-plus-storage portfolio for Octopus Australia",
+      "url": "https://www.energy-storage.news/habitat-energy-appointed-to-optimise-dc-coupled-614mwh-solar-plus-storage-portfolio-for-octopus-australia/",
+      "published": "2026-08-04T03:28:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Habitat Energy has been appointed by Octopus Australia to provide optimisation services for two DC-coupled solar-plus-storage sites."
+    },
+    {
+      "id": "439ac061bda8",
+      "title": "VinFast Debuts Electric Scooter Lineup and Battery-Swapping Network in the Philippines",
+      "url": "https://cleantechnica.com/2026/08/03/vinfast-debuts-electric-scooter-lineup-and-battery-swapping-network-in-the-philippines/",
+      "published": "2026-08-03T19:54:05+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "VinFast expands retail footprint with new e-scooters and plans for 30,000 exchange hubs MANILA, Philippines — Vietnamese battery-electric vehicle maker VinFast has formally introduced its electric two-wheeler division to the Philippines, signaling a major push to decarbonize one of Southeast Asia&#8…"
+    },
+    {
+      "id": "f8ea3a99fd47",
+      "title": "Concerns over lack of clarity, transparency as US bans foreign power inverters",
+      "url": "https://www.energy-storage.news/concerns-over-lack-of-clarity-transparency-as-us-bans-foreign-power-inverters/",
+      "published": "2026-08-03T13:06:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Public Safety and Homeland Security Bureau (PSHSB) of the US Federal Communications Commission (FCC) has classified foreign-produced power inverters and \"advanced robotic devices\" as national security threats."
+    },
     {
       "id": "10bc8d500bfe",
       "title": "European Commission approves scheme to support 370MWh of battery storage in Slovenia",
