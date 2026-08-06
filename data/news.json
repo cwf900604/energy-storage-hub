@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-05T10:38:47.143581+00:00",
-  "count": 716,
+  "updated": "2026-08-06T10:42:21.489736+00:00",
+  "count": 725,
   "items": [
+    {
+      "id": "cf2b50fb5761",
+      "title": "Researchers compare PV, wind, hybrid systems for community-scale energy",
+      "url": "https://www.pv-magazine.com/2026/08/06/researchers-compare-pv-wind-hybrid-systems-for-community-scale-energy/",
+      "published": "2026-08-06T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers in China found a hybrid system combining 200 kW of PV, 200 kW of wind and a 100 kWh battery achieved a 70.8% self-sufficiency rate for a community consuming 1,000 kWh per day. While standalone PV delivered a lower levelized cost of energy, the hybrid configuration offered the best overal…"
+    },
+    {
+      "id": "5ac70826e0a2",
+      "title": "India targets 5 GW of floating PV with co-located storage",
+      "url": "https://www.pv-magazine.com/2026/08/06/india-approves-inr-5070-crore-scheme-for-5-gw-of-floating-solar-with-storage/",
+      "published": "2026-08-06T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A newly-approved government scheme in India plans to support the development of 5 GW of floating solar on existing reservoirs and industrial ponds, to be paired with energy storage systems with a minimum storage capacity of two hours. The post India targets 5 GW of floating PV with co-located storag…"
+    },
+    {
+      "id": "c3dd69fc6164",
+      "title": "Fluence books first big data centre deals, but manufacturing ramp-up delays hit revenues",
+      "url": "https://www.energy-storage.news/fluence-books-first-big-data-centre-deals-but-manufacturing-ramp-up-delays-hit-revenues/",
+      "published": "2026-08-06T08:22:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Manufacturing delays have led Fluence to adjust its fiscal year 2026 guidance, even as the company has logged record quarterly orders and a US$6.4 billion backlog."
+    },
+    {
+      "id": "3f427dad9451",
+      "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
+      "url": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
+      "published": "2026-08-06T07:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A Reuters Events report highlights how multi-year transmission delays are forcing data center developers in the United States to deploy 56 GW of on-site generation while turning to Virtual Power Plants to unlock fast capacity. The post US data centers turn to on-site solar, storage, VPPs as grid del…"
+    },
+    {
+      "id": "84f4520f162c",
+      "title": "Australian Vanadium, Alcoa evaluate 50-80MW vanadium flow battery for WA alumina refineries",
+      "url": "https://www.energy-storage.news/australian-vanadium-alcoa-evaluate-50-80mw-vanadium-flow-battery-for-wa-alumina-refineries/",
+      "published": "2026-08-06T04:07:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian Vanadium Limited has signed an MoU with Alcoa to evaluate the deployment of vanadium flow battery technology in Western Australia."
+    },
+    {
+      "id": "d593bdc6ebf4",
+      "title": "Electric Mining Truck Uses Sodium-Ion Batteries",
+      "url": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
+      "published": "2026-08-06T00:04:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Sodium-ion batteries are one of the hot new things in the EV and broader cleantech industry. They are providing a next era of electrification. That even includes electric mining trucks now! Hina Battery and Shaanxi Tonly Heavy Industries are collaborating on these mining trucks, which are reportedly…"
+    },
+    {
+      "id": "82986b40bba2",
+      "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
+      "url": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
+      "published": "2026-08-05T11:56:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Residential energy storage startup Base Power has announced a US$1 billion Series D financing at a US$13 billion post-money valuation, and the launch of its new home battery in production in Austin, Texas, US."
+    },
+    {
+      "id": "3f8084401a8a",
+      "title": "Hydrogen-iron flow batteries: How Elestor’s tech works",
+      "url": "https://www.energy-storage.news/elestor-hydrogen-iron-flow-battery/",
+      "published": "2026-08-05T11:04:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Elestor claims its hydrogen-iron flow battery delivers 75%+ round-trip efficiency, a 20-25 year lifespan, and 15€/kWh capex for long-duration storage."
+    },
+    {
+      "id": "820b5fac1bca",
+      "title": "KKR’s ContourGlobal begins construction of ‘Sun at Night’ solar-plus-storage project in Chile",
+      "url": "https://www.energy-storage.news/kkrs-contourglobal-begins-construction-of-sun-at-night-solar-plus-storage-project-in-chile/",
+      "published": "2026-08-05T10:49:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Independent power producer (IPP) ContourGlobal has begun construction of its fourth large-scale solar PV and battery storage hybrid project in Chile."
+    },
     {
       "id": "c03dfee6e14a",
       "title": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
