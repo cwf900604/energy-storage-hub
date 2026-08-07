@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-06T10:42:21.489736+00:00",
-  "count": 725,
+  "updated": "2026-08-07T09:02:15.398198+00:00",
+  "count": 735,
   "items": [
+    {
+      "id": "0ba8bea0f520",
+      "title": "Spanish government awards €360 million for co-located battery storage projects",
+      "url": "https://www.energy-storage.news/spanish-government-awards-e360-million-for-co-located-battery-storage-projects/",
+      "published": "2026-08-07T07:28:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Spanish Ministry of Ecological Transition (MITECO) has awarded €360 million (US$415 million) to 1.14GW of solar PV co-located with battery energy storage system (BESS) projects."
+    },
+    {
+      "id": "3f8284625821",
+      "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India’s utility-scale BESS market with 20GWh MoU",
+      "url": "https://www.energy-storage.news/ev-manufacturer-ola-electric-brings-cell-to-pack-vertical-integration-into-indias-utility-scale-bess-market-with-20gwh-mou/",
+      "published": "2026-08-07T07:11:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EV manufacturer Ola Electric has entered India’s utility-scale battery storage market with a vertically integrated business model."
+    },
+    {
+      "id": "5746e3167765",
+      "title": "ZEBRE submits 180MW BESS to Australia’s EPBC Act as ZEN Energy administration fails to slow pipeline",
+      "url": "https://www.energy-storage.news/zebre-submits-180mw-bess-to-australias-epbc-act-as-zen-energy-administration-fails-to-slow-pipeline/",
+      "published": "2026-08-07T03:53:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ZEBRE has submitted the 180MW/360MWh Noblevale Battery in Queensland for federal environmental assessment under the EPBC Act."
+    },
+    {
+      "id": "b269570e0bd7",
+      "title": "EU’s Chinese inverter ban could be sign of things to come for BESS, ex-Northvolt BESS exec says",
+      "url": "https://www.energy-storage.news/eus-chinese-inverter-ban-could-be-sign-of-things-to-come-for-bess-ex-northvolt-bess-exec-says/",
+      "published": "2026-08-06T13:07:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There is an opportunity for locally designed and manufactured BESS solutions in Europe, with the possibility of future EU controls of Chinese imports, former head of BESS products at Northvolt said."
+    },
+    {
+      "id": "68005e66e2e5",
+      "title": "DC Circuit Court of Appeals upholds FERC plan to speed up permitting for US energy projects’ grid interconnection",
+      "url": "https://www.energy-storage.news/dc-circuit-court-of-appeals-upholds-ferc-plan-to-speed-up-permitting-for-us-energy-projects-grid-interconnection/",
+      "published": "2026-08-06T12:50:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A US court has upheld a Federal Energy Regulatory Commission (FERC) plan to speed up the permitting process for connecting energy projects to the grid."
+    },
+    {
+      "id": "941457a72df4",
+      "title": "PJM BESS developers’ struggles to get financing are often due to inaccurate financial modelling, enSights CEO says",
+      "url": "https://www.energy-storage.news/pjm-bess-developers-struggles-to-get-financing-are-often-due-to-inaccurate-financial-modelling-ensights-ceo-says/",
+      "published": "2026-08-06T12:36:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Market conditions look favourable, but some developers are finding it difficult to prove their revenue projections will hold up."
+    },
+    {
+      "id": "92cb7840f3a5",
+      "title": "Finnish push for data center flexibility",
+      "url": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
+      "published": "2026-08-06T12:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Green energy parks combining renewables grid supply with onsite generation, energy storage and energy management software can enable data centers to participate positively in the energy market. Seppo Ihalianen told pv magazine how Finland’s ecogrid.energy is implementing this approach, beginning wit…"
+    },
+    {
+      "id": "aafa78249f47",
+      "title": "Ørsted turns on 500 MWh battery project with co-located solar in Texas",
+      "url": "https://www.pv-magazine.com/2026/08/06/orsted-turns-on-500-mwh-battery-project-with-co-located-solar-in-texas/",
+      "published": "2026-08-06T11:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Old 300 Storage project has reached commercial operations and is now fully integrated with the ERCOT grid, using made-in-America Tesla battery energy storage systems (BESS). It is co-located with a 430 MW solar project that was switched on in 2024. The post Ørsted turns on 500 MWh battery projec…"
+    },
+    {
+      "id": "1aee0a3a4be5",
+      "title": "Ørsted puts 500MWh Old 300 Texas BESS into operation",
+      "url": "https://www.energy-storage.news/orsted-puts-500mwh-old-300-texas-bess-into-operation/",
+      "published": "2026-08-06T11:21:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Denmark-headquartered multinational energy company Ørsted has put its 250MW/500MWh Old 300 energy storage project in Needville, Texas, US into operation."
+    },
+    {
+      "id": "453eb4e6e435",
+      "title": "Zelestra and Centrica Energy agree toll for 99MW/297MWh Germany BESS",
+      "url": "https://www.energy-storage.news/zelestra-centrica-energy-agree-toll-99mw-297mwh-germany-bess/",
+      "published": "2026-08-06T11:17:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Zelestra has agreed a long-term toll for a 99MW/297MWh BESS project in Germany with the trading arm of UK-based power group Centrica."
+    },
     {
       "id": "cf2b50fb5761",
       "title": "Researchers compare PV, wind, hybrid systems for community-scale energy",
