@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-07T09:02:15.398198+00:00",
-  "count": 735,
+  "updated": "2026-08-08T08:45:13.214076+00:00",
+  "count": 742,
   "items": [
+    {
+      "id": "4b6f3702fc0d",
+      "title": "NIO Opens Battery Swapping to Firefly and Launches 5th-Generation Swapping Stations",
+      "url": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
+      "published": "2026-08-08T01:47:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "NIO has basically stood alone in its long-term commitment to EV battery swapping technology and infrastructure. Now, its youngest sub-brand, Firefly, is getting access to these battery swapping stations. Additionally, the company is starting to roll out its new, 5th-generation battery swapping stati…"
+    },
+    {
+      "id": "6fe90fdbece1",
+      "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
+      "url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
+      "published": "2026-08-08T00:32:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, …"
+    },
+    {
+      "id": "d987f1ba9f74",
+      "title": "U.S. Solar and Storage Industry Statement on New Sec. 232 Tariffs on Solar",
+      "url": "https://cleantechnica.com/2026/08/07/u-s-solar-and-storage-industry-statement-on-new-sec-232-tariffs-on-solar/",
+      "published": "2026-08-07T19:13:58+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "WASHINGTON D.C. — Today the Trump administration is imposing new tariffs and establishing minimum import prices on polysilicon and polysilicon derivative products including ingots, wafer, solar cells, and modules. Following is a statement from Tim Pawlenty, CEO of the Solar Energy Industries Associa…"
+    },
+    {
+      "id": "61f9a117733e",
+      "title": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
+      "url": "https://www.energy-storage.news/us-doe-closes-us489-million-loan-with-pattern-energy-to-support-bess-natural-gas-in-puerto-rico/",
+      "published": "2026-08-07T14:20:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The US Department of Energy (DOE) has closed a US$489.4 million loan to Amanecer Puerto Rico, a subsidiary of developer Pattern Energy to support Puerto Rico’s electric grid."
+    },
+    {
+      "id": "74a6d375c10a",
+      "title": "Saudi company to build 760 MW of solar, 1,077 MWh of BESS in Syria",
+      "url": "https://www.pv-magazine.com/2026/08/07/saudi-company-to-build-760-mw-of-solar-1077-mwh-of-bess-in-syria/",
+      "published": "2026-08-07T11:20:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Syria’s state-owned electric utility has signed three agreements with Saudi’s Al-Harfi Construction company to develop 760 MW of solar and 1,077 MWh of battery energy storage (BESS) capacity. The post Saudi company to build 760 MW of solar, 1,077 MWh of BESS in Syria appeared first on pv magazine Gl…"
+    },
+    {
+      "id": "7e0a8adcead7",
+      "title": "Germany: BNetzA’s post-2029 dynamic grid fees to reward grid-friendly behaviour, but more clarity needed",
+      "url": "https://www.energy-storage.news/germany-bnetzas-post-2029-dynamic-grid-fees-to-reward-grid-friendly-behaviour-but-more-clarity-needed/",
+      "published": "2026-08-07T10:27:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The German regulator BNetzA's latest draft decision on grid fees from 4 August 2029 onwards still leaves uncertainty for energy storage project business cases."
+    },
+    {
+      "id": "9a09f48af700",
+      "title": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
+      "url": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
+      "published": "2026-08-07T09:37:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "India&#8217;s first hydrogen passenger train arrived with an impressive label attached: the world&#8217;s most powerful hydrogen train. That&#8217;s a genuine engineering accomplishment, but it isn&#8217;t the competition railway operators are trying to win. They need trains that leave the depot, co…"
+    },
     {
       "id": "0ba8bea0f520",
       "title": "Spanish government awards €360 million for co-located battery storage projects",
