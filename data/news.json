@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-10T09:25:18.492933+00:00",
-  "count": 746,
+  "updated": "2026-08-11T09:00:29.177120+00:00",
+  "count": 751,
   "items": [
+    {
+      "id": "077a2aeef404",
+      "title": "Cyprus’ first utility battery project goes online",
+      "url": "https://www.pv-magazine.com/2026/08/11/cyprus-first-utility-battery-project-goes-online/",
+      "published": "2026-08-11T08:29:32+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The 5 MWh battery storage facility is a step forward for Cyprus as the island grapples with record solar curtailment and a slow-moving energy-storage market. The post Cyprus’ first utility battery project goes online appeared first on pv magazine Global."
+    },
+    {
+      "id": "a6e6a34d7451",
+      "title": "CATL Battery for Electric Aviation Passes Important Safety Test",
+      "url": "https://cleantechnica.com/2026/08/10/catl-battery-for-electric-aviation-passes-important-safety-test/",
+      "published": "2026-08-10T22:36:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The #1 battery maker in the world, CATL, has developed a battery for use in electric aircraft — in particular, for passenger eVTOL aircraft (electric vertical takeoff and landing aircraft). The battery has now passed an important safety test. The company intentionally triggered two adjacent cells an…"
+    },
+    {
+      "id": "14a32e2bfdf4",
+      "title": "Sunrun pursues direct-sales transition amid industry headwinds",
+      "url": "https://www.utilitydive.com/news/sunrun-rooftop-solar-battery-earnings/827458/",
+      "published": "2026-08-10T15:40:13+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The residential solar-and-storage provider is looking to diversify its revenue while increasing focus on &ldquo;unlocking value from the customers and assets we already have,&rdquo; CEO Mary Powell told investors."
+    },
+    {
+      "id": "e9d4aef42f02",
+      "title": "US IPP Avantus closes billion-dollar financing for solar PV and battery storage projects",
+      "url": "https://www.energy-storage.news/us-ipp-avantus-closes-billion-dollar-financing-for-solar-pv-and-battery-storage-projects/",
+      "published": "2026-08-10T13:18:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Avantus has closed a US$1.05 billion corporate credit facility to support the company’s IPP strategy and accelerate development of its solar and energy storage portfolio."
+    },
+    {
+      "id": "8446882236bc",
+      "title": "Tech ROUNDUP: Accure, Hydrostor, Shoals and TerraFlow, and Qnetic advance energy storage tech",
+      "url": "https://www.energy-storage.news/tech-roundup-accure-hydrostor-shoals-and-terraflow-and-qnetic-advance-energy-storage-tech/",
+      "published": "2026-08-10T12:29:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this news roundup, ACCURE, Hydrostor, Shoals and TerraFlow, and Qnetic claim significant advances in and for energy storage technology."
+    },
     {
       "id": "69930078eda9",
       "title": "Serentica Renewables commissions first phase of 1GWh BESS for round-the-clock renewable energy delivery in Rajasthan, India",
