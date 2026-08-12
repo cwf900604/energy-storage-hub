@@ -1,7 +1,214 @@
 {
-  "updated": "2026-08-11T09:00:29.177120+00:00",
-  "count": 751,
+  "updated": "2026-08-12T09:14:17.494245+00:00",
+  "count": 774,
   "items": [
+    {
+      "id": "1dbb7532f82c",
+      "title": "EPEC Group lands grid connection contract for 843MWh solar-plus-storage site in Queensland, Australia",
+      "url": "https://www.energy-storage.news/epec-group-lands-grid-connection-contract-for-843mwh-solar-plus-storage-site-in-queensland-australia/",
+      "published": "2026-08-12T08:50:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EPEC Group has been awarded a contract to cover the high-voltage connection works for the Lower Wonga Solar Farm in Queensland, Australia, by the EPC contractor INTEC Energy Solutions."
+    },
+    {
+      "id": "094840954d2d",
+      "title": "Trends to look out for at the Battery Asset Management Summit Australia 2026",
+      "url": "https://www.energy-storage.news/trends-to-look-out-for-at-the-battery-asset-management-summit-australia-2026/",
+      "published": "2026-08-12T08:47:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ahead of the Battery Asset Management Summit Australia 2026, we take a look at some of the key debates set to take centre stage at the event."
+    },
+    {
+      "id": "a0b6a3d85627",
+      "title": "Octopus Australia turns attention to 128MWh DC-coupled BESS at solar-plus-storage site",
+      "url": "https://www.energy-storage.news/octopus-australia-turns-attention-to-128mwh-dc-coupled-bess-at-solar-plus-storage-site/",
+      "published": "2026-08-12T08:36:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Octopus Australia has shifted its focus to constructing a DC-coupled battery energy storage system (BESS) in Victoria."
+    },
+    {
+      "id": "343d69668f9a",
+      "title": "Australia: Battery storage systems hit record 4,325MW discharge as NEM cycling swing reaches 8.3GW",
+      "url": "https://www.energy-storage.news/australia-battery-storage-systems-hit-record-4325mw-discharge-as-nem-cycling-swing-reaches-8-3gw/",
+      "published": "2026-08-12T08:26:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's grid-scale battery storage fleet set a cluster of dispatch-interval records on 11 August in the NEM."
+    },
+    {
+      "id": "dc8af11ed7bb",
+      "title": "FEOC regulations reshape US BESS financing as compliance becomes capital allocation issue",
+      "url": "https://www.energy-storage.news/feoc-regulations-reshape-us-bess-financing-as-compliance-becomes-capital-allocation-issue/",
+      "published": "2026-08-12T08:22:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Mona Dajani of law firm Cooley, about how FEOC has changed BESS project negotiations and financing."
+    },
+    {
+      "id": "e24f9dc8414b",
+      "title": "US on track to double BESS capacity by 2028, EIA reports",
+      "url": "https://www.energy-storage.news/us-double-bess-capacity-2028-eia-reports/",
+      "published": "2026-08-12T08:18:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Operators anticipate bringing an additional 54GW of battery storage capacity online over the next two and half years, according to the US Energy Information Administration (EIA)."
+    },
+    {
+      "id": "b0b13fd1f8f7",
+      "title": "US eases transport rules for portable lithium batteries, raising limits and cutting regulation",
+      "url": "https://www.pv-magazine.com/2026/08/12/us-eases-transport-rules-for-portable-lithium-batteries-raising-limits-and-cutting-regulation/",
+      "published": "2026-08-12T08:02:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The shift to battery-powered tools and portable power stations in the trades has been hampered by hazardous materials regulations set before the battery revolution. A new US ruling better clears the way for the portable storage industry. The post US eases transport rules for portable lithium batteri…"
+    },
+    {
+      "id": "036bef51e700",
+      "title": "A. O. Smith launches CO₂ split heat pump water heater for residential use",
+      "url": "https://www.pv-magazine.com/2026/08/12/a-o-smith-launches-co%e2%82%82-split-heat-pump-water-heater-for-residential-use/",
+      "published": "2026-08-12T07:47:22+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A. O. Smith has launched the Voltex X, an outdoor split-system heat pump water heater using CO₂ refrigerant and designed for cold-climate operation down to -31.7 C. The system offers up to 303 L of storage, smart controls, leak and freeze protection, and a 10-year limited warranty. The post A. O. Sm…"
+    },
+    {
+      "id": "dd92e907bfe6",
+      "title": "Deye launches 2.5 MW C&I storage system with 0 ms switching",
+      "url": "https://www.pv-magazine.com/2026/08/12/deye-launches-2-5-mw-ci-storage-system-with-0-ms-switching/",
+      "published": "2026-08-12T05:49:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese manufacturer said its new commercial and industrial energy storage solution combines 100 kW or 125 kW PCS units with 257.23 kWh battery clusters. It can be scaled to 2.5 MW. The post Deye launches 2.5 MW C&amp;I storage system with 0 ms switching appeared first on pv magazine Global."
+    },
+    {
+      "id": "537e1822e82c",
+      "title": "Computing Facilities Can Save Big and Keep Cool by Looking Underground",
+      "url": "https://cleantechnica.com/2026/08/11/computing-facilities-can-save-big-and-keep-cool-by-looking-underground/",
+      "published": "2026-08-12T01:05:57+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A New National Laboratory Study Finds that Underground Thermal Energy Storage Can Keep Servers Cool Year Round To ensure equipment in computing facilities function, they need to be kept cool, which can require a lot of energy and water—as much as 40% of their total annual energy consumption. Typical…"
+    },
+    {
+      "id": "216605eebc10",
+      "title": "Arcfox Goes Battery Swapping with the Help of CATL",
+      "url": "https://cleantechnica.com/2026/08/11/arcfox-goes-battery-swapping-with-the-help-of-catl/",
+      "published": "2026-08-12T00:17:20+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Little BAIC Group EV startup Arcfox has gone an interesting route. Naturally, when we think of EV battery swapping, we typically think of NIO, which has far and away been the battery swapping leader in the industry. However, the world&#8217;s biggest battery producer, CATL, has also gotten into the …"
+    },
+    {
+      "id": "12224f3f1608",
+      "title": "AI Data Centers Are A Regional US Grid Issue, Not A Global Power Crisis",
+      "url": "https://cleantechnica.com/2026/08/11/ai-data-center-electricity-demand-us-grid/",
+      "published": "2026-08-11T17:27:43+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "AI has changed the data-center electricity story. Demand is rising much faster than it did through much of the 2000s and 2010s, hyperscale facilities are being proposed and built at extraordinary scale, and utilities in several US regions are confronting loads large enough to affect generation plann…"
+    },
+    {
+      "id": "25ba3bee5cf0",
+      "title": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
+      "url": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
+      "published": "2026-08-11T16:54:43+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Despite the sharp U-turn in federal energy policy, US innovators continue to push the long duration energy storage envelope, with organic flow batteries in play among other solutions. The post Organic Flow Batteries Get Another Shot At Long Duration Energy Storage appeared first on CleanTechnica."
+    },
+    {
+      "id": "2527f43d5d91",
+      "title": "Pay-as-you-go batteries: ‘One weird trick’ for the distribution grid?",
+      "url": "https://www.utilitydive.com/news/residential-batteries-solar-base-power-palmetto/827579/",
+      "published": "2026-08-11T16:06:41+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Battery leases with low or no up-front costs are attractive in markets with well-developed virtual power plant programs and persistent grid congestion, but experts see them taking off elsewhere, too."
+    },
+    {
+      "id": "69484a3f9d61",
+      "title": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
+      "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
+      "published": "2026-08-11T13:55:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "On August 10, REPT BATTERO reported that its H1 2026 performance had already surpassed its 2025 full-year results, with residential storage cell shipments ranking first globally. The company also unveiled its new cell products for AIDC (AI Data Center), commercial vehicles, and low-altitude aircraft…"
+    },
+    {
+      "id": "4fa7c80aca9c",
+      "title": "Energy Vault signs 1.25GW AI data centre power infrastructure agreement in Texas",
+      "url": "https://www.energy-storage.news/energy-vault-signs-1-25gw-ai-data-centre-power-infrastructure-agreement-in-texas/",
+      "published": "2026-08-11T13:09:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage developer and system integrator Energy Vault has entered into a strategic agreement supporting hyperscaler AI data centres for a customer in Texas, US."
+    },
+    {
+      "id": "29676a54a905",
+      "title": "EUROPE ROUND-UP: Encavis, OX2 move on BESS in Italy, Sunotec commissions Bulgarian battery",
+      "url": "https://www.energy-storage.news/europe-round-up-encavis-ox2-move-on-bess-in-italy-sunotec-commissions-bulgarian-battery/",
+      "published": "2026-08-11T12:34:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A round-up of news from Europe’s BESS market, which includes Encavis and OX2 in Italy and Sunotec in Bulgaria."
+    },
+    {
+      "id": "fca394b10da5",
+      "title": "Copenhagen Infrastructure Partners closes on 750MWh solar-plus-storage project in Mexico",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-closes-on-750mwh-solar-plus-storage-project-in-mexico/",
+      "published": "2026-08-11T11:15:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Danish investment firm Copenhagen Infrastructure Partners (CIP) has reached financial close of the La Esperanza Solar energy storage-plus-solar PV project in the state of Campeche on Mexico’s Yucatán Peninsula."
+    },
+    {
+      "id": "fb90218eff2c",
+      "title": "‘Merchant business case proven, but tougher financing environment’: 8Energies on German BESS market",
+      "url": "https://www.energy-storage.news/merchant-business-case-proven-but-tougher-financing-environment-8energies-on-german-bess-market/",
+      "published": "2026-08-11T10:18:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "This year has seen a shift in the financing environment for merchant BESS projects in Germany for the worse."
+    },
+    {
+      "id": "e8dc4e1f6694",
+      "title": "Australia’s CEFC commits record AU$9.1 billion in FY26 as lifetime clean energy project value passes AU$105 billion",
+      "url": "https://www.energy-storage.news/australias-cefc-commits-record-au9-1-billion-in-fy26-as-lifetime-clean-energy-project-value-passes-au105-billion/",
+      "published": "2026-08-11T09:25:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Clean Energy Finance Corporation committed a record AU$9.1 billion (US$6 billion) in the financial year to 30 June 2026."
+    },
+    {
+      "id": "53ac877cdce3",
+      "title": "Australia advances data centre energy policy on three fronts as battery storage emerges as key compliance tool",
+      "url": "https://www.energy-storage.news/australia-advances-data-centre-energy-policy-on-three-fronts-as-battery-storage-emerges-as-key-compliance-tool/",
+      "published": "2026-08-11T09:19:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's framework governing the energy obligations of large data centres advanced on multiple fronts last week."
+    },
+    {
+      "id": "7813e43a2c47",
+      "title": "Interview: Field’s technical director on its 16-18-hour UK LDES battery storage projects",
+      "url": "https://www.energy-storage.news/fields-ldes-uk-energy-storage-bess-cap-and-floor/",
+      "published": "2026-08-11T09:15:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What led Field to submitting, and winning, 16- to 18-hour BESS projects in the UK's long-duration energy storage (LDES) cap-and-floor scheme, and what are the next steps? We hear from the firm's technical director."
+    },
+    {
+      "id": "c3e157c01402",
+      "title": "Citicore breaks ground on 53MWh solar-plus-storage site directly connected to the Philippine distribution network",
+      "url": "https://www.energy-storage.news/citicore-breaks-ground-on-53mwh-solar-plus-storage-site-directly-connected-to-the-philippine-distribution-network/",
+      "published": "2026-08-11T09:04:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Citicore has broken ground on the country's first embedded solar integrated renewable energy and energy storage system (IRESS) facility."
+    },
     {
       "id": "077a2aeef404",
       "title": "Cyprus’ first utility battery project goes online",
