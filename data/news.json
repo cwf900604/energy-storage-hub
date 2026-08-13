@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-12T09:14:17.494245+00:00",
-  "count": 774,
+  "updated": "2026-08-13T09:15:03.120713+00:00",
+  "count": 784,
   "items": [
+    {
+      "id": "3e35a2c0d972",
+      "title": "Seven trends reshaping battery energy storage in 2026 and beyond",
+      "url": "https://www.energy-storage.news/seven-trends-reshaping-battery-energy-storage-in-2026-and-beyond/",
+      "published": "2026-08-13T09:09:24+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Primergy director of engineering and Energy Storage Awards 2026 judge, Aaroh Kharaya, on key trends transforming the battery storage stack."
+    },
+    {
+      "id": "f36b864f2e4b",
+      "title": "ESS Inc highlights sodium-ion BESS deployment, reports net losses in Q2 2026 financials",
+      "url": "https://www.energy-storage.news/ess-inc-q2-2026-financials-sodium-ion-bess-deployment-net-losses/",
+      "published": "2026-08-13T09:01:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESS Tech Inc highlighted the potential of its recent partnership with Alsym Energy and the advancement of its sodium-ion technology in its recent financial report."
+    },
+    {
+      "id": "d9c6dfa2fcb7",
+      "title": "Arevon Energy’s 1,200MWh California BESS begins operations",
+      "url": "https://www.energy-storage.news/arevon-energys-1200mwh-california-bess-begins-operations/",
+      "published": "2026-08-13T08:51:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Renewable energy developer-operator Arevon Energy has put its 300MW/1,200MWh Nighthawk Energy Storage Project in Poway, California, US into operation."
+    },
+    {
+      "id": "573f32b150c2",
+      "title": "Copenhagen Infrastructure Partners reaches commercial operations on 500MW BESS in Scotland",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-commercial-operations-500mw-bess-scotland/",
+      "published": "2026-08-13T07:50:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Denmark-headquartered investor Copenhagen Infrastructure Partners (CIP) has brought its 500MW, 2-hour duration Coalburn 1 battery energy storage system (BESS) into commercial operation."
+    },
+    {
+      "id": "77ac5d831f16",
+      "title": "Global South Utilities completes 50 MW solar, 15 MWh BESS project in Central African Republic",
+      "url": "https://www.pv-magazine.com/2026/08/13/global-south-utilities-completes-50-mw-solar-15-mwh-bess-project-in-central-african-republic/",
+      "published": "2026-08-13T07:47:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The solar-plus-storage project has been billed as the largest infrastructure project in the Central African Republic’s history. The government says it is undergoing a phased implementation beginning with an initial 15 MW supplied to the plant's neighbouring districts. The post Global South Utilities…"
+    },
+    {
+      "id": "9714cb05dec2",
+      "title": "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes",
+      "url": "https://www.pv-magazine.com/2026/08/13/scandium-doping-coating-improve-cycling-stability-of-sodium-ion-battery-cathodes/",
+      "published": "2026-08-13T05:33:11+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers have compared bulk scandium doping and surface scandium coating in a special type of cathodes for sodium-ion batteries. Both approaches improved cycling stability, with the coated full cell retaining 91.2% of its initial capacity after 300 cycles, while structural analyses revealed disti…"
+    },
+    {
+      "id": "90a4caee7446",
+      "title": "U.S. battery storage capacity grows 70% annually over the past three years",
+      "url": "https://www.pv-magazine.com/2026/08/13/u-s-battery-storage-capacity-grows-70-annually-over-the-past-three-years/",
+      "published": "2026-08-13T05:30:34+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "National operational storage reached 52 GW in June 2026, with developers planning another 54 GW of capacity through 2028, according to the latest EIA data. The post U.S. battery storage capacity grows 70% annually over the past three years appeared first on pv magazine Global."
+    },
+    {
+      "id": "3469354b3b97",
+      "title": "Q&A: Does the World Need “Carbon Capture & Storage” to Reach Net-Zero?",
+      "url": "https://cleantechnica.com/2026/08/12/qa-does-the-world-need-carbon-capture-storage-to-reach-net-zero/",
+      "published": "2026-08-13T02:27:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "When carbon dioxide (CO2) is released from a factory or power plant, the gas can be captured and permanently stored underground, preventing it from driving climate change. This is the idea underpinning carbon capture and storage (CCS), a technology that is at the heart of many nations’ net-zero plan…"
+    },
+    {
+      "id": "b6ebf0ed59e6",
+      "title": "Sungrow provides BESS to Verano Energy’s 606MWh Chilean hybrid project",
+      "url": "https://www.energy-storage.news/sungrow-provides-bess-to-verano-energys-606mwh-chilean-hybrid-project/",
+      "published": "2026-08-12T11:31:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Independent power producer (IPP) Verano Energy has awarded the battery energy storage system (BESS) supply for its 152MW/606MWh Observatorio project to Sungrow."
+    },
+    {
+      "id": "8b048aa3b039",
+      "title": "Acciona Energía to add 33MW/66MWh BESS in Spain",
+      "url": "https://www.energy-storage.news/acciona-energia-to-add-33mw-66mwh-bess-in-spain/",
+      "published": "2026-08-12T09:50:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spanish renewables developer Acciona Energía has unveiled plans to install two battery energy storage systems (BESS)."
+    },
     {
       "id": "1dbb7532f82c",
       "title": "EPEC Group lands grid connection contract for 843MWh solar-plus-storage site in Queensland, Australia",
