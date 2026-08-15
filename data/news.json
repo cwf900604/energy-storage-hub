@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-14T09:10:11.513225+00:00",
-  "count": 800,
+  "updated": "2026-08-15T08:32:18.084376+00:00",
+  "count": 805,
   "items": [
+    {
+      "id": "5f098c83bdc4",
+      "title": "Limes reaches RTB stage for 200MW/1GWh Huañil BESS project in Chile",
+      "url": "https://www.energy-storage.news/limes-reaches-rtb-stage-200mw-1gwh-huanil-bess-project-chile/",
+      "published": "2026-08-14T16:02:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Italian clean energy developer Limes Renewable Energy has reached the ready-to-build stage at its 200MW/1GWh Huañil project."
+    },
+    {
+      "id": "f073b52c5a5f",
+      "title": "‘Data accuracy is one of the most important things’: enSights CEO on BESS economics in PJM",
+      "url": "https://www.energy-storage.news/data-accuracy-is-one-of-the-most-important-things-ensights-ceo-on-bess-economics-in-pjm/",
+      "published": "2026-08-14T13:13:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Alon Maskovich, CEO and co-founder of enSights about BESS economics and the company’s new battery economics calculator."
+    },
+    {
+      "id": "804f1a8ddbef",
+      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
+      "url": "https://www.pv-magazine.com/2026/08/14/when-heat-becomes-a-stress-test-what-extreme-temperatures-mean-for-photovoltaic-systems-and-battery-storage/",
+      "published": "2026-08-14T12:37:02+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Photovoltaics rely on sunlight. Battery storage systems rely on absorbing and releasing energy precisely when the power grid needs it. Both sound like an ideal combination for hot summer days: plenty of sunshine, high generation, increased electricity demand due to cooling, and greater grid flexibil…"
+    },
+    {
+      "id": "09c1e59e683a",
+      "title": "DEWA study assesses PV cleaning robot performance and safety",
+      "url": "https://www.pv-magazine.com/2026/08/14/dewa-study-assesses-pv-cleaning-robot-performance-and-safety/",
+      "published": "2026-08-14T10:35:50+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A research from Dubai Electricity and Water Authority have evaluated five autonomous PV cleaning robots under desert conditions. The researchers found cleaning efficiencies of 69% to 99%, while also identifying battery, corrosion, ingress-protection and mechanical reliability issues. The post DEWA s…"
+    },
+    {
+      "id": "a8fdc802acdd",
+      "title": "PVFarm rolls out RE STACK software for utility-scale BESS planning",
+      "url": "https://www.pv-magazine.com/2026/08/14/pvfarm-rolls-out-re-stack-software-for-utility-scale-bess-planning/",
+      "published": "2026-08-14T09:52:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The new tool works across geographies, manufacturer, and sites, and is design to make site planning both faster and comprehensive. The post PVFarm rolls out RE STACK software for utility-scale BESS planning appeared first on pv magazine Global."
+    },
     {
       "id": "e21b5560af32",
       "title": "‘Multi-day’ energy storage startup Noon Energy makes 1GW US AI infrastructure deployment agreement",
