@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-16T08:32:21.454740+00:00",
-  "count": 805,
+  "updated": "2026-08-17T08:46:35.540288+00:00",
+  "count": 811,
   "items": [
+    {
+      "id": "38f7e32b3cdd",
+      "title": "Megarevo differentiates with customer-focused microgrid solutions as it scales European operations",
+      "url": "https://www.energy-storage.news/megarevo-customer-focused-microgrid-solutions-scales-european-operations/",
+      "published": "2026-08-17T08:29:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Brian Yaw, founder of Megarevo, discussed the company’s approach to commercial and industrial energy storage, their competitive strategy, and plans for the European market with Energy-Storage.news at Intersolar Europe 2026."
+    },
+    {
+      "id": "8a8dd0e01236",
+      "title": "During heatwave, solar power supports France’s grid as nuclear output slows",
+      "url": "https://www.pv-magazine.com/2026/08/17/during-heatwave-solar-power-supports-frances-grid-as-nuclear-output-slows/",
+      "published": "2026-08-17T07:36:28+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Heatwaves and drought have forced several French nuclear reactors offline, while strong solar generation has helped stabilize the grid. As solar output falls after sunset, battery storage could help meet high evening demand and reduce reliance on gas-fired generation. The post During heatwave, solar…"
+    },
+    {
+      "id": "83fc1f28221e",
+      "title": "El Salvador launches regulatory framework for solar self-consumption",
+      "url": "https://www.pv-magazine.com/2026/08/17/el-salvador-launches-regulatory-framework-for-solar-self-consumption/",
+      "published": "2026-08-17T07:30:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "El Salvador has begun implementing its new renewable self-consumption framework, opening procedures for providers and solar PV installations. The regime introduces tax incentives, grid compensation for surplus generation, and provisions for energy storage and distributed self-consumption. The post E…"
+    },
+    {
+      "id": "8b9798e3c4eb",
+      "title": "Relectrify installs first AC1 inverterless battery storage system in South Australia",
+      "url": "https://www.energy-storage.news/relectrify-installs-first-ac1-inverterless-battery-storage-system-in-south-australia/",
+      "published": "2026-08-17T01:35:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Melbourne-based battery technology company Relectrify has installed its first AC1 battery energy storage system (BESS) in Renmark, South Australia, in partnership with YES Energy."
+    },
+    {
+      "id": "6eee1573e5b3",
+      "title": "Australian Renewable Energy Agency backs UNSW research into grid-forming battery storage and system strength",
+      "url": "https://www.energy-storage.news/australian-renewable-energy-agency-backs-unsw-research-into-grid-forming-battery-storage-and-system-strength/",
+      "published": "2026-08-17T01:24:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UNSW receives AU$6.52 million to study how solar, wind and battery storage interact with grid protection systems as Australia transitions to renewables."
+    },
+    {
+      "id": "00bfa882150b",
+      "title": "Australia’s Cheaper Home Batteries Program officially passes 500,000 installations",
+      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-officially-passes-500000-installations/",
+      "published": "2026-08-17T01:19:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "More than 507,000 households, small businesses and community organisations have installed a home battery storage system under Australia's Cheaper Home Batteries Program, according to figures announced by Prime Minister Anthony Albanese and Energy Minister Chris Bowen."
+    },
     {
       "id": "5f098c83bdc4",
       "title": "Limes reaches RTB stage for 200MW/1GWh Huañil BESS project in Chile",
