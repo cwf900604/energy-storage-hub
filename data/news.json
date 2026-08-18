@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-17T08:46:35.540288+00:00",
-  "count": 811,
+  "updated": "2026-08-18T08:40:05.697935+00:00",
+  "count": 822,
   "items": [
+    {
+      "id": "b325d7adcdf5",
+      "title": "AES Andes inaugurates 510 MW solar-plus-storage complex in Chile",
+      "url": "https://www.pv-magazine.com/2026/08/18/aes-andes-inaugurates-510-mw-solar-plus-storage-complex-in-chile/",
+      "published": "2026-08-18T07:59:23+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The now completed complex, located in the Antofagasta region, comprises various phases developed since 2016 and represents a cumulative investment of over $1.3 billion. The post AES Andes inaugurates 510 MW solar-plus-storage complex in Chile appeared first on pv magazine Global."
+    },
+    {
+      "id": "1a13c1d41dab",
+      "title": "China’s energy storage market doubles in size for second consecutive year as price inflection point emerges",
+      "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
+      "published": "2026-08-18T04:53:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage deployments in China saw significant year-over-year growth in 2025 as the market size effectively doubled."
+    },
+    {
+      "id": "2f532c7c0b91",
+      "title": "To Disconnect or Not to Disconnect",
+      "url": "https://cleantechnica.com/2026/08/17/to-disconnect-or-not-to-disconnect/",
+      "published": "2026-08-18T03:21:08+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "To disconnect or not? The new Australian conundrum. In Australia’s rapidly changing energy market, Australians are asking the question, do I disconnect and run on battery and solar? Do I stay on the grid and trade like Gary? My house and car charging needs are currently being met by two ... [continu…"
+    },
+    {
+      "id": "c647f0b42252",
+      "title": "Sunrun to Supply Voltus with Energy Capacity for AI Hyperscaler Agreements",
+      "url": "https://cleantechnica.com/2026/08/17/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements/",
+      "published": "2026-08-18T02:50:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Voltus will tap into Sunrun’s storage-plus-solar systems to deliver immediate Bring Your Own Capacity™ megawatts to AI hyperscalers, strengthening grid reliability while creating economic benefits for customers across the PJM and MISO regions SAN FRANCISCO — Sunrun (Nasdaq: RUN), America&#8217;s lar…"
+    },
+    {
+      "id": "65d29b9a0f6d",
+      "title": "New South Wales cuts battery storage costs by up to 40% for businesses and apartment buildings in the Australian state",
+      "url": "https://www.energy-storage.news/new-south-wales-cuts-battery-storage-costs-by-up-to-40-for-businesses-and-apartment-buildings-in-the-australian-state/",
+      "published": "2026-08-18T02:05:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NSW has introduced a new upfront discount scheme for battery storage systems installed by businesses and apartment buildings."
+    },
+    {
+      "id": "97795af06508",
+      "title": "Ausgrid’s PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
+      "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
+      "published": "2026-08-18T02:03:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Construction has officially started on the 200MW/400MWh Steel River East battery energy storage system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Storage."
+    },
+    {
+      "id": "7fefa1f765c6",
+      "title": "What I’ve Learned Owning Ebikes for 12 Years",
+      "url": "https://cleantechnica.com/2026/08/17/what-ive-learned-owning-ebikes-for-12-years/",
+      "published": "2026-08-17T22:35:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I’ve purchased a total of 7 ebikes (electric bikes), of which only 3 operational ebikes remain. I had to abandon bikes 1, 2, 3, and 4 described below because it was too expensive to fix them or the manufacturer could not supply a functioning battery. If you have a problem ... [continued] The post Wh…"
+    },
+    {
+      "id": "c40d8e17ead8",
+      "title": "Solar crosses 3 TW threshold",
+      "url": "https://www.pv-magazine.com/2026/08/17/solar-crosses-3-tw-threshold/",
+      "published": "2026-08-17T13:03:30+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Global solar capacity has surpassed 3 TW, with China driving much of the recent expansion and emerging markets increasingly contributing to growth. As deployment accelerates, grid infrastructure, energy storage, and demand flexibility will become critical to integrating the next wave of solar capaci…"
+    },
+    {
+      "id": "86e80c5f00a3",
+      "title": "Battery storage unlocks the era of ‘anytime solar,’ climate consultancy Ember says in new report",
+      "url": "https://www.energy-storage.news/battery-storage-unlocks-the-era-of-anytime-solar-climate-consultancy-ember-says-in-new-report/",
+      "published": "2026-08-17T10:20:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A new report from climate consultancy Ember highlights the important relationship between energy storage and solar, unlocking the “era of anytime solar.”"
+    },
+    {
+      "id": "6b5457081e8a",
+      "title": "Econergy signs financing agreements for 150MW solar-plus-storage project in Romania",
+      "url": "https://www.energy-storage.news/econergy-signs-financing-agreements-for-150mw-solar-plus-storage-project-in-romania/",
+      "published": "2026-08-17T10:11:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Independent power producer (IPP) Econergy has signed financing agreements for its Părău 2 solar and energy storage project in Brașov County, Romania."
+    },
+    {
+      "id": "de680502056e",
+      "title": "Fluence and German utility LEAG begin construction of second large-scale BESS project under partnership",
+      "url": "https://www.energy-storage.news/fluence-and-german-utility-leag-begin-construction-of-second-large-scale-bess-project-under-partnership/",
+      "published": "2026-08-17T10:00:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Fluence and utility LEAG have begun construction of a second battery storage project in Germany, through a partnership that is also deploying Europe’s largest BESS to date."
+    },
     {
       "id": "38f7e32b3cdd",
       "title": "Megarevo differentiates with customer-focused microgrid solutions as it scales European operations",
