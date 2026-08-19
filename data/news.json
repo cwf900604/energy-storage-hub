@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-18T08:40:05.697935+00:00",
-  "count": 822,
+  "updated": "2026-08-19T08:40:10.703884+00:00",
+  "count": 833,
   "items": [
+    {
+      "id": "730dc7191487",
+      "title": "CATL’s Robin Zeng says non-zero-carbon batteries will be left behind by the times",
+      "url": "https://www.energy-storage.news/catls-robin-zeng-says-non-zero-carbon-batteries-will-be-left-behind-by-the-times/",
+      "published": "2026-08-19T03:57:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL's Core Operation Carbon Neutrality Launch Event was held in Ningde, Fujian Province, China, on 17 August."
+    },
+    {
+      "id": "7f8c0ef84af4",
+      "title": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal’s 5MWh Tomago plant in Australia",
+      "url": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+      "published": "2026-08-19T02:47:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Etapro has deployed digital twin and predictive analytics at MGA Thermal's 5MWh thermal energy storage demonstration plant in Australia."
+    },
+    {
+      "id": "182f55c8a80a",
+      "title": "A High-Tech Control with Bluetooth Display Comes to Mountain Ebikes",
+      "url": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
+      "published": "2026-08-19T00:22:18+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "It wasn’t a totally new bike, it was the replacement for a 5-year-old Bulls mountain ebike which I had to abandon because Bulls could not supply me with a functioning battery for the Brose motor. For only $3,000, they upgraded me to their latest Copperhead model with Bosch motor and ... [continued] …"
+    },
+    {
+      "id": "65c568952585",
+      "title": "Northwest council proposes 11 GW of new generation, 5 GW storage by 2032",
+      "url": "https://www.utilitydive.com/news/northwest-council-proposes-11-gw-of-new-generation-5-gw-storage-by-2032/828171/",
+      "published": "2026-08-18T16:08:52+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The Northwest Power and Conservation Council estimates the portfolio for its Ninth Power Plan would have a fixed cost of $2.3 billion in 2032."
+    },
+    {
+      "id": "98e31fd81226",
+      "title": "750 Gigawatts Of Energy Storage, And Nowhere To Go — Yet",
+      "url": "https://cleantechnica.com/2026/08/18/energy-storage-demand-us-new-factory-deltax-georgia/",
+      "published": "2026-08-18T14:38:56+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Another renewables-friendly battery maker sets up shop in the US as demand for energy storage soars and grid reliability issues rise. The post 750 Gigawatts Of Energy Storage, And Nowhere To Go &#8212; Yet appeared first on CleanTechnica."
+    },
+    {
+      "id": "bdd59146ea51",
+      "title": "Portugal works towards 3 GW battery storage target by 2030",
+      "url": "https://www.pv-magazine.com/2026/08/18/portugal-works-towards-3-gw-battery-storage-target-by-2030/",
+      "published": "2026-08-18T14:06:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Portugal looks set to ramp up its battery storage capacity from 20 MW commissioned by the end of last year but the Portuguese Association Of Renewable Energy says success will depend on licensing, grid access and sufficient stable revenue streams. The post Portugal works towards 3 GW battery storage…"
+    },
+    {
+      "id": "dedc1de98d80",
+      "title": "California advances two bills to expand virtual power plants, reduce energy rates",
+      "url": "https://www.energy-storage.news/california-advances-two-bills-to-expand-virtual-power-plants-reduce-energy-rates/",
+      "published": "2026-08-18T12:41:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "California’s Assembly Appropriations Committee advanced two virtual power plant (VPP) bills aimed at reducing energy rates in the US state."
+    },
+    {
+      "id": "f0b8d94e76a3",
+      "title": "Startup Heron Power to build 40GW power conversion manufacturing facility in California",
+      "url": "https://www.energy-storage.news/startup-heron-power-to-build-40gw-power-conversion-manufacturing-facility-in-california/",
+      "published": "2026-08-18T11:13:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US-based startup Heron Power has selected Morgan Hill, California, to build its first power electronics manufacturing facility in the US."
+    },
+    {
+      "id": "b3fbaeb53537",
+      "title": "Iron-air US LDES startup Form Energy secures US$750 million Series G financing",
+      "url": "https://www.energy-storage.news/iron-air-us-ldes-startup-form-energy-secures-us750-million-series-g-financing/",
+      "published": "2026-08-18T11:01:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US startup Form Energy has secured a US$750 million Series G financing round led by global investment management firm T. Rowe Price."
+    },
+    {
+      "id": "32ae096510ac",
+      "title": "What 4th generation LFP batteries mean for BESS",
+      "url": "https://www.energy-storage.news/what-4th-generation-lfp-batteries-mean-for-bess/",
+      "published": "2026-08-18T10:49:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What are the technology improvements of the 4th generation of LFP batteries, and what do they mean for BESS applications?"
+    },
+    {
+      "id": "45276a16d936",
+      "title": "Huawei unveils DC ESS solution and 800-ampere liquid-cooled charging to overcome grid capacity constraints",
+      "url": "https://www.energy-storage.news/huawei-dc-ess-solution-800-ampere-liquid-cooled-charging-overcome-grid-capacity-constraints/",
+      "published": "2026-08-18T10:29:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Huawei integrates PV, ESS, and charging into one solution, building a grid-friendly smart network for a better user experience and faster business growth."
+    },
     {
       "id": "b325d7adcdf5",
       "title": "AES Andes inaugurates 510 MW solar-plus-storage complex in Chile",
