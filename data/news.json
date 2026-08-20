@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-19T08:40:10.703884+00:00",
-  "count": 833,
+  "updated": "2026-08-20T08:41:14.811603+00:00",
+  "count": 846,
   "items": [
+    {
+      "id": "6dae7cebeb07",
+      "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
+      "url": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
+      "published": "2026-08-20T06:31:58+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "High-voltage direct current transmission used to look like a specialist technology reserved for unusually long lines, subsea links or awkward grid problems. That is changing. In a recent Redefining Energy conversation, Cornelis Plet, CTO of Grid Systems Integration at GE Vernova, described HVDC as s…"
+    },
+    {
+      "id": "8920391e9a34",
+      "title": "Blocked BESS in Britain: Clearstone’s appeal fails for 150 MW site at Axminster",
+      "url": "https://www.pv-magazine.com/2026/08/20/blocked-bess-in-britain-clearstones-appeal-fails-for-150-mw-site-at-axminster/",
+      "published": "2026-08-20T05:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Clearstone Energy’s proposed 150 MW Axminster Energy Hub BESS appeal was dismissed by planning inspector Helen Heward on August 13, 2026, despite the developer’s compliance with relevant fire-safety guidance and use of Wärtsilä Quantum 1 technology. The decision centred on concerns over explosion mi…"
+    },
+    {
+      "id": "95b5d4efdec3",
+      "title": "Windlab, Squadron Energy submit 500MW battery storage system for federal assessment in Queensland, Australia",
+      "url": "https://www.energy-storage.news/windlab-squadron-energy-submit-500mw-battery-storage-system-for-federal-assessment-in-queensland-australia/",
+      "published": "2026-08-20T03:52:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Windlab and Squadron Energy have referred a 500MW BESS at the Bungaban solar-plus-storage project in Queensland for approval."
+    },
+    {
+      "id": "b6fbaca909a6",
+      "title": "‘One market into many’: AER says battery storage systems are reshaping Australia’s NEM",
+      "url": "https://www.energy-storage.news/one-market-into-many-aer-says-battery-storage-systems-are-reshaping-australias-nem/",
+      "published": "2026-08-20T03:50:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The AER has found that growth in renewable energy and battery storage eased pressure across Australia's wholesale electricity market in 2025."
+    },
+    {
+      "id": "0d3185ac08bc",
+      "title": "APA to build 104MWh battery storage system for Evolution Mining’s Ernest Henry operations in Australia",
+      "url": "https://www.energy-storage.news/apa-to-build-104mwh-battery-storage-system-for-evolution-minings-ernest-henry-operations-in-australia/",
+      "published": "2026-08-20T03:45:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "APA Group has taken a final investment decision to construct, own and operate the 104MWh Sybella Creek solar-plus-storage site in Australia."
+    },
+    {
+      "id": "c1576859c303",
+      "title": "NLR & North American Electric Reliability Corporation Launch Partnership To Advance North American Grid Reliability",
+      "url": "https://cleantechnica.com/2026/08/19/nlr-north-american-electric-reliability-corporation-launch-partnership-to-advance-north-american-grid-reliability/",
+      "published": "2026-08-20T02:13:37+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Collaboration Will Advance Research and Technical Insights Needed To Support Reliable, Resilient Energy Future for More Than 400 Million North Americans By Madeline Geocaris, NLR The National Laboratory of the Rockies (NLR) and the North American Electric Reliability Corporation (NERC) announced a n…"
+    },
+    {
+      "id": "0c628c641e71",
+      "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+      "url": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+      "published": "2026-08-19T23:39:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Bouge RV has been a staple brand in the affordable solar and portable refrigeration space for years. Over the last few years, they have really ramped up their efforts to flesh out the product line, improving the quality of their products at the same time. Disclaimer: Bouge RV provided the ... [conti…"
+    },
+    {
+      "id": "bf069fbec9c1",
+      "title": "US capacity markets create ‘major disconnect’ for LDES financing, says Camelot’s Raafe Khan",
+      "url": "https://www.energy-storage.news/us-capacity-markets-create-major-disconnect-for-ldes-financing-says-camelots-raafe-khan/",
+      "published": "2026-08-19T14:06:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news speaks with Raafe Khan, head of energy storage at Camelot Energy Group, ahead of the upcoming Battery Asset Management Summit (BAMS) USA in Garden Grove, California."
+    },
+    {
+      "id": "a6f76d51f81c",
+      "title": "US utilities Appalachian Power and 3CE launch RFPS seeking BESS capacity in Virginia, California",
+      "url": "https://www.energy-storage.news/us-utilities-appalachian-power-and-3ce-launch-rfps-seeking-bess-capacity-in-virginia-california/",
+      "published": "2026-08-19T13:57:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Utility Appalachian Power (APCo) is seeking up to 800MW total of energy storage resources via two new requests for proposals (RFPs) in Virginia, US."
+    },
+    {
+      "id": "39369b76a7ae",
+      "title": "Egyptian government minister lays foundation stone as Sungrow begins constructing MEA’s first specialised BESS factory",
+      "url": "https://www.energy-storage.news/egyptian-government-minister-lays-foundation-stone-sungrow-begins-constructing-mea-first-specialised-bess-factory/",
+      "published": "2026-08-19T13:34:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Egypt’s Minister of Industry laid the foundation stone at Sungrow’s BESS factory site in the Suez Canal Economic Zone earlier this week."
+    },
+    {
+      "id": "617032920972",
+      "title": "Enel starts building 100MW grid-forming BESS at Chile solar PV plant",
+      "url": "https://www.energy-storage.news/enel-starts-building-100mw-grid-forming-bess-at-chile-solar-pv-plant/",
+      "published": "2026-08-19T11:39:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Enel Green Power, part of the Italy-based power group Enel, has launched construction on another large-scale BESS in Chile."
+    },
+    {
+      "id": "a0a495b55935",
+      "title": "Germany BESS market in strong position but policy questions on grid fees, connections and FCAs cloud certainty",
+      "url": "https://www.energy-storage.news/germany-bess-market-in-strong-position-but-policy-questions-on-grid-fees-connections-and-fcas-cloud-certainty/",
+      "published": "2026-08-19T10:31:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The grid-scale energy storage market in Germany is in a strong position but key questions around grid fees, grid connections, FCAs and the upcoming capacity market remain, speakers at the upcoming Energy Storage Summit Germany 2026 said."
+    },
+    {
+      "id": "b239011ec6ad",
+      "title": "Copenhagen Infrastructure Partners closes US$3 billion energy fund targeting ‘high-growth, middle-income markets’",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-closes-us3-billion-energy-fund-targeting-high-growth-middle-income-markets/",
+      "published": "2026-08-19T09:10:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Copenhagen Infrastructure Partners (CIP) has closed its Growth Markets Fund II (GMF II) at around US$3 billion."
+    },
     {
       "id": "730dc7191487",
       "title": "CATL’s Robin Zeng says non-zero-carbon batteries will be left behind by the times",
