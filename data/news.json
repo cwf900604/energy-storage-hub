@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-20T08:41:14.811603+00:00",
-  "count": 846,
+  "updated": "2026-08-21T08:43:23.167609+00:00",
+  "count": 861,
   "items": [
+    {
+      "id": "c458cf06b174",
+      "title": "EU adopts budget-flexibility guidelines for photovoltaics, heat pumps, and BESS",
+      "url": "https://www.pv-magazine.com/2026/08/21/eu-adopts-budget-flexibility-guidelines-for-photovoltaics-heat-pumps-and-bess/",
+      "published": "2026-08-21T07:49:21+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The European Commission has opened the door for Member States to use national escape-clause flexibility to finance energy security and fossil-fuel transition measures in 2026–2028. Eligible investments include renewables, batteries and energy storage, heat pumps, EV charging infrastructure and build…"
+    },
+    {
+      "id": "1df2bfbc6f93",
+      "title": "Bangladesh mandates solar charging for millions of electric rickshaws",
+      "url": "https://www.pv-magazine.com/2026/08/21/bangladesh-mandates-solar-charging-for-millions-of-electric-rickshaws/",
+      "published": "2026-08-21T05:41:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Bangladesh plans to require millions of battery-powered auto-rickshaws to use solar-powered charging stations as a condition of registration, aiming to reduce pressure on the electricity grid. Industry representatives say the policy could spur investment in solar charging infrastructure, create jobs…"
+    },
+    {
+      "id": "4ee017156121",
+      "title": "Solar powerhouse to storage leader",
+      "url": "https://www.pv-magazine.com/2026/08/21/solar-powerhouse-to-storage-leader/",
+      "published": "2026-08-21T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chile is transforming in a bid to avoid becoming a victim of its own solar success. Developers have flooded the Atacama Desert with solar projects, turning Chile into a PV powerhouse but also drastically reducing revenues and driving some operators into bankruptcy. S&#38;P Global Energy’s Ángel Canc…"
+    },
+    {
+      "id": "9d424462064c",
+      "title": "Australia’s Allegro Energy partners with Jena Batteries to scale microemulsion flow battery manufacturing",
+      "url": "https://www.energy-storage.news/australias-allegro-energy-partners-with-jena-batteries-to-scale-microemulsion-flow-battery-manufacturing/",
+      "published": "2026-08-21T03:26:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Allegro Energy has entered a strategic partnership with Jena Batteries and its parent company Suqian Time Energy Technology."
+    },
+    {
+      "id": "b6298bae427a",
+      "title": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
+      "url": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
+      "published": "2026-08-21T02:31:34+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Princeton University spinout will use the funding to expand sales and commercial deployments of its revolutionary brine-based lithium production platform in the U.S. and South America. PRINCETON, N.J. — Princeton Critical Minerals (PCM), a startup developing technologies to accelerate and increa…"
+    },
+    {
+      "id": "24dd3cd2ab68",
+      "title": "Are conventional BESS degradation guarantees restricting asset value?",
+      "url": "https://www.energy-storage.news/are-conventional-bess-degradation-guarantees-restricting-asset-value/",
+      "published": "2026-08-20T22:16:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery energy storage degradation guarantees need to evolve as the surrounding market does, writes Faisal Mohd at Envision Energy Australia."
+    },
+    {
+      "id": "03fd1d43fec4",
+      "title": "Mahle Introduces Range Extender For Electric Trucks",
+      "url": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
+      "published": "2026-08-20T17:33:02+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In reality, the battery electric heavy trucks of today have insufficient range for many applications. Even the mighty Tesla Semi (once it actually becomes widely available) will have its limitations. No matter how aerodynamic the shape of the cab or how large the battery, hauling a fully loaded semi…"
+    },
+    {
+      "id": "184cdae6d911",
+      "title": "Electric Trucks In Play As New, Trump-Endorsed Lithium-Ion Battery Factory Takes Shape",
+      "url": "https://cleantechnica.com/2026/08/20/batteries-lithium-ion-us-factory-forge-nano-samsung-sdi/",
+      "published": "2026-08-20T16:14:05+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A forthcoming 3 gigawatt-hour factory in North Carolina will help nail down an ample supply of Made-in-the-USA lithium-ion batteries, supported by a $100 million grant from the US Department of Energy. The post Electric Trucks In Play As New, Trump-Endorsed Lithium-Ion Battery Factory Takes Shape ap…"
+    },
+    {
+      "id": "c00c61a0ceaf",
+      "title": "Key Capture Energy raises US$300 million from Standard Chartered, with NY-ISO and MISO deployments in mind",
+      "url": "https://www.energy-storage.news/key-capture-energy-raises-us300-million-from-standard-chartered-with-ny-iso-and-miso-deployments-in-mind/",
+      "published": "2026-08-20T16:08:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US battery storage developer Key Capture Energy (KCE) has closed a US$300 million financing agreement with British multinational bank Standard Chartered."
+    },
+    {
+      "id": "13be03b2006e",
+      "title": "Europe adds 36 GWh of battery storage in 2025, Ukraine enters top five markets",
+      "url": "https://www.pv-magazine.com/2026/08/20/europe-adds-36-gwh-of-battery-storage-in-2025-ukraine-enters-top-five-markets/",
+      "published": "2026-08-20T14:59:36+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Europe installed 36 GWh of new battery storage capacity in 2025, up 48% year on year, according to SolarPower Europe. Germany remained the continent’s largest market, while Ukraine and Bulgaria entered the top five. The post Europe adds 36 GWh of battery storage in 2025, Ukraine enters top five mark…"
+    },
+    {
+      "id": "9e4e2ad5908a",
+      "title": "Handling cell imbalances, communications interoperability and other blockers to BESS asset success",
+      "url": "https://www.energy-storage.news/handling-cell-imbalances-communications-interoperability-and-other-blockers-to-bess-asset-success/",
+      "published": "2026-08-20T11:10:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Orchestrating battery storage components, containers, systems and portfolios is key to successful operation, says Ryan Franks."
+    },
+    {
+      "id": "91d583d75b0f",
+      "title": "Denmark: BeGreen enlists Danske Commodities for co-located BESS optimisation",
+      "url": "https://www.energy-storage.news/denmark-begreen-enlists-danske-commodities-for-co-located-bess-optimisation/",
+      "published": "2026-08-20T10:58:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Danske Commodities will optimise a BESS project that developer-operator BeGreen has added to a solar PV plant in Denmark, which the trading house already operates for BeGreen."
+    },
+    {
+      "id": "ec1d61c6e788",
+      "title": "US ROUNDUP: BESS projects and deals for EDP Renewables, Tucson Electric Power, and EDF",
+      "url": "https://www.energy-storage.news/us-roundup-bess-projects-and-deals-for-edp-renewables-tucson-electric-power-and-edf/",
+      "published": "2026-08-20T10:43:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this US news roundup, BESS projects in California, Arizona, and Nevada advance from EDP Renewables, Tucson Electric Power, and EDF Power Solutions North America."
+    },
+    {
+      "id": "99f1a71e9054",
+      "title": "LG Energy Solution begins LFP and NMC BESS and EV cell production at Michigan factory",
+      "url": "https://www.energy-storage.news/lg-energy-solution-begins-lfp-and-nmc-bess-and-ev-cell-production-at-michigan-factory/",
+      "published": "2026-08-20T10:39:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two South Korean-headquartered companies, LG Energy Solution and DeltaX are establishing battery cell factories in the US."
+    },
     {
       "id": "6dae7cebeb07",
       "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
@@ -19,6 +145,15 @@
       "source": "PV Magazine",
       "lang": "en",
       "summary": "Clearstone Energy’s proposed 150 MW Axminster Energy Hub BESS appeal was dismissed by planning inspector Helen Heward on August 13, 2026, despite the developer’s compliance with relevant fire-safety guidance and use of Wärtsilä Quantum 1 technology. The decision centred on concerns over explosion mi…"
+    },
+    {
+      "id": "483bb6d35079",
+      "title": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
+      "url": "https://cleantechnica.com/2026/08/19/asahi-kasei-develops-novel-lithium-pre-doping-technology-to-raise-energy-density-and-lower-cost-of-silicon-rich-lithium-ion-batteries/",
+      "published": "2026-08-20T03:55:39+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Novel lithium pre-doping technology to raise energy density and lower cost Enables the use of low-cost lithium carbonate with existing production lines Global PoC evaluations and licensing to accelerate commercialization TOKYO — Asahi Kasei (TOKYO:3407), a diversified global company, has developed a…"
     },
     {
       "id": "95b5d4efdec3",
