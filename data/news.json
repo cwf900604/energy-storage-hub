@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-21T08:43:23.167609+00:00",
-  "count": 861,
+  "updated": "2026-08-22T08:33:01.793143+00:00",
+  "count": 871,
   "items": [
+    {
+      "id": "0786279ba307",
+      "title": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
+      "url": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
+      "published": "2026-08-22T06:32:08+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Heart Aerospace’s X1 demonstrator flew for 27 minutes on August 12 from Plattsburgh International Airport, powered entirely by batteries. The aircraft has a 106-foot wingspan, weighed more than 25,000 pounds at takeoff and drew more than a megawatt at peak. Heart calls it the largest battery-electri…"
+    },
+    {
+      "id": "3fbb01093420",
+      "title": "AC-Coupled vs. DC-Coupled",
+      "url": "https://www.pv-magazine.com/2026/08/22/ac-coupled-vs-dc-coupled/",
+      "published": "2026-08-22T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Growing applications for battery storage mean the optimal system design may not be the most obvious. Jakir Hossain and Mujtaba Abdelwahab of Storlytics Energy Storage present a simulation-based comparison of AC vs. DC coupling showing how realistic dispatch modeling rather than generic assumptions f…"
+    },
+    {
+      "id": "88bd54e4593f",
+      "title": "Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space",
+      "url": "https://cleantechnica.com/2026/08/21/energy-storage-exists-time-space-us-new-factory/",
+      "published": "2026-08-21T18:11:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "US Interior Secretary Doug Burgum marks the launch of a new battery factory, admitting that energy storage actually does exist after all. The post Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space appeared first on CleanTechnica."
+    },
+    {
+      "id": "fb8046468f33",
+      "title": "Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery",
+      "url": "https://cleantechnica.com/2026/08/21/toyota-fluoride-ev-battery-us-electric-vehicles/",
+      "published": "2026-08-21T14:12:51+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Toyota is still working on a futuristic fluoride-ion EV battery while growing its electrified vehicle footprint in the US market here and now. The post Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery appeared first on CleanTechnica."
+    },
+    {
+      "id": "48a0416133db",
+      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
+      "url": "https://www.pv-magazine.com/2026/08/21/austria-announces-energy-storage-offensive-shifting-solar-subsidy-focus/",
+      "published": "2026-08-21T13:18:34+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Austria plans to overhaul its solar subsidy framework from 2027, shifting support from standard PV systems toward battery storage, energy management systems and specialized solar applications. The government aims to accelerate storage deployment, with up to 8 GW of market-oriented capacity by 2030, …"
+    },
+    {
+      "id": "ac46b910513a",
+      "title": "‘Company wasn’t ready in 2021’: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion",
+      "url": "https://www.energy-storage.news/company-wasnt-ready-in-2021-ess-inc-ceo-on-pivoting-away-from-iron-flow-batteries-to-sodium-ion/",
+      "published": "2026-08-21T13:08:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Why should people take ESS Inc and its pivot to sodium-ion BESS seriously, having failed to deliver on its iron flow battery promises since going public in 2021? We catch up with new CEO Drew Buckley about how he hopes to turn the ship around."
+    },
+    {
+      "id": "577cc7f3872c",
+      "title": "Ecoflow unveils 5 kWh residential battery line",
+      "url": "https://www.pv-magazine.com/2026/08/21/ecoflow-unveils-5-kwh-residential-battery-line/",
+      "published": "2026-08-21T12:37:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "EcoFlow starts the rollout of its new Stream series with the Stream 5000 launching in the UK. The post Ecoflow unveils 5 kWh residential battery line appeared first on pv magazine Global."
+    },
+    {
+      "id": "e0e4e428174a",
+      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
+      "url": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
+      "published": "2026-08-21T12:34:58+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say."
+    },
+    {
+      "id": "d5d31f98d0fa",
+      "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+      "url": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+      "published": "2026-08-21T09:58:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state."
+    },
+    {
+      "id": "ba7f4d645d5d",
+      "title": "India’s BESS supply chain suffers a ‘policy intent and operational capacity’ gap, with battery cell self-sufficiency a decade or more away",
+      "url": "https://www.energy-storage.news/indias-bess-supply-chain-suffers-a-policy-intent-and-operational-capacity-gap-with-battery-cell-self-sufficiency-a-decade-or-more-away/",
+      "published": "2026-08-21T09:36:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India’s battery storage sector will remain far from self-sufficient in cell supply for at least a decade, Wood Mackenzie says."
+    },
     {
       "id": "c458cf06b174",
       "title": "EU adopts budget-flexibility guidelines for photovoltaics, heat pumps, and BESS",
