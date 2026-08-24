@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-23T08:33:22.873953+00:00",
-  "count": 872,
+  "updated": "2026-08-24T08:51:24.643198+00:00",
+  "count": 875,
   "items": [
+    {
+      "id": "5abd4952d340",
+      "title": "Invinity confirms EPC contract award for 2.1GWh ‘landmark’ flow battery in Switzerland",
+      "url": "https://www.energy-storage.news/invinity-confirms-epc-contract-award-for-2-1gwh-landmark-flow-battery-in-switzerland/",
+      "published": "2026-08-24T08:23:24+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Invinity Energy Systems has hired an EPC partner for its gigawatt-hour-scale vanadium redox flow battery (VRFB) energy storage project in Laufenberg, Switzerland."
+    },
+    {
+      "id": "b9e4eabc3b7c",
+      "title": "European PPA prices rise 2.3% in July",
+      "url": "https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/",
+      "published": "2026-08-24T06:51:10+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "European PPA prices rose 2.3% in July, with gains in Great Britain and Italy offset by declines in the Nordics, Spain and Portugal. Contracting remained active, with 24 PPAs totaling 1.1 GW and nine battery storage agreements representing 865 MW. The post European PPA prices rise 2.3% in July appear…"
+    },
+    {
+      "id": "903e716f77e7",
+      "title": "Quinbrook taps GE Vernova and CATL for the third stage of Australia’s largest battery storage system",
+      "url": "https://www.energy-storage.news/quinbrook-taps-ge-vernova-and-catl-for-the-third-stage-of-australias-largest-battery-storage-system/",
+      "published": "2026-08-24T01:27:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "GE Vernova and CATL selected for 1,216MWh Supernode Stage 3 in Queensland, which will expand Australia's largest battery storage system."
+    },
     {
       "id": "d28640c52a4d",
       "title": "Red States Are Killin’ It With Their Solar Factories",
