@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-24T08:51:24.643198+00:00",
-  "count": 875,
+  "updated": "2026-08-25T08:46:18.094654+00:00",
+  "count": 888,
   "items": [
+    {
+      "id": "30df17780f63",
+      "title": "UK government launches £28 million Ultra-Long Duration Energy Storage Challenge",
+      "url": "https://www.energy-storage.news/uk-government-launches-28-million-ultra-long-duration-energy-storage-challenge/",
+      "published": "2026-08-25T08:09:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The UK government has launched a new grant funding programme for energy storage technologies that can provide inter-day and seasonal energy shifting applications."
+    },
+    {
+      "id": "70a747bfd6dc",
+      "title": "Australia’s battery storage contracts shift from ‘physical tolls’ toward commoditised products",
+      "url": "https://www.energy-storage.news/australias-battery-storage-contracts-shift-from-physical-tolls-toward-commoditised-products/",
+      "published": "2026-08-25T08:07:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's BESS market evolves from physical tolls to commoditised contracts as spreads compress &#038; investor return expectations rise to 14%."
+    },
+    {
+      "id": "b9ed26691c89",
+      "title": "UK approves 400 MW solar project with 600 MW co-located battery",
+      "url": "https://www.pv-magazine.com/2026/08/25/uk-approves-400-mw-solar-project-with-600-mw-co-located-battery/",
+      "published": "2026-08-25T06:31:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Beacon Fen Energy Park secured planning consent from the UK government. The development consent order means construction of the 400 MW solar, 600 MW battery energy storage system (BESS) can begin. The post UK approves 400 MW solar project with 600 MW co-located battery appeared first on pv magazine …"
+    },
+    {
+      "id": "5aa0d2e54b7f",
+      "title": "Saudi Arabia awards $1.16 billion for 8 GWh of battery storage",
+      "url": "https://www.pv-magazine.com/2026/08/25/saudi-arabia-awards-1-16-billion-for-8-gwh-of-battery-storage/",
+      "published": "2026-08-25T06:28:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Saudi Power Procurement Company (SPPC) has finalized four 15-year storage service agreements with two consortiums led by ACWA Power and Engie. The 2 GW/8 GWh portfolio marks the first phase of the Kingdom’s massive battery storage procurement program. The post Saudi Arabia awards $1.16 billion f…"
+    },
+    {
+      "id": "7cde83b96e3b",
+      "title": "Battery storage investors ‘feeling the pinch’ as arbitrage spreads narrow across Australia’s NEM",
+      "url": "https://www.energy-storage.news/battery-storage-investors-feeling-the-pinch-as-arbitrage-spreads-narrow-across-australias-nem/",
+      "published": "2026-08-25T05:21:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS developers who built business cases on assumptions of faster coal plant closures are now absorbing the consequences of that timeline slipping."
+    },
+    {
+      "id": "3f3070c99213",
+      "title": "40 GW project pipeline has Australia’s energy transition on track",
+      "url": "https://www.pv-magazine.com/2026/08/25/40-gw-project-pipeline-has-australias-energy-transition-on-track/",
+      "published": "2026-08-25T04:52:18+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A pipeline of about 40 GW of grid-scale renewable generation and energy storage has Australia on track to maintain electricity reliability as ageing coal-fired power stations retire but the market operator warns the transition depends on these projects being delivered, not just announced. The post 4…"
+    },
+    {
+      "id": "17d042262d50",
+      "title": "Enphase enters commercial battery storage market, announces IQ Battery C80",
+      "url": "https://www.pv-magazine.com/2026/08/25/enphase-enters-commercial-battery-storage-market-announces-iq-battery-c80/",
+      "published": "2026-08-25T04:49:15+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Enphase Energy has opened U.S. pre-orders for its IQ Battery C80, a fully integrated, AC-coupled commercial energy storage system designed to scale up to multi-megawatt-hour deployments. The post Enphase enters commercial battery storage market, announces IQ Battery C80 appeared first on pv magazine…"
+    },
+    {
+      "id": "7ee8b639ca83",
+      "title": "Brazil’s plan for a battery supply chain",
+      "url": "https://www.pv-magazine.com/2026/08/25/brazils-plan-for-a-battery-supply-chain/",
+      "published": "2026-08-25T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Battery manufacturing in Brazil is being spurred by local content requirements for country’s December 2026 energy storage auction, as well as the financing terms from Brazilian development bank BNDES that are favorable to locally made products. Domestic and foreign suppliers are already announcing i…"
+    },
+    {
+      "id": "fab9a13bea6c",
+      "title": "Massachusetts Is Taking Steps to Lower Energy Costs. Let’s Get the Details Right.",
+      "url": "https://cleantechnica.com/2026/08/24/massachusetts-is-taking-steps-to-lower-energy-costs-lets-get-the-details-right/",
+      "published": "2026-08-25T03:12:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Massachusetts lawmakers are working to make electricity more affordable. Both the Massachusetts House and Senate passed energy bills (S.3166 and H.5175) this year that would support grid reliability and lower electricity costs through measures such as flexible interconnection, a retail storage progr…"
+    },
+    {
+      "id": "a361b6b836c0",
+      "title": "When Do You Trade In Your EV For A New One?",
+      "url": "https://cleantechnica.com/2026/08/24/when-do-you-trade-in-your-ev-for-a-new-one/",
+      "published": "2026-08-25T02:49:45+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Our Tesla Model 3 is now seven years old and we are about to trade the car in for a Tesla Model Y. The reason? Is it because we have done over 180,000 km (about 112,000 miles) and will be likely to require expensive maintenance? Is battery degradation a problem? ... [continued] The post When Do You …"
+    },
+    {
+      "id": "594815021955",
+      "title": "US data centre power goes distributed: Sunrun signs VPP deal with Google supplier Voltus",
+      "url": "https://www.energy-storage.news/us-data-centre-power-goes-distributed-sunrun-signs-vpp-deal-with-google-supplier-voltus/",
+      "published": "2026-08-24T14:24:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sunrun has agreed with distributed energy resource platform Voltus to support its Bring Your Own Capacity (BYOC) programmes for AI hyperscalers."
+    },
+    {
+      "id": "71e63f3a0e18",
+      "title": "Cost savings top disaster prep in Japan solar-storage survey",
+      "url": "https://www.pv-magazine.com/2026/08/24/cost-savings-top-disaster-prep-in-japan-solar-storage-survey/",
+      "published": "2026-08-24T14:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Battery storage is emerging as a financial tool for Japanese households rather than just a disaster-preparedness measure, according to a new survey of residential solar and storage prospects. The post Cost savings top disaster prep in Japan solar-storage survey appeared first on pv magazine Global."
+    },
+    {
+      "id": "eca47a240c2f",
+      "title": "CESA’s Scott Murtishaw on safety, misinformation, and California’s BESS milestones",
+      "url": "https://www.energy-storage.news/cesas-scott-murtishaw-on-safety-misinformation-and-californias-bess-milestones/",
+      "published": "2026-08-24T13:32:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Scott Murtishaw, executive director at the California Energy Storage Alliance, discusses local opposition, safety misconceptions, and why the state's containerised projects have proven safe."
+    },
     {
       "id": "5abd4952d340",
       "title": "Invinity confirms EPC contract award for 2.1GWh ‘landmark’ flow battery in Switzerland",
