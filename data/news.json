@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-25T08:46:18.094654+00:00",
-  "count": 888,
+  "updated": "2026-08-26T08:47:58.882236+00:00",
+  "count": 899,
   "items": [
+    {
+      "id": "e9a16c45e57e",
+      "title": "MRCool releases inverter heat pump for recreational vehicles",
+      "url": "https://www.pv-magazine.com/2026/08/26/mrcool-releases-inverter-heat-pump-for-recreational-vehicles/",
+      "published": "2026-08-26T06:46:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "MRCool has launched a rooftop air-source heat pump for recreational vehicles, featuring DC inverter technology and both ducted and ductless configurations. The 115 V system can operate in off-grid setups, including RV electrical systems supplied by PV and battery storage. The post MRCool releases in…"
+    },
+    {
+      "id": "a2ec5f0472b6",
+      "title": "‘Up to six months faster’: DC-coupling expedites hybrid solar-plus-storage grid connection approvals in Australia",
+      "url": "https://www.energy-storage.news/up-to-six-months-faster-dc-coupling-expedites-hybrid-solar-plus-storage-grid-connection-approvals-in-australia/",
+      "published": "2026-08-26T03:35:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "DC-coupled solar-plus-storage projects can reduce the time needed for grid connection approval compared with AC-coupled designs."
+    },
+    {
+      "id": "c422340c581c",
+      "title": "Energy Storage Is Strengthening Reliability. These 5 States Are Leading the Charge.",
+      "url": "https://cleantechnica.com/2026/08/25/energy-storage-is-strengthening-reliability-these-5-states-are-leading-the-charge/",
+      "published": "2026-08-26T01:56:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Americans don’t think about grid reliability. They flip the light switch, open the refrigerator, turn up the AC, and expect the power to be there. But as electricity demand surges from data centers, advanced manufacturing, and extreme summer heat, keeping the lights on requires a grid that can deliv…"
+    },
+    {
+      "id": "bd40d2cfac7e",
+      "title": "Photovoltaic Windows Have Been Heating Water in a Bucharest Apartment for Two Years",
+      "url": "https://cleantechnica.com/2026/08/25/photovoltaic-windows-have-been-heating-water-in-a-bucharest-apartment-for-two-years/",
+      "published": "2026-08-26T00:23:53+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A two-year apartment pilot in Bucharest uses semi-transparent photovoltaic windows to heat domestic water directly in DC, turning an ordinary water tank into thermal storage without a solar inverter or battery. By Adrian Băisan, PhotoVoltaic Windows SRL For people living in apartment buildings, usin…"
+    },
+    {
+      "id": "81d54865dcc7",
+      "title": "Suzuki Unveils it BEV Kei Car for Release This Autumn",
+      "url": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
+      "published": "2026-08-25T15:45:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Suzuki has unveiled the e SKY, its first battery-electric passenger kei car, with a reference driving range of 310 kilometers as the Japanese automaker prepares to enter one of the country’s most competitive small-car segments. Suzuki released preliminary information on Aug. 24 and plans to launch t…"
+    },
+    {
+      "id": "07c1de435537",
+      "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+      "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+      "published": "2026-08-25T15:35:09+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The comparatively modest maximum annual incentive of $200/kW over 10 years reflects the &ldquo;private resilience value of residential energy storage systems,&rdquo; state regulators said."
+    },
+    {
+      "id": "61a2a05ed913",
+      "title": "The financial realities facing US long-duration energy storage integration",
+      "url": "https://www.energy-storage.news/the-financial-realities-facing-us-long-duration-energy-storage-integration/",
+      "published": "2026-08-25T13:42:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Raafe Khan of Camelot Energy Group breaks down financial realities, market contradictions, and other dynamics shaping the energy storage space."
+    },
+    {
+      "id": "f32b3bd1de54",
+      "title": "TC Energy appoints Worley to advance development of 11GWh Ontario pumped hydro energy storage project",
+      "url": "https://www.energy-storage.news/tc-energy-appoints-worley-to-advance-development-of-11gwh-ontario-pumped-hydro-energy-storage-project/",
+      "published": "2026-08-25T13:22:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Canadian pipeline and energy infrastructure company TC Energy has selected Worley to advance the next development phase of its 1GW/11GWh Ontario Pumped Storage Project in Meaford, Canada."
+    },
+    {
+      "id": "718eeefbf9c8",
+      "title": "Shell offloads residential battery storage and VPP provider sonnen after seven years",
+      "url": "https://www.energy-storage.news/shell-offloads-residential-battery-storage-vpp-provider-sonnen/",
+      "published": "2026-08-25T11:01:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Shell has sold sonnen, the residential battery storage company it acquired in 2019, as the oil &#038; gas major focuses its attention on “portfolio high-grading efforts.”"
+    },
+    {
+      "id": "42e851f273d3",
+      "title": "Germany: FCAs should come with a reduction in BKZ fee, developer says",
+      "url": "https://www.energy-storage.news/germany-fcas-should-come-with-a-reduction-in-bkz-fee-developer-says/",
+      "published": "2026-08-25T11:01:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "If BESS are to be given restricted grid access, they should be given a commensurate reduction in the BKZ fee, Marie-Sophie Braun, head of markets &#038; regulatory affairs for developer Kyon Energy, said."
+    },
+    {
+      "id": "6959f251b806",
+      "title": "US firm Lyten sets sights on Norway’s Morrow Batteries following Northvolt acquisition",
+      "url": "https://www.energy-storage.news/us-firm-lyten-sets-sights-on-norways-morrow-batteries-following-northvolt-acquisition/",
+      "published": "2026-08-25T10:46:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US lithium-sulphur battery company Lyten is aiming to acquire another of Europe’s failed homegrown battery startups, Norway’s Morrow Batteries, which went into bankruptcy earlier this year."
+    },
     {
       "id": "30df17780f63",
       "title": "UK government launches £28 million Ultra-Long Duration Energy Storage Challenge",
