@@ -1,7 +1,178 @@
 {
-  "updated": "2026-08-26T08:47:58.882236+00:00",
-  "count": 899,
+  "updated": "2026-08-27T18:57:22.477812+00:00",
+  "count": 918,
   "items": [
+    {
+      "id": "082e7eced0bb",
+      "title": "Battery boom brings round-the-clock solar closer, Ember says",
+      "url": "https://www.pv-magazine.com/2026/08/27/battery-boom-brings-round-the-clock-solar-closer-ember-says/",
+      "published": "2026-08-27T13:37:18+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar PV supplied more than 10% of global electricity in the first half of 2026, but generation remains heavily concentrated around midday. Ember says rapidly expanding, cheaper battery storage could shift 34% of new daily solar generation to non-solar hours in 2026, bringing round-the-clock solar c…"
+    },
+    {
+      "id": "04068d18bb1a",
+      "title": "18GWh of BESS comes online in July, year-to-date total up 27%",
+      "url": "https://www.energy-storage.news/18gwh-of-bess-comes-online-in-july-year-to-date-total-up-27/",
+      "published": "2026-08-27T11:34:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A total of 18GWh of large-scale BESS capacity came online in July 2026, of which China accounted for 70%."
+    },
+    {
+      "id": "a743d5f9813d",
+      "title": "Atmoce announces 8 kWh AC-coupled residential battery",
+      "url": "https://www.pv-magazine.com/2026/08/27/atmoce-announces-8-kwh-ac-coupled-residential-battery/",
+      "published": "2026-08-27T11:29:05+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Atmoce has launched an 8 kWh LFP residential battery featuring 5 kW output, extra-low-voltage architecture and 90% AC round-trip efficiency. The IP66-rated system offers up to 15,000 cycles, wall or floor mounting, and a 25-year warranty.. The post Atmoce announces 8 kWh AC-coupled residential batte…"
+    },
+    {
+      "id": "799ba3bc0027",
+      "title": "Sungrow breaks ground on 10 GWh battery storage factory in Egypt",
+      "url": "https://www.pv-magazine.com/2026/08/27/sungrow-breaks-ground-on-10-gwh-battery-storage-factory-in-egypt/",
+      "published": "2026-08-27T11:09:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sungrow has begun construction of a $50 million BESS factory in Egypt’s Suez Canal Economic Zone, targeting 10 GWh of annual production and an April 2027 start. The facility will supply Egypt’s growing storage market, including Scatec’s Energy Valley project, while strengthening Sungrow’s localized …"
+    },
+    {
+      "id": "4a330852d7ac",
+      "title": "Albania’s solar market shifts toward storage, market integration",
+      "url": "https://www.pv-magazine.com/2026/08/27/albanias-solar-market-shifts-toward-storage-market-integration/",
+      "published": "2026-08-27T10:05:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Albania’s solar market is continuing to develop with a growing project pipeline alongside new regulations that are reshaping its electricity market, setting the groundwork for storage deployments and improving conditions for self-producers. The post Albania’s solar market shifts toward storage, mark…"
+    },
+    {
+      "id": "d6716778a260",
+      "title": "ROUNDUP: Greenvolt, Elesela, Enlight, European Energy and GEN-I move large-scale BESS projects forward in CEE and Baltics",
+      "url": "https://www.energy-storage.news/roundup-greenvolt-elesela-enlight-european-energy-gen-i-large-scale-bess-projects-forward-cee-baltics/",
+      "published": "2026-08-27T10:00:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A roundup of large-scale battery energy storage system (BESS) projects being financed, acquired or contracted in Poland, Lithuania, Latvia, Finland and Romania."
+    },
+    {
+      "id": "8375f47a5442",
+      "title": "Africa’s first 24/7 ‘solar baseload’ power plant, enabled by batteries, goes online at DRC copper mine",
+      "url": "https://www.energy-storage.news/africas-first-24-7-solar-baseload-power-plant-enabled-by-batteries-goes-online-at-drc-copper-mine/",
+      "published": "2026-08-27T09:49:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Solar-plus-storage project, claimed as the first of its kind in Africa to deliver 24/7 renewable electricity, has come online at a copper mine in the Democratic Republic of the Congo (DRC)."
+    },
+    {
+      "id": "2d8edc01d082",
+      "title": "LFP cathode active material startup Nano One brings a strategy to meet demand from supply chains outside China",
+      "url": "https://www.energy-storage.news/lfp-cathode-active-material-startup-nano-one-brings-a-strategy-to-meet-demand-from-supply-chains-outside-china/",
+      "published": "2026-08-27T09:31:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Lithium-ion (Li-ion) battery cathode material producer Nano One has reaffirmed its strategy for addressing growing demand for lithium iron phosphate (LFP) cathode active materials outside China, focusing on a licensing-based approach through regional development company partnerships."
+    },
+    {
+      "id": "75307a49d0ac",
+      "title": "Battery Costs Are Global. Freight Geography Isn’t.",
+      "url": "https://cleantechnica.com/2026/08/27/freight-electrification-china-india-europe-us/",
+      "published": "2026-08-27T07:36:22+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Battery costs are falling globally, but freight does not begin from a common starting point. China, India, Europe and the United States move domestic cargo through very different combinations of road, rail and water, so cheaper batteries will not produce one standard freight-electrification pathway.…"
+    },
+    {
+      "id": "5b7df4929771",
+      "title": "Renewable Energy Is Winning, Trump Is Losing (Shocker!)",
+      "url": "https://cleantechnica.com/2026/08/26/renewable-energy-solar-wind-storage-us-energy-policy-trump-fail/",
+      "published": "2026-08-27T03:47:00+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Renewable energy is still crushing US President Donald Trump's fossil fuel fantasy, with solar energy and energy storage making an especially strong showing. The post Renewable Energy Is Winning, Trump Is Losing (Shocker!) appeared first on CleanTechnica."
+    },
+    {
+      "id": "c62f3a7226d8",
+      "title": "Reliability outlook improves, but Australia’s NEM still needs system security investment, AEMO finds",
+      "url": "https://www.energy-storage.news/reliability-outlook-improves-but-australias-nem-still-needs-system-security-investment-aemo-finds/",
+      "published": "2026-08-27T02:44:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AEMO has published its 2026 ESOO, finding a clearer pathway to maintaining a reliable electricity supply across the NEM in the coming decade."
+    },
+    {
+      "id": "8f32bcd17600",
+      "title": "HMC Capital’s KKR partnership funds 90% of first new-build battery storage site equity in Australia",
+      "url": "https://www.energy-storage.news/hmc-capitals-kkr-partnership-funds-90-of-first-new-build-battery-storage-site-equity-in-australia/",
+      "published": "2026-08-27T02:39:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "HMC said it has committed equity to develop its first new-build battery storage project in Australia, a 300MW/1,200MWh facility in Victoria."
+    },
+    {
+      "id": "224d3ec755a9",
+      "title": "‘Often too late’: Insurers warn battery storage developers to bring cover in earlier",
+      "url": "https://www.energy-storage.news/often-too-late-insurers-warn-battery-storage-developers-to-bring-cover-in-earlier/",
+      "published": "2026-08-27T02:38:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A battery storage system can meet every contracted performance guarantee and still leave its owner watching day-to-day output fall short of expectations."
+    },
+    {
+      "id": "fd03527153ab",
+      "title": "Sodium-Ion Batteries For The Win!",
+      "url": "https://cleantechnica.com/2026/08/26/sodium-ion-batteries-for-the-win/",
+      "published": "2026-08-26T21:29:27+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Energy storage is the key to the clean energy transition. It is true that the sun does not always shine and the winds don&#8217;t always blow, but when they do, they make far more electricity than the electrical grid needs at any particular time. If only there was a way ... [continued] The post Sodi…"
+    },
+    {
+      "id": "784e0ea64db8",
+      "title": "US IPPs Swift Current, Avantus raise US$1 billion+ for clean energy projects",
+      "url": "https://www.energy-storage.news/us-ipps-swift-current-avantus-raise-us1-billion-for-clean-energy-projects/",
+      "published": "2026-08-26T11:28:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US independent power producers (IPPs) Swift Current Energy and Avantus have secured financing for their pipelines and projects, respectively."
+    },
+    {
+      "id": "fbad1bc981d5",
+      "title": "US TECH ROUNDUP: Software tie-ins and technology partnerships, gas-BESS hybrids bring speed-to-power",
+      "url": "https://www.energy-storage.news/us-tech-roundup-software-tie-ins-and-technology-partnerships-gas-bess-hybrids-bring-speed-to-power/",
+      "published": "2026-08-26T11:05:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this news roundup, Eos and WATTMORE; Gotion and Gamma Technologies; Middle River Power and PowerTransitions; and Electra AI and MinTech are advancing battery energy storage system (BESS) technology in the US."
+    },
+    {
+      "id": "6dd911b906c2",
+      "title": "Ford Energy’s grid-scale BESS product: an analysis",
+      "url": "https://www.energy-storage.news/ford-energys-grid-scale-bess-product-an-analysis/",
+      "published": "2026-08-26T10:33:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In May, US automotive group Ford made the surprise announcement that it was launching a BESS product via new division Ford Energy. In this deep dive article, we look at its product's specifications and how they compare to other existing solutions."
+    },
+    {
+      "id": "41e2e5ab6835",
+      "title": "Germany BESS ROUNDUP: Alpiq buys from Eco Stor, CATL-backed CNTE supplies units, Terralayr’s Vattenfall toll online",
+      "url": "https://www.energy-storage.news/germany-bess-roundup-alpiq-buys-from-eco-stor-catl-backed-cnte-supplies-units-terralayrs-vattenfall-toll-online/",
+      "published": "2026-08-26T10:26:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A trio of BESS updates in Germany from power firm Alpiq, CATL-backed system integrator CNTE and virtual tolling platform Terralayr, totalling around 260MW of operational capacity."
+    },
+    {
+      "id": "fde3433c2cbd",
+      "title": "Saudi Power Procurement Company awards 2GW/8GWh of battery storage contracts",
+      "url": "https://www.energy-storage.news/saudi-power-procurement-company-awards-2gw-8gwh-battery-storage-contracts/",
+      "published": "2026-08-26T10:16:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Saudi Arabia’s Principal Buyer of electricity has awarded four service contracts for large-scale battery storage projects to consortia featuring ACWA Power and Engie."
+    },
     {
       "id": "e9a16c45e57e",
       "title": "MRCool releases inverter heat pump for recreational vehicles",
