@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-27T18:57:22.477812+00:00",
-  "count": 918,
+  "updated": "2026-08-28T20:00:10.400651+00:00",
+  "count": 930,
   "items": [
+    {
+      "id": "ebb5add1f66b",
+      "title": "Investments in co-located solar-plus-storage reach $25 billion in H1, says BloombergNEF",
+      "url": "https://www.pv-magazine.com/2026/08/28/investments-in-co-located-solar-plus-storage-reach-25-billion-in-h1-says-bloombergnef/",
+      "published": "2026-08-28T13:38:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Global renewable energy investment reached $327.5 billion in the first half of 2026, as capital shifted toward solar-plus-storage projects amid growing revenue uncertainty. US investment surged ahead of tax credit deadlines, while weaker activity in China and offshore wind weighed on the global outl…"
+    },
+    {
+      "id": "438a55f3d63d",
+      "title": "The Hydrogen Stream: Africa’s first PV-driven hydrogen hub powers up",
+      "url": "https://www.pv-magazine.com/2026/08/28/the-hydrogen-stream-africas-first-full-stack-pv-driven-hydrogen-hub-powers-up-in-namibia/",
+      "published": "2026-08-28T13:25:26+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Cbm-Tech has launched a green hydrogen hub in Walvis Bay combining 5 MW of solar, a 5 MW PEM electrolyzer and 5.9 MWh of battery storage. The post The Hydrogen Stream: Africa’s first PV-driven hydrogen hub powers up appeared first on pv magazine Global."
+    },
+    {
+      "id": "a179c8cde33d",
+      "title": "Ontario municipality rejects Bedrock Energy’s Canada compressed air energy storage project rejected",
+      "url": "https://www.energy-storage.news/ontario-municipality-rejects-bedrock-energys-canada-compressed-air-energy-storage-project-rejected/",
+      "published": "2026-08-28T13:12:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Geothermal energy company Bedrock Energy has had its proposed compressed air energy storage (CAES) project in Huron County, Ontario, Canada rejected."
+    },
+    {
+      "id": "89029b7dda8c",
+      "title": "Mobile BESS provider Nomad begins life under new ownership with US DOE approval of Vermont pilot",
+      "url": "https://www.energy-storage.news/mobile-bess-provider-nomad-begins-life-under-new-ownership-with-us-doe-approval-of-vermont-pilot/",
+      "published": "2026-08-28T13:08:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nomad Power Solutions has announced that the US Department of Energy (DOE) Office of Electricity has authorised the advancement of an energy storage demonstration project in Vermont."
+    },
+    {
+      "id": "d2b2de904af1",
+      "title": "BESS Industry Buzz: hot takes, analysis and unofficial news from across the sector",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-hot-takes-analysis-and-unofficial-news-from-across-the-sector/",
+      "published": "2026-08-28T12:55:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A roundup of some of the best user-posted views, analysis and reveals from across the energy storage community in the past week."
+    },
+    {
+      "id": "e3058c0ee440",
+      "title": "Wood Mackenzie raises Latin America storage forecast to 34 GW by 2035",
+      "url": "https://www.pv-magazine.com/2026/08/28/wood-mackenzie-raises-latin-america-storage-forecast-to-34-gw-by-2035/",
+      "published": "2026-08-28T11:18:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Wood Mackenzie forecasts Latin America’s energy storage capacity to surge from 2.5 GW in 2025 to 34 GW by 2035, driven by renewable curtailment, grid constraints, auctions, and supportive policies. Chile leads deployment, while Mexico, Brazil, Argentina, and the Dominican Republic are scaling up, th…"
+    },
+    {
+      "id": "9fb4a2532aa9",
+      "title": "Energy Storage Awards 2026: One week left to enter the industry-leading celebration of excellence",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-one-week-left-to-enter-the-industry-leading-celebration-of-excellence/",
+      "published": "2026-08-28T11:03:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Entries for the Energy Storage Awards 2026 close soon, and with it, the last chance to take the stage alongside the industry’s finest, and Special Guest Speaker, Ben Fogle."
+    },
+    {
+      "id": "075b812553e4",
+      "title": "Interim reports of CATL, EVE, REPT and other listed Chinese BESS players: Leaders see steady earnings growth, second‑tier returns to profitability",
+      "url": "https://www.energy-storage.news/interim-reports-of-catl-eve-rept-and-other-listed-chinese-bess-players-leaders-see-steady-earnings-growth-second-tier-returns-to-profitability/",
+      "published": "2026-08-28T05:34:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "China’s listed battery storage companies have entered the peak interim reporting season, with H1 2026 likely marking the broadest profit recovery in recent years."
+    },
+    {
+      "id": "d5e08e24b2c3",
+      "title": "Octopus Australia submits 4.8GWh Hanworth Battery Project for EPBC Act approval",
+      "url": "https://www.energy-storage.news/octopus-australia-submits-4-8gwh-hanworth-battery-project-for-epbc-act-approval/",
+      "published": "2026-08-28T03:22:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Octopus Australia, via its development partner Enervest, has submitted a 1.2GW/4.8GWh BESS for assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "08b4a611c7a2",
+      "title": "OptiGrid wins AMPYR Australia battery storage optimisation deal after digital twin benchmarking",
+      "url": "https://www.energy-storage.news/optigrid-wins-ampyr-australia-battery-storage-optimisation-deal-after-digital-twin-benchmarking/",
+      "published": "2026-08-28T01:49:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AMPYR Australia has selected OptiGrid's OptiBidder platform to optimise the battery storage systems in its portfolio, following a benchmarking process that compared the platform's revenue performance against rival optimisation systems."
+    },
+    {
+      "id": "3a3d846547a4",
+      "title": "Ausconnex starts construction on AU$65 million community battery programme in Australia",
+      "url": "https://www.energy-storage.news/ausconnex-starts-construction-on-au65-million-community-battery-programme-in-australia/",
+      "published": "2026-08-28T01:46:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ausconnex has begun construction on the first of eight community BESS planned across Greater Western Sydney, Australia."
+    },
+    {
+      "id": "e5dc9285aff6",
+      "title": "Utility Customers Could Save Millions from Dominion Coal Plant Retirements, New Expert Analysis Shows",
+      "url": "https://cleantechnica.com/2026/08/27/utility-customers-could-save-millions-from-dominion-coal-plant-retirements-new-expert-analysis-shows/",
+      "published": "2026-08-27T21:51:55+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Grid Reliability Would Remain Strong After Planned Retirements of Wateree &#38; Williams Coal Plants COLUMBIA, S.C. — Expert analysis filed Wednesday reveals that Dominion Energy’s new long-range energy plan will generate far more electricity than it needs by 2033 if it keeps its two large coal plan…"
+    },
     {
       "id": "082e7eced0bb",
       "title": "Battery boom brings round-the-clock solar closer, Ember says",
