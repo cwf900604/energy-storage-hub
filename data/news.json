@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-28T20:00:10.400651+00:00",
-  "count": 930,
+  "updated": "2026-08-29T13:41:43.312346+00:00",
+  "count": 933,
   "items": [
+    {
+      "id": "543fb65af97c",
+      "title": "US Army Aims To Capture Energy From “The Environment”",
+      "url": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
+      "published": "2026-08-29T11:39:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The US startup Chariot Defense is pitching a microgrid that replaces hot, noisy, logistically burdened diesel generators with batteries that scavenge energy from the battlefield. The post US Army Aims To Capture Energy From &#8220;The Environment&#8221; appeared first on CleanTechnica."
+    },
+    {
+      "id": "ef8027be48c2",
+      "title": "Chile’s hybrid heroics",
+      "url": "https://www.pv-magazine.com/2026/08/29/chiles-hybrid-heroics/",
+      "published": "2026-08-29T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In 2024, Chile passed a law incentivizing battery development paired with utility-scale solar. This move quickly led to a flood of big battery project announcements, as the capacity payments model combined with arbitrage revenue means hybrid solar and storage is very profitable. By the end of 2026, …"
+    },
+    {
+      "id": "3e46f7127265",
+      "title": "The Real Electric Aviation Revolution Is Being Strangled To Enrich Don Jr. & Other Trump Associates",
+      "url": "https://cleantechnica.com/2026/08/28/the-real-electric-aviation-revolution-is-being-strangled-to-enrich-don-jr-other-trump-associates/",
+      "published": "2026-08-29T01:56:45+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "For years, venture capitalists and tech bros have burned through billions of dollars promising us flying electric cars. We have all seen the slick CGI videos of battery-powered air taxis whisking executives over gridlocked highway traffic. Yet, while Silicon Valley was busy chasing vaporware, a quie…"
+    },
     {
       "id": "ebb5add1f66b",
       "title": "Investments in co-located solar-plus-storage reach $25 billion in H1, says BloombergNEF",
