@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-30T13:40:04.041876+00:00",
-  "count": 933,
+  "updated": "2026-08-31T15:58:11.289194+00:00",
+  "count": 943,
   "items": [
+    {
+      "id": "83ce0c403c03",
+      "title": "Trump cites ‘unusual and extraordinary threat’ in executive order banning inverter, BESS & transformer imports",
+      "url": "https://www.energy-storage.news/trump-cites-unusual-and-extraordinary-threat-in-executive-order-banning-inverter-bess-transformer-imports/",
+      "published": "2026-08-31T13:55:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US President Donald Trump has banned the import of inverters, transformers and other power equipment that pose a potential risk to US grid security."
+    },
+    {
+      "id": "068078b861dc",
+      "title": "As US grid reliability risks mount, distributed BESS offer localised solutions for resilient supply",
+      "url": "https://www.energy-storage.news/as-us-grid-reliability-risks-mount-distributed-bess-offer-localised-solutions-for-resilient-supply/",
+      "published": "2026-08-31T13:46:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Rural and distributed battery energy storage system (BESS) projects could be emerging as critical infrastructure in the US as grid reliability risks intensify nationwide."
+    },
+    {
+      "id": "989599780ba7",
+      "title": "Storing renewables with firebrick thermal batteries",
+      "url": "https://www.pv-magazine.com/2026/08/31/storing-renewables-with-firebrick-thermal-batteries/",
+      "published": "2026-08-31T12:18:28+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Electrified Thermal Solutions is developing a firebrick-based thermal battery that converts low-cost electricity into high-temperature heat for energy-intensive industries. The technology could pair with solar and wind to absorb surplus generation and deliver round-the-clock industrial heat at costs…"
+    },
+    {
+      "id": "35fdf73bd77f",
+      "title": "CATL targets opportunities in Brazil’s capacity reserve auction, as regulator receives nearly 300GW of bids",
+      "url": "https://www.energy-storage.news/catl-targets-opportunities-in-brazils-capacity-reserve-auction-as-regulator-receives-nearly-300gw-of-bids/",
+      "published": "2026-08-31T11:07:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL has formed a partnership to work on projects awarded contracts through Brazil’s first national energy storage auction programme, which received more than 6,000 bids."
+    },
+    {
+      "id": "917b58212b42",
+      "title": "Journey Ahead: JA Roadshow 2026 to spotlight integrated energy solutions",
+      "url": "https://www.pv-magazine.com/2026/08/31/journey-ahead-ja-roadshow-2026-to-spotlight-integrated-energy-solutions/",
+      "published": "2026-08-31T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "As energy resilience rises on the agenda across Europe, JA’s first roadshow, Journey Ahead: JA Roadshow 2026, will bring the company's expanding PV and energy storage portfolio directly to customers, demonstrating how integrated technologies can support greater grid resilience and meet evolving ener…"
+    },
+    {
+      "id": "ce07cef7f1f6",
+      "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
+      "url": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
+      "published": "2026-08-31T08:25:17+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Hydrogen occupies an unusually large share of the energy-transition information stream for the amount of physical deployment behind it. Fuel-cell trucks, buses, trains, ships, storage projects, demonstrations and records recur through corporate releases, government announcements, trade publications …"
+    },
+    {
+      "id": "90fa7a7b1497",
+      "title": "Brazil’s Intersolar SA 2026 highlights storage momentum amid solar slowdown",
+      "url": "https://www.pv-magazine.com/2026/08/31/intersolar-2026-armazenamento-traz-novo-animo-para-o-setor-em-ano-de-desaceleracao-solar/",
+      "published": "2026-08-31T06:20:30+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Energy storage is emerging as one of the key growth areas for Brazil’s solar industry. Manufacturers are expanding their battery portfolios and seeking local partnerships to meet domestic content requirements for the country’s first storage auction. At the same time, slowing growth in solar generati…"
+    },
+    {
+      "id": "75b44ea38c27",
+      "title": "Copenhagen Infrastructure Partners acquires 104MW grid-forming BESS project from Windlab in Australia",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-acquires-104mw-grid-forming-bess-project-from-windlab-in-australia/",
+      "published": "2026-08-31T05:33:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CIP has acquired full ownership of the 104MW Gawara Baya wind-plus-storage project in North Queensland, Australia, from developer Windlab."
+    },
+    {
+      "id": "b4d61ee39db2",
+      "title": "‘You’re buying a liability’: panel warns developers on buying ageing battery storage assets in Australia",
+      "url": "https://www.energy-storage.news/youre-buying-a-liability-panel-warns-developers-on-buying-ageing-battery-storage-assets-in-australia/",
+      "published": "2026-08-31T05:30:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developers who buy or flip battery storage projects mid-life risk inheriting decommissioning liabilities they had not properly accounted for,"
+    },
+    {
+      "id": "cd7d3fb33742",
+      "title": "‘Australia is a market made for batteries’: Wärtsilä strategy lead on volatility and the business case for energy storage",
+      "url": "https://www.energy-storage.news/australia-is-a-market-made-for-batteries-wartsila-strategy-lead-on-volatility-and-the-business-case-for-energy-storage/",
+      "published": "2026-08-31T05:12:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Speaking to ESN Premium, Kashish Shah of Wärtsilä explains why Australia's volatile market structure makes it uniquely suited for battery storage."
+    },
     {
       "id": "543fb65af97c",
       "title": "US Army Aims To Capture Energy From “The Environment”",
