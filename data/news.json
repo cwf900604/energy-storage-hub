@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-31T15:58:11.289194+00:00",
-  "count": 943,
+  "updated": "2026-09-01T13:15:26.356749+00:00",
+  "count": 952,
   "items": [
+    {
+      "id": "45f8e4e46713",
+      "title": "Three years on: how much has the EU Batteries Regulation changed the BESS market?",
+      "url": "https://www.energy-storage.news/three-years-on-how-much-has-the-eu-batteries-regulation-changed-the-bess-market/",
+      "published": "2026-09-01T11:48:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Three years after the EU Batteries Regulation (EUBR) entered into force, it is becoming easier to separate regulatory expectations from measurable market impacts, writes patent lawyer Chloe Flower."
+    },
+    {
+      "id": "c49a6988bd2f",
+      "title": "Negative prices reshape Europe’s solar, storage and PPA markets",
+      "url": "https://www.pv-magazine.com/2026/09/01/el-aumento-de-los-precios-negativos-redefine-las-senales-de-mercado-para-la-solar-el-almacenamiento-y-los-ppas-en-europa/",
+      "published": "2026-09-01T11:39:59+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "According to S&#38;P Global, rising negative electricity prices are reshaping solar, storage and PPAs across Europe. Wider price spreads are strengthening the case for batteries and more structured renewable energy ontracts. The post Negative prices reshape Europe’s solar, storage and PPA markets ap…"
+    },
+    {
+      "id": "1e33aa1df5b9",
+      "title": "‘Challenge for grid and regulatory clarity to keep pace with market’: BW ESS on Germany",
+      "url": "https://www.energy-storage.news/germany-energy-storage-market-bw-ess-challenge-grid-regulatory-clarity-keep-pace-market/",
+      "published": "2026-09-01T11:16:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from Nikhil Koppaka, senior commercial manager for BESS owner-operator BW ESS on the big opportunities and challenges in Germany's grid-scale energy storage market."
+    },
+    {
+      "id": "910ac194c75e",
+      "title": "NERC’s level 3 alert puts data centres on notice as grid faces gigawatt-scale load swings",
+      "url": "https://www.energy-storage.news/nercs-level-3-alert-puts-data-centres-on-notice-as-grid-faces-gigawatt-scale-load-swings/",
+      "published": "2026-09-01T11:10:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "North American Electric Reliability Corporation (NERC) issued its most urgent grid reliability warning in response to artificial intelligence data centres causing massive, near-instantaneous power fluctuations."
+    },
+    {
+      "id": "267e895b89e3",
+      "title": "US utility-scale battery energy storage capacity almost doubled during first 18 months of Trump’s second term",
+      "url": "https://www.energy-storage.news/us-utility-scale-battery-energy-storage-capacity-almost-doubled-during-first-18-months-of-trumps-second-term/",
+      "published": "2026-09-01T10:58:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The US energy storage industry broke deployment records in Q2 2026 in gigawatt-hour (GWh) terms, underpinned by growth in the utility-scale segment."
+    },
+    {
+      "id": "2d0b8f7583cb",
+      "title": "SK On signs 18GWh reciprocal LFP supply deal with NeoVolta Power for US-made battery storage",
+      "url": "https://www.energy-storage.news/sk-on-signs-18gwh-reciprocal-lfp-supply-deal-with-neovolta-power-for-us-made-battery-storage/",
+      "published": "2026-09-01T10:48:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Korean battery manufacturer SK On’s US production facilities will supply NeoVolta Power with 9GWh of lithium iron phosphate (LFP) pouch cells under a five-year deal."
+    },
+    {
+      "id": "fa34a249dd81",
+      "title": "Ukraine auctions 150 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/09/01/ukraine-auctions-150-mw-of-solar/",
+      "published": "2026-09-01T10:41:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Ukraine will host two auctions, one for 50 MW of solar and another for 100 MW of solar-plus-storage, on September 25. The post Ukraine auctions 150 MW of solar appeared first on pv magazine Global."
+    },
+    {
+      "id": "d5403441bd4d",
+      "title": "Return secures financial close, Vattenfall toll for 800MWh Dutch battery",
+      "url": "https://www.energy-storage.news/return-financial-close-vattenfall-toll-800mwh-dutch-netherlands-battery-storage/",
+      "published": "2026-09-01T09:42:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operator Return has signed a long-term toll with power firm Vattenfall for its 200MW/800MWh Sirius BESS project in the Netherlands, concurrent with financial close."
+    },
+    {
+      "id": "1e6573be7efe",
+      "title": "Jackery Adds Capability & Expandability To New HomePower 1000 Plus v2 Portable Battery",
+      "url": "https://cleantechnica.com/2026/08/31/jackery-adds-capability-expandability-to-new-homepower-1000-plus-v2/",
+      "published": "2026-08-31T20:38:02+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery recently launched the new HomePower 1000 Plus v2, offering greater flexibility and capability for the home, outdoors and worksite while adding expandability to the portable battery. Within the compact case is 1024 kWh of battery storage. However, unlike its predecessor, the new battery also …"
+    },
     {
       "id": "83ce0c403c03",
       "title": "Trump cites ‘unusual and extraordinary threat’ in executive order banning inverter, BESS & transformer imports",
