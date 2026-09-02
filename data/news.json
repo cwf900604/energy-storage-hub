@@ -1,7 +1,142 @@
 {
-  "updated": "2026-09-01T13:15:26.356749+00:00",
-  "count": 952,
+  "updated": "2026-09-02T12:38:12.382920+00:00",
+  "count": 967,
   "items": [
+    {
+      "id": "6f7f0704e3a7",
+      "title": "ONE Nuclear Energy executes LOI for 2.88GWh BESS and gas plant co-located with Louisiana data centre",
+      "url": "https://www.energy-storage.news/one-nuclear-energy-executes-loi-for-2-88gwh-bess-and-gas-plant-co-located-with-louisiana-data-centre/",
+      "published": "2026-09-02T12:16:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ONE Nuclear Energy has executed a binding letter of intent to develop a 2.88GW natural gas plant and 700MW/2.88GWh energy storage system, co-located with a high-capacity data centre campus."
+    },
+    {
+      "id": "ee05da47b26f",
+      "title": "EU approves €2 billion fund to decarbonize Greek islands",
+      "url": "https://www.pv-magazine.com/2026/09/02/eu-approves-e2-billion-fund-to-decarbonize-greek-islands/",
+      "published": "2026-09-02T11:51:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The European Commission and EIB have approved a €2 billion fund to support grid interconnections, renewable energy, storage and electric mobility across Greece’s islands. The program aims to reduce reliance on costly oil-fired generation while strengthening island energy security and accelerating de…"
+    },
+    {
+      "id": "31b18770edfa",
+      "title": "Hyperstrong starts building LEAG’s 1.6GWh Germany BESS under turnkey contract",
+      "url": "https://www.energy-storage.news/hyperstrong-starts-building-leags-1-6gwh-germany-bess-under-turnkey-contract/",
+      "published": "2026-09-02T11:43:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Power generator LEAG and its turnkey BESS construction partner HyperStrong have started building a 400MW/1,600MWh project in Germany, while Sunotec has done the same on a 441MWh project."
+    },
+    {
+      "id": "1d8bcafb9ebc",
+      "title": "Canadian Solar ships 3.7GWh of BESS in Q2 2026, company is ‘actively validating’ 15,000+ cycle sodium-ion product",
+      "url": "https://www.energy-storage.news/canadian-solar-ships-3-7gwh-of-bess-in-q2-2026-company-is-actively-validating-15000-cycle-sodium-ion-product/",
+      "published": "2026-09-02T11:13:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Canadian Solar’s quarterly battery storage shipments increased 73% year-on-year, with 3.7GWh delivered in the second quarter of 2026."
+    },
+    {
+      "id": "8ee5cae8de91",
+      "title": "Texas Instruments introduces chip-level diagnostics to improve grid-scale battery cell safety",
+      "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
+      "published": "2026-09-02T10:52:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Texas Instruments’ new BQ79826Z-Q1 battery monitor integrates EIS to actively diagnose LFP cell health, improving accuracy over traditional voltage-based BMS monitoring. Its 26-channel design reportedly enhances BESS safety and bankability while reducing system complexity and costs, with commercial …"
+    },
+    {
+      "id": "32115d32fb34",
+      "title": "Hydrostor secures grid connection for 200 MW/1,600 MWh compressed air storage project in Australia",
+      "url": "https://www.pv-magazine.com/2026/09/02/hydrostor-secures-grid-connection-for-200-mw-1600-mwh-compressed-air-storage-project-in-australia/",
+      "published": "2026-09-02T09:28:40+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Hydrostor has secured grid connection approval for its 200 MW/1,600 MWh Silver City compressed-air energy storage project in Broken Hill, New South Wales. The eight-hour storage facility will strengthen grid reliability, support renewables, and provide backup power and long-term energy security for …"
+    },
+    {
+      "id": "bc05bb30154e",
+      "title": "BW ESS starts building 515MWh Italy BESS; buys 675MWh projects in Spain",
+      "url": "https://www.energy-storage.news/bw-ess-starts-building-515mwh-italy-bess-buys-675mwh-projects-in-spain/",
+      "published": "2026-09-02T09:23:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operator BW ESS has progressed large-scale projects in Italy and Spain, totalling almost 1.2GWh and set to come online in 2027/28."
+    },
+    {
+      "id": "ec5e709328df",
+      "title": "Solar seasonal storage system achieves 4.1 heat pump COP in greenhouse heating",
+      "url": "https://www.pv-magazine.com/2026/09/02/solar-seasonal-storage-system-achieves-4-1-heat-pump-cop-in-greenhouse-heating/",
+      "published": "2026-09-02T08:48:03+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "South Korean researchers have demonstrated a small-scale solar seasonal thermal storage system integrated with heat pumps for greenhouse heating over three years. The system achieved average thermal storage efficiency of 55.1%, while the dual-source heat pump recorded an average COP of 4.1. The post…"
+    },
+    {
+      "id": "631167cf9171",
+      "title": "Italy gives national strategic interest designation to Sardinia data centre with hybrid energy storage hub",
+      "url": "https://www.energy-storage.news/italy-gives-national-strategic-interest-designation-to-sardinia-data-centre-with-hybrid-energy-storage-hub/",
+      "published": "2026-09-02T07:54:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Italian government has declared an AI data centre in development by Energy Vault, featuring hybrid energy storage technologies, to be of strategic national interest."
+    },
+    {
+      "id": "85f5113b96ca",
+      "title": "ARENA marks 100th community battery installed, funds three new projects across Australia",
+      "url": "https://www.energy-storage.news/arena-marks-100th-community-battery-installed-funds-three-new-projects-across-australia/",
+      "published": "2026-09-02T04:32:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Australian Renewable Energy Agency (ARENA) has confirmed the installation of the 100th community battery storage system under its Community Batteries Funding Initiative."
+    },
+    {
+      "id": "059f3e1bd459",
+      "title": "REPORT: U.S. Adds 20 GWh of Energy Storage Capacity in Q2, Largest Quarter on Record",
+      "url": "https://cleantechnica.com/2026/09/01/report-u-s-adds-20-gwh-of-energy-storage-capacity-in-q2-largest-quarter-on-record/",
+      "published": "2026-09-02T03:45:37+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "U.S. battery energy storage capacity nearly doubles in the first 18 months of the Trump administration as grid operators turn to storage to strengthen grid reliability WASHINGTON, D.C. — The U.S. energy storage industry installed a record 20.2 gigawatt-hours (GWh) of new capacity in Q2, bringing tot…"
+    },
+    {
+      "id": "4e83581949d0",
+      "title": "Solar & Storage Are Saving Schools Millions. See How These 6 Are Using the Extra Budget Space.",
+      "url": "https://cleantechnica.com/2026/09/01/solar-storage-are-saving-schools-millions-see-how-these-6-are-using-the-extra-budget-space/",
+      "published": "2026-09-02T03:38:10+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The first days of the 2026-2027 school year are upon us. Students of all ages are getting ready for another year of learning, and some of them may notice a new addition to their campus: solar panels. Today, over 7 million K-12 students (~1 in 7) attend a solar-powered school, according ... [continue…"
+    },
+    {
+      "id": "72cc85e22c36",
+      "title": "California VPP bills await Governor Newsom signature, Octopus Energy closes investment in DERs flex platform Uplight",
+      "url": "https://www.energy-storage.news/california-vpp-bills-await-governor-newsom-signature-octopus-energy-closes-investment-in-ders-flex-platform-uplight/",
+      "published": "2026-09-01T23:51:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two VPP bills are awaiting California Governor Gavin Newsom’s signature, meanwhile, Octopus Energy US has completed its investment in Uplight."
+    },
+    {
+      "id": "d48c10248c9e",
+      "title": "The Moonrider Battery Electric Tractor From GoSun Is Priced At $19,995",
+      "url": "https://cleantechnica.com/2026/09/01/the-moonrider-battery-electric-tractor-from-gosun-is-priced-at-19995/",
+      "published": "2026-09-01T17:35:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "If you happen to be attending the Farm Progress Show in Boone, Iowa, this weekend, stop by Booth VITW2200 to view the Moonrider battery electric tractor from GoSun, a pioneer in solar-powered appliances and portable clean energy solutions. The Moonrider tractor makes it possible for farmers, homeste…"
+    },
+    {
+      "id": "a0dcd20ecb20",
+      "title": "Trump grid order likely to cause energy storage delays, cancellations: BloombergNEF",
+      "url": "https://www.utilitydive.com/news/trump-grid-order-likely-to-cause-energy-storage-delays-cancellations-bloo/829306/",
+      "published": "2026-09-01T15:08:20+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The Aug. 26 executive order, previous executive actions and the Treasury Department&rsquo;s Foreign Entity of Concern guidance are likely to hit battery and inverter supply chains particularly hard, an industry analyst tells Utility Dive."
+    },
     {
       "id": "45f8e4e46713",
       "title": "Three years on: how much has the EU Batteries Regulation changed the BESS market?",
