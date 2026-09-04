@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-03T12:41:06.728420+00:00",
-  "count": 978,
+  "updated": "2026-09-04T12:35:05.965631+00:00",
+  "count": 986,
   "items": [
+    {
+      "id": "801e1f31d754",
+      "title": "TÜV Rheinland validates 4 kWh generation in Aptera’s solar electric vehicle",
+      "url": "https://www.pv-magazine.com/2026/09/04/tuv-rheinland-validates-4-kwh-generation-in-apteras-solar-electric-vehicle/",
+      "published": "2026-09-04T12:19:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Independent third-party testing measured more than 4 kWh of usable solar energy delivered post-conversion to the vehicle’s high-voltage battery. The post TÜV Rheinland validates 4 kWh generation in Aptera’s solar electric vehicle appeared first on pv magazine Global."
+    },
+    {
+      "id": "ac785d107657",
+      "title": "BLUETTI Launches New Energy Solutions for Work, Home and Life on the Move at IFA 2026",
+      "url": "https://www.energy-storage.news/bluetti-launches-new-energy-solutions-for-work-home-and-life-on-the-move-at-ifa-2026/",
+      "published": "2026-09-04T12:01:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BLUETTI, a technology pioneer in clean energy, today unveiled a new portfolio of products and intelligent energy solutions at IFA 2026."
+    },
+    {
+      "id": "96c5178349c4",
+      "title": "BESS Industry Buzz: German grid attack, revenue cannibilisation, CATL’s price cut, sodium-ion’s ramp-up and more",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-german-grid-attack-revenue-cannibilisation-catls-price-cut-sodium-ions-ramp-up-and-more/",
+      "published": "2026-09-04T11:14:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A roundup of some of user-posted analysis, views and unofficial news from across the industry this past week, this time looking at this week's sabotage attack on the German grid, BESS revenues and electricity market activity, CATL's LFP price cut and various non-lithium news."
+    },
+    {
+      "id": "5d38bc7c4882",
+      "title": "Under the hood: Inside Tesla’s Megapack 3 as Texas production begins",
+      "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+      "published": "2026-09-04T09:41:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tesla was one of the pioneers of the grid-scale battery storage market, but has faced increasing competition in the past few years. In this article we look under the hood of its latest grid-scale BESS product, the Megapack 3."
+    },
+    {
+      "id": "474ceac6444f",
+      "title": "Goldman Sachs Alternatives, Cleanhill Partners sell PCS manufacturer EPC Power for US$4.4 billion",
+      "url": "https://www.energy-storage.news/goldman-sachs-alternatives-cleanhill-partners-sell-pcs-manufacturer-epc-power-for-us4-4-billion/",
+      "published": "2026-09-04T09:25:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Goldman Sachs Alternatives and Cleanhill Partners have agreed to sell power electronics manufacturer EPC Power Corp to Flex."
+    },
+    {
+      "id": "f5cf026c98a4",
+      "title": "Energy Vault secures full land ownership for 1GWh Stoney Creek BESS in Australia",
+      "url": "https://www.energy-storage.news/energy-vault-secures-full-land-ownership-for-1gwh-stoney-creek-bess-in-australia/",
+      "published": "2026-09-04T05:15:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy Vault has completed the acquisition of the underlying project land for its 125MW/1,000MWh Stoney Creek battery energy storage system (BESS) in northern New South Wales, Australia."
+    },
+    {
+      "id": "321e6ee5de08",
+      "title": "China’s half-year energy storage deployments post first-ever decline to 22GW/59GWh, while overseas orders surge 83%",
+      "url": "https://www.energy-storage.news/chinas-half-year-energy-storage-deployments-post-first-ever-decline-to-22gw-59gwh-while-overseas-orders-surge-83/",
+      "published": "2026-09-04T05:11:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CNESA's report is a comprehensive overview of China’s energy storage sector in H1 2026 and outlines the industry outlook under the 15th Five-Year Plan."
+    },
+    {
+      "id": "6a6d4ec94245",
+      "title": "Electric Car Batteries Hold Up Really Well — These Are “The Best”",
+      "url": "https://cleantechnica.com/2026/09/03/electric-car-batteries-hold-up-really-well-these-are-the-best/",
+      "published": "2026-09-03T14:09:04+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In general, there&#8217;s far more concern about electric car range and electric car battery longevity than there needs to be. We&#8217;ve got a 2019 Tesla Model 3 SR+ and a 2018 BMW i3 REx and just need to charge them up once or twice a week overnight at home. Electric ... [continued] The post Elec…"
+    },
     {
       "id": "3ee3b62861de",
       "title": "Inertia in Germany is ‘first bankable long-term revenue stream,’ could boost battery storage IRR by 1-2pp",
