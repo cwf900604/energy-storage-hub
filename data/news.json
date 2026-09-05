@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-04T12:35:05.965631+00:00",
-  "count": 986,
+  "updated": "2026-09-05T11:43:20.115240+00:00",
+  "count": 989,
   "items": [
+    {
+      "id": "59a0c7e3acf8",
+      "title": "Ireland’s leap of faith to power data centers",
+      "url": "https://www.pv-magazine.com/2026/09/05/irelands-leap-of-faith-to-power-data-centers/",
+      "published": "2026-09-05T04:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Under Ireland’s Large Energy User Action Plan (LEAP), 10 MW-plus data centers must provide at least 80% of their energy demand through new onsite renewable energy generation and storage. But whether data centers can meaningfully contribute to Ireland’s decarbonization depends on the success of its g…"
+    },
+    {
+      "id": "369e249cd509",
+      "title": "Donut Lab Reveals Amazing Performance Tests",
+      "url": "https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/",
+      "published": "2026-09-05T02:07:11+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Donut Lab revealed its solid-state battery to the world at CES 2026, to the amazement of many and to the dismay of others shocked by their achievement and performance claims. No other company has a practical fully solid-state battery in production as of this writing. Many, like Quantumscape, have tr…"
+    },
+    {
+      "id": "9de646bba5bf",
+      "title": "Equinor’s East Point Energy begins operations at 200MWh Texas BESS",
+      "url": "https://www.energy-storage.news/equinors-east-point-energy-begins-operations-at-200mwh-texas-bess/",
+      "published": "2026-09-04T13:19:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "East Point Energy, owned by Norwegian state-owned energy company Equinor has completed construction and started operations at the 100MW/200MWh Citrus Flatts energy storage project in Harlingen, Texas, US."
+    },
     {
       "id": "801e1f31d754",
       "title": "TÜV Rheinland validates 4 kWh generation in Aptera’s solar electric vehicle",
