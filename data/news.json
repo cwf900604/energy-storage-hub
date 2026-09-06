@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-05T11:43:20.115240+00:00",
-  "count": 989,
+  "updated": "2026-09-06T12:01:09.024720+00:00",
+  "count": 991,
   "items": [
+    {
+      "id": "f2035d1ec4b0",
+      "title": "Is Owning A Plug-in Hybrid Like Kissing Your Sister?",
+      "url": "https://cleantechnica.com/2026/09/05/is-owning-a-plug-in-hybrid-like-kissing-your-sister/",
+      "published": "2026-09-05T18:31:23+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "If you are thinking about buying an electric car, just do it, buy a pure battery electric car! A battery electric vehicle (BEV) is more reliable, more convenient for local driving, smoother, and better accelerating. You can drive a BEV anywhere in the US on major highways without worrying about ... …"
+    },
+    {
+      "id": "aba4f2f37374",
+      "title": "Renewable Energy And Storage Solve Massive Grid Problem In US",
+      "url": "https://cleantechnica.com/2026/09/05/renewable-energy-virtual-power-plants-us-texas-octopus/",
+      "published": "2026-09-05T15:04:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Renewable energy and storage are credited with resolving longstanding grid reliability issues in Texas, even during extreme hot weather. The post Renewable Energy And Storage Solve Massive Grid Problem In US appeared first on CleanTechnica."
+    },
     {
       "id": "59a0c7e3acf8",
       "title": "Ireland’s leap of faith to power data centers",
