@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-06T12:01:09.024720+00:00",
-  "count": 991,
+  "updated": "2026-09-07T14:04:53.669464+00:00",
+  "count": 1000,
   "items": [
+    {
+      "id": "482b02a2bc2b",
+      "title": "Latvia expands residential solar and battery rebate scheme",
+      "url": "https://www.pv-magazine.com/2026/09/07/latvia-expands-residential-solar-and-battery-rebate-scheme/",
+      "published": "2026-09-07T12:41:11+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Latvia has expanded its €85 million household renewable energy support program, raising grants for eligible households and increasing the minimum supported battery capacity from 5 kWh to 10 kWh. The scheme had supported 15,700 projects as of May 2026, including more than 14,000 applications for sola…"
+    },
+    {
+      "id": "056b3e1fd088",
+      "title": "Google, Tesla, Sunrun, and PG&E partner on new California virtual power plant programme",
+      "url": "https://www.energy-storage.news/google-tesla-sunrun-and-pge-partner-on-new-california-virtual-power-plant-programme/",
+      "published": "2026-09-07T12:17:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tech giant Google, Tesla, utility Pacific Gas and Electric (PG&#038;E), and distributed energy resource (DER)-focused company Sunrun are launching a new virtual power plant (VPP) in California, US."
+    },
+    {
+      "id": "068045d9eb9d",
+      "title": "Vietnam lays early policy groundwork to aggregate rooftop PV, storage, and EVs into VPPs",
+      "url": "https://www.pv-magazine.com/2026/09/07/vietnam-lays-early-policy-groundwork-to-aggregate-rooftop-pv-storage-and-evs-into-vpps/",
+      "published": "2026-09-07T12:08:47+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Vietnam is preparing to transition its power system beyond basic Time-of-Use (TOU) tariffs and industrial demand response programs toward virtual power plants (VPPs). The post Vietnam lays early policy groundwork to aggregate rooftop PV, storage, and EVs into VPPs appeared first on pv magazine Globa…"
+    },
+    {
+      "id": "1e790e8b2418",
+      "title": "Pakistan’s regulator approves mandatory energy storage component for renewables auction",
+      "url": "https://www.energy-storage.news/pakistan-regulator-approves-mandatory-energy-storage-component-renewables-auction/",
+      "published": "2026-09-07T10:56:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Pakistan's National Electric Power Regulatory Authority (NEPRA) has approved plans to require bidders in a renewable energy auction to include energy storage."
+    },
+    {
+      "id": "0133a5edbec7",
+      "title": "Mongolia completes first renewable energy auction",
+      "url": "https://www.pv-magazine.com/2026/09/07/mongolia-completes-first-renewable-energy-auction/",
+      "published": "2026-09-07T10:33:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The auction procured 220 MW of solar and 135 MW/440 MWh of battery energy storage across five projects. A second auction, covering renewable energy projects with a stabilisation solution in Mongolia’s Gobi region, is scheduled to take place on September 11. The post Mongolia completes first renewabl…"
+    },
+    {
+      "id": "a469531e8ba0",
+      "title": "Macquarie-backed Blueleaf Energy and Universal Peak close financing on Malaysia tender-winning BESS project",
+      "url": "https://www.energy-storage.news/macquarie-backed-blueleaf-energy-and-universal-peak-close-financing-on-malaysia-tender-winning-bess-project/",
+      "published": "2026-09-07T06:53:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Blueleaf Energy and Universal Peak have closed financing for a 100MW/400MWh battery storage project, which was one of four winning bids in a Malaysian government tender."
+    },
+    {
+      "id": "f645c3013a0a",
+      "title": "EDF Power Solutions Australia seeks EPBC Act approval for 4GWh pumped hydro plant",
+      "url": "https://www.energy-storage.news/edf-power-solutions-australia-seeks-epbc-act-approval-for-4gwh-pumped-hydro-plant/",
+      "published": "2026-09-07T03:54:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EDF Power Solutions Australia has referred the Wala Wala Pumped Hydro Energy Storage project, a 300-400MW facility in NSW."
+    },
+    {
+      "id": "c49395d0d2a5",
+      "title": "‘I cannot afford to lose them’: BW ESS warns on spare parts theft risk in Australia",
+      "url": "https://www.energy-storage.news/i-cannot-afford-to-lose-them-bw-ess-warns-on-spare-parts-theft-risk-in-australia/",
+      "published": "2026-09-07T03:37:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Copper theft has become a recurring security issue at Australian battery storage sites, with one regulator reporting multiple incidents."
+    },
+    {
+      "id": "8b5880dec74b",
+      "title": "OptiGrid to optimise Vena Energy’s 408MW Bellambi Heights BESS in Australia",
+      "url": "https://www.energy-storage.news/optigrid-to-optimise-vena-energys-408mw-bellambi-heights-bess-in-australia/",
+      "published": "2026-09-07T03:33:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "OptiGrid has been selected by Vena Energy to provide trading optimisation services for the 408MW Bellambi Heights BESS in Australia."
+    },
     {
       "id": "f2035d1ec4b0",
       "title": "Is Owning A Plug-in Hybrid Like Kissing Your Sister?",
