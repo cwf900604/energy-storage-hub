@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-07T14:04:53.669464+00:00",
-  "count": 1000,
+  "updated": "2026-09-08T12:42:04.164781+00:00",
+  "count": 1010,
   "items": [
+    {
+      "id": "fdef9ebfba87",
+      "title": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh",
+      "url": "https://www.pv-magazine.com/2026/09/08/hina-battery-scales-korean-sodium-ion-partnership-from-15-mwh-to-10-gwh/",
+      "published": "2026-09-08T11:44:56+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "HiNa Battery signed a five-year deal to supply South Korea’s Volta with 10 GWh of sodium-ion batteries, expanding an earlier 15 MWh storage partnership. The agreement highlights sodium-ion technology’s shift toward GWh-scale energy storage deployments, though LFP batteries remain dominant in the mar…"
+    },
+    {
+      "id": "4b58e631013e",
+      "title": "North Macedonia’s BESS market begins to develop",
+      "url": "https://www.pv-magazine.com/2026/09/08/north-macedonias-bess-market-begins-to-develop/",
+      "published": "2026-09-08T11:15:04+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Analysis from Solar Macedonia says both standalone and co-located battery projects are beginning to materialise, while recent drought conditions have been favorable to the economic viability of solar projects. The post North Macedonia’s BESS market begins to develop appeared first on pv magazine Glo…"
+    },
+    {
+      "id": "fa405105ecbc",
+      "title": "PJM targets data centre demand with 6GW backstop auction; BESS expected to have competitive edge",
+      "url": "https://www.energy-storage.news/pjm-targets-data-centre-demand-with-6gw-backstop-auction-bess-expected-to-have-competitive-edge/",
+      "published": "2026-09-08T11:01:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "PJM has proposed a major overhaul of how it procures power capacity in response to surging data centre demand that has driven auction prices up more than 1,000% in two years and threatens to add US$70 per month to average household electricity bills by 2028."
+    },
+    {
+      "id": "0e1ba3cc8434",
+      "title": "‘It looks like there could be an undersupply of the highest efficiency’",
+      "url": "https://www.pv-magazine.com/2026/09/08/it-looks-like-there-could-be-an-undersupply-of-the-highest-efficiency/",
+      "published": "2026-09-08T10:45:15+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Alastair Mounsey, VP for Europe discusses JA's solar moduel module strategy, why quality matters, and the growing role of energy storage in the business. The post &#8216;It looks like there could be an undersupply of the highest efficiency&#8217; appeared first on pv magazine Global."
+    },
+    {
+      "id": "a6c032b2f11b",
+      "title": "Belgium: EDF inaugurates 600MWh BESS, Engie starts building 296MWh project",
+      "url": "https://www.energy-storage.news/belgium-edf-inaugurates-600mwh-bess-engie-starts-building-296mwh-project/",
+      "published": "2026-09-08T10:00:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EDF Power Solutions has put a 150MW/600MWh BESS in Belgium into commercial operation while Engie has started building a 74MW/296MWh project."
+    },
+    {
+      "id": "77f005a69e2a",
+      "title": "Great Power successfully completes full-scale fire test",
+      "url": "https://www.pv-magazine.com/2026/09/08/great-power-successfully-completes-full-scale-fire-test/",
+      "published": "2026-09-08T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Great Power has completed a full-scale fire test of its 5 MWh energy storage system, with no fire propagation to adjacent containers, no structural collapse, and no thermal runaway observed in any adjacent module. The post Great Power successfully completes full-scale fire test appeared first on pv …"
+    },
+    {
+      "id": "ba3664f0ae63",
+      "title": "Battery storage cannot be the backbone of the next-generation electric grid if asset owners keep leaving money on the table",
+      "url": "https://www.energy-storage.news/battery-storage-cannot-be-the-backbone-of-the-next-generation-electric-grid-if-asset-owners-keep-leaving-money-on-the-table/",
+      "published": "2026-09-08T08:39:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As the battery storage industry matures through competition and scale, a significant push for efficiency is coming, writes Dr Kai-Philipp Kairies, CEO and co-founder of ACCURE Battery Intelligence."
+    },
+    {
+      "id": "5fa711272c60",
+      "title": "Pan-European battery storage and renewable energy platform Aukera closes €460 million credit facility",
+      "url": "https://www.energy-storage.news/pan-european-battery-storage-and-renewable-energy-platform-aukera-closes-e460-million-credit-facility/",
+      "published": "2026-09-08T07:46:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Aukera has closed a €460 million (US$534.23 million) structured credit facility to advance its project pipeline in five European markets."
+    },
+    {
+      "id": "80085caa8ea5",
+      "title": "Energy Fiji partners with EPC Renewables on 240MWh solar-plus-storage site",
+      "url": "https://www.energy-storage.news/energy-fiji-partners-with-epc-renewables-on-240mwh-solar-plus-storage-site/",
+      "published": "2026-09-08T04:57:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EPC Renewables has signed an MoU with state-linked utility Energy Fiji Limited for the development of the Yaqara Solar &#038; Battery Project."
+    },
+    {
+      "id": "8d358ec25076",
+      "title": "Octopus Australia refers 2GWh Blackstone BESS for EPBC Act assessment in Queensland",
+      "url": "https://www.energy-storage.news/octopus-australia-refers-2gwh-blackstone-bess-for-epbc-act-assessment-in-queensland/",
+      "published": "2026-09-08T04:55:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Octopus Australia has referred the Blackstone battery energy storage system (BESS), a 500MW/2,000MWh standalone facility, to Australia's federal government for assessment under the Environment Protection and Biodiversity Conservation (EPBC) Act."
+    },
     {
       "id": "482b02a2bc2b",
       "title": "Latvia expands residential solar and battery rebate scheme",
