@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-08T12:42:04.164781+00:00",
-  "count": 1010,
+  "updated": "2026-09-09T12:48:51.078004+00:00",
+  "count": 1024,
   "items": [
+    {
+      "id": "c10082772f02",
+      "title": "Sungrow turns to Samsung SDI battery cells to sustain its energy storage business",
+      "url": "https://www.pv-magazine.com/2026/09/09/sungrow-turns-to-samsung-sdi-battery-cells-to-sustain-its-energy-storage-business/",
+      "published": "2026-09-09T12:10:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "ungrow plans to procure Samsung SDI battery cells for its energy storage systems, primarily to support continued deliveries to the U.S. market amid tightening restrictions on China-linked supply chains. The potential three-year, multi-GWh LFP deal could leverage Samsung SDI’s expanding U.S. producti…"
+    },
+    {
+      "id": "f2bf78f780ff",
+      "title": "Black Hills Energy to begin construction on 200MWh Colorado BESS",
+      "url": "https://www.energy-storage.news/black-hills-energy-to-begin-construction-on-200mwh-colorado-bess/",
+      "published": "2026-09-09T11:50:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Utility Black Hills Energy has announced it will move forward with the construction of a 50MW/200MWh energy storage facility at its Pueblo Airport Generating Station (PAGS) in Colorado, US."
+    },
+    {
+      "id": "239ce1fae22e",
+      "title": "Switzerland’s largest battery storage facility goes online",
+      "url": "https://www.pv-magazine.com/2026/09/09/switzerlands-largest-battery-storage-facility-goes-online/",
+      "published": "2026-09-09T10:59:41+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Switzerland’s largest battery storage facility has begun operations in Gurtnellen, combining 50 MW and 8.4 MW systems developed by Axpo and Energie Uri. The Fluence-supplied project will support grid flexibility. The post Switzerland&#8217;s largest battery storage facility goes online appeared firs…"
+    },
+    {
+      "id": "b45af39f1e4c",
+      "title": "From more than 50 GW to under 10 GW: Ukraine doesn’t need its old energy system back",
+      "url": "https://www.pv-magazine.com/2026/09/09/from-more-than-50-to-just-under-10-gigawatts-ukraine-does-not-need-its-old-energy-system-back/",
+      "published": "2026-09-09T10:52:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Six air-raid alerts on the first day, backup generators on almost every street corner, and discussions about the rapid reconstruction of severely damaged energy infrastructure: my trip to Kyiv and Lviv showed me why decentralized solar and energy storage are far more than climate technologies for Uk…"
+    },
+    {
+      "id": "f4e7b8e3f80a",
+      "title": "Energy Storage Canada recommends Ontario to unlock BTM battery capacity ahead of electricity supply crunch",
+      "url": "https://www.energy-storage.news/energy-storage-canada-recommends-ontario-to-unlock-btm-battery-capacity-ahead-of-electricity-supply-crunch/",
+      "published": "2026-09-09T10:13:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Trade association Energy Storage Canada (ESC) has recommended establishing a Distributed Reliability Track for behind-the-meter (BTM) and distribution-connected energy storage in Ontario."
+    },
+    {
+      "id": "c30622735928",
+      "title": "Sodium-ion storage powers fully off-grid solar home in Germany",
+      "url": "https://www.pv-magazine.com/2026/09/09/sodium-ion-storage-powers-fully-off-grid-solar-home-in-germany/",
+      "published": "2026-09-09T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A homeowner in Augsburg has paired 270 kWh of BIWATT sodium-ion storage with 49 kWp of solar, creating a fully off-grid household energy system with local distributor SALZSTROM providing the solution. The post Sodium-ion storage powers fully off-grid solar home in Germany appeared first on pv magazi…"
+    },
+    {
+      "id": "7c5e7634dd2c",
+      "title": "UK ROUNDUP: BESS planning approvals, acquisitions and optimisation deals with Field, Eelpower & EDF",
+      "url": "https://www.energy-storage.news/uk-roundup-bess-planning-approvals-acquisitions-and-optimisation-deals-with-field-eelpower-edf/",
+      "published": "2026-09-09T08:41:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "This edition of news in brief brings you BESS news from the UK market featuring Field, Eelpower and EDF, as reported by our colleagues at Solar Power Portal."
+    },
+    {
+      "id": "809118768f83",
+      "title": "Philippines: Ayala Corp’s renewable energy platform lends PHP9 billion to subsidiaries for solar, BESS projects",
+      "url": "https://www.energy-storage.news/philippines-ayala-corps-renewable-energy-platform-lends-php9-billion-to-subsidiaries-for-solar-bess-projects/",
+      "published": "2026-09-09T06:24:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ayala's ACEN Corp has loaned PHP9 billion (US$144 million) to subsidiaries within the group for renewable energy and battery storage projects."
+    },
+    {
+      "id": "c22eb7de9dbf",
+      "title": "CATL, EVE Energy lead Chinese manufacturers’ battery storage cell price hikes",
+      "url": "https://www.energy-storage.news/catl-eve-energy-lead-chinese-manufacturers-battery-storage-cell-price-hikes/",
+      "published": "2026-09-09T05:19:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A new wave of cell price hikes is sweeping the battery energy storage industry. Major manufacturers have initiated price increases, with smaller producers quickly following suit."
+    },
+    {
+      "id": "deadaf70a80a",
+      "title": "‘At least six months ahead of go live’: OptiGrid on the ideal onboarding runway for battery storage systems",
+      "url": "https://www.energy-storage.news/at-least-six-months-ahead-of-go-live-optigrid-on-the-ideal-onboarding-runway-for-battery-storage-systems/",
+      "published": "2026-09-09T04:25:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this interview with ESN Premium, Sahand Karimi of OptiGrid discusses how BESS warranties and constraint management shape trading behaviour"
+    },
+    {
+      "id": "02ac2f8170f3",
+      "title": "Australia’s NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+      "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
+      "published": "2026-09-09T04:02:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's 58 grid-scale battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS revenue."
+    },
+    {
+      "id": "55c47839df60",
+      "title": "Google backs solar-storage project at former West Virginia coal mine",
+      "url": "https://www.utilitydive.com/news/google-backs-solar-storage-project-at-former-west-virginia-coal-mine/829812/",
+      "published": "2026-09-08T16:00:38+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The project is being developed by MN8 and will include 100 MWh of long-duration Eos Energy Enterprises zinc-based storage alongside lithium-ion batteries."
+    },
+    {
+      "id": "020037177ebe",
+      "title": "Announcement: The Energy Storage Report will be back in 2027",
+      "url": "https://www.energy-storage.news/announcement-the-energy-storage-report-will-be-back-in-2027/",
+      "published": "2026-09-08T15:08:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We are pleased to announce that we’re now working on the 2027 edition of the Energy Storage Report, our annual publication looking at the big trends shaping the industry."
+    },
+    {
+      "id": "d8018d4eddda",
+      "title": "What Lithium EV Battery Shortage? New Recycler Picks Up Where Ascend Elements Left Off",
+      "url": "https://cleantechnica.com/2026/09/08/r3-lithium-ev-battery-recycling-us-supply-chain/",
+      "published": "2026-09-08T13:31:17+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The bankruptcy of Ascend Elements was a hiccup, not a halt, to an advanced battery recycling facility in Georgia, providing EV stakeholders and other industries with a new, domestic source of lithium carbonate. The post What Lithium EV Battery Shortage? New Recycler Picks Up Where Ascend Elements Le…"
+    },
     {
       "id": "fdef9ebfba87",
       "title": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh",
