@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-10T12:46:44.311452+00:00",
-  "count": 1039,
+  "updated": "2026-09-11T12:41:24.303836+00:00",
+  "count": 1043,
   "items": [
+    {
+      "id": "d7a773af8c2a",
+      "title": "Solarize Africa: The case of Madagascar",
+      "url": "https://www.pv-magazine.com/2026/09/11/solarize-africa-the-case-of-madagascar/",
+      "published": "2026-09-11T11:33:47+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Madagascar’s diesel-dependent power system faces high costs and chronic blackouts, making solar PV and battery storage an increasingly attractive route to reliable, affordable electrification. Five solar-diesel hybrid projects demonstrate that PV can significantly reduce fuel consumption and electri…"
+    },
+    {
+      "id": "800a9f0893ad",
+      "title": "Vattenfall goes ahead with 1GWh battery storage project at former nuclear site in Germany",
+      "url": "https://www.energy-storage.news/vattenfall-goes-ahead-with-1gwh-battery-storage-project-at-former-nuclear-site-in-germany/",
+      "published": "2026-09-11T11:03:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Swedish multinational power company Vattenfall has taken a final investment decision (FID) to proceed with a 254MW/1,000MWh battery storage project in Germany."
+    },
+    {
+      "id": "f17a513c78da",
+      "title": "MN Power Ordered to Continue Investigating Alternatives to New Gas Plant",
+      "url": "https://cleantechnica.com/2026/09/10/mn-power-ordered-to-continue-investigating-alternatives-to-new-gas-plant/",
+      "published": "2026-09-11T02:35:50+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "ST. PAUL, Minnesota — Today, the Minnesota Public Utilities Commission (PUC) rejected Minnesota Power’s request to build a costly new gas plant to meet future energy demand and ordered the electric utility to continue investigating alternatives that would maintain grid reliability. Clean Energy Orga…"
+    },
+    {
+      "id": "d15645e7be34",
+      "title": "Could Jackery EnergyGuard Max Lead A Shift To Large Capacity Home Batteries?",
+      "url": "https://cleantechnica.com/2026/09/10/could-jackery-energyguard-max-lead-a-shift-to-large-capacity-home-batteries/",
+      "published": "2026-09-10T14:42:14+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery recently showed off the EnergyGuard Max whole home energy storagesystem at their booth at IFA Berlin. The system pairs the Energycore 100kWh battery module with the PowerVault 50 inverter in weather-resistant enclosures. Also at their booth, I had the opportunity to talk with their CEO and f…"
+    },
     {
       "id": "47738c5f1365",
       "title": "FlexGen, SMT Energy commission 320MWh Texas BESS in just six weeks, as ERCOT grid faces record demand",
