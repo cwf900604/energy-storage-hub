@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-11T12:41:24.303836+00:00",
-  "count": 1043,
+  "updated": "2026-09-12T12:01:32.010306+00:00",
+  "count": 1051,
   "items": [
+    {
+      "id": "2d7a4666e0a2",
+      "title": "MG Motors Philippines Launches New EV",
+      "url": "https://cleantechnica.com/2026/09/12/mg-motors-philippines-launches-new-ev/",
+      "published": "2026-09-12T09:40:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "MANILA, Philippines — SAIC Motor-backed MG Motor Philippines expanded its local electric vehicle lineup late last month with the official launch of the S5 EV, a rear-wheel-drive compact crossover aimed squarely at the country&#8217;s growing battery-electric vehicle market. The debut, held at the Tr…"
+    },
+    {
+      "id": "e82ad83bb0e3",
+      "title": "How competitive is BESS for data centers, really?",
+      "url": "https://www.pv-magazine.com/2026/09/12/how-competitive-is-bess-for-data-centers-really/",
+      "published": "2026-09-12T08:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Volta Foundation’s July 2026 report ‘Where Batteries Can Win in Data Center Applications’ shows the two areas where battery energy storage systems (BESS) are winning, four where it is competing and two areas where it’s losing out to other technologies in the data center market. The post How competit…"
+    },
+    {
+      "id": "63855d0a73f0",
+      "title": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back",
+      "url": "https://cleantechnica.com/2026/09/11/solar-power-us-energy-policy-pacs-elections-2026/",
+      "published": "2026-09-11T15:26:43+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Solar power is outpacing all other forms of domestic energy in terms of additions to the US grid despite the political headwinds, and the best is yet to come as new solar materials emerge on the market. The post Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back appeared first on Cl…"
+    },
+    {
+      "id": "5311ee18e93b",
+      "title": "Premier Energies, RCT India plan 12GWh BESS manufacturing facility in Telangana",
+      "url": "https://www.energy-storage.news/premier-energies-rct-india-plan-12gwh-bess-manufacturing-facility-in-telangana/",
+      "published": "2026-09-11T15:22:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Premier Energies and RCT India have established a joint venture to develop a 12GWh BESS manufacturing facility in Telangana, India."
+    },
+    {
+      "id": "13eb51a43be7",
+      "title": "Latvenergo expands Baltic battery storage, solar push alongside wind deals",
+      "url": "https://www.pv-magazine.com/2026/09/11/latvenergo-to-expand-solar-and-battery-storage-push-alongside-wind-acquisitions-in-the-baltics/",
+      "published": "2026-09-11T14:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Latvenergo is folding solar and battery assets into a broader wind-acquisition drive as part of its push to diversify Baltic power generation and strengthen regional energy security. The post Latvenergo expands Baltic battery storage, solar push alongside wind deals appeared first on pv magazine Glo…"
+    },
+    {
+      "id": "c780c01d4db6",
+      "title": "Metlen agrees to sell 165MW/725MWh Chile solar-plus-storage project",
+      "url": "https://www.energy-storage.news/metlen-agrees-to-sell-165mw-725mwh-chile-solar-plus-storage-project/",
+      "published": "2026-09-11T13:33:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Greek renewables developer Metlen Energy &#038; Metals has signed an agreement with utility Copec for the sale of the Tamarico II solar-plus-storage project in Chile’s Atacama region."
+    },
+    {
+      "id": "e30273edeb8d",
+      "title": "Axpo and energieUri commission Switzerland’s largest operational BESS facility",
+      "url": "https://www.energy-storage.news/axpo-and-energieuri-commission-switzerlands-largest-operational-bess-facility/",
+      "published": "2026-09-11T13:28:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Utility and power firms Axpo and energieUri have commissioned two large-scale battery energy storage system (BESS) projects in Gurtnellen, Canton Uri."
+    },
+    {
+      "id": "3d4258b601c3",
+      "title": "BESS Industry Buzz: Beijing’s manufacturing ban, ‘responsible’ data centre policy, LDES economics and more",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-beijings-manufacturing-ban-responsible-data-centre-policy-ldes-economics-and-more/",
+      "published": "2026-09-11T13:07:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Our collection of user-posted analysis, views, and unofficial news, gathered from our networks on LinkedIn, returns for its third outing."
+    },
     {
       "id": "d7a773af8c2a",
       "title": "Solarize Africa: The case of Madagascar",
