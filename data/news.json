@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-13T13:10:52.682705+00:00",
-  "count": 1052,
+  "updated": "2026-09-14T14:50:31.957657+00:00",
+  "count": 1062,
   "items": [
+    {
+      "id": "59ca6f709671",
+      "title": "Sungrow raises inverter, storage prices by up to 15%",
+      "url": "https://www.pv-magazine.com/2026/09/14/sungrow-raises-inverter-storage-prices-by-up-to-15/",
+      "published": "2026-09-14T14:26:53+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sungrow will raise prices for solar inverters and energy storage products by 5% to 15% from Sept. 20, citing rising raw material and component costs. The move, its second price increase this year, reflects broader cost pressures across China’s inverter and storage supply chains. The post Sungrow rai…"
+    },
+    {
+      "id": "3175ed1db3b8",
+      "title": "US energy storage companies secure financing and launch compliance services amid regulatory shifts",
+      "url": "https://www.energy-storage.news/us-energy-storage-companies-secure-financing-and-launch-compliance-services-amid-regulatory-shifts/",
+      "published": "2026-09-14T13:34:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Heron Power and NeoVolta have secured significant credit facilities, while Carina Energy has launched a FEOC compliance support practice to help developers navigate increasingly complex regulatory requirements."
+    },
+    {
+      "id": "bed7d8e50d9e",
+      "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+      "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+      "published": "2026-09-14T13:26:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from the BESS lead at RWE Renewables Europe &#038; Australia ahead of the Energy Storage Summit Germany 2026, discussing the major trends, challenges and opportunities in the country’s grid-scale storage market."
+    },
+    {
+      "id": "08a51e066a4f",
+      "title": "Masdar, clean energy investor Luxcara form €5 billion partnership for Germany BESS and wind projects",
+      "url": "https://www.energy-storage.news/masdar-luxcara-eur5-billion-partnership-germany-bess-wind-projects/",
+      "published": "2026-09-14T09:58:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UAE state-owned renewables company Masdar has partnered with Germany’s Luxcara for battery storage and wind energy projects."
+    },
+    {
+      "id": "ad9ef979fdf7",
+      "title": "India adds 8.2 GWh of new BESS capacity in H1",
+      "url": "https://www.pv-magazine.com/2026/09/14/india-adds-8-2-gwh-of-new-bess-capacity-in-h1/",
+      "published": "2026-09-14T09:25:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "New analysis reveals India added 8.2 GWh of battery energy storage in H1 2026, overwhelming last year’s figures and signaling a major shift in the subcontinent’s storage sector. The post India adds 8.2 GWh of new BESS capacity in H1 appeared first on pv magazine Global."
+    },
+    {
+      "id": "a633f604b549",
+      "title": "Anker SOLIX launches XE, the next-generation all-in-one home energy storage",
+      "url": "https://www.pv-magazine.com/2026/09/14/anker-solix-launches-xe-the-next-generation-all-in-one-home-energy-storage/",
+      "published": "2026-09-14T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The system, launched in the UK and Ireland, removes the barriers that have kept home energy storage from the mainstream. The post Anker SOLIX launches XE, the next-generation all-in-one home energy storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "9fba9a987a6c",
+      "title": "Trina signs 1GWh MoU to help developer meet ‘unique technical and delivery requirements’ of Japan’s battery storage market",
+      "url": "https://www.energy-storage.news/trina-signs-1gwh-mou-to-help-developer-meet-unique-technical-and-delivery-requirements-of-japans-battery-storage-market/",
+      "published": "2026-09-14T07:47:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Trina Storage, the battery storage arm of major Chinese solar PV company Trinasolar, has signed a 1GWh MoU to supply products in Japan."
+    },
+    {
+      "id": "6422d46e2c94",
+      "title": "Lava Blue commissions Australia’s first grid NAS battery as ZEBRE sees 360MWh BESS waved through EPBC Act",
+      "url": "https://www.energy-storage.news/lava-blue-commissions-australias-first-grid-nas-battery-as-zebre-sees-360mwh-bess-waved-through-epbc-act/",
+      "published": "2026-09-14T05:02:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Lava Blue commissions Australia's first grid-connected sodium-sulfur BESS, while ZEBRE's 360MWh Noblevale BESS clears EPBC review."
+    },
+    {
+      "id": "6e348efb477c",
+      "title": "‘Not to the detriment of the market’: Eku Energy on Australia’s Capacity Investment Scheme",
+      "url": "https://www.energy-storage.news/not-to-the-detriment-of-the-market-eku-energy-on-australias-capacity-investment-scheme/",
+      "published": "2026-09-14T04:54:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Eku Energy's Elias Saba discusses why he believes the CIS has not fundamentally changed the company's investment approach."
+    },
+    {
+      "id": "5bec87fa36de",
+      "title": "ARES’ Nevada Demonstrator Shows Why Rail Gravity Storage Is A Train Wreck",
+      "url": "https://cleantechnica.com/2026/09/13/rail-gravity-storage-a-train-wreck/",
+      "published": "2026-09-13T14:28:54+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "ARES North America has now operated enough of its GravityLine system at Gamebird Pit in Nevada to make clear its deep limitations to people who didn&#8217;t simply do the grade 7 math and science calculations. Sandia National Laboratories documents a pair of mass cars weighing roughly 340 tonnes cli…"
+    },
     {
       "id": "3d7edb30d161",
       "title": "Dense-Fluid Pumped Hydro Works. Scaling It Is The Problem.",
