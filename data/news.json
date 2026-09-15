@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-14T14:50:31.957657+00:00",
-  "count": 1062,
+  "updated": "2026-09-15T13:17:27.602192+00:00",
+  "count": 1076,
   "items": [
+    {
+      "id": "2a78541d2fb5",
+      "title": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
+      "url": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
+      "published": "2026-09-15T12:44:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A new heavy duty, long haul electric truck from Scania sports an extended front and extra battery packs, achieving a driving range of almost 720 kilometers (about 474 miles) on a single charge. The post Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down appeared first o…"
+    },
+    {
+      "id": "90b5bf03799b",
+      "title": "California cold-storage provider sues solar businesses over $1 billion rooftop fire",
+      "url": "https://www.pv-magazine.com/2026/09/15/california-cold-storage-provider-sues-solar-businesses-over-1-billion-rooftop-fire/",
+      "published": "2026-09-15T12:09:17+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Cold-storage giant Lineage claims a $1 billion fire at its 46,451.52 m² facility was ignited by an improperly maintained rooftop solar array following ignored safety warnings. The post California cold-storage provider sues solar businesses over $1 billion rooftop fire appeared first on pv magazine G…"
+    },
+    {
+      "id": "ea6bba5c4c74",
+      "title": "Biwatt releases sodium-ion storage system for C&I applications",
+      "url": "https://www.pv-magazine.com/2026/09/15/biwatt-releases-sodium-ion-storage-system-for-ci-applications/",
+      "published": "2026-09-15T11:56:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Biwatt launched the modular PowerLake I3 sodium-ion storage system for C&#38;I applications, offering 43.6 kWh–2.09 MWh configurations using NFPP cells. Available as indoor racks or IP55 outdoor cabinets, it delivers up to 65.5 kW per 130.8 kWh unit and is rated for 8,000 cycles. The post Biwatt rel…"
+    },
+    {
+      "id": "4920822c7460",
+      "title": "PPA prices rise 2.2% in Europe in August",
+      "url": "https://www.pv-magazine.com/2026/09/15/ppa-prices-rise-2-2-in-europe-in-august/",
+      "published": "2026-09-15T11:21:15+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "European PPA prices rose 2.2% in August, led by a 4.9% increase in the United Kingdom, while announced PPA capacity fell sharply to 335 MW. Corporate buyers dominated PPA activity, as storage-related agreements held steady at 869 MW and included major BESS deals in the United Kingdom and the Netherl…"
+    },
+    {
+      "id": "78308ab5654d",
+      "title": "US data centre buildout sees Massachusetts release responsible development framework, ONE Nuclear proposes Louisiana portfolio",
+      "url": "https://www.energy-storage.news/us-data-centre-buildout-sees-massachusetts-release-responsible-development-framework-one-nuclear-proposes-louisiana-portfolio/",
+      "published": "2026-09-15T10:55:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Massachusetts Governor Maura Healey has released a comprehensive framework establishing principles and expectations for responsible data centre development in the state."
+    },
+    {
+      "id": "4571dd004b6d",
+      "title": "CEE ROUNDUP: Engie buys 876MWh Poland project, Econergy connects co-located BESS in Romania, Inion Software launches Lithuania VPP",
+      "url": "https://www.energy-storage.news/cee-roundup-engie-buys-876mwh-poland-project-econergy-connects-co-located-bess-in-romania-inion-software-launches-lithuania-vpp/",
+      "published": "2026-09-15T10:47:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "This edition of news in brief from around the world in energy storage features Engie, Econergy and Inion Software in Central and Eastern Europe."
+    },
+    {
+      "id": "0ff0f3f124c9",
+      "title": "What makes a German BESS project bankable? Lenders, owners weigh in at Energy Storage Summit Germany",
+      "url": "https://www.energy-storage.news/what-makes-a-german-bess-project-bankable-lenders-owners-weigh-in-at-energy-storage-summit-germany/",
+      "published": "2026-09-15T09:31:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS project owners, lenders and optimisers kicked off the Energy Storage Summit Germany 2026 today in Berlin with a discussion on developing a bankable project."
+    },
+    {
+      "id": "19fd37767525",
+      "title": "Lithuania moves to support residential PV",
+      "url": "https://www.pv-magazine.com/2026/09/15/lithuania-moves-to-support-residential-pv/",
+      "published": "2026-09-15T07:51:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Lithuania’s Ministry of Energy says it plans to remove obstacles to installing solar on apartment balconies and will coordinate support for solar plants and storage systems as part of a wider package of energy infrastructure measures. The post Lithuania moves to support residential PV appeared first…"
+    },
+    {
+      "id": "a5825bcb9691",
+      "title": "Flexa on what Germany’s 23GWh of home batteries entering the market means",
+      "url": "https://www.energy-storage.news/flexa-on-what-germany-23gwh-home-residential-eeg-batteries-entering-market-means-grid-scale/",
+      "published": "2026-09-15T07:28:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A regulatory change is opening Germany's energy markets to 23GWh of home batteries. The co-CEO of VPP platform Flexa discusses what it could mean for the market."
+    },
+    {
+      "id": "ae469ada3164",
+      "title": "Actis subsidiary Nozomi Energy closes financing on Japanese capacity market-winning BESS",
+      "url": "https://www.energy-storage.news/actis-subsidiary-nozomi-energy-closes-financing-on-japanese-capacity-market-winning-bess/",
+      "published": "2026-09-15T06:18:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sustainable infrastructure investor Actis’s renewable energy platform in Japan has closed financing on a 50MW/196MWh battery storage project."
+    },
+    {
+      "id": "71d517f35f6d",
+      "title": "Long-duration energy storage conversation gains traction in India despite 4-hour battery storage focus",
+      "url": "https://www.energy-storage.news/long-duration-energy-storage-conversation-gains-traction-in-india-despite-4-hour-battery-storage-focus/",
+      "published": "2026-09-15T03:50:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India's storage market remains focused on short-duration firming, but conversations about long-duration storage are already underway."
+    },
+    {
+      "id": "af1d5306685e",
+      "title": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage project in Western Australia",
+      "url": "https://www.energy-storage.news/trina-storage-to-supply-562mwh-bess-for-frontier-energy-solar-plus-storage-project-in-western-australia/",
+      "published": "2026-09-15T03:44:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Trina Storage has been selected to supply the BESS for Stage One of Frontier Energy's Waroona Renewable Energy Project."
+    },
+    {
+      "id": "d9229851ab59",
+      "title": "ESEM and Market Making Obligation move closer to law as Australia opens draft legislation consultation",
+      "url": "https://www.energy-storage.news/esem-and-market-making-obligation-move-closer-to-law-as-australia-opens-draft-legislation-consultation/",
+      "published": "2026-09-15T03:37:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia has opened a consultation on draft laws and rules to implement the recommendations of its review of NEM wholesale market settings."
+    },
+    {
+      "id": "b4bde1d8e5a5",
+      "title": "Anker SOLIX XE: Energy freedom made simple",
+      "url": "https://www.energy-storage.news/anker-solix-xe-energy-freedom-made-simple/",
+      "published": "2026-09-14T15:18:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Anker SOLIX, a global leader in smart energy, introduces the XE system, the next-generation true all-in-one home energy storage system."
+    },
     {
       "id": "59ca6f709671",
       "title": "Sungrow raises inverter, storage prices by up to 15%",
