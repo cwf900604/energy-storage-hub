@@ -1,7 +1,178 @@
 {
-  "updated": "2026-09-15T13:17:27.602192+00:00",
-  "count": 1076,
+  "updated": "2026-09-16T13:14:56.178389+00:00",
+  "count": 1096,
   "items": [
+    {
+      "id": "5114caedcb6f",
+      "title": "‘A really hard problem’: Gridmatic CCO on the challenges of BESS revenue forecasting, the role of AI and load co-location",
+      "url": "https://www.energy-storage.news/a-really-hard-problem-gridmatic-cco-on-the-challenges-of-bess-revenue-forecasting-the-role-of-ai-and-load-co-location/",
+      "published": "2026-09-16T12:22:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with David Miller, CCO of optimiser Gridmatic, at the 2026 US Battery Asset Management Summit in Garden Grove, California."
+    },
+    {
+      "id": "96d4d786b5db",
+      "title": "California BESS projects have grid interconnection cost advantage over other US markets, developer says",
+      "url": "https://www.energy-storage.news/california-bess-projects-have-grid-interconnection-cost-advantage-over-other-us-markets-developer-says/",
+      "published": "2026-09-16T11:49:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Interconnection costs for utility-scale energy storage in California are significantly lower than in other major US markets, with developers also benefiting from network upgrade cost reimbursements unavailable elsewhere, according to a senior executive at Rev Renewables."
+    },
+    {
+      "id": "aa60d1db78d8",
+      "title": "Guinea plans solar, storage procurement program",
+      "url": "https://www.pv-magazine.com/2026/09/16/guinea-plans-solar-storage-procurement-program/",
+      "published": "2026-09-16T11:00:18+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Belgian non-profit organisation RELP is working with the West African nation to design and structure a competitive procurement program for solar PV and battery storage projects. The post Guinea plans solar, storage procurement program appeared first on pv magazine Global."
+    },
+    {
+      "id": "7f73abb464c2",
+      "title": "Zelestra, Salzgitter Flachstahl sign German solar-plus-storage PPA to power steelmaking",
+      "url": "https://www.energy-storage.news/zelestra-salzgitter-flachstahl-german-solar-plus-storage-ppa-steelmaking/",
+      "published": "2026-09-16T10:30:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Zelestra and steelmaker Salzgitter Flachstahl have signed a PPA for a new solar-plus-storage portfolio in Germany."
+    },
+    {
+      "id": "71ddd6c7ecca",
+      "title": "From grid code to grid connection: what makes a grid-forming BESS work in the real world?",
+      "url": "https://www.energy-storage.news/from-grid-code-to-grid-connection-what-makes-a-grid-forming-bess-work-in-the-real-world/",
+      "published": "2026-09-16T09:31:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sinexcel technical director Luke Lu discusses what goes into a successful grid-forming battery energy storage system (BESS) project."
+    },
+    {
+      "id": "c403e491cb60",
+      "title": "BYD launches 62 MWh GC Block for gigawatt-scale battery storage plants",
+      "url": "https://www.pv-magazine.com/2026/09/16/byd-launches-62-mwh-gc-block-for-gigawatt-scale-battery-storage-plants/",
+      "published": "2026-09-16T09:26:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "BYD Energy Storage has launched a standardized battery storage unit with three configurations covering two- to six-hour applications and up to 62 MWh of capacity. The post BYD launches 62 MWh GC Block for gigawatt-scale battery storage plants appeared first on pv magazine Global."
+    },
+    {
+      "id": "c701e1c686c1",
+      "title": "Hithium launches 4 MWh sodium-ion BESS with new 785Ah cell",
+      "url": "https://www.pv-magazine.com/2026/09/16/hithium-launches-4-mwh-sodium-ion-bess-with-new-785ah-cell/",
+      "published": "2026-09-16T08:36:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Hithium unveiled the ∞Power N4.0MWh, a 4 MWh sodium-ion storage system featuring a 785 Ah cell, 20,000-cycle life, and 30-year design life. Full-scale production is planned for 2027, initially targeting utilities before expanding to commercial, industrial, and residential markets. The post Hithium l…"
+    },
+    {
+      "id": "6730cb07a9e7",
+      "title": "Morocco’s first large-scale LFP battery storage system prepares for action",
+      "url": "https://www.energy-storage.news/moroccos-first-large-scale-lfp-battery-storage-system-prepares-for-action/",
+      "published": "2026-09-16T07:36:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "OCP Green Energy has completed the installation of a 25MW/125MWh battery energy storage system (BESS) in Benguerir, Morocco."
+    },
+    {
+      "id": "9a381d88ca7f",
+      "title": "FCC inverter ban poses greater threat to US renewables than FEOC compliance, industry experts warn",
+      "url": "https://www.energy-storage.news/fcc-inverter-ban-poses-greater-threat-to-us-renewables-than-feoc-compliance-industry-experts-warn/",
+      "published": "2026-09-16T04:40:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Recent moves from the US federal government could prove more damaging to US renewable energy deployment than foreign entity of concern (FEOC) compliance requirements, according to legal and industry experts."
+    },
+    {
+      "id": "e86af67914ee",
+      "title": "Trump’s power equipment ban: US BESS market implications and the supply chain dilemma",
+      "url": "https://www.energy-storage.news/trumps-power-equipment-ban-us-bess-market-implications-and-the-supply-chain-dilemma/",
+      "published": "2026-09-16T04:37:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "On 26 August, US President Donald Trump banned the import of inverters, transformers and other power equipment citing a potential risk to US grid security, via emergency executive order (EO)."
+    },
+    {
+      "id": "2d5fd103a89f",
+      "title": "Dubai Supreme Council of Energy targets 1,000-2,000MW battery storage to support round-the-clock solar supply",
+      "url": "https://www.energy-storage.news/dubai-supreme-council-of-energy-targets-1000-2000mw-battery-storage-to-support-round-the-clock-solar-supply/",
+      "published": "2026-09-16T04:16:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Dubai is planning to build 1,000MW of lithium-ion battery storage, expandable to 2,000MW and delivering 6,000MWh of capacity, according to panellists speaking on the \"Key Trends from Early Middle East BESS Projects\" panel at Energy Storage Summit Middle East 2026."
+    },
+    {
+      "id": "52faf636234d",
+      "title": "Palisade acquires 3.2GWh of battery storage in Australia through two development-stage projects",
+      "url": "https://www.energy-storage.news/palisade-acquires-3-2gwh-of-battery-storage-in-australia-through-two-development-stage-projects/",
+      "published": "2026-09-16T03:51:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Palisade Investment Partners has acquired 100% interests in two development-stage renewable energy projects through Intera Renewables."
+    },
+    {
+      "id": "263a6dbed2c9",
+      "title": "Australia’s NSW invests in microgrid scoping following Far West transmission outage",
+      "url": "https://www.energy-storage.news/australias-nsw-invests-in-microgrid-scoping-following-far-west-transmission-outage/",
+      "published": "2026-09-16T03:45:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The New South Wales government in Australia is investing AU$3 million (US$2.1 million) to scope new solar-plus-storage-powered microgrid projects across four remote communities in the state's Far West."
+    },
+    {
+      "id": "1391a9a4e9df",
+      "title": "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility",
+      "url": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
+      "published": "2026-09-15T21:42:41+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Two years ago, we brought our readers news about the Joule Hive thermal battery from Electrified Thermal Solutions. ETS is an MIT spin-off that began researching the benefits of electrified firebrick more than 12 years ago. Here&#8217;s why that is important. About 20 percent of all energy consumed …"
+    },
+    {
+      "id": "ff32cab90161",
+      "title": "UK Trying to Advance Hydrogen Aviation. Likelihood by 2050 is still under 1%",
+      "url": "https://cleantechnica.com/2026/09/15/hydrogen-passenger-aviation-below-1-percent-2050/",
+      "published": "2026-09-15T18:41:30+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The UK Civil Aviation Authority announced its latest Hydrogen Challenge in the same week as I published my updated assessment of hydrogen passenger aviation. The regulator is examining hydrogen-aircraft turnarounds at London City Airport, cryogenic hydrogen storage and airside supply, while its broa…"
+    },
+    {
+      "id": "2da1fdad9955",
+      "title": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards",
+      "url": "https://www.utilitydive.com/news/epa-scraps-biden-power-plant-ghg-rules-moves-to-eliminate-other-standards/830433/",
+      "published": "2026-09-15T17:00:17+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Rachael Marsh, chief legal officer at the Edison Electric Institute, which represents investor-owned utilities, said in an emailed statement to Utility Dive that the group supported the repeal of the carbon capture and storage-based standards."
+    },
+    {
+      "id": "ab24d747cb3c",
+      "title": "Stellantis Expands Electric Commercial Vehicle Lineup at IAA Transportation",
+      "url": "https://cleantechnica.com/2026/09/15/stellantis-expands-electric-commercial-vehicle-lineup-at-iaa-transportation/",
+      "published": "2026-09-15T16:32:11+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "HANOVER, Germany — Stellantis Pro One brought a broad selection of electric commercial vehicles to IAA Transportation 2026, with battery-electric vans and smaller urban delivery vehicles making up a substantial part of its display&#8211;a total of 13 commercial vehicles from its Citroën, Fiat Profes…"
+    },
+    {
+      "id": "56eaa1b8ce95",
+      "title": "‘Second-life’ battery project is B2U’s second in ERCOT, with more on the way",
+      "url": "https://www.utilitydive.com/news/second-life-battery-project-is-b2us-second-in-ercot-with-more-on-the-wa/830409/",
+      "published": "2026-09-15T14:51:25+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "A strategic supply agreement with Waymo and rising EV adoption rates will expand the company&rsquo;s access to older batteries still fit for use in stationary storage, CEO Freeman Hall told Utility Dive."
+    },
+    {
+      "id": "b82c93bc9eda",
+      "title": "Flexible connection agreements (FCAs) in Germany: a necessary evil",
+      "url": "https://www.energy-storage.news/flexible-connection-agreements-fcas-in-germany-a-necessary-evil/",
+      "published": "2026-09-15T14:27:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Flexible Connection Agreements (FCAs) must not be used simply to exclude BESS from connecting to the grid, but the industry will have to make do with them and all their imperfections for the foreseeable."
+    },
     {
       "id": "2a78541d2fb5",
       "title": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
@@ -150,6 +321,15 @@
       "id": "bed7d8e50d9e",
       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+      "published": "2026-09-14T13:26:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from the BESS lead at RWE Renewables Europe &#038; Australia ahead of the Energy Storage Summit Germany 2026, discussing the major trends, challenges and opportunities in the country’s grid-scale storage market."
+    },
+    {
+      "id": "e880c6d67352",
+      "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+      "url": "https://www.energy-storage.news/competitive-tco-detailed-specs-strong-local-presence-key-bess-supplier-success-germany-rwe-says/",
       "published": "2026-09-14T13:26:21+00:00",
       "source": "Energy Storage News",
       "lang": "en",
