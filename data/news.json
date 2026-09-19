@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-18T12:48:22.007605+00:00",
-  "count": 1118,
+  "updated": "2026-09-19T12:21:04.421267+00:00",
+  "count": 1123,
   "items": [
+    {
+      "id": "698f65bc58ac",
+      "title": "UK regulator plans BESS fees to cut grid connection queue",
+      "url": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
+      "published": "2026-09-19T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Financial commitment for battery energy storage systems (BESS) nears approval in a bid to further cut overcapacity in Great Britain’s connection queue. Despite recent grid connection reform efforts, the connection queue is still more than double what’s needed for 2030 targets. The post UK regulator …"
+    },
+    {
+      "id": "686d57af44a4",
+      "title": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
+      "url": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/",
+      "published": "2026-09-19T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Grid operator Eon Edis has withdrawn previously agreed import capacity for a newly opened 69 MW solar-plus-storage plant in northeastern Germany, limiting its 76.5 MWh battery to storing only power generated on-site. The post German grid operator dispute limits battery use at new solar-storage hybri…"
+    },
+    {
+      "id": "645d431a172c",
+      "title": "Where Marine Energy Meets Hybrid Power Systems, This Laboratory De-Risks Integration",
+      "url": "https://cleantechnica.com/2026/09/18/where-marine-energy-meets-hybrid-power-systems-this-laboratory-de-risks-integration/",
+      "published": "2026-09-19T00:36:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "ARIES Platform Has Essential Capabilities To Emulate and De-Risk Marine Energy Systems for Range of Applications Energy from ocean waves has the potential to power offshore and coastal microgrids for applications like recharging autonomous underwater vehicles, supporting ocean sensors and aquacultur…"
+    },
+    {
+      "id": "a00f974bda48",
+      "title": "Compressed-Gas Storage Demonstrators Got Bigger. The Economics Didn’t Get Better.",
+      "url": "https://cleantechnica.com/2026/09/18/compressed-gas-storage-is-still-mostly/",
+      "published": "2026-09-18T21:17:33+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Two years ago I called compressed-gas electricity-storage claims mostly hot air. Since then the sector has produced exactly the sort of evidence that should force a reassessment rather than a repetition of the old argument. China has commissioned the 600 MW / 2.4 GWh Huai’an compressed-air demonstra…"
+    },
+    {
+      "id": "728658ff42e3",
+      "title": "Jackery SolarVault 3 Shows Potential To Scale From Balcony To Whole Home",
+      "url": "https://cleantechnica.com/2026/09/18/jackery-solarvault-3-shows-potential-to-scale-from-balcony-to-whole-home/",
+      "published": "2026-09-18T20:42:01+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Last week, I wrote about the new Jackery EnergyGuard Max 100 kWh battery at IFA Berlin. This large capacity offers customers home energy storage to easily cover their needs as electrification evolves. Those with large, fully electrified homes, solar arrays and multiple EVs would still have capacity …"
+    },
     {
       "id": "cd7959a16958",
       "title": "US ROUNDUP: Eos draws US$87 million DOE loan, FlexGen-Lightshift expand to 16 projects, Georgia Power energises 128MW facility",
