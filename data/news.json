@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-20T12:56:21.337082+00:00",
-  "count": 1123,
+  "updated": "2026-09-21T14:56:22.629958+00:00",
+  "count": 1136,
   "items": [
+    {
+      "id": "c6d467128d37",
+      "title": "Google-backed pilot demonstrates hourly carbon accounting for US BESS using granular certificates",
+      "url": "https://www.energy-storage.news/google-backed-pilot-demonstrates-hourly-carbon-accounting-for-us-bess-using-granular-certificates/",
+      "published": "2026-09-21T12:16:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A US battery storage pilot sponsored by tech giant Google has demonstrated how batteries can capture surplus renewable energy and deliver it during hours with greater fossil generation."
+    },
+    {
+      "id": "7ac6e47b8691",
+      "title": "US energy storage industry targets 225GW/1TWh deployment by end of 2032, according to Energy Storage Coalition",
+      "url": "https://www.energy-storage.news/us-energy-storage-industry-targets-225gw-1twh-deployment-by-end-of-2032-according-to-energy-storage-coalition/",
+      "published": "2026-09-21T12:13:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The US energy storage industry is targeting 225GW/1TWh of storage deployment by the end of 2032, according to an analysis published by the Energy Storage Coalition (ESC)."
+    },
+    {
+      "id": "d4d2882faa1e",
+      "title": "Finland proposes priority system for grid connections",
+      "url": "https://www.pv-magazine.com/2026/09/21/finland-proposes-priority-system-for-grid-connections/",
+      "published": "2026-09-21T10:55:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Finland’s government is proposing a priority system for electricity network connections in areas of scarce grid capacity in a bid to incentivise large electricity consumers and standalone storage systems to locate in areas where the grid is less congested. The post Finland proposes priority system f…"
+    },
+    {
+      "id": "0532078f915c",
+      "title": "Poland market shifting to ‘selective, capital-disciplined phase where execution quality matters’",
+      "url": "https://www.energy-storage.news/poland-market-shifting-to-selective-capital-disciplined-phase-where-execution-quality-matters/",
+      "published": "2026-09-21T10:50:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Poland's grid-scale storage market has reached an impressive scale in the last few years, helped by the capacity market and various government schemes, but numerous challenges now need to be overcome."
+    },
+    {
+      "id": "8d32a33e9de8",
+      "title": "Fluence and Eve Energy agree 206GWh battery supply deal",
+      "url": "https://www.energy-storage.news/fluence-and-eve-energy-agree-206gwh-battery-supply-deal/",
+      "published": "2026-09-21T10:39:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "System integrator Fluence and lithium-ion battery OEM Eve Energy have struck a massive 206GWh battery supply framework agreement for 2027-31, one of the largest deals of its kind ever announced."
+    },
+    {
+      "id": "13c05e274b89",
+      "title": "Already-operating battery storage projects are key to making the business case for the next assets bankable",
+      "url": "https://www.energy-storage.news/already-operating-battery-storage-projects-are-key-to-making-the-business-case-for-the-next-assets-bankable/",
+      "published": "2026-09-21T09:54:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Existing assets can provide crucial benchmarks in sizing and other crucial battery storage design decisions, writes Ashutosh Vats, head of BESS business development at 3E."
+    },
+    {
+      "id": "6ab2d4825674",
+      "title": "India flow battery player Delectrik talks 100MWh NTPC project award, targets gigawatt-hour order book",
+      "url": "https://www.energy-storage.news/india-flow-battery-player-delectrik-talks-100mwh-ntpc-project-award-targets-gigawatt-hour-order-book/",
+      "published": "2026-09-21T09:54:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Vishal Mittal, founder and CEO of Delectrik makes the case for flow batteries to meet India’s long-duration needs in an exclusive ESN Premium interview."
+    },
+    {
+      "id": "3435f0c6a471",
+      "title": "French startup repurposes EV batteries for solar energy storage",
+      "url": "https://www.pv-magazine.com/2026/09/21/french-startup-repurposes-ev-batteries-for-solar-energy-storage/",
+      "published": "2026-09-21T09:41:35+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Battwoo is repurposing electric vehicle batteries for stationary energy storage, targeting solar self-consumption and other commercial and industrial applications. The company says its refurbished systems can cost around 30% less than new batteries while extending battery service life by several dec…"
+    },
+    {
+      "id": "5f5cb0ed331c",
+      "title": "Predictive control cuts costs in buildings combining PV, heat pumps, EVs, thermal storage",
+      "url": "https://www.pv-magazine.com/2026/09/21/predictive-control-cuts-costs-in-buildings-combining-pv-heat-pumps-evs-thermal-storage/",
+      "published": "2026-09-21T09:28:32+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers have developed a predictive rule-based control strategy for building energy systems integrating PV, heat pumps, thermal storage, and electric vehicles. Simulations show it can approach model predictive control performance while substantially reducing computational requirements and operat…"
+    },
+    {
+      "id": "cecab9b7ff1a",
+      "title": "Study finds potential for 150 GW of additional PV at substations in Germany",
+      "url": "https://www.pv-magazine.com/2026/09/21/study-finds-potential-for-150-gw-of-additional-pv-at-substations-in-germany/",
+      "published": "2026-09-21T09:20:11+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A Fraunhofer IEE study estimates that battery storage could enable around 150 GW of additional PV capacity to connect at 1,313 rural substations in Germany. By absorbing generation peaks, storage could improve utilization of existing transformers while limiting average PV curtailment to around 1%. T…"
+    },
+    {
+      "id": "3dded0a78cda",
+      "title": "554MW of battery storage enters AEMO’s Market Management System in Australia",
+      "url": "https://www.energy-storage.news/554mw-of-battery-storage-enters-aemos-market-management-system-in-australia/",
+      "published": "2026-09-21T08:36:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Tailem Bend BESS 3 in South Australia and Wooreen BESS in Victoria have both entered the AEMO Market Management System (MMS)."
+    },
+    {
+      "id": "0aa7df74deee",
+      "title": "Flow Power breaks ground on 223MWh Bennetts Creek BESS in Victoria, Australia",
+      "url": "https://www.energy-storage.news/flow-power-breaks-ground-on-223mwh-bennetts-creek-bess-in-victoria-australia/",
+      "published": "2026-09-21T08:34:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Flow Power has broken ground on its 100MW/223MWh Bennetts Creek BESS in Victoria, its first large-scale standalone BESS project."
+    },
+    {
+      "id": "394a1a8104f1",
+      "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
+      "url": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
+      "published": "2026-09-20T14:41:53+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Can you spot which battery is NMC? The one that looks like a pillow is NMC. The one that looks like a Pop-Tart is not. How do we know this? Because the puffed up battery came from a video made of an NMC battery. It was placed in a bath ... [continued] The post Ziroth is Wrong: Donut Lab&#8217;s Batt…"
+    },
     {
       "id": "698f65bc58ac",
       "title": "UK regulator plans BESS fees to cut grid connection queue",
