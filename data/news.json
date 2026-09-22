@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-21T14:56:22.629958+00:00",
-  "count": 1136,
+  "updated": "2026-09-22T13:13:25.843963+00:00",
+  "count": 1149,
   "items": [
+    {
+      "id": "95f4cb9f52ce",
+      "title": "POWEROAD FLEX 261 Series passes large-scale fire test conducted to C800 and UL 9540A",
+      "url": "https://www.pv-magazine.com/2026/09/22/poweroad-flex-261-series-passes-large-scale-fire-test-conducted-to-c800-and-ul-9540a/",
+      "published": "2026-09-22T12:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The FLEX 261 Series – including FLEX 261, FLEX 261 AIO, and FLEX 261 AIO-3S – completed a Large-Scale Fire Test (LSFT) under CSA C800 and UL 9540A standards, with results showing no flame propagation to target BESS units. The post POWEROAD FLEX 261 Series passes large-scale fire test conducted to C8…"
+    },
+    {
+      "id": "20f22818a5ed",
+      "title": "21GWh BESS deployed globally in August: One-fifth in Saudi Arabia, European activity soars",
+      "url": "https://www.energy-storage.news/21gwh-bess-deployed-globally-august-one-fifth-saudi-arabia-european-activity-soars/",
+      "published": "2026-09-22T11:09:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nearly 21GWh of grid-scale BESS came online globally last month, of which around a fifth was in Saudi Arabia while the majority was in China."
+    },
+    {
+      "id": "aedfaeee63ab",
+      "title": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
+      "url": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/",
+      "published": "2026-09-22T10:57:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Residential battery energy storage systems (BESS) across California discharged more than 580MW of peak power to the state's grid on the evening of 9 September 2026 via a Tesla-Sunrun VPP."
+    },
+    {
+      "id": "31df2c3906db",
+      "title": "PG&E selects six new California microgrids for US$30 million investment, Massachusetts awards US$40 million across 36 BESS projects",
+      "url": "https://www.energy-storage.news/pge-selects-six-new-california-microgrids-for-us30-million-investment-massachusetts-awards-us40-million-across-36-bess-projects/",
+      "published": "2026-09-22T10:53:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Utility PG&#038;E has selected six new California microgrid projects for a US$30 million investment, while Massachusetts’ Department of Energy Resources is awarding US$40 million across 36 BESS projects."
+    },
+    {
+      "id": "f1ed302bd689",
+      "title": "RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
+      "url": "https://www.energy-storage.news/rwe-and-giga-storage-move-to-construction-on-gigawatt-hour-netherlands-and-belgium-batteries/",
+      "published": "2026-09-22T10:52:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "RWE has taken a final investment decision (FID) on 400MW/1.1GWh BESS in the Netherlands with construction to start in due course, while Giga Storage has started building its 2.8GWh Green Turtle project in Belgium."
+    },
+    {
+      "id": "e0dedd212002",
+      "title": "Chile tests grid-forming tech at 48 MW/275 MWh BESS",
+      "url": "https://www.pv-magazine.com/2026/09/22/chile-tests-grid-forming-tech-at-48-mw-275-mwh-bess/",
+      "published": "2026-09-22T10:35:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chile’s national grid operator has conducted its first field tests of grid-forming technology at Engie’s Los Loros battery energy storage system (BESS) in the Atacama region. The post Chile tests grid-forming tech at 48 MW/275 MWh BESS appeared first on pv magazine Global."
+    },
+    {
+      "id": "f271c51c60e4",
+      "title": "Nova Scotia Power switches on Atlantic Canada’s biggest battery storage projects",
+      "url": "https://www.energy-storage.news/nova-scotia-power-switches-on-atlantic-canadas-biggest-battery-storage-projects/",
+      "published": "2026-09-22T10:34:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nova Scotia Power has inaugurated three 50MW/200MWh battery energy storage systems (BESS) in Bridgewater, Waverley and White Rock, now Atlantic Canada's largest battery storage facilities."
+    },
+    {
+      "id": "b234ac80c433",
+      "title": "UK: NESO looks to tackle BESS repetitive re-trading",
+      "url": "https://www.energy-storage.news/uk-neso-looks-to-tackle-bess-repetitive-re-trading/",
+      "published": "2026-09-22T10:30:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What is repetitive re-trading (RTT) by BESS in the UK, and what is NESO looking to do about it?"
+    },
+    {
+      "id": "a6045ed18e6d",
+      "title": "Segen, Zopa Bank launch UK residential solar financing",
+      "url": "https://www.pv-magazine.com/2026/09/22/segen-zopa-bank-launch-uk-residential-solar-financing/",
+      "published": "2026-09-22T10:05:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "UK solar distributor Segen has launched residential solar and battery financing with Zopa Bank, offering loans of two to 10 years at a representative annual percentage rate of 9.9%. Integrated into Segen’s digital proposal platform, the product allows homeowners to apply for financing during the sal…"
+    },
+    {
+      "id": "b8a396954f70",
+      "title": "Covenergo and Delta Capacity begin construction on 300MWh AKKU One BESS in Finland",
+      "url": "https://www.energy-storage.news/covenergo-and-delta-capacity-begin-construction-on-300mwh-akku-one-bess-in-finland/",
+      "published": "2026-09-22T08:14:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Covenergo and Delta Capacity have begun construction on AKKU One, a standalone 125MW/300MWh battery energy storage system (BESS) in Lapinlahti, Finland, with commissioning targeted for the fourth quarter of 2027."
+    },
+    {
+      "id": "b01ba6921d50",
+      "title": "Lightsource bp refers 800MWh hybrid BESS project to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/lightsource-bp-refers-800mwh-hybrid-bess-project-to-australias-epbc-act/",
+      "published": "2026-09-22T08:10:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Lightsource bp has referred a hybrid wind, solar and BESS facility to the federal government for assessment under the EPBC Act."
+    },
+    {
+      "id": "306e9b4a0001",
+      "title": "Irizar Completes Delivery of 31 Electric Buses to Poland’s GZM Network",
+      "url": "https://cleantechnica.com/2026/09/21/irizar-completes-delivery-of-31-electric-buses-to-polands-gzm-network/",
+      "published": "2026-09-22T03:52:49+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "SPANISH electric bus manufacturer Irizar e-mobility has completed delivery of 31 battery-electric buses to Górnośląsko-Zagłębiowska Metropolia (GZM), adding a sizeable new electric fleet to public transportation in Poland&#8217;s Upper Silesian metropolitan area. GZM presented the new Irizar ie buse…"
+    },
+    {
+      "id": "4d6b0ed262ae",
+      "title": "Norway’s Bastø Electric Shows What Five Years of Ferry Electrification Looks Like",
+      "url": "https://cleantechnica.com/2026/09/21/norways-basto-electric-shows-what-five-years-of-ferry-electrification-looks-like/",
+      "published": "2026-09-22T02:47:22+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "AMSTERDAM, The Netherlands — WHEN Bastø Electric entered service in Norway in March 2021, it was hard to miss the significance of the ferry. At 139.2 meters long, with room for 600 passengers and 200 cars and a 4.3-MWh battery, it was the world&#8217;s largest all-electric ferry at the time. ... [co…"
+    },
     {
       "id": "c6d467128d37",
       "title": "Google-backed pilot demonstrates hourly carbon accounting for US BESS using granular certificates",
