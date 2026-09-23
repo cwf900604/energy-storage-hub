@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-22T13:13:25.843963+00:00",
-  "count": 1149,
+  "updated": "2026-09-23T13:27:12.998154+00:00",
+  "count": 1162,
   "items": [
+    {
+      "id": "59404c1c229f",
+      "title": "Amazon, Nadara switch on 277 MW agrivoltaic facility in Italy",
+      "url": "https://www.pv-magazine.com/2026/09/23/amazon-nadara-switch-on-277-mw-agricoltaic-facility-in-italy/",
+      "published": "2026-09-23T12:45:52+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Nadara has completed the 227 MW Big Fish agrivoltaic project in Sicily, backed by a 156 MW PPA with Amazon and described by the developer as Italy’s largest agrivoltaic facility. The 400-hectare project was approved with a 20 MW/40 MWh battery energy storage system. The post Amazon, Nadara switch on…"
+    },
+    {
+      "id": "5124e0c7a03a",
+      "title": "How transferability and US-China tensions are transforming US BESS and renewables financing",
+      "url": "https://www.energy-storage.news/how-transferability-and-us-china-tensions-are-transforming-us-bess-and-renewables-financing/",
+      "published": "2026-09-23T11:39:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news speaks with Nathan Picarsic, co-founder of Horizon Advisory, at the 2026 US Battery Asset Management and Solar and Storage Finance Summits in Garden Grove, California."
+    },
+    {
+      "id": "191d52f80d5f",
+      "title": "GridStor closes US$220 million financing for 400MWh Arizona BESS",
+      "url": "https://www.energy-storage.news/gridstor-closes-us220-million-financing-for-400mwh-arizona-bess/",
+      "published": "2026-09-23T11:38:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "GridStor, a US-based developer and operator of grid-scale battery energy storage systems (BESS) has closed a US$220 million financing agreement for the 100MW/400MWh White Tank project in Arizona, US."
+    },
+    {
+      "id": "f999b373ec6a",
+      "title": "UK regulator looks to cut down BESS interconnection backlog with extra financial commitment",
+      "url": "https://www.energy-storage.news/uk-regulator-looks-to-cut-down-bess-interconnection-backlog-with-extra-financial-commitment/",
+      "published": "2026-09-23T11:08:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UK energy industry regulator Ofgem said it is minded to approve the introduction of a financial commitment for BESS in an attempt to reduce the oversupply of the projects awaiting a grid connection."
+    },
+    {
+      "id": "d84431a5ecfc",
+      "title": "South Korea tenders 6.6 GWh of six-hour storage under 15-year contracts",
+      "url": "https://www.pv-magazine.com/2026/09/23/south-korea-tenders-6-6-gwh-of-six-hour-storage-under-15-year-contracts/",
+      "published": "2026-09-23T10:34:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Korea Power Exchange has launched its 2026 ESS tender for 1.18 GW of six-hour storage, targeting 1.1 GW on mainland Korea and 80 MW on Jeju, with projects due by February 2029. Bids will be assessed 50% on price and 50% on non-price factors, including fire safety, grid-forming capability, supply…"
+    },
+    {
+      "id": "7b98b9e8a072",
+      "title": "Compressed air energy storage (CAES): yet to deliver on promises, can A-CAES go one step further?",
+      "url": "https://www.energy-storage.news/compressed-air-energy-storage-caes-yet-to-deliver-on-promises-can-a-caes-go-one-step-further/",
+      "published": "2026-09-23T10:23:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Compressed air energy storage (CAES) holds much promise for large-scale, LDES, but has struggled to get off the ground outside of China."
+    },
+    {
+      "id": "05f932213aed",
+      "title": "CATL to supply 918MWh Romania BESS, another 500MWh of projects progress elsewhere in CEE",
+      "url": "https://www.energy-storage.news/catl-supply-918mwh-romania-bess-another-500mwh-projects-progress-elsewhere-in-cee/",
+      "published": "2026-09-23T10:21:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A flurry of project completions, financings and supplier deals for large-scale BESS across the Central and Eastern Europe (CEE) region, from Greenvolt, Renovatio &#038; CATL, Eurowind, Renalfa, MOL Group, Tavion, MetaWealth and Enexus &#038; Longi."
+    },
+    {
+      "id": "59665fc4f2e3",
+      "title": "Negative electricity prices could favor thermal storage over industrial heat pumps",
+      "url": "https://www.pv-magazine.com/2026/09/23/negative-electricity-prices-could-favor-thermal-storage-over-industrial-heat-pumps/",
+      "published": "2026-09-23T09:16:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers compared the two technologies under varying negative-price frequencies, price levels and equipment costs. Their model found that the preferred option depended strongly on the required heat temperature, with storage gaining an advantage for steam production. The post Negative electricity …"
+    },
+    {
+      "id": "5e776db5fc55",
+      "title": "Sungrow brings PowerHarbor to Benelux homes for more value, less complexity",
+      "url": "https://www.pv-magazine.com/2026/09/23/sungrow-brings-powerharbor-to-benelux-homes-for-more-value-less-complexity/",
+      "published": "2026-09-23T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "With net metering ending in the Netherlands on January 1, 2027, households with rooftop solar are rethinking how to use the electricity they generate. PowerHarbor is designed for homeowners considering storage. The post Sungrow brings PowerHarbor to Benelux homes for more value, less complexity appe…"
+    },
+    {
+      "id": "12cf1e4b7cc0",
+      "title": "Australia’s first grid-connected sodium-sulfur battery goes online",
+      "url": "https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/",
+      "published": "2026-09-23T08:31:43+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Australia’s first grid-connected sodium-sulfur battery system has commenced operations in Queensland, helping power a critical minerals processing facility and providing a real-world demonstration of the long-duration energy storage technology. The post Australia’s first grid-connected sodium-sulfur…"
+    },
+    {
+      "id": "6f08ace559bc",
+      "title": "Australia’s Victoria requires new data centres to bring their own renewable energy and storage",
+      "url": "https://www.energy-storage.news/australias-victoria-requires-new-data-centres-to-bring-their-own-renewable-energy-and-storage/",
+      "published": "2026-09-23T08:21:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's Victoria mandates new data centres match demand with own renewable energy and battery storage under new rules."
+    },
+    {
+      "id": "d8f7ef360073",
+      "title": "Lower energy costs, community benefits drive 30% battery growth rate: RMI",
+      "url": "https://www.utilitydive.com/news/lower-energy-costs-community-benefits-drive-30-battery-growth-rate-rmi/831039/",
+      "published": "2026-09-22T16:39:18+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The report arrives as the energy storage industry faces headwinds from tariffs, Treasury regulations and new White House restrictions on foreign-made bulk electrical components."
+    },
+    {
+      "id": "142fc542712f",
+      "title": "Why Tugboats Fit Batteries Better Than Their Power Ratings Suggest",
+      "url": "https://cleantechnica.com/2026/09/22/electric-tugboats-battery-duty-cycle/",
+      "published": "2026-09-22T15:55:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Tugboats do not initially look like good candidates for battery propulsion. A harbour tug has to shove, pull and control ships weighing tens or hundreds of thousands of tonnes, sometimes in wind, current and confined channels where losing thrust is not an acceptable outcome. Modern ship-assist tugs …"
+    },
     {
       "id": "95f4cb9f52ce",
       "title": "POWEROAD FLEX 261 Series passes large-scale fire test conducted to C800 and UL 9540A",
