@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-23T13:27:12.998154+00:00",
-  "count": 1162,
+  "updated": "2026-09-24T13:23:15.478007+00:00",
+  "count": 1174,
   "items": [
+    {
+      "id": "437585a02838",
+      "title": "‘FCAs convinced regulators to compromise on grid fees in Germany’: Eco Stor’s Georg Gallmetzer on cementing the industry’s future",
+      "url": "https://www.energy-storage.news/fcas-convinced-regulators-to-compromise-on-grid-fees-in-germany-eco-stors-georg-gallmetzer-on-cementing-the-industrys-future/",
+      "published": "2026-09-24T13:01:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We recently caught up with Georg Gallmetzer, managing director of German BESS platform Eco Stor, about the firm’s role in formulating flexible connection agreements (FCAs) and how this was intimately tied to the debate on grid fees."
+    },
+    {
+      "id": "330321ea3b14",
+      "title": "Data centre buildout uplifting US BESS market outlook, Wood Mackenzie says",
+      "url": "https://www.energy-storage.news/data-centre-buildout-uplifting-us-bess-market-outlook-wood-mackenzie-says/",
+      "published": "2026-09-24T12:08:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Market research firm Wood Mackenzie stated that data centre buildout is uplifting the US battery energy storage system (BESS) outlook across all segments."
+    },
+    {
+      "id": "e6d8b94533fc",
+      "title": "Brazil power producers call for BESS framework and curtailment rules",
+      "url": "https://www.pv-magazine.com/2026/09/24/brazil-power-producers-call-for-bess-framework-and-curtailment-rules/",
+      "published": "2026-09-24T11:09:59+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Brazil’s independent power producers are calling for a regulatory framework for battery energy storage systems (BESS) and the country’s first storage auction, alongside clearer rules for renewable energy curtailment. The post Brazil power producers call for BESS framework and curtailment rules appea…"
+    },
+    {
+      "id": "024ddb9d5807",
+      "title": "NYSERDA picks eight projects for New York utility-scale energy storage programme",
+      "url": "https://www.energy-storage.news/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme/",
+      "published": "2026-09-24T10:56:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Results are in for New York’s first solicitations for large-scale energy storage resources, with 950MW of bids selected by NYSERDA."
+    },
+    {
+      "id": "bf7e71e314b2",
+      "title": "Greenvolt starts building 2.4GWh, BYD-supplied Poland BESS; 900MWh progressed elsewhere in CEE/Baltics",
+      "url": "https://www.energy-storage.news/greenvolt-starts-building-2-4gwh-byd-supplied-poland-bess-900mwh-progressed-elsewhere-in-cee-baltics/",
+      "published": "2026-09-24T10:07:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Greenvolt Power has started building its Siedlce battery storage project in Poland, while Gore Street, Taaleri Energia and DS1 have moved to construction on projects in Poland, Estonia and Lithuania respectively."
+    },
+    {
+      "id": "a0a808bad040",
+      "title": "EU Battery Passport will be an evolving tool rather than a one-off",
+      "url": "https://www.energy-storage.news/eu-battery-passport-will-be-an-evolving-tool-rather-than-a-one-off/",
+      "published": "2026-09-24T10:00:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "During the Battery &#038; Energy Storage Tech Expo in Barcelona, Spain, Energy-storage.news spoke with Ken Davies, chief commercial officer at Digital Product Passport (DPP) provider DigiProd Pass and conference program director of the event, about the upcoming implementation of the EU Battery Passp…"
+    },
+    {
+      "id": "ac1d6ea3426a",
+      "title": "Spain plans to allocate 11 GW of grid capacity for renewables, storage",
+      "url": "https://www.pv-magazine.com/2026/09/24/spain-plans-to-allocated-11-gw-of-grid-capacity-for-renewables-storage/",
+      "published": "2026-09-24T09:46:04+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Spain plans to allocate up to 11 GW of grid capacity to renewable energy and storage projects, with a dedicated tender for Guardo and Velilla attracting interest from pumped-hydro developers. The post Spain plans to allocate 11 GW of grid capacity for renewables, storage appeared first on pv magazin…"
+    },
+    {
+      "id": "61f9f648d54d",
+      "title": "Pylontech starts mass production of 588 Ah, 601 Ah storage cells",
+      "url": "https://www.pv-magazine.com/2026/09/24/pylontech-starts-mass-production-of-588-ah-601-ah-storage-cells/",
+      "published": "2026-09-24T09:42:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese battery maker Pylontech has begun volume production of its own large-format lithium iron phosphate (LFP) cells as it expands into utility-scale energy storage. The post Pylontech starts mass production of 588 Ah, 601 Ah storage cells appeared first on pv magazine Global."
+    },
+    {
+      "id": "5901c107efa5",
+      "title": "Nvidia selects three BESS solutions for new AI facilities qualification programme",
+      "url": "https://www.energy-storage.news/nvidia-selects-three-bess-solutions-new-ai-facilities-qualification-programme/",
+      "published": "2026-09-24T08:49:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nvidia’s new qualification programme for products and solutions that meet its reference design requirements includes three battery storage solutions."
+    },
+    {
+      "id": "edbf3d239e70",
+      "title": "AGL submits 1.45GWh BESS to Australia’s EPBC Act, investigates 4GWh Bathurst Battery in New South Wales",
+      "url": "https://www.energy-storage.news/agl-submits-1-45gwh-bess-to-australias-epbc-act-investigates-4gwh-bathurst-battery-in-new-south-wales/",
+      "published": "2026-09-24T03:48:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AGL has advanced two grid-scale BESS in New South Wales, one now before Australia's EPBC Act and the other still in early planning."
+    },
+    {
+      "id": "0dd976bb5b24",
+      "title": "Developers Valent, Akaysha advance 550MW of NEM-connected BESS in Victoria, Australia",
+      "url": "https://www.energy-storage.news/developers-valent-akaysha-advance-550mw-of-nem-connected-bess-in-victoria-australia/",
+      "published": "2026-09-24T03:20:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two Victorian battery storage projects have reached new construction and commissioning milestones this week, both connecting to the National Electricity Market (NEM) in Australia."
+    },
+    {
+      "id": "40841b548f12",
+      "title": "ZET SCALE Orders 2500 Battery Electric Class 8 Trucks, Most Of Them From Tesla",
+      "url": "https://cleantechnica.com/2026/09/23/zet-scale-orders-2500-battery-electric-class-8-trucks-most-of-them-from-tesla/",
+      "published": "2026-09-23T19:38:13+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "According to the International Council on Clean Transportation, electric truck prices in Europe declined by 27 percent in recent years, while US prices increased by 32 percent. US truck manufacturers and the trucking industry have used every weapon they have available to slow the sale of electric tr…"
+    },
     {
       "id": "59404c1c229f",
       "title": "Amazon, Nadara switch on 277 MW agrivoltaic facility in Italy",
