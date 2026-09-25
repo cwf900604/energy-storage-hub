@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-24T13:23:15.478007+00:00",
-  "count": 1174,
+  "updated": "2026-09-25T13:24:07.906458+00:00",
+  "count": 1185,
   "items": [
+    {
+      "id": "053b9753faec",
+      "title": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%",
+      "url": "https://www.pv-magazine.com/2026/09/25/chinese-pv-industry-brief-growatt-raises-inverter-battery-prices-by-up-to-10/",
+      "published": "2026-09-25T12:46:26+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Growatt is following Sungrow in raising inverter and storage system prices, with increases of 5% to 10% being planned from Oct. 8. The post Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10% appeared first on pv magazine Global."
+    },
+    {
+      "id": "a0376d967f41",
+      "title": "BESS Industry Buzz: Owner vs trader returns, market saturation, more Northvolt M&A, alt technologies’ differing fortunes",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-owner-vs-trader-returns-market-saturation-more-northvolt-ma-alt-technologies-differing-fortunes/",
+      "published": "2026-09-25T12:21:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Another roundup of user-posted hot takes and analysis from the energy storage industry recently."
+    },
+    {
+      "id": "4e2532f0626f",
+      "title": "Inclusive leadership: turning diverse perspectives into innovation and impact",
+      "url": "https://www.pv-magazine.com/2026/09/25/inclusive-leadership-turning-diverse-perspectives-into-innovation-and-impact/",
+      "published": "2026-09-25T11:43:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At Solar &#38; Storage Live UK 2026, Women in Solar+ Europe (WiSEu) explored the leadership behaviours that help diverse teams contribute, challenge ideas and drive innovation. A Solar+ Leaders panel extended the conversation to the trust and responsibility needed to deliver lasting impact. The post…"
+    },
+    {
+      "id": "6aff9a17aad3",
+      "title": "US ROUNDUP: BESS portfolio deals, investment and partnerships for Energy Vault, SMT Energy, NeoVolta and SK On",
+      "url": "https://www.energy-storage.news/us-roundup-bess-portfolio-deals-investment-and-partnerships-for-energy-vault-smt-energy-neovolta-and-sk-on/",
+      "published": "2026-09-25T11:04:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Recently, US BESS companies Energy Vault and Goshe, SMT Energy and Climate Adaptive Infrastructure, and NeoVolta and SK On have made major deals and secured strategic partnerships."
+    },
+    {
+      "id": "58a30de82860",
+      "title": "US power conversion manufacturers in spotlight: Power Electronics builds Houston factory, Heron Power lands RWE pilot",
+      "url": "https://www.energy-storage.news/us-power-conversion-manufacturers-in-spotlight-power-electronics-builds-houston-factory-heron-power-lands-rwe-pilot/",
+      "published": "2026-09-25T10:46:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spain-headquartered Power Electronics has opened a new factory in Houston, Texas, as the US market increasingly looks to build domestic content supply chains."
+    },
+    {
+      "id": "eaeed5c4debd",
+      "title": "Spain awards €265 million for 49.9 GWh of pumped hydro storage",
+      "url": "https://www.pv-magazine.com/2026/09/25/spain-awards-e265-million-for-49-9-gwh-of-pumped-hydro-storage/",
+      "published": "2026-09-25T10:18:28+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Pumped hydroelectric energy storage is advancing in Spain, with 11 projects backed by €265 million in public subsidies from a government program. The post Spain awards €265 million for 49.9 GWh of pumped hydro storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "5587d7dc54c1",
+      "title": "ESR to acquire Aquila Clean Energy APAC in Asia-Pacific renewables and energy storage consolidation",
+      "url": "https://www.energy-storage.news/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation/",
+      "published": "2026-09-25T03:22:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESR, a Singapore-headquartered real asset owner and manager focused on logistics real estate and data centres, has signed an agreement to acquire 100% of Aquila Clean Energy APAC."
+    },
+    {
+      "id": "26918ef30ed2",
+      "title": "AEMO connects record 9.1GW of renewables and storage to Australia’s NEM in FY26, warns reliability depends on timely investment",
+      "url": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/",
+      "published": "2026-09-25T03:20:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AEMO has said that a record 9.1GW of new renewable energy and storage capacity connected to the National Electricity Market (NEM) in FY26."
+    },
+    {
+      "id": "a145f512d2c4",
+      "title": "LA Metro Secures 220 New Battery-Electric Transit Buses",
+      "url": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
+      "published": "2026-09-24T23:51:37+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "LOS ANGELES — Today, LA Metro approved the purchase of 220 battery-electric buses, one of the largest electric transit bus purchases in the country and a major step towards Metro accelerating implementation of its zero-emission bus commitment to 100% electric buses. The 220-bus purchase will more th…"
+    },
+    {
+      "id": "bfb3855d2fd5",
+      "title": "Glut Of Chinese Plug-In Hybrids Threatens European Automakers",
+      "url": "https://cleantechnica.com/2026/09/24/glut-of-chinese-plug-in-hybrids-threatens-european-automakers/",
+      "published": "2026-09-24T17:17:50+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "When the EU decided to put tariffs on electric cars manufactured in China two years ago, CleanTechnica contributor José Pontes pointed out that they only applied to battery electric cars. He predicted the policy would spur Chinese manufacturers to prioritize plug-in hybrids. His powers of prognostic…"
+    },
+    {
+      "id": "a0b58939e8f1",
+      "title": "On clean energy, bigger is not always better",
+      "url": "https://www.utilitydive.com/news/community-solar-energy-storage-der-tax-credits/830117/",
+      "published": "2026-09-24T15:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "When Congress revisits clean-energy tax policy, lawmakers should restore incentives for locally driven solar and storage projects,&nbsp;writes&nbsp;Edward Yim at Lawyers for Good Government."
+    },
     {
       "id": "437585a02838",
       "title": "‘FCAs convinced regulators to compromise on grid fees in Germany’: Eco Stor’s Georg Gallmetzer on cementing the industry’s future",
