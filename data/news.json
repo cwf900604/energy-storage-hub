@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-25T13:24:07.906458+00:00",
-  "count": 1185,
+  "updated": "2026-09-26T12:47:06.273590+00:00",
+  "count": 1188,
   "items": [
+    {
+      "id": "7d041719b804",
+      "title": "Chinese province moves grid-side batteries into spot market",
+      "url": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
+      "published": "2026-09-26T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "China’s Zhejiang province has set market rules for 40 grid-side storage projects totaling 2.54 GW/5.1 GWh, with full price-and-quantity bidding planned for 2027. The post Chinese province moves grid-side batteries into spot market appeared first on pv magazine Global."
+    },
+    {
+      "id": "d58f16676ae3",
+      "title": "Donut Battery Vindicated: Element Analysis Proves Battery Not Lithium Or Sodium",
+      "url": "https://cleantechnica.com/2026/09/25/donut-battery-vindicated-element-analysis-proves-battery-not-lithium-or-sodium/",
+      "published": "2026-09-26T02:52:53+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The latest release from Donut Lab&#8217;s &#8220;I Donut Believe&#8221; series is a surprise. Donut Lab has always used the proof series to puncture false claims and conspiracy theories. This one smashes lithium battery conspiracy theories. Truly, Ziroth is wrong. More and more, critics are clinging…"
+    },
+    {
+      "id": "c60ba949c85b",
+      "title": "XPENG Launches in the Philippines With Six EV Variants",
+      "url": "https://cleantechnica.com/2026/09/25/xpeng-launches-in-the-philippines-with-six-ev-variants/",
+      "published": "2026-09-25T23:30:54+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "MANILA, Philippines — XPENG formally launched in the Philippines on Friday, September 25, with six variants of its L03 and X9, expanding its initial two-model offering to three battery-electric L03s, a range-extended version and two versions of the X9 electric MPV. Attendees called the launch at the…"
+    },
     {
       "id": "053b9753faec",
       "title": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%",
