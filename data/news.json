@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-26T12:47:06.273590+00:00",
-  "count": 1188,
+  "updated": "2026-09-27T13:39:35.492587+00:00",
+  "count": 1190,
   "items": [
+    {
+      "id": "656b27019b80",
+      "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
+      "url": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
+      "published": "2026-09-27T08:46:28+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Capable of 1,000-kilometer range for commercial vehicles HANOVER, Germany — Chinese battery maker Contemporary Amperex Technology Co. Ltd. unveiled a new modular battery platform for commercial vehicles at IAA Transportation 2026, with its heavy-duty version offering up to 1,000 kilometers of range …"
+    },
+    {
+      "id": "e1211ad8e6be",
+      "title": "Volvo’s Electric Trucks Win International Truck of the Year 2027 at IAA",
+      "url": "https://cleantechnica.com/2026/09/27/volvos-electric-truck-range-wins-international-truck-of-the-year-2027-at-iaa/",
+      "published": "2026-09-27T08:34:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "VOLVO Trucks’ new generation of heavy-duty electric trucks has been named International Truck of the Year 2027, giving the Swedish manufacturer its eighth win in the prestigious award and putting battery-electric heavy trucks at the center of its IAA Transportation 2026 presentation in Hanover, Germ…"
+    },
     {
       "id": "7d041719b804",
       "title": "Chinese province moves grid-side batteries into spot market",
