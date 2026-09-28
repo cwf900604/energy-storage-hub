@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-27T13:39:35.492587+00:00",
-  "count": 1190,
+  "updated": "2026-09-28T16:34:45.562911+00:00",
+  "count": 1204,
   "items": [
+    {
+      "id": "0a06f3a94b93",
+      "title": "ICYMI: Last week’s biggest energy storage industry stories in our new Monday recap",
+      "url": "https://www.energy-storage.news/icymi-last-weeks-biggest-energy-storage-industry-stories-in-our-new-monday-recap/",
+      "published": "2026-09-28T13:19:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Welcome to the first edition of In Case You Missed It (ICYMI), a recap of last week’s biggest news stories in energy storage."
+    },
+    {
+      "id": "cb379fa7549d",
+      "title": "LG Energy Solution partners with B2U Storage for second life US BESS projects",
+      "url": "https://www.energy-storage.news/lg-energy-solution-partners-with-b2u-storage-for-second-life-us-bess-projects/",
+      "published": "2026-09-28T11:42:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Second life energy storage firm B2U Storage Solutions has announced a strategic partnership with South Korean battery giant LG Energy Solution (LG ES)."
+    },
+    {
+      "id": "e12c4624f3c7",
+      "title": "Rising air injection rates boost compressed air energy storage efficiency",
+      "url": "https://www.pv-magazine.com/2026/09/28/rising-air-injection-rates-boost-compressed-air-energy-storage-efficiency/",
+      "published": "2026-09-28T10:56:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese researchers have analyzed how different air injection strategies affect energy storage rates and heat losses in compressed air energy storage caverns. They found that a linearly increasing air flow rate can raise the energy storage rate from 85.5% to 87.5% compared with constant-rate injecti…"
+    },
+    {
+      "id": "ca4c28675ae6",
+      "title": "Italy raises Macse energy storage auction premium cap from €22,000 to €27,000/MWh",
+      "url": "https://www.pv-magazine.com/2026/09/28/italy-raises-macse-energy-storage-auction-premium-cap-from-e22000-to-e27000-mwh/",
+      "published": "2026-09-28T10:41:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Italy’s energy regulator, Arera, has raised the MACSE auction premium cap to €27,000/MWh per year, up from €22,000/MWh proposed in July, mainly due to higher benchmark investment costs. The new cap affects project economics and guarantees, while developers must weigh the 15-year fixed premium agains…"
+    },
+    {
+      "id": "e71874e48fd8",
+      "title": "Key takeaways from Solar & Storage Live UK, Birmingham",
+      "url": "https://www.pv-magazine.com/2026/09/28/key-takeaways-from-solar-storage-live-uk-birmingham/",
+      "published": "2026-09-28T10:20:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At Solar &#38; Storage Live UK, industry leaders highlighted financing, skills shortages and community engagement as key challenges for the country’s growing pipeline of large-scale solar projects. The event also showcased opportunities in plug-in solar and residential battery storage, supported by …"
+    },
+    {
+      "id": "c5f95fec5029",
+      "title": "EnerVenue opens factory, secures first multi-MWh order for 30,000-cycle nickel-hydrogen batteries at Chinese oilfield",
+      "url": "https://www.energy-storage.news/enervenue-opens-factory-secures-first-multi-mwh-order-for-30000-cycle-nickel-hydrogen-batteries-at-chinese-oilfield/",
+      "published": "2026-09-28T09:21:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nickel-hydrogen battery company EnerVenue has secured its first commercial order at multi-MWh scale."
+    },
+    {
+      "id": "e4a9a2261740",
+      "title": "Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
+      "url": "https://www.energy-storage.news/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says/",
+      "published": "2026-09-28T09:03:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Trade body Energy Storage Europe has called for significant reforms to the European Union's (EU’s) cybersecurity framework for battery energy storage systems (BESS)."
+    },
+    {
+      "id": "0c8d39be876f",
+      "title": "Tongwei launches TNC 2.0 FULLX G12R-48 rooftop solar module with 24.5% efficiency",
+      "url": "https://www.pv-magazine.com/2026/09/28/tongwei-launches-tnc-2-0-fullx-g12r-48-rooftop-solar-module-with-24-5-efficiency/",
+      "published": "2026-09-28T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Unveiled at Solar &#38; Storage Live UK, the new module combines high power output, strong energy yield, and broad adaptability in a compact format, delivering up to 490 W with an efficiency of 24.5%. The post Tongwei launches TNC 2.0 FULLX G12R-48 rooftop solar module with 24.5% efficiency appeared…"
+    },
+    {
+      "id": "df70358e2bcf",
+      "title": "VIDEO: How a global IPP uses analytics to find and act on hidden BESS losses",
+      "url": "https://www.energy-storage.news/video-how-a-global-ipp-uses-analytics-to-find-and-act-on-hidden-bess-losses/",
+      "published": "2026-09-28T08:12:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news proudly presents our sponsored webinar with PowerUp, into the practical application of battery analytics by global IPP, Neoen."
+    },
+    {
+      "id": "999e302a7a30",
+      "title": "Australia’s NSW trials property-level and community battery models to extend solar benefits",
+      "url": "https://www.energy-storage.news/australias-nsw-trials-property-level-and-community-battery-models-to-extend-solar-benefits/",
+      "published": "2026-09-28T04:56:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two publicly funded pilots have launched in NSW, testing ways to extend the benefits of distributed solar and battery storage to households."
+    },
+    {
+      "id": "96aacce19c29",
+      "title": "Australia’s most powerful battery storage system officially completed",
+      "url": "https://www.energy-storage.news/australias-most-powerful-battery-storage-system-officially-completed/",
+      "published": "2026-09-28T04:54:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Akaysha Energy has reached final commercial operations at its Waratah Super Battery in New South Wales, Australia."
+    },
+    {
+      "id": "54a897bd2bc3",
+      "title": "Australia’s NSW grants development consent for 200MWh battery storage system",
+      "url": "https://www.energy-storage.news/australias-nsw-grants-development-consent-for-200mwh-battery-storage-system/",
+      "published": "2026-09-28T04:51:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The New South Wales (NSW) government has granted development consent for the 200MWh Deniliquin East battery energy storage system."
+    },
+    {
+      "id": "eb6e952d26cb",
+      "title": "Kia PH Brings EV3 to Shake Up Compact Electric Crossover Market",
+      "url": "https://cleantechnica.com/2026/09/27/kia-ph-brings-ev3-to-shake-up-compact-electric-crossover-market/",
+      "published": "2026-09-28T02:58:51+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "MAKATI CITY, Philippines — Kia Philippines expanded its local electric lineup with the September 21 rollout of the EV3, pricing the subcompact model at P1.898 million (roughly $30,400) to take aim directly at rival battery-powered options. The Ayala-backed distributor introduced the nameplate in a s…"
+    },
+    {
+      "id": "4586cb62e8cb",
+      "title": "Solar, Wind, Battery Storage, And Politics — It’s Complicated",
+      "url": "https://cleantechnica.com/2026/09/27/solar-wind-battery-storage-and-politics-its-complicated/",
+      "published": "2026-09-27T20:43:24+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In the summer of 2026, demand for electricity in Texas broke the previous record of 85.5 GW, set three years ago: 45 times. On July 22, 2026, ERCOT, the Texas grid operator, recorded an all time high peak demand of 91.1 GW. On August 20, Houston, Texas experienced its first ... [continued] The post …"
+    },
     {
       "id": "656b27019b80",
       "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
