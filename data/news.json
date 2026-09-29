@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-28T16:34:45.562911+00:00",
-  "count": 1204,
+  "updated": "2026-09-29T14:42:23.857062+00:00",
+  "count": 1217,
   "items": [
+    {
+      "id": "9d4eb5179714",
+      "title": "JA expands C&I battery range with hybrid and updated AC-coupled systems",
+      "url": "https://www.pv-magazine.com/2026/09/29/ja-expands-ci-battery-range-with-hybrid-and-updated-ac-coupled-systems/",
+      "published": "2026-09-29T13:37:36+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "JA has expanded its European C&#38;I battery storage portfolio with JAPlanet Fusion, a 125 kW/261 kWh DC-coupled solar-storage system with integrated rapid backup, and the upgraded AC-coupled JAPlanet 2.0. Both systems add enhanced safety, liquid cooling and backup capabilities, with European pre-or…"
+    },
+    {
+      "id": "2c5030779283",
+      "title": "Germany wraps up solar-plus-storage tender with average price of €0.0514/kWh",
+      "url": "https://www.pv-magazine.com/2026/09/29/germany-wraps-up-solar-plus-storage-tender-with-average-price-of-e0-0514-kwh/",
+      "published": "2026-09-29T11:50:31+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Germany’s latest innovation tender attracted 678 MW of bids, with 32 projects totaling 480 MW securing contracts. The post Germany wraps up solar-plus-storage tender with average price of €0.0514/kWh appeared first on pv magazine Global."
+    },
+    {
+      "id": "d5eaea9cb245",
+      "title": "SMA battery inverter first to win grid-forming certification for German inertia market",
+      "url": "https://www.energy-storage.news/sma-battery-inverter-first-to-win-grid-forming-certification-for-german-inertia-market/",
+      "published": "2026-09-29T11:37:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Inverter manufacturer SMA Solar Technology has become the first to be certified as capable of providing inertia to the German grid."
+    },
+    {
+      "id": "3441a072d6c3",
+      "title": "PJM capacity reforms require urgent state action to protect ratepayers, says NRDC",
+      "url": "https://www.energy-storage.news/pjm-capacity-reforms-require-urgent-state-action-to-protect-ratepayers-says-nrdc/",
+      "published": "2026-09-29T10:09:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news Premium speaks with Claire Lang-Ree, clean energy advocate at the Natural Resources Defense Council (NRDC), about PJM's proposed capacity market reforms."
+    },
+    {
+      "id": "363602f3a81b",
+      "title": "ABB returns to utility-scale market with Gamesa Electric integration",
+      "url": "https://www.pv-magazine.com/2026/09/29/abb-returns-to-utility-scale-market-with-gamesa-electric-integration/",
+      "published": "2026-09-29T09:28:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The integration of Gamesa Electric strengthens ABB’s position in power electronics for PV and utility-scale energy storage. The company now combines industrial capabilities, technology development and a global service network to expand into new markets. The post ABB returns to utility-scale market w…"
+    },
+    {
+      "id": "24fdbdde594e",
+      "title": "‘Huge pipeline of opportunities’ as Middle East energy storage financing seeks bankability, revenue certainty",
+      "url": "https://www.energy-storage.news/huge-pipeline-of-opportunities-as-middle-east-energy-storage-financing-seeks-bankability-revenue-certainty/",
+      "published": "2026-09-29T08:41:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There is no shortage of capital to invest, but energy storage developers in the Middle East face familiar questions as the market takes shape."
+    },
+    {
+      "id": "7a18bc8798ba",
+      "title": "EU ROUNDUP: Hybrid and standalone BESS news in Italy, Germany and the Nordics, with Metlen, PNE and Mirova",
+      "url": "https://www.energy-storage.news/eu-roundup-hybrid-and-standalone-bess-news-in-italy-germany-and-the-nordics-with-metlen-pne-and-mirova/",
+      "published": "2026-09-29T08:36:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In this news roundup, Metlen inaugurates a 75MWh BESS in Italy, PNE and Enercon develop a wind and storage project in Germany, and Mirova invests €65 million in Nordic BESS from Ingrid Capacity."
+    },
+    {
+      "id": "3bcd9a1c05f9",
+      "title": "Pace of regulatory change, predictable market rules and long-term flexibility roadmaps key to CEE market, IPP says",
+      "url": "https://www.energy-storage.news/pace-of-regulatory-change-predictable-market-rules-and-long-term-flexibility-roadmaps-key-to-cee-market-ipp-says/",
+      "published": "2026-09-29T05:31:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Olga Sypula, VP and regional director for Central Europe at developer and IPP European Energy, shares her views on the key trends, opportunities and challenges across the Central and Eastern Europe (CEE) energy storage market."
+    },
+    {
+      "id": "0af589582604",
+      "title": "India’s CERC proposes new Grid Code rules for standalone BESS",
+      "url": "https://www.energy-storage.news/indias-cerc-proposes-new-grid-code-rules-for-standalone-bess/",
+      "published": "2026-09-29T05:00:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India’s Central Electricity Regulatory Commission (CERC) has proposed new grid-operating requirements for standalone energy storage systems."
+    },
+    {
+      "id": "6f28b4620c3e",
+      "title": "Gamuda and Yanara sign EPC contract for 300MW solar-plus-storage project in Australia",
+      "url": "https://www.energy-storage.news/gamuda-and-yanara-sign-epc-contract-for-300mw-solar-plus-storage-project-in-australia/",
+      "published": "2026-09-29T04:54:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gamuda Australia and Yanara have signed the EPC contract for Stage 1 of the Mortlake Energy Hub (MEH-1) in western Victoria."
+    },
+    {
+      "id": "f0667a43eb1b",
+      "title": "EORA Energy, Tulla Group form JV targeting Australian mining sector with integrated storage",
+      "url": "https://www.energy-storage.news/eora-energy-tulla-group-form-jv-targeting-australian-mining-sector-with-integrated-storage/",
+      "published": "2026-09-29T04:52:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EORA Energy has formed a JV with Tulla Group to develop integrated energy infrastructure for mining operations, data centres and more."
+    },
+    {
+      "id": "29b152aa2f15",
+      "title": "Geely Gets 30% of NIO Power",
+      "url": "https://cleantechnica.com/2026/09/28/geely-gets-30-of-nio-power/",
+      "published": "2026-09-29T02:59:00+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Battery swapping has been a concept for electric vehicles for much longer than I&#8217;ve been covering the technology (which is more than 14 years). Better Place launched and grew, and then went bankrupt. Some other battery swapping trials have come and gone much more quietly. And then there&#8217;…"
+    },
     {
       "id": "0a06f3a94b93",
       "title": "ICYMI: Last week’s biggest energy storage industry stories in our new Monday recap",
@@ -10,6 +118,15 @@
       "source": "Energy Storage News",
       "lang": "en",
       "summary": "Welcome to the first edition of In Case You Missed It (ICYMI), a recap of last week’s biggest news stories in energy storage."
+    },
+    {
+      "id": "4a878b67ee76",
+      "title": "NYSERDA taps 950 MW lithium batteries, 700 MW renewables",
+      "url": "https://www.utilitydive.com/news/nyserda-taps-950-mw-lithium-batteries-700-mw-renewables/831455/",
+      "published": "2026-09-28T12:29:39+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Lithium batteries and solar, wind and hydroelectric renewable generation were selected in the state&rsquo;s first bulk energy storage procurement and its 2025 Tier 1 Renewable Energy Standard solicitation."
     },
     {
       "id": "cb379fa7549d",
