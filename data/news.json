@@ -1,7 +1,142 @@
 {
-  "updated": "2026-09-29T14:42:23.857062+00:00",
-  "count": 1217,
+  "updated": "2026-09-30T14:44:15.138420+00:00",
+  "count": 1232,
   "items": [
+    {
+      "id": "9bd9bf2458f1",
+      "title": "The rationale behind the UK’s largest compressed air energy storage plan",
+      "url": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/",
+      "published": "2026-09-30T12:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "EnergyPathways CEO Ben Clube tells pv magazine that the company's compressed air energy storage (CAES) project in the Irish Sea will enter the second round of the UK's long-duration energy storage (LDES) support scheme as a more mature bid. The post The rationale behind the UK&#8217;s largest compre…"
+    },
+    {
+      "id": "da68c6bd939b",
+      "title": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
+      "url": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/",
+      "published": "2026-09-30T11:37:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese researchers have modeled a heating system combining PEM fuel cells, a CO₂ heat pump and phase-change thermal storage, assessing the impact of different thermal boundary conditions. The results show that cathode inlet temperature has the strongest effect on hydrogen-to-heat and hydrogen-to-el…"
+    },
+    {
+      "id": "1fa6dd0a58cc",
+      "title": "US utilities Ameren Missouri, DTE Energy in Michigan, and Black Hills Energy in Colorado submit IRPs with highlighted BESS additions",
+      "url": "https://www.energy-storage.news/us-utilities-ameren-missouri-dte-energy-in-michigan-and-black-hills-energy-in-colorado-submit-irps-with-highlighted-bess-additions/",
+      "published": "2026-09-30T11:13:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Three US utilities, Ameren Missouri, DTE Energy in Michigan, and Black Hills Energy in Colorado have recently submitted IRPs with highlighted BESS project additions."
+    },
+    {
+      "id": "d698c1e18c72",
+      "title": "Northland Power puts Canadian province of Alberta’s largest BESS into operation",
+      "url": "https://www.energy-storage.news/northland-power-puts-canadian-province-of-albertas-largest-bess-into-operation/",
+      "published": "2026-09-30T11:08:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Northland Power has announced that its 80MW/160MWh Jurassic energy storage project in Cypress County, Alberta, CA, has achieved commercial operations."
+    },
+    {
+      "id": "f4c9c684d8ca",
+      "title": "Fox ESS launches modular C&I battery system scalable to 96 MWh",
+      "url": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/",
+      "published": "2026-09-30T10:50:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Fox ESS’s Power Beast pairs a 125 kW hybrid inverter with stackable lithium iron phosphate (LFP) battery modules for commercial and industrial (C&#38;I) users, as the Chinese company awaits approval for a Shenzhen stock listing. The post Fox ESS launches modular C&amp;I battery system scalable to 96…"
+    },
+    {
+      "id": "612853050b4e",
+      "title": "Volkswagen’s new LFP battery JVs with Gotion will adjust EV and BESS cell production split based on demand",
+      "url": "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
+      "published": "2026-09-30T09:07:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gotion and Volkswagen AG will establish three joint ventures to manufacture lithium iron phosphate (LFP) batteries and battery materials in Valencia (Spain), Surany (Slovakia), and Kenitra (Morocco)."
+    },
+    {
+      "id": "1b4bfa2213b0",
+      "title": "Ireland introduces €600 residential battery grant, expands PV support",
+      "url": "https://www.pv-magazine.com/2026/09/30/ireland-introduces-e600-residential-battery-grant-expands-pv-support/",
+      "published": "2026-09-30T09:00:04+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Irish householders will be able to avail of a €600 battery grant as part of a package of renewable energy supports effective from October 6. Grants of up to €9,000 for lower-income householders to install solar and batteries will also be included as well as support for businesses. The post Ireland i…"
+    },
+    {
+      "id": "9e8705616f35",
+      "title": "Availability: Why this BESS performance metric matters so much, and how to calculate it",
+      "url": "https://www.energy-storage.news/availability-why-this-bess-performance-metric-matters-so-much-and-how-to-calculate-it/",
+      "published": "2026-09-30T07:56:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Liam Critchley with an ESN Premium deep dive into availability, one of the most-discussed metrics in battery storage performance."
+    },
+    {
+      "id": "cc6d58ba4301",
+      "title": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house",
+      "url": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/",
+      "published": "2026-09-30T07:18:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Panasonic has deployed a 10 kW pure hydrogen fuel cell and a 9 kW air-to-water heat pump at Finland’s Hydrogen House, which features rooftop PV and up to 90 kg of hydrogen storage. The integrated system uses solar-generated hydrogen to provide electricity, space heating and hot water, while also rec…"
+    },
+    {
+      "id": "1cecacef83cb",
+      "title": "Cuba’s PV capacity tops 1.4 GW",
+      "url": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
+      "published": "2026-09-30T06:05:33+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Cuba has installed 1.42 GW of solar capacity across 144 photovoltaic plants and expects to exceed 1.5 GW by the end of 2026. Renewables now account for 21.4% of electricity generation, while the country is also expanding energy storage and solar-powered water pumping. The post Cuba&#8217;s PV capaci…"
+    },
+    {
+      "id": "3ebbf046ce35",
+      "title": "Kerala: Indian state proposes five-year electricity tariff framework with new provisions for BESS",
+      "url": "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/",
+      "published": "2026-09-30T04:56:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Kerala has proposed a five-year tariff framework with rules for BESS, PSP, including efficiency, availability and grid-forming requirements."
+    },
+    {
+      "id": "01fa9461aa6f",
+      "title": "Spain is making batteries a licensing condition for data centres, and nobody noticed",
+      "url": "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
+      "published": "2026-09-30T04:51:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spain's recent proposal for data centres could be the catalyst the country's energy storage market has been waiting for, argues Ignacio López Martín from developer Capflex Energía."
+    },
+    {
+      "id": "c863769790cf",
+      "title": "Gotion to supply 6GWh of battery storage for Saudi Arabia’s first utility-scale BESS tender",
+      "url": "https://www.energy-storage.news/gotion-to-supply-6gwh-of-battery-storage-for-saudi-arabias-first-utility-scale-bess-tender/",
+      "published": "2026-09-30T04:01:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gotion High-Tech has been named as the BESS supplier for three projects totalling 6GWh awarded to an ACWA Power consortium in Saudi Arabia."
+    },
+    {
+      "id": "ba847098435e",
+      "title": "Australia: Energy Vault secures NSW approval for 1GWh BESS, TagEnergy submits 4GWh Victoria project",
+      "url": "https://www.energy-storage.news/australia-energy-vault-secures-nsw-approval-for-1gwh-bess-tagenergy-submits-4gwh-victoria-project/",
+      "published": "2026-09-30T03:35:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two Australian battery storage developments advanced, both moving large-scale projects closer to construction through separate approval pathways."
+    },
+    {
+      "id": "7380c7d39b0b",
+      "title": "FRV Australia completes first standalone BESS with 100MW/200MWh Terang project in Victoria",
+      "url": "https://www.energy-storage.news/frv-australia-completes-first-standalone-bess-with-100mw-200mwh-terang-project-in-victoria/",
+      "published": "2026-09-30T03:30:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "FRV Australia has commissioned the 100MW/200MWh Terang battery storage system in Victoria, the company's first standalone storage project."
+    },
     {
       "id": "9d4eb5179714",
       "title": "JA expands C&I battery range with hybrid and updated AC-coupled systems",
