@@ -1,7 +1,151 @@
 {
-  "updated": "2026-10-01T15:13:42.294902+00:00",
-  "count": 1248,
+  "updated": "2026-10-02T14:33:40.387627+00:00",
+  "count": 1264,
   "items": [
+    {
+      "id": "1dbde53adf01",
+      "title": "German startup wins grant for grid-charging sodium-ion home battery",
+      "url": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
+      "published": "2026-10-02T11:12:49+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power prices are low. The post German startup wins grant for grid-charging sodium-ion home battery appeared first …"
+    },
+    {
+      "id": "0c5ddb45da92",
+      "title": "India approves US$19.3 billion Green Energy Corridor Phase III with 50GWh BESS",
+      "url": "https://www.energy-storage.news/india-approves-us19-3-billion-green-energy-corridor-phase-iii-with-50gwh-bess/",
+      "published": "2026-10-02T11:04:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India's Union Cabinet has approved US$ 19.3 billion Green Energy Corridor, including US$ 5.2 billion for 50GWh BESS through FY2032-33."
+    },
+    {
+      "id": "6e875c9d0a78",
+      "title": "California Governor Newsom signs VPP and balcony solar bills, vetoes community solar legislation",
+      "url": "https://www.energy-storage.news/california-governor-newsom-signs-vpp-and-balcony-solar-bills-vetoes-community-solar-legislation/",
+      "published": "2026-10-02T10:13:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Outgoing California Governor Gavin Newsom recenty addressed approximately 1,200 bills, including several energy storage and solar related bills that were either approved or vetoed."
+    },
+    {
+      "id": "e4b7249c1f7e",
+      "title": "BESS Industry Buzz: ERCOT economics, Google’s hourly matching pilot and the world’s most dense BESS blocks",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-ercot-economics-googles-hourly-matching-pilot-and-the-worlds-most-dense-bess-blocks/",
+      "published": "2026-10-02T09:54:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Welcome to another edition of hot takes, snap analysis, gossip and of course, valuable insights from the LinkedIn feeds of energy storage and electricity insiders."
+    },
+    {
+      "id": "2670f4def960",
+      "title": "Renalfa IPP, Eurowind inaugurate solar-plus-storage hybrid renewable energy park in Bulgaria",
+      "url": "https://www.energy-storage.news/renalfa-ipp-eurowind-inaugurate-solar-plus-storage-hybrid-renewable-energy-park-in-bulgaria/",
+      "published": "2026-10-02T08:57:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Renalfa IPP and Eurowind have brought a large-scale hybrid renewables project, featuring 242MWp of solar PV and 773MWh of battery storage, into commercial operation in Bulgaria."
+    },
+    {
+      "id": "541759331025",
+      "title": "Fraunhofer ISE releases electricity price simulator",
+      "url": "https://www.pv-magazine.com/2026/10/02/fraunhofer-ise-releases-electricity-price-simulator/",
+      "published": "2026-10-02T08:40:10+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The freely-accessible electricity price simulator allows users to analyse how additional battery storage would impact prices on Germany's day-ahead market. The post Fraunhofer ISE releases electricity price simulator appeared first on pv magazine Global."
+    },
+    {
+      "id": "7d1c4e8b9159",
+      "title": "Germany approves rules for storage, bidirectional charging",
+      "url": "https://www.pv-magazine.com/2026/10/02/germany-approves-rules-for-storage-bidirectional-charging/",
+      "published": "2026-10-02T08:22:24+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Germany’s Federal Network Agency (Bundesnetzagentur) has approved rules for the market integration of electricity storage systems and charging points (MiSpeL), allowing batteries to combine renewable and grid electricity while preserving support for eligible renewable power. The post Germany approve…"
+    },
+    {
+      "id": "2eb62ed4a8d4",
+      "title": "Japan tightens grid access as battery queue reaches 172 GW",
+      "url": "https://www.pv-magazine.com/2026/10/02/japan-tightens-grid-access-as-battery-queue-reaches-172-gw/",
+      "published": "2026-10-02T08:15:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Japan now requires generators, including battery developers, to prove rights to their sites to keep a grid connection, as regulators move to curb capacity hoarding in a battery queue that far outruns the less than 1 GW of grid-scale storage actually connected. The post Japan tightens grid access as …"
+    },
+    {
+      "id": "1315c8755b3c",
+      "title": "Technical availability central to maximising BESS returns: Varco Energy talks UK asset management",
+      "url": "https://www.energy-storage.news/technical-availability-maximising-bess-returns-varco-energ-uk-asset-management/",
+      "published": "2026-10-02T07:25:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Elliot Squire, senior asset manager for Varco Energy, discusses current and future trends in battery storage."
+    },
+    {
+      "id": "3d70d50bc473",
+      "title": "Canada’s Northland Power closes financing on 1.2GWh of CM-contracted BESS projects in Poland",
+      "url": "https://www.energy-storage.news/canadas-northland-power-closes-financing-on-1-2gwh-of-cm-contracted-bess-projects-in-poland/",
+      "published": "2026-10-02T06:56:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Northland Power has closed financing on two large-scale battery energy storage system (BESS) projects in Poland."
+    },
+    {
+      "id": "5c81cc6ba6a9",
+      "title": "The Litmus Test for “Made in Europe”",
+      "url": "https://cleantechnica.com/2026/10/01/the-litmus-test-for-made-in-europe/",
+      "published": "2026-10-02T03:49:51+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Dear President von der Leyen, Dear Executive Vice-President Séjourné, Dear Commissioner Šefčovič, Dear Commissioner Hoekstra, By 2021, Europe started to get serious about trying to establish a European battery value chain. European companies invested billions based on promises by EU leaders that the…"
+    },
+    {
+      "id": "65f1728cdb21",
+      "title": "Texas PUC Greenlights Coal Plant Closure & Renewables Construction, Saving Millions of Gallons of Water Every Year",
+      "url": "https://cleantechnica.com/2026/10/01/texas-puc-greenlights-coal-plant-closure-renewables-construction-saving-millions-of-gallons-of-water-every-year/",
+      "published": "2026-10-02T03:41:54+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "AUSTIN, Texas — The Texas Public Utility Commission (PUC) ruled today that Southwestern Public Service Company (SPS) can proceed with closing its Tolk coal plant near Lubbock and constructing renewable energy and battery storage to provide reliable, clean electricity to Southwest Power Pool customer…"
+    },
+    {
+      "id": "67efff607d03",
+      "title": "Fu-Gen, Nala Renewables close 100MW BESS deal in Finland",
+      "url": "https://www.energy-storage.news/fu-gen-nala-renewables-close-100mw-bess-finland/",
+      "published": "2026-10-02T03:38:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Fu-Gen has sold a 100MW ready-to-build battery storage project in Finland to Nala Renewables, extending their Nordic BESS pipeline to 275MW."
+    },
+    {
+      "id": "f5d4c02d18cd",
+      "title": "New South Wales grants approval to BayWa r.e.’s Bullawah hybrid wind and battery project in Australia",
+      "url": "https://www.energy-storage.news/bullawah-wind-farm-approved-718mwh-battery-nsw/",
+      "published": "2026-10-02T03:36:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NSW's IPC has approved BayWa r.e.'s Bullawah Wind Farm, pairing 804MW of wind with a 718MWh battery in the South West REZ."
+    },
+    {
+      "id": "dca030fd21d9",
+      "title": "Leveraging the IAA to Build Europe’s Battery Value Chain",
+      "url": "https://cleantechnica.com/2026/10/01/leveraging-the-iaa-to-build-europes-battery-value-chain/",
+      "published": "2026-10-02T00:46:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Why battery incentives in the Industrial Accelerator Act (IAA) are essential and achievable. Europe’s battery value chain has experienced several setbacks over the past years. Yet, it doesn’t start from scratch. The Industrial Accelerator Act (IAA) must provide the boost needed to materialise and sc…"
+    },
+    {
+      "id": "66f40bde26e5",
+      "title": "Grid Connection at European Ports & Airports: Solutions to Accelerate Transport Electrification",
+      "url": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
+      "published": "2026-10-02T00:08:50+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Imagine buying an electric van for your business, then discovering the cable connecting it to the grid won&#8217;t be installed for another ten years. That, roughly, is the position Europe&#8217;s ports and airports are in today. Brussels has told them, by law, to electrify but the grid needs to fol…"
+    },
     {
       "id": "838e874b1024",
       "title": "U.S. small-scale solar adds 1.6 GW in Q2",
