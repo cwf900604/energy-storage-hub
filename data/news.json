@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-03T13:09:09.079142+00:00",
-  "count": 1267,
+  "updated": "2026-10-04T13:48:44.150641+00:00",
+  "count": 1269,
   "items": [
+    {
+      "id": "7613ba836dd1",
+      "title": "Australian Government Accelerates Renewable Energy Transition",
+      "url": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
+      "published": "2026-10-03T20:08:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Australian Renewable Energy Agency (ARENA) has announced the milestone of 100 community batteries being installed. It has also delivered funding for home conversion from gas to electric. The Cheaper Home Battery scheme has been extended to 100 kWh installations. Here&#8217;s our spring update. A…"
+    },
+    {
+      "id": "252d2f198687",
+      "title": "US Q3 EV Sales Report: The Good, The Bad, And The Ugly",
+      "url": "https://cleantechnica.com/2026/10/03/us-q3-ev-sales-report-the-good-the-bad-and-the-ugly/",
+      "published": "2026-10-03T18:23:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In the third quarter of 2026, it was the best of times and the worst of times for EV manufacturers in the US. While the rest of the world seems to be progressing nicely toward a future in which battery-powered cars are the norm, US customers are giving EVs the ... [continued] The post US Q3 EV Sales…"
+    },
     {
       "id": "ea8478f06517",
       "title": "Battery storage paired with 37% of new U.S. residential solar systems in 2025",
