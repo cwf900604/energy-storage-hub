@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-04T13:48:44.150641+00:00",
-  "count": 1269,
+  "updated": "2026-10-05T16:55:55.269996+00:00",
+  "count": 1276,
   "items": [
+    {
+      "id": "04b83668e51a",
+      "title": "T&E, European Metals, and RECHARGE Call on Co-decision Makers to Strengthen Battery Supply Chains in the IAA",
+      "url": "https://cleantechnica.com/2026/10/05/te-european-metals-and-recharge-call-on-co-decision-makers-to-strengthen-battery-supply-chains-in-the-iaa/",
+      "published": "2026-10-05T13:55:01+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "As negotiations on the Industrial Accelerator Act (IAA) progress, a joint letter by T&#38;E, European Metals and RECHARGE calls on the integration of primary and recycled battery grade materials, as well as critical midstream components like pCAM and AAMs. The IAA is a first strong first step toward…"
+    },
+    {
+      "id": "0db45e44bcd8",
+      "title": "Regulation remains Latin America’s main challenge for BESS’ growth",
+      "url": "https://www.energy-storage.news/regulation-remains-latin-americas-main-challenge-for-bess-growth/",
+      "published": "2026-10-05T13:17:11+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-storage.news spoke with Valentina Meneses at Americas Market Intelligence about emerging markets in Latin America and BESS challenge."
+    },
+    {
+      "id": "49452e363f3c",
+      "title": "Maryland conditionally approves 440MW of BESS for state ‘Capacity Credit’ awards",
+      "url": "https://www.energy-storage.news/maryland-conditionally-approves-440mw-of-bess-for-state-capacity-credit-awards/",
+      "published": "2026-10-05T12:15:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Maryland has conditionally selected two transmission-connected energy storage projects to receive Energy Storage Capacity Credit awards in the US state."
+    },
+    {
+      "id": "25c0691ddeeb",
+      "title": "US Senators propose bipartisan permitting reforms to mixed response from clean energy groups",
+      "url": "https://www.energy-storage.news/us-senators-propose-bipartisan-permitting-reforms-to-mixed-response-from-clean-energy-groups/",
+      "published": "2026-10-05T10:16:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A US Senate bill proposing to speed up permitting for energy projects has received a mixed response from clean energy industry and advocacy groups."
+    },
+    {
+      "id": "f4b2b031b660",
+      "title": "Statkraft and Greenvolt sign largest EU battery energy storage tolling agreement for projects in Poland",
+      "url": "https://www.energy-storage.news/statkraft-and-greenvolt-sign-largest-eu-battery-energy-storage-tolling-agreement-for-projects-in-poland/",
+      "published": "2026-10-05T10:12:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Statkraft and Greenvolt Power have signed a 10-year tolling agreement covering 400MW of BESS across two operating projects in Poland."
+    },
+    {
+      "id": "6c326f81d06d",
+      "title": "ICYMI: Grid Codes, grid-forming, cybersecurity and, of course, data centres in our picks of last week’s coverage",
+      "url": "https://www.energy-storage.news/icymi-grid-codes-grid-forming-cybersecurity-and-of-course-data-centres-in-our-picks-of-last-weeks-coverage/",
+      "published": "2026-10-05T10:00:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Join us for In Case You Missed It (ICYMI), our weekly recap of thought-provoking and potentially game-changing news."
+    },
+    {
+      "id": "11960b0f1a92",
+      "title": "India’s BESS ambition: From import dependence to manufacturing scale",
+      "url": "https://www.energy-storage.news/indias-bess-ambition-from-import-dependence-to-manufacturing-scale/",
+      "published": "2026-10-05T07:39:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Debmalya Sen, president of the India Energy Storage Alliance (IESA), on a dynamic market landscape of tenders, tariffs and the race to build a domestic battery storage ecosystem."
+    },
     {
       "id": "7613ba836dd1",
       "title": "Australian Government Accelerates Renewable Energy Transition",
