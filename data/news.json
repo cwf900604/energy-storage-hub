@@ -1,7 +1,142 @@
 {
-  "updated": "2026-10-06T14:52:52.432029+00:00",
-  "count": 1290,
+  "updated": "2026-10-07T15:19:43.568093+00:00",
+  "count": 1305,
   "items": [
+    {
+      "id": "4aabe63bf664",
+      "title": "Solar and storage accounted for nearly 1 million EU jobs in 2025",
+      "url": "https://www.pv-magazine.com/2026/10/07/solar-and-storage-accounted-for-nearly-1-million-eu-jobs-in-2025/",
+      "published": "2026-10-07T13:35:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar and battery storage supported 982,000 jobs in the EU in 2025, with PV accounting for 874,000 positions. Solar employment is expected to decline by 2030 as deployment slows, despite growth in operations, maintenance, manufacturing and recycling jobs. The post Solar and storage accounted for nea…"
+    },
+    {
+      "id": "71a1b17ecd89",
+      "title": "Chinese ESS shipments still growing strongly but financial performance starting to diverge",
+      "url": "https://www.energy-storage.news/chinese-ess-shipments-still-growing-strongly-but-financial-performance-starting-to-diverge/",
+      "published": "2026-10-07T13:13:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The first half of the year saw mixed results among China's leading ESS suppliers, though generally the industry is still performing strongly, writes PV Tech ESS analyst Charlotte Gisbourne."
+    },
+    {
+      "id": "560526640e02",
+      "title": "NextEra halts Long Island BESS operations over drinking water contamination concerns",
+      "url": "https://www.energy-storage.news/nextera-halts-long-island-bess-operations-over-drinking-water-contamination-concerns/",
+      "published": "2026-10-07T13:12:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US energy holding company and project developer-owner NextEra Energy has suspended operations at two energy storage facilities in Long Island, New York, US."
+    },
+    {
+      "id": "d430c47aaa78",
+      "title": "UK ROUNDUP: Gore Street shareholder vote maintains status quo, CIP and BW ESS progress 4-hour duration assets",
+      "url": "https://www.energy-storage.news/uk-roundup-gore-street-shareholder-vote-maintains-status-quo-cip-and-bw-ess-progress-4-hour-duration-assets/",
+      "published": "2026-10-07T13:11:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "UK market's shifting dynamics see listed fund Gore Street's shareholders take key vote while CIP and BW ESS progress 4-hour duration battery storage assets at significant scale."
+    },
+    {
+      "id": "0a16056f441b",
+      "title": "AuroraCell launches 9.7 kWh sodium-ion chromium oxide residential battery",
+      "url": "https://www.pv-magazine.com/2026/10/07/auroracell-launches-9-7-kwh-sodium-ion-chromium-oxide-residential-battery/",
+      "published": "2026-10-07T12:38:08+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The 48 V residential energy storage system uses sodium-ion NCO chemistry and offers 9.7 kWh of rated energy. AuroraCell claims a cycle life of 20,000 cycles at 100% depth of discharge and backs the battery with a 20-year warranty. The post AuroraCell launches 9.7 kWh sodium-ion chromium oxide reside…"
+    },
+    {
+      "id": "3a5aa0946194",
+      "title": "Hithium’s ∞Cell N785Ah vs CATL, HiNa, and its own LFP range: a sodium-ion comparison for BESS",
+      "url": "https://www.energy-storage.news/hithiums-%e2%88%9ecell-n785ah-vs-catl-hina-and-its-own-lfp-range-a-sodium-ion-comparison-for-bess/",
+      "published": "2026-10-07T11:45:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Hithium's recent sodium-ion battery and BESS product launch is the latest in a long line of announcements showing an inflection point for the battery chemistry. But how do its new products compare to other sodium-ion systems out there, and to its own LFP offering?"
+    },
+    {
+      "id": "5e26b22bf9a4",
+      "title": "BW ESS starts building 828MWh BESS in Italy as ‘market moves to execution’",
+      "url": "https://www.energy-storage.news/bw-ess-starts-building-828mwh-bess-italy-market-moves-execution/",
+      "published": "2026-10-07T11:10:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operator BW ESS has launched construction on its second large-scale project in Italy in the space of a month, while developers Galileo and Aura Power have progressed portfolios in the country."
+    },
+    {
+      "id": "767e11920e19",
+      "title": "Dutch BESS developer Giga Storage brings gigawatt-hour-scale project strategy to Germany",
+      "url": "https://www.energy-storage.news/dutch-bess-developer-giga-storage-brings-gigawatt-hour-scale-project-strategy-to-germany/",
+      "published": "2026-10-07T08:13:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Having just begun construction on a 2.8GWh BESS in Belgium, Giga Storage has progressed its 1.4GWh project in Germany to the ready-to-build stage."
+    },
+    {
+      "id": "85ee400c37e4",
+      "title": "France’s largest battery goes online",
+      "url": "https://www.pv-magazine.com/2026/10/07/frances-largest-battery-goes-online/",
+      "published": "2026-10-07T07:31:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "TagEnergy has inaugurated a 240 MW/480 MWh battery storage facility in northeastern France, the country’s largest operational BESS. The Tesla Megapack-based project provides grid-balancing services and is jointly owned by TagEnergy and Banque des Territoires. The post France&#8217;s largest battery …"
+    },
+    {
+      "id": "3c5b8780baac",
+      "title": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability",
+      "url": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/",
+      "published": "2026-10-07T07:26:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "After Chinese manufacturer Hithium launched its new 4 MWh sodium-ion BESS alongside its new 785Ah cell for energy storage, in response to questions, Leb Lan, senior product manager, Hithium, spoke with ESS News to discuss not only the technology developments but also where and when a sodium-ion BESS…"
+    },
+    {
+      "id": "0758eb11224d",
+      "title": "The U.S. market is writing its own sodium-ion spec",
+      "url": "https://www.pv-magazine.com/2026/10/07/the-u-s-market-is-writing-its-own-sodium-ion-spec/",
+      "published": "2026-10-07T05:50:17+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sodium-ion batteries are rapidly transitioning from promising alternative to commercial reality in the U.S. energy storage market, but navigating federal domestic content policies, complex FEOC sourcing rules, and stringent UL 9540A safety testing remains crucial for developers seeking to deploy sca…"
+    },
+    {
+      "id": "a9c72422a30e",
+      "title": "EDF Power Solutions Australia refers 800MWh wind-plus-storage site to EPBC Act",
+      "url": "https://www.energy-storage.news/edf-power-solutions-australia-refers-800mwh-wind-plus-storage-site-to-epbc-act/",
+      "published": "2026-10-07T05:13:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EDF Power Solutions Australia has referred a wind-plus-storage project featuring an 800MWh BESS for assessment under Australia's EPBC Act."
+    },
+    {
+      "id": "bc0a3146065a",
+      "title": "Canadian Solar’s e-STORAGE to deliver 200MWh BESS for Australian solar-plus-storage site",
+      "url": "https://www.energy-storage.news/canadian-solars-e-storage-to-deliver-200mwh-bess-for-australian-solar-plus-storage-site/",
+      "published": "2026-10-06T23:37:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "e-STORAGE has signed an agreement to supply and commission a 100MW/200MWh BESS for OX2's Muswellbrook solar-plus-storage site in Australia."
+    },
+    {
+      "id": "9f7d49058f12",
+      "title": "Atmos Renewables closes financing on 1.6GWh Capacity Investment Scheme-backed battery storage system in Australia",
+      "url": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+      "published": "2026-10-06T23:34:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Atmos Renewables has reached financial close on the 400MW/1,600MWh Teebar battery energy storage system (BESS) in Queensland, Australia."
+    },
+    {
+      "id": "54be18862368",
+      "title": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement",
+      "url": "https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/",
+      "published": "2026-10-06T16:01:15+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The first round of awards under the Maryland Next Generation Energy Act fell short of the state&rsquo;s 800-MW target as the PJM Interconnection&rsquo;s capacity crunch continues."
+    },
     {
       "id": "5bb9dd0f090a",
       "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%",
