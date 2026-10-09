@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-08T15:21:58.721575+00:00",
-  "count": 1314,
+  "updated": "2026-10-09T15:04:44.346916+00:00",
+  "count": 1328,
   "items": [
+    {
+      "id": "9ac380d517fc",
+      "title": "BESS Industry Buzz: Optimisation and curtailment in GB, deal-making and revenues across Europe",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-optimisation-curtailment-gb-deal-making-revenues-europe/",
+      "published": "2026-10-09T11:30:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Another edition of our BESS Industry Buzz, taking a look at what’s got industry people talking in the corridors of social media."
+    },
+    {
+      "id": "df91c1ae892c",
+      "title": "Jackery steps into RVs with built-in 2 kW solar and 45 kWh storage",
+      "url": "https://www.pv-magazine.com/2026/10/09/jackery-steps-into-rvs-with-built-in-2-kw-solar-and-45-kwh-storage/",
+      "published": "2026-10-09T10:30:59+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "All-electric trailers already embrace solar and storage, but the work is getting more custom. The post Jackery steps into RVs with built-in 2 kW solar and 45 kWh storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "4b565bfdeda2",
+      "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
+      "url": "https://www.energy-storage.news/south-africa-pursues-4-6gw-of-battery-storage-deployments-in-integrated-resource-plan/",
+      "published": "2026-10-09T10:24:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Africa’s government has put battery storage and power-to-gas technologies at the heart of the national long-term electricity supply and demand strategy."
+    },
+    {
+      "id": "1d81e8fab611",
+      "title": "Europe’s system integrators move quickly on sodium-ion with CATL: ‘surprised if we aren’t deploying it next year’",
+      "url": "https://www.energy-storage.news/europes-system-integrators-move-quickly-on-sodium-ion-with-catl-surprised-if-we-arent-deploying-it-next-year/",
+      "published": "2026-10-09T09:57:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Intilion has just tied up with CATL for sodium-ion BESS deployments in Europe, following Alfen’s similar move in July, while Merus Power tells us it is in the process of integrating with the OEM’s new product."
+    },
+    {
+      "id": "83ab6d7f8ee6",
+      "title": "European storage inventories on the rise",
+      "url": "https://www.pv-magazine.com/2026/10/09/european-storage-inventories-on-the-rise/",
+      "published": "2026-10-09T09:52:35+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In an interview with pv magazine, Ali Arfa, analyst at EUPD Research, said China’s dominance of the global battery supply chain is unlikely to change significantly over the next two years. He expects rising inventories to put pressure on residential and C&#38;I storage prices in Europe, while utilit…"
+    },
+    {
+      "id": "28f5aab08bff",
+      "title": "Plug-in PV is growing – are regulations keeping pace?",
+      "url": "https://www.pv-magazine.com/2026/10/09/plug-in-pv-is-growing-are-regulations-keeping-pace/",
+      "published": "2026-10-09T09:39:15+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Plug-in solar PV and compact battery storage are expanding access to solar energy, but differing national regulations raise challenges around electrical safety, certification and consumer protection. IEA PVPS will host two free online seminars on 19 and 28 October 2026 to compare international appro…"
+    },
+    {
+      "id": "2e1c0ba3a404",
+      "title": "PowerChina switches on 1 GW PV-CSP hybrid plant in northwestern China",
+      "url": "https://www.pv-magazine.com/2026/10/09/powerchina-switches-on-1-gw-pv-csp-hybrid-plant-in-northwestern-china/",
+      "published": "2026-10-09T09:32:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "PowerChina has completed grid connection of a 1 GW hybrid solar project in Qinghai province, China. The facility combines 900 MW of solar PV capacity with a 100 MW concentrated solar power (CSP) plant featuring eight hours of molten-salt thermal storage and a 20 MW electric heater to store surplus P…"
+    },
+    {
+      "id": "f80f817a95c2",
+      "title": "Finland: BESS acquisition, construction and optimisation news from Usva Energia, Nala Renewables, Centrica and Olana Energy",
+      "url": "https://www.energy-storage.news/finland-bess-usva-energia-nala-renewables-centrica-olana-energy-acquisition-construction-optimisation-news/",
+      "published": "2026-10-09T09:21:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Finland is the Nordic region’s most-talked-about market for the moment, with project deals and other battery storage development activity from local and international players."
+    },
+    {
+      "id": "b66f32dedc68",
+      "title": "IEA: Thermal energy storage key to industrial heat electrification that could cut EU gas demand by 35 bcm annually",
+      "url": "https://www.energy-storage.news/iea-thermal-energy-storage-key-to-industrial-heat-electrification-that-could-cut-eu-gas-demand-by-35-bcm-annually/",
+      "published": "2026-10-09T09:21:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Electrifying low-temperature industrial heat and steam processes with renewables could reduce European Union natural gas consumption by 35 billion cubic metres-per-year, according to a report from the International Energy Agency (IEA)."
+    },
+    {
+      "id": "651519ab4858",
+      "title": "South Korea unveils US$475 billion Green Transformation industrial strategy",
+      "url": "https://www.energy-storage.news/south-korea-unveils-us475-billion-green-transformation-industrial-strategy/",
+      "published": "2026-10-09T04:08:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Korea’s Ministry of Climate, Energy and Environment (MCEE) has unveiled its KRW1,000 trillion (US$747 billion) Korean Green Transformation (K-GX) industrial strategy."
+    },
+    {
+      "id": "1d3bad65c866",
+      "title": "Mint Renewables wins planning approval for 800MWh battery storage system in Western Australia",
+      "url": "https://www.energy-storage.news/mint-renewables-wins-planning-approval-for-800mwh-battery-storage-system-in-western-australia/",
+      "published": "2026-10-09T03:21:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Mint Renewables has received planning approval for an 800MWh battery energy storage system (BESS) near Kojonup in Western Australia."
+    },
+    {
+      "id": "e02b3c93e7a1",
+      "title": "Tasmania’s ‘Battery of the Nation’ plan moves closer as Marinus Link holds sod turn in Australia",
+      "url": "https://www.energy-storage.news/tasmanias-battery-of-the-nation-plan-moves-closer-as-marinus-link-holds-sod-turn-in-australia/",
+      "published": "2026-10-09T00:12:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Marinus Link held a sod turning ceremony in North West Tasmania to mark the start of expanded construction."
+    },
     {
       "id": "50199e70f665",
       "title": "South Africa to procure 4.6 GW of battery storage",
@@ -10,6 +118,15 @@
       "source": "PV Magazine",
       "lang": "en",
       "summary": "South Africa is preparing large-scale procurement of battery storage facilities and gas-fired power plants in a bid to address curtailment and strengthen reliable electricity supply. The post South Africa to procure 4.6 GW of battery storage appeared first on pv magazine Global."
+    },
+    {
+      "id": "1a0aaa8dac87",
+      "title": "4-hour storage cheaper than gas peakers across global markets: WoodMac",
+      "url": "https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/",
+      "published": "2026-10-08T14:04:37+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "In North America, data centers are boosting the long-term investment case for energy storage and renewables as gas turbine backlogs and rising fuel volatility drive up peaking costs, according to a Thursday note from Wood Mackenzie."
     },
     {
       "id": "5132c361c617",
@@ -55,6 +172,15 @@
       "source": "Energy Storage News",
       "lang": "en",
       "summary": "Annual battery energy storage system (BESS) failures per-deployed-GWh declined 99% globally between 2018 and 2025, as installed BESS capacity grew exponentially."
+    },
+    {
+      "id": "2206d520711c",
+      "title": "Global BESS failure rates declined 98% between 2018 and 2025",
+      "url": "https://www.energy-storage.news/global-bess-failure-rates-declined-98-between-2018-and-2025/",
+      "published": "2026-10-08T08:48:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Annual battery energy storage system (BESS) failures per-deployed-GWh declined 98% globally between 2018 and 2025, as installed BESS capacity grew exponentially."
     },
     {
       "id": "866cec5c0fc1",
