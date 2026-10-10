@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-09T15:04:44.346916+00:00",
-  "count": 1328,
+  "updated": "2026-10-10T14:19:37.925752+00:00",
+  "count": 1332,
   "items": [
+    {
+      "id": "a107bef078e6",
+      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
+      "url": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/",
+      "published": "2026-10-10T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Austria's final solar subsidy round of the year attracted 43,300 applications in its first 10 minutes, far exceeding demand in the previous round. The government is now preparing to overhaul the scheme in 2027, shifting its focus from PV installations to battery storage and smart energy management s…"
+    },
+    {
+      "id": "801004a8dfef",
+      "title": "Why leadership decides Italy’s energy security",
+      "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security/",
+      "published": "2026-10-10T08:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "At Solar &#38; Storage Live Italia, panels organised by Women in Solar+ Europe (WiSEu) and Solar+ Leaders argued that decisions made in a project's first months, and the inclusive teams built to make them, matter as much to energy security as megawatts and capital. The post Why leadership decides It…"
+    },
+    {
+      "id": "514445e7f7d8",
+      "title": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence",
+      "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-indias-clean-energy-future-depends-on-storage-intelligence/",
+      "published": "2026-10-10T06:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The battery creates flexibility. The intelligence behind it determines how much of that flexibility the grid can harness. The next clean energy benchmark for India, therefore, might not just be a new number of gigawatts. It might be the ability to get the maximum out of every gigawatt. The post Beyo…"
+    },
+    {
+      "id": "f355b5fa0322",
+      "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+      "url": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
+      "published": "2026-10-09T14:27:49+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW&nbsp;gas-fired uprate will be online by mid-2029."
+    },
     {
       "id": "9ac380d517fc",
       "title": "BESS Industry Buzz: Optimisation and curtailment in GB, deal-making and revenues across Europe",
