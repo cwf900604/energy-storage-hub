@@ -1,7 +1,133 @@
 {
-  "updated": "2026-10-11T14:45:06.324858+00:00",
-  "count": 1332,
+  "updated": "2026-10-12T17:31:55.248224+00:00",
+  "count": 1347,
   "items": [
+    {
+      "id": "9bbd4a872d89",
+      "title": "Chile: Engie commissions 802MWh BESS, Grenergy finances  1,769MWh",
+      "url": "https://www.energy-storage.news/chile-engie-commissions-802mwh-battery-storage-grenergy-finances-1769mwh-bess/",
+      "published": "2026-10-12T11:53:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Power group Engie has put an 142MW/802MWh BESS project in Chile into operation, while IPP Grenergy has secured financing for the fifth and final stage of its Oasis de Atacama solar-plus-storage project."
+    },
+    {
+      "id": "c7ccbeee268a",
+      "title": "Eskom kicks off tender for 6 GW of renewables-plus-storage",
+      "url": "https://www.pv-magazine.com/2026/10/12/eskom-kicks-off-tender-for-6-gw-of-renewables-plus-storage/",
+      "published": "2026-10-12T11:38:47+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "South African utility Eskom has launched a qualification process to select strategic partners for up to 6 GW of renewable energy and storage projects. The portfolio will include at least 2 GW of solar and 1 GW/4 GWh of battery storage, with selected developers joining a five-year co-development and …"
+    },
+    {
+      "id": "cae404a9bf84",
+      "title": "Energy Dome opens CO2 battery manufacturing plant in Italy",
+      "url": "https://www.pv-magazine.com/2026/10/12/energy-dome-opens-co2-battery-manufacturing-plant-in-italy/",
+      "published": "2026-10-12T10:08:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Energy Dome’s new manufacturing plant will supply components for long-duration energy storage (LDES) projects in India, the United States and Ireland. The post Energy Dome opens CO2 battery manufacturing plant in Italy appeared first on pv magazine Global."
+    },
+    {
+      "id": "6bae8c28634e",
+      "title": "Voltus raises US$225 million in Series D funding round to expand VPP service in US and Canada",
+      "url": "https://www.energy-storage.news/voltus-raises-us225-million-in-series-d-funding-round-to-expand-vpp-service-in-us-and-canada/",
+      "published": "2026-10-12T10:04:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Distributed energy resource (DER) platform Voltus has raised US$225 million in an oversubscribed Series D financing round and is looking to expand in the US and Canada."
+    },
+    {
+      "id": "295f2cd77c94",
+      "title": "Battery storage is scaling fast. Here’s how utilities can trust it to perform.",
+      "url": "https://www.utilitydive.com/spons/battery-storage-is-scaling-fast-heres-how-utilities-can-trust-it-to-perfo/831960/",
+      "published": "2026-10-12T09:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Battery storage is expanding rapidly, reshaping power systems and supporting a more flexible grid."
+    },
+    {
+      "id": "b920fef51030",
+      "title": "C&I storage the ‘sleeping giant waking up’, says WoodMac",
+      "url": "https://www.pv-magazine.com/2026/10/12/ci-storage-the-sleeping-giant-waking-up-says-woodmac/",
+      "published": "2026-10-12T06:26:29+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Global energy storage outlook will see a seven-fold growth by 2035 passing 7 TWh, with falling costs and policy support accelerating battery storage momentum in emerging and advancing markets The post C&amp;I storage the ‘sleeping giant waking up’, says WoodMac appeared first on pv magazine Global."
+    },
+    {
+      "id": "0ce8e8e3b3e9",
+      "title": "Batteries beat gas peakers on cost globally, but U.S. faces trade headwinds",
+      "url": "https://www.pv-magazine.com/2026/10/12/batteries-beat-gas-peakers-on-cost-globally-but-u-s-faces-trade-headwinds/",
+      "published": "2026-10-12T06:01:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Four-hour storage is now cheaper than open-cycle gas in 43 modeled markets, though tariffs threaten near-term U.S. gains, said a report from Wood Mackenzie. The post Batteries beat gas peakers on cost globally, but U.S. faces trade headwinds appeared first on pv magazine Global."
+    },
+    {
+      "id": "0203745eb577",
+      "title": "Bus Buyers Have Overwhelmingly Chosen Battery-Electric",
+      "url": "https://cleantechnica.com/2026/10/12/zero-emission-bus-procurement-battery-electric/",
+      "published": "2026-10-12T05:35:47+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Zero-emission bus procurement has moved beyond the stage where battery-electric and hydrogen fuel-cell buses should be treated as two parallel technologies waiting for the market to decide between them. Transit agencies have now spent years operating both, rebuilding depots, installing charging and …"
+    },
+    {
+      "id": "2d3d61f80efc",
+      "title": "ASEAN Centre for Energy, IEA say Southeast Asia’s battery storage adoption barriers are mostly regulatory, not technical",
+      "url": "https://www.energy-storage.news/asean-centre-for-energy-iea-say-southeast-asias-battery-storage-adoption-barriers-are-mostly-regulatory-not-technical/",
+      "published": "2026-10-12T02:33:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ACE and the IEA say the main obstacles to battery energy storage system (BESS) deployment in Southeast Asia are policy and market rules."
+    },
+    {
+      "id": "28eea0678873",
+      "title": "Australia’s Waratah Super Battery gets extended term and new revenue model as trading profits flow to consumers",
+      "url": "https://www.energy-storage.news/australias-waratah-super-battery-gets-extended-term-and-new-revenue-model-as-trading-profits-flow-to-consumers/",
+      "published": "2026-10-12T02:22:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Australian Energy Regulator (AER) has remade two revenue determinations for the Waratah Super Battery in New South Wales."
+    },
+    {
+      "id": "b068a6e651eb",
+      "title": "Australia home battery installations surge 52% to 276,011 in H1 2026, outpacing rooftop solar growth",
+      "url": "https://www.energy-storage.news/australia-home-battery-installations-surge-52-to-276011-in-h1-2026-outpacing-rooftop-solar-growth/",
+      "published": "2026-10-12T02:05:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australians installed 276,011 home battery storage systems in the first half of 2026, 52% more than in the previous six months."
+    },
+    {
+      "id": "3c5195780759",
+      "title": "Battery Swap Uses Fewer Batteries Than You Think",
+      "url": "https://cleantechnica.com/2026/10/10/battery-swap-uses-fewer-batteries-than-you-think/",
+      "published": "2026-10-11T01:41:38+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "When I wrote an article a while ago about Janus Electric, an electric truck company in Australia that featured diesel semi electric conversions and battery swap, I put it away in my mind, until I happened upon an interview with Janus CEO Ben Hutt. The interviewer asked how much extra ... [continued]…"
+    },
+    {
+      "id": "3978773f7592",
+      "title": "China & EU Make Deal to Cut Flood of Hybrids into EU",
+      "url": "https://cleantechnica.com/2026/10/10/china-eu-make-deal-to-cut-flood-of-hybrids-into-eu/",
+      "published": "2026-10-10T18:45:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Over the course of a few years, China became the absolute juggernaut of the world&#8217;s electric vehicle industry. That includes full electrics (BEVs) and plugin hybrids (PHEVs). Regarding the latter, Chinese companies added a lot more battery capacity and range to PHEVs while improving efficiency…"
+    },
+    {
+      "id": "de3d81098616",
+      "title": "NIO Performs 1.2 Million Battery Swaps in Just 7 Days",
+      "url": "https://cleantechnica.com/2026/10/10/nio-performs-1-2-million-battery-swaps-in-just-7-days/",
+      "published": "2026-10-10T13:59:46+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "NIO is well known for having led the world into a completely new, much bigger era of EV battery swapping. Yes, of course, most of the industry isn&#8217;t using battery swapping, but NIO has brought the concept a totally new level, and CATL and some others have jumped in more ... [continued] The pos…"
+    },
     {
       "id": "a107bef078e6",
       "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
@@ -28,6 +154,15 @@
       "source": "PV Magazine",
       "lang": "en",
       "summary": "The battery creates flexibility. The intelligence behind it determines how much of that flexibility the grid can harness. The next clean energy benchmark for India, therefore, might not just be a new number of gigawatts. It might be the ability to get the maximum out of every gigawatt. The post Beyo…"
+    },
+    {
+      "id": "c440029f42bc",
+      "title": "Falco Construction In UK Takes Delivery of 15 Takeuchi Electric Mini Excavators",
+      "url": "https://cleantechnica.com/2026/10/09/falco-construction-in-uk-takes-delivery-of-15-takeuchi-electric-mini-excavators/",
+      "published": "2026-10-09T18:36:38+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Is the construction industry ready for battery powered machinery like front end loaders, backhoes, and excavators? Falco Construction in the UK recently completed a two year trial of two TB20e electric excavators manufactured by Takeuchi. That trial convinced Falco those machines were fully capable …"
     },
     {
       "id": "f355b5fa0322",
