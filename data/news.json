@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-12T17:31:55.248224+00:00",
-  "count": 1347,
+  "updated": "2026-10-13T15:41:39.326059+00:00",
+  "count": 1360,
   "items": [
+    {
+      "id": "27c5096215c2",
+      "title": "Leapting launches autonomous forklift for solar module transport",
+      "url": "https://www.pv-magazine.com/2026/10/13/leapting-launches-autonomous-forklift-for-solar-module-transport/",
+      "published": "2026-10-13T12:35:27+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese robotics manufacturer has introduced an autonomous tracked forklift capable of transporting solar module pallets weighing up to 3,000 kg. The battery-powered machine features a maximum lifting height of 3 m, a 30-degree climbing capability and a navigation system combining GNSS-RTK, lase…"
+    },
+    {
+      "id": "427b02a649cb",
+      "title": "Exide launches modular 125 kW/261 kWh battery for C&I applications",
+      "url": "https://www.pv-magazine.com/2026/10/13/exide-launches-modular-125-kw-261-kwh-battery-for-ci-applications/",
+      "published": "2026-10-13T12:01:23+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The French manufacturer has introduced a new lithium iron phosphate (LFP) battery featuring an integrated 125 kW power conversion system, 261 kWh of storage capacity and a nominal round-trip efficiency of 86%. The post Exide launches modular 125 kW/261 kWh battery for C&amp;I applications appeared f…"
+    },
+    {
+      "id": "c66454147031",
+      "title": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system",
+      "url": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system/",
+      "published": "2026-10-13T11:05:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "While it is known that batteries are indispensable for the future energy system dominated by solar PV, they are still seen as a bottleneck technology mostly related to raw material supply. Sodium-ion batteries can resolve this issue. Batteries are more than a stationary storage technology, also with…"
+    },
+    {
+      "id": "8cf6b285583c",
+      "title": "‘You need to get comfortable with regulatory reform as a known risk’: Battery Asset Management Summit UK & Ireland kicks off",
+      "url": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
+      "published": "2026-10-13T10:43:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Bankability &#038; offtake and regulatory &#038; system reform were the key talking points on the opening panel of the Battery Asset Management Summit UK &#038; Ireland 2026 which runs today and tomorrow (13-14 October)."
+    },
+    {
+      "id": "22dad5247078",
+      "title": "European PPA prices rise 5% in September",
+      "url": "https://www.pv-magazine.com/2026/10/13/european-ppa-prices-rise-5-in-september/",
+      "published": "2026-10-13T10:42:55+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "European PPA prices rose 5% in September, driven by higher forward electricity and gas prices, while Spain and Portugal recorded declines. Contracting activity rebounded, with 25 deals totaling 1.2 GW, alongside growing interest in hybrid PPAs and battery storage agreements. The post European PPA pr…"
+    },
+    {
+      "id": "db4bda1d65f2",
+      "title": "Foss & Company closes US$58 million tax equity deal for GridStor’s Texas BESS project",
+      "url": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
+      "published": "2026-10-13T10:18:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US tax equity syndicator Foss &#038; Company has closed a US$58 million partnership flip transaction to finance an energy storage project in Hidalgo County, Texas, developed by GridStor."
+    },
+    {
+      "id": "362e6f65ebd4",
+      "title": "Clearway Energy increases Utah ‘Energy Centre’ capacity to 2,120MWh",
+      "url": "https://www.energy-storage.news/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh/",
+      "published": "2026-10-13T10:14:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Independent power producer (IPP) Clearway Energy has added 210MW of energy storage capacity to its Honeycomb Energy Centre fleet in Southern Utah, US."
+    },
+    {
+      "id": "a40d8793fc2a",
+      "title": "Neoen, BW ESS and MN8 back efforts to standardise BESS procurement through new Energy Storage Contract Alliance",
+      "url": "https://www.energy-storage.news/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance/",
+      "published": "2026-10-13T09:29:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Big names in the downstream battery storage market have signed up to join an initiative aimed at simplifying BESS procurement."
+    },
+    {
+      "id": "5415c532a62f",
+      "title": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe",
+      "url": "https://www.pv-magazine.com/2026/10/13/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe-2/",
+      "published": "2026-10-13T09:23:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A detailed look at Maxxen’s advanced BESS factory from an on-the-ground tour. The post Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe appeared first on pv magazine Global."
+    },
+    {
+      "id": "dff2f4778329",
+      "title": "Wärtsilä energy storage JV Valo in US domestic content manufacturing discussions with ‘strong players’",
+      "url": "https://www.energy-storage.news/wartsila-energy-storage-jv-valo-us-domestic-content-manufacturing-discussions-strong-players/",
+      "published": "2026-10-13T08:28:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Valo, the new joint venture formed as a continuation of Wärtsilä’s energy storage business, is weighing up investing in the US supply chain, including factories."
+    },
+    {
+      "id": "59aabcd5ff7a",
+      "title": "Samsung C&T refers 800MWh Darnum BESS in Victoria’s Gippsland region to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/samsung-ct-refers-800mwh-darnum-bess-in-victorias-gippsland-region-to-australias-epbc-act/",
+      "published": "2026-10-13T02:56:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Samsung C&#038;T’s Australian renewables arm has referred an 800MWh battery energy storage system (BESS) in Victoria’s Gippsland region to the federal government under Australia’s Environment Protection and Biodiversity Conservation (EPBC) Act."
+    },
+    {
+      "id": "057c7e8a32c3",
+      "title": "New South Wales BESS earn nearly AU$6 million as two-hour ‘extreme’ price event sweeps Australia’s energy market",
+      "url": "https://www.energy-storage.news/new-south-wales-bess-earn-nearly-au6-million-as-two-hour-extreme-price-event-sweeps-australias-energy-market/",
+      "published": "2026-10-13T02:38:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery energy storage systems (BESS) in Australia’s New South Wales (NSW) earned an estimated AU$5.63 million (US$3.88 million) in two hours on 12 October, as wholesale electricity prices peaked at AU$23,107/MWh."
+    },
+    {
+      "id": "e5f1bb864e20",
+      "title": "Pebble Upgrades the 2027 Flow, Turning It Into A Microgrid To Power Your Adventures & Your Home,",
+      "url": "https://cleantechnica.com/2026/10/12/pebble-upgrades-the-2027-flow-turning-it-into-a-microgrid-to-power-your-adventures-your-home/",
+      "published": "2026-10-12T19:24:35+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Pebble was one of the first fifth-wheel manufacturers to truly embrace the promise of automotive-grade lithium batteries, rooftop solar, and public EV chargers bundled into a tech-centric living space. That&#8217;s right up our alley, which is why we cover them regularly here on CleanTechnica. They …"
+    },
     {
       "id": "9bbd4a872d89",
       "title": "Chile: Engie commissions 802MWh BESS, Grenergy finances  1,769MWh",
