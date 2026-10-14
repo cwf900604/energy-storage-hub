@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-13T15:41:39.326059+00:00",
-  "count": 1360,
+  "updated": "2026-10-14T13:26:07.142130+00:00",
+  "count": 1369,
   "items": [
+    {
+      "id": "fc275ba91d6c",
+      "title": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark",
+      "url": "https://www.pv-magazine.com/2026/10/14/modi-energy-launches-zero-upfront-solar-plus-storage-offer-in-denmark/",
+      "published": "2026-10-14T12:48:06+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Emaldo-backed Modi Energy says it will install, own, and operate rooftop solar and home batteries at no upfront cost to Danish households, funding a guaranteed 20% bill reduction through energy optimization and participation in power and flexibility markets. The post Modi Energy launches zero-upfron…"
+    },
+    {
+      "id": "5c97788674b2",
+      "title": "Illinois seeks feedback after coming up short in large-scale battery storage procurement",
+      "url": "https://www.energy-storage.news/illinois-seeks-feedback-after-coming-up-short-in-large-scale-battery-storage-procurement/",
+      "published": "2026-10-14T12:32:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Illinois Power Agency (IPA) is seeking stakeholder feedback on its summer procurement of 600MW of energy storage projects in the US state, after falling short by 438MW."
+    },
+    {
+      "id": "d11e52eaa5e3",
+      "title": "Unico launches 330 kW bidirectional inverter",
+      "url": "https://www.pv-magazine.com/2026/10/14/unico-launches-330-kw-bidirectional-inverter/",
+      "published": "2026-10-14T11:56:22+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Unico GTI supports solar generation, energy storage or emerging high-power loads in a compact, rack-mounted unit, made in the USA. The post Unico launches 330 kW bidirectional inverter appeared first on pv magazine Global."
+    },
+    {
+      "id": "c1d553d176bf",
+      "title": "LTSAs under scrutiny: what BESS owners really need from their contracts",
+      "url": "https://www.energy-storage.news/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts/",
+      "published": "2026-10-14T11:27:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A panel of BESS industry experts discussed the ins and outs of long-term service agreements (LTSAs) at the Battery Asset Management Summit UK &#038; Ireland 2026 yesterday."
+    },
+    {
+      "id": "bb9c4f743b43",
+      "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
+      "url": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
+      "published": "2026-10-14T08:48:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project."
+    },
+    {
+      "id": "280228db0c9b",
+      "title": "Europe’s battery market isn’t ready for second-life BESS business models yet",
+      "url": "https://www.energy-storage.news/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet/",
+      "published": "2026-10-14T05:37:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Europe is no longer betting on second-life repurposing of EV batteries for stationary BESS applications, and that is not a bad thing, argues David Oudsandji, CEO of Voltfang."
+    },
+    {
+      "id": "b4ca307c153b",
+      "title": "‘Mexico’s mixed investment scheme provides clean energy investors with certainty’",
+      "url": "https://www.energy-storage.news/mexicos-mixed-investment-scheme-provides-clean-energy-investors-with-certainty/",
+      "published": "2026-10-14T02:15:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alberto Valenzuela discusses ahead of Energy Storage Summit Latin America about Mexico's growing interest in renewables and energy storage, and the factors driving this growth."
+    },
+    {
+      "id": "129c6076ea3c",
+      "title": "Merchant exposure divides BESS investors in Japan, Singapore and Australia, DLA Piper finds",
+      "url": "https://www.energy-storage.news/merchant-exposure-divides-bess-investors-in-japan-singapore-and-australia-dla-piper-finds/",
+      "published": "2026-10-14T01:44:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "DLA Piper finds merchant BESS appeal splits Japan, Singapore and Australia, with regulatory certainty, grid access and returns shaping investor views."
+    },
+    {
+      "id": "86967c856bc4",
+      "title": "Battery system failures fell 98% in 7 years, but older systems need special care: report",
+      "url": "https://www.utilitydive.com/news/battery-system-failures-fell-98-in-7-years-but-older-systems-need-special/832882/",
+      "published": "2026-10-13T17:35:15+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The Electric Power Research Institute analysis found a dramatic drop in energy storage system failures from 2018 to 2025 amid a host of technology and project improvements. &ldquo;Early-vintage&rdquo; systems may require retrofits, however."
+    },
     {
       "id": "27c5096215c2",
       "title": "Leapting launches autonomous forklift for solar module transport",
