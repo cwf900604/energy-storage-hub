@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-14T13:26:07.142130+00:00",
-  "count": 1369,
+  "updated": "2026-10-15T13:10:45.568504+00:00",
+  "count": 1381,
   "items": [
+    {
+      "id": "6ad52d08d3e2",
+      "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
+      "url": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
+      "published": "2026-10-15T11:34:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage owner-operator Nightpeak Energy has reached financial close and commercial operation on its 150MW/300MWh Bocanova 2 battery storage project in Brazoria County, Southeast Texas."
+    },
+    {
+      "id": "8db36944af92",
+      "title": "New zoning rules and moratoriums for US BESS and data centres",
+      "url": "https://www.energy-storage.news/new-zoning-rules-and-moratoriums-for-us-bess-and-data-centres/",
+      "published": "2026-10-15T11:33:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "From the Midwest to New York, local and state governments are introducing new zoning rules and restrictions on BESS and data centre projects."
+    },
+    {
+      "id": "f5954d28f2e6",
+      "title": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS",
+      "url": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
+      "published": "2026-10-15T11:10:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister."
+    },
+    {
+      "id": "815eb76f040e",
+      "title": "‘We are taking appropriate action to defend IP rights’: Energy Dome & Exa Energy’s CO2 storage tech compared as 1GWh China project goes online",
+      "url": "https://www.energy-storage.news/we-are-taking-appropriate-action-to-defend-ip-rights-energy-dome-exa-energys-co2-storage-tech-compared-as-1gwh-china-project-goes-online/",
+      "published": "2026-10-15T08:34:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "How similar is the technology of Exa Energy, which just connected a 100MW/1GWh carbon dioxide-based energy storage system to the grid in China, to that of Energy Dome?"
+    },
+    {
+      "id": "c317687d16cc",
+      "title": "World falls well short on commitment to energy storage despite increased ambitions, think tank Ember says",
+      "url": "https://www.energy-storage.news/world-falls-well-short-on-commitment-to-energy-storage-despite-increased-ambitions-think-tank-ember-says/",
+      "published": "2026-10-15T08:17:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Insufficient progress has been made towards the Energy Storage and Grids Pledge, endorsed by dozens of countries at COP29 two years ago."
+    },
+    {
+      "id": "8eeffb22721a",
+      "title": "Mova launches residential battery with integrated EV charging management",
+      "url": "https://www.pv-magazine.com/2026/10/15/mova-launches-residential-battery-with-integrated-ev-charging-management/",
+      "published": "2026-10-15T06:13:28+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Mova LumeGret S5000 residential energy storage system combines solar power management, expandable battery storage, and electric vehicle charging. The system supports up to 4.8 kW of solar input and can be paired with a 7 kW EV charger. The post Mova launches residential battery with integrated E…"
+    },
+    {
+      "id": "19180dd3a0db",
+      "title": "Australia: e-STORAGE commissions 960MWh BESS in South Australia for CIP; Gotion delivers for Lightsource hybrid in Queensland",
+      "url": "https://www.energy-storage.news/australia-e-storage-commissions-960mwh-bess-in-south-australia-for-cip-gotion-delivers-for-lightsource-hybrid-in-queensland/",
+      "published": "2026-10-15T02:46:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "960MWh Summerfield BESS in South Australia enters commissioning, while Gotion starts building the 843MWh Lower Wonga project in Queensland."
+    },
+    {
+      "id": "1d8f8f90ca59",
+      "title": "Australia’s ASL opens consultation on 1.5GW firming tender as post-coal reliability gaps appear in New South Wales",
+      "url": "https://www.energy-storage.news/australias-asl-opens-consultation-on-1-5gw-firming-tender-as-post-coal-reliability-gaps-appear-in-new-south-wales/",
+      "published": "2026-10-15T02:19:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ASL has set a target of 1,500MW of new firming infrastructure in NSW by the end of May 2033 and opened a consultation on the tender."
+    },
+    {
+      "id": "01aad9bc67c8",
+      "title": "Green GSM Taxi Service Now Available in Los Angeles",
+      "url": "https://cleantechnica.com/2026/10/14/green-gsm-taxi-service-now-available-in-los-angeles/",
+      "published": "2026-10-14T21:49:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "PUBLIC transportation company Green SM has entered North America with the official launch of an all-electric taxi service in Los Angeles, California. The move turns the United States into the ninth market for the Vietnamese transport provider. The platform operates entirely on VinFast battery-electr…"
+    },
+    {
+      "id": "3896d9fe6232",
+      "title": "Energy Storage Awards 2026: Shortlist reveal kicks off countdown to the industry’s big night out",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-shortlist-reveal-kicks-off-countdown-to-the-industrys-big-night-out/",
+      "published": "2026-10-14T14:43:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The expert judges’ difficult decisions to select winners from hundreds of worthy entries for the Energy Storage Awards 2026 are almost finalised."
+    },
+    {
+      "id": "29fb5238c732",
+      "title": "The People Speak: We Want Energy Storage, Not Data Centers",
+      "url": "https://cleantechnica.com/2026/10/14/energy-storage-sunrun-distributed-us-rooftop-solar/",
+      "published": "2026-10-14T14:22:09+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The leading US rooftop solar firm Sunrun has made a sharp pivot into the energy storage field, enabling more households to participate in money-saving virtual power plants whether or not they have rooftop solar panels. The post The People Speak: We Want Energy Storage, Not Data Centers appeared firs…"
+    },
+    {
+      "id": "c1de2b15fa6f",
+      "title": "Battery-powered trains coming to Chicago: a first look",
+      "url": "https://www.utilitydive.com/news/stadler-metra-chicago-battery-electric-train/832993/",
+      "published": "2026-10-14T14:17:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Commuter rail systems like Chicago's Metra are exploring battery-electric trains to increase service while reducing diesel exhaust pollution and noise."
+    },
     {
       "id": "fc275ba91d6c",
       "title": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark",
