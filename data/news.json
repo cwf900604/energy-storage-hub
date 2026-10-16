@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-15T13:10:45.568504+00:00",
-  "count": 1381,
+  "updated": "2026-10-16T13:04:56.771847+00:00",
+  "count": 1388,
   "items": [
+    {
+      "id": "c89de6ebfefb",
+      "title": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction",
+      "url": "https://www.energy-storage.news/germany-roundup-enertrag-enlight-vattenfall-fluence-giga-storage-4-hour-batteries/",
+      "published": "2026-10-16T11:26:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A trio of large-scale 4-hour BESS projects in Germany have progressed towards construction, from Enertrag and Enlight, Vattenfall and Fluence, and Giga Storage."
+    },
+    {
+      "id": "fdd3eac1e35d",
+      "title": "Vikram Solar subsidiary to build 7.5GWh BESS assembly plant in Tamil Nadu, India",
+      "url": "https://www.energy-storage.news/vikram-solar-subsidiary-to-build-7-5gwh-bess-assembly-plant-in-tamil-nadu-india/",
+      "published": "2026-10-16T05:16:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "VSL PowerHive, a Vikram Solar subsidiary, announced a 7.5GWh BESS assembly plant in Oragadam, near Chennai, Tamil Nadu."
+    },
+    {
+      "id": "b3a382c62b23",
+      "title": "AGL refers 500MWh Abermain BESS in Queensland to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/agl-refers-500mwh-abermain-bess-in-queensland-to-australias-epbc-act/",
+      "published": "2026-10-16T04:56:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian energy company AGL has referred a 500MWh battery energy storage system (BESS) in Queensland to the federal government under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act."
+    },
+    {
+      "id": "2f74553cab01",
+      "title": "PJM, ERCOT, and SWPP All Set Peak Load Records This Summer",
+      "url": "https://cleantechnica.com/2026/10/15/pjm-ercot-and-swpp-all-set-peak-load-records-this-summer/",
+      "published": "2026-10-16T03:25:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Three regional transmission organizations (RTOs) set records for peak hourly load this past summer, according to data reported on Form EIA-930 and presented in the Hourly Electric Grid Monitor: PJM peaked at 162.6 gigawatts (GW) on July 2, 2026, 1.3% higher than the pre-2026 peak of 160.6 GW on June…"
+    },
+    {
+      "id": "c38eb2c59568",
+      "title": "My Family & Friends Go Electric",
+      "url": "https://cleantechnica.com/2026/10/15/my-family-friends-go-electric/",
+      "published": "2026-10-16T00:52:29+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "This is our latest family member EV. It&#8217;s my third daughter’s used 2023 Hyundai IONIQ 5 in Charlotte, North Carolina. It’s been a progression: It started with a couple of family pioneers (my brother and me) first dipping a toe in the water in 2014–2015 with early short-range, small-battery EVs…"
+    },
+    {
+      "id": "acce5db4a7f1",
+      "title": "20.4GWh grid-scale BESS deployed globally in September, up 61%; YTD installs up 43%",
+      "url": "https://www.energy-storage.news/20-4gwh-grid-scale-bess-deployed-globally-in-september-up-61-ytd-installs-up-43/",
+      "published": "2026-10-15T14:54:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Around 20.4GWh of grid-scale battery energy storage systems (BESS) came online globally last month, bringing the year-to-date (YTD) total to 208GWh."
+    },
+    {
+      "id": "fa72ddfa23f9",
+      "title": "Best Buy pilots battery-powered vehicles at California distribution sites",
+      "url": "https://www.utilitydive.com/news/best-buy-pilots-battery-powered-vehicles-at-california-distribution-sites/833125/",
+      "published": "2026-10-15T14:32:12+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The retailer deployed electric yard switchers as part of its efforts to curb emissions and will gauge future deployment potential across its supply chain, it said."
+    },
     {
       "id": "6ad52d08d3e2",
       "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
