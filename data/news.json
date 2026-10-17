@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-16T13:04:56.771847+00:00",
-  "count": 1388,
+  "updated": "2026-10-17T12:01:35.784062+00:00",
+  "count": 1393,
   "items": [
+    {
+      "id": "df117ef347e7",
+      "title": "France to ease grid connection rules for solar-plus-storage projects up to 25 MW",
+      "url": "https://www.pv-magazine.com/2026/10/17/france-to-ease-grid-connection-rules-for-solar-plus-storage-projects-up-to-25-mw/",
+      "published": "2026-10-17T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "France plans to ease grid connection rules for solar-plus-storage projects with installed capacity of up to 25 MW, provided grid injection does not exceed 17 MW. The measure is part of a broader government initiative to accelerate electrification and improve electricity demand flexibility. The post …"
+    },
+    {
+      "id": "e7ec214b649a",
+      "title": "Franco-German Car Deal A ‘Historic Mistake’ That Weakens Climate Ambition And Europe’s Car Industry",
+      "url": "https://cleantechnica.com/2026/10/16/franco-german-car-deal-a-historic-mistake-that-weakens-climate-ambition-and-europes-car-industry/",
+      "published": "2026-10-17T00:06:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Deal to loosen the EU’s car CO₂ standards and IAA requirements a ‘historic mistake’ that puts Europe’s position in the global EV and battery race in jeopardy. T&#38;E has labelled the French and German government’s agreement to weaken the EU’s car CO₂ standards and IAA requirements as a ‘historic mi…"
+    },
+    {
+      "id": "5731727807ac",
+      "title": "Standardisation, third-party choices, and outcomes: Arenko’s Dan Taylor on building a BESS analytics strategy",
+      "url": "https://www.energy-storage.news/standardisation-third-party-choices-outcomes-arenks-dan-taylor-building-bess-analytics-strategy/",
+      "published": "2026-10-16T14:29:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Dan Taylor, director of engineering at optimisation and asset management provider Arenko, speaks to Energy-Storage.news about all things data in battery energy storage systems (BESS)."
+    },
+    {
+      "id": "9480f2c22ec8",
+      "title": "Europe Needs Electric Freight Corridors, Not Just Electric Ships",
+      "url": "https://cleantechnica.com/2026/10/16/china-electric-shipping-freight-infrastructure/",
+      "published": "2026-10-16T13:56:21+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Electric ships attract attention because the vessel is the visible technology. Put a large battery into an inland cargo vessel, replace the diesel propulsion system with electric motors, and the decarbonization story appears straightforward. Inland shipping looks particularly promising because many …"
+    },
+    {
+      "id": "5b04b0370630",
+      "title": "Flatiron Energy closes US$850 million financing for 1.2GWh Massachusetts BESS project",
+      "url": "https://www.energy-storage.news/flatiron-energy-closes-us850-million-financing-for-1-2gwh-massachusetts-bess-project/",
+      "published": "2026-10-16T13:36:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US energy storage developer Flatiron Energy has closed on approximately US$850 million for its 1,200MWh Energizar energy storage project in Chelsea, Massachusetts, US."
+    },
     {
       "id": "c89de6ebfefb",
       "title": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction",
