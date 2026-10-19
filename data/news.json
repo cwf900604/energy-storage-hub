@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-18T12:30:14.307748+00:00",
-  "count": 1393,
+  "updated": "2026-10-19T15:21:45.012211+00:00",
+  "count": 1400,
   "items": [
+    {
+      "id": "75df6bafc9a8",
+      "title": "Affordable & Versatile: Volkswagen ID. Cross Can Now Be Ordered With A 37 kWh Battery",
+      "url": "https://cleantechnica.com/2026/10/19/affordable-versatile-volkswagen-id-cross-can-now-be-ordered-with-a-37-kwh-battery/",
+      "published": "2026-10-19T12:44:32+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "37 kWh battery (net) offers a range of up to 324 km and is particularly suitable for city traffic and commuting Two output levels with 85 kW (116 PS) and 99 kW (135 PS) available, maximum speed of 160 km/h DC quick charging with 90 kW from 10 to 80 per cent possible ... [continued] The post Affordab…"
+    },
+    {
+      "id": "49a1d6244684",
+      "title": "India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh",
+      "url": "https://www.pv-magazine.com/2026/10/19/acme-solar-signs-ppa-with-seci-for-300-mw-1200-mwh-fdre-project-at-inr-6-kwh/",
+      "published": "2026-10-19T12:37:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Under the terms of the agreement, ACME Solar will deliver 300 MW/1,200 MWh of assured peak power supply through a firm and dispatchable renewable energy (FDRE) project combining solar and storage technologies. The post India&#8217;s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh appeared first …"
+    },
+    {
+      "id": "c14a634b24a8",
+      "title": "Year-end scramble exposes US BESS sector’s commissioning and policy strains",
+      "url": "https://www.energy-storage.news/year-end-scramble-exposes-us-bess-sectors-commissioning-and-policy-strains/",
+      "published": "2026-10-19T11:50:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In the wide-ranging conversation, Shaw starts off by describing the year-end rush as a perennial challenge for the battery energy storage system (BESS) sector in the US."
+    },
+    {
+      "id": "40fa9b57c18e",
+      "title": "BESS beats gas peaker plants on LCOE globally, Wood Mackenzie finds",
+      "url": "https://www.energy-storage.news/bess-beats-gas-peaker-plants-on-lcoe-globally-wood-mackenzie-finds/",
+      "published": "2026-10-19T11:49:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Four-hour battery storage is less expensive than open-cycle gas turbines in the 43 markets in which both technologies were modelled, according to a new report from market research firm Wood Mackenzie."
+    },
+    {
+      "id": "a229c00ceb59",
+      "title": "Evolving role of energy storage as infrastructure demands that technology stands the test of time, CATL CEO says",
+      "url": "https://www.energy-storage.news/evolving-role-of-energy-storage-as-infrastructure-demands-that-technology-stands-the-test-of-time-catl-ceo-says/",
+      "published": "2026-10-19T07:56:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage is becoming an indispensable new-type power system infrastructure, CATL CEO and chairman Robin Zeng said in an industry speech last week."
+    },
+    {
+      "id": "784c6ba05458",
+      "title": "ArcActive switches on lead-acid battery storage system pilot at Deakin University in Australia",
+      "url": "https://www.energy-storage.news/arcactive-switches-on-lead-acid-battery-storage-system-pilot-at-deakin-university-in-australia/",
+      "published": "2026-10-19T01:11:24+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New Zealand energy storage company ArcActive has switched on a pilot lead-acid BESS in Victoria, Australia, with support from Origin Energy."
+    },
     {
       "id": "df117ef347e7",
       "title": "France to ease grid connection rules for solar-plus-storage projects up to 25 MW",
@@ -141,6 +195,15 @@
       "id": "815eb76f040e",
       "title": "‘We are taking appropriate action to defend IP rights’: Energy Dome & Exa Energy’s CO2 storage tech compared as 1GWh China project goes online",
       "url": "https://www.energy-storage.news/we-are-taking-appropriate-action-to-defend-ip-rights-energy-dome-exa-energys-co2-storage-tech-compared-as-1gwh-china-project-goes-online/",
+      "published": "2026-10-15T08:34:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "How similar is the technology of Exa Energy, which just connected a 100MW/1GWh carbon dioxide-based energy storage system to the grid in China, to that of Energy Dome?"
+    },
+    {
+      "id": "84850b4cb7a1",
+      "title": "Energy Dome & Exa Energy’s CO2 storage technology compared as 1GWh China project goes online",
+      "url": "https://www.energy-storage.news/energy-dome-exa-energys-co2-storage-tech-compared-as-1gwh-china-project-goes-online/",
       "published": "2026-10-15T08:34:33+00:00",
       "source": "Energy Storage News",
       "lang": "en",
