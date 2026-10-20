@@ -1,7 +1,142 @@
 {
-  "updated": "2026-10-19T15:21:45.012211+00:00",
-  "count": 1400,
+  "updated": "2026-10-20T13:24:58.790854+00:00",
+  "count": 1415,
   "items": [
+    {
+      "id": "03d6c8b957de",
+      "title": "‘What are the blindspots right now’: The shifting anatomy of BESS capex",
+      "url": "https://www.energy-storage.news/what-are-the-blindspots-right-now-the-shifting-anatomy-of-bess-capex/",
+      "published": "2026-10-20T13:04:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A panel at the Battery Asset Management Summit UK &#038; Ireland 2026 last week discussed BESS capex trends and strategies to manage it."
+    },
+    {
+      "id": "d9455fb6458f",
+      "title": "U.S. startup launches 200 kWh flywheel energy storage pilot",
+      "url": "https://www.pv-magazine.com/2026/10/20/qnetic-testing-flywheel-to-compete-with-lithium-ion-for-grid-connected-energy-storage/",
+      "published": "2026-10-20T12:24:05+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Individual Pulsar units expected to achieve 500 kWh capacity with 125 kW discharge rate. The post U.S. startup launches 200 kWh flywheel energy storage pilot appeared first on pv magazine Global."
+    },
+    {
+      "id": "206e69f0a444",
+      "title": "Elevated agrivoltaics for olive cultivation",
+      "url": "https://www.pv-magazine.com/2026/10/20/elevated-agrivoltaics-for-olive-cultivation/",
+      "published": "2026-10-20T12:20:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Spanish olive oil producer Acesur has started building a 3.65 MW agrivoltaic plant featuring elevated solar modules above an existing olive grove in Jaén, Spain. The project will include a 3 MWh battery storage system and supply electricity to the company's nearby packaging facility. The post Elevat…"
+    },
+    {
+      "id": "5345459c6dde",
+      "title": "Poland eases connection rules for home batteries up to 2.2x PV power",
+      "url": "https://www.pv-magazine.com/2026/10/20/poland-eases-connection-rules-for-home-batteries-up-to-2-2x-pv-power/",
+      "published": "2026-10-20T12:10:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Polish prosumers will be able to connect batteries with up to 2.2 times the rated power of their PV systems without the storage counting toward installed capacity, under amended rules that take effect Dec. 1. The post Poland eases connection rules for home batteries up to 2.2x PV power appeared firs…"
+    },
+    {
+      "id": "801800445ddf",
+      "title": "Eos releases preliminary Q3 results, reports record quarterly revenue as gross margin losses narrow",
+      "url": "https://www.energy-storage.news/eos-releases-preliminary-q3-results-reports-record-quarterly-revenue-as-gross-margin-losses-narrow/",
+      "published": "2026-10-20T10:50:24+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Zinc hybrid cathode battery and storage system maker Eos Energy Enterprises has reported its highest quarterly revenue to date alongside a narrowing gross margin loss."
+    },
+    {
+      "id": "d364fe15ff21",
+      "title": "Dominion Energy files IRP with plans to build 3.5GW of BESS in PJM over next 20 years",
+      "url": "https://www.energy-storage.news/dominion-energy-files-irp-with-plans-to-build-3-5gw-of-bess-in-pjm-over-next-20-years/",
+      "published": "2026-10-20T10:30:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US utility Dominion Energy plans to build 3.5GW of battery energy storage systems (BESS) over the next 20 years according to its recently filed integrated resource plan (IRP)."
+    },
+    {
+      "id": "42f37bf365a4",
+      "title": "Developer Ikigai partners with ‘high-density hydro’ LDES tech firm RheEnergise for Italy projects",
+      "url": "https://www.energy-storage.news/developer-ikigai-partners-with-high-density-hydro-ldes-tech-firm-rheenergise-for-italy-projects/",
+      "published": "2026-10-20T10:26:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Developer Ikigai Energy and LDES firm RheEnergise have signed an MOU to develop a pipeline of projects in Italy using the latter’s ‘high-density hydro’ (HD Hydro) technology."
+    },
+    {
+      "id": "686fce70362c",
+      "title": "Saft opens solid-state battery production line in France",
+      "url": "https://www.pv-magazine.com/2026/10/20/saft-opens-solid-state-battery-production-line-in-france/",
+      "published": "2026-10-20T07:58:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Saft, a subsidiary of TotalEnergies, has inaugurated a production line at its Bordeaux facility to develop and manufacture solid-state batteries, targeting aviation and space applications with energy density up to 50% higher than conventional lithium-ion technology, according to the company. The pos…"
+    },
+    {
+      "id": "404ecf5289b4",
+      "title": "Genesis opens 200MWh battery storage system at New Zealand’s largest power station",
+      "url": "https://www.energy-storage.news/genesis-opens-200mwh-battery-storage-system-at-new-zealands-largest-power-station/",
+      "published": "2026-10-20T07:44:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Genesis Energy has officially opened its first grid-scale battery energy storage system (BESS) at Huntly Power Station on New Zealand's North Island."
+    },
+    {
+      "id": "2cf1d921cfb4",
+      "title": "India must move beyond VGF subsidy support to build commercially viable BESS market, says Oyster Renewables",
+      "url": "https://www.energy-storage.news/india-must-move-beyond-vgf-subsidy-support-to-build-commercially-viable-bess-market-says-oyster-renewables/",
+      "published": "2026-10-20T03:47:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Oyster Renewable COO talks about India’s BESS growth, domestic manufacturing ambitions, supply chain resilience and challenges."
+    },
+    {
+      "id": "ef1ffa60639a",
+      "title": "India must align battery storage and transmission to cut renewable curtailment",
+      "url": "https://www.energy-storage.news/india-must-align-battery-storage-and-transmission-to-cut-renewable-curtailment/",
+      "published": "2026-10-20T03:13:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Hartek Power CEO discusses India’s BESS expansion, transmission infrastructure and strategies to reduce renewable energy curtailment."
+    },
+    {
+      "id": "2a82c76696a8",
+      "title": "Hazelwood BESS expansion in Australia set to double storage capacity at former coal site",
+      "url": "https://www.energy-storage.news/hazelwood-bess-expansion-in-australia-set-to-double-storage-capacity-at-former-coal-site/",
+      "published": "2026-10-20T02:03:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ENGIE's Hazelwood battery energy storage system (BESS) expansion in Australia has moved closer to financial close after a state transmission declaration."
+    },
+    {
+      "id": "985b4e071f39",
+      "title": "Akaysha Energy secures AU$1.75 billion portfolio financing for Australian BESS expansion",
+      "url": "https://www.energy-storage.news/akaysha-energy-secures-au1-75-billion-portfolio-financing-for-australian-bess-expansion/",
+      "published": "2026-10-20T01:57:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian battery energy storage system (BESS) developer Akaysha Energy has refinanced its project debt into an AU$1.75 billion (US$1.22 billion) portfolio-level facility."
+    },
+    {
+      "id": "3a75eff2ad77",
+      "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+      "url": "https://cleantechnica.com/2026/10/19/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration-2/",
+      "published": "2026-10-19T22:56:04+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid electric vehicles continued to gain market share, reaching 16% of l…"
+    },
+    {
+      "id": "2dcf9d964f1c",
+      "title": "Ultium Cells to Bring LMR Prismatic Battery Cell Production to Tennessee for Future GM EVs",
+      "url": "https://cleantechnica.com/2026/10/19/ultium-cells-to-bring-lmr-prismatic-battery-cell-production-to-tennessee-for-future-gm-evs/",
+      "published": "2026-10-19T22:38:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Spring Hill, Tennessee is blazing a new trail in battery technology, as Ultium Cells LLC — a joint venture between General Motors and LG Energy Solution — just announced plans to produce lithium manganese rich (LMR) prismatic battery cells at its plant just outside Nashville. This is expected to mak…"
+    },
     {
       "id": "75df6bafc9a8",
       "title": "Affordable & Versatile: Volkswagen ID. Cross Can Now Be Ordered With A 37 kWh Battery",
