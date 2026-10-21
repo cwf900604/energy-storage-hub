@@ -1,7 +1,133 @@
 {
-  "updated": "2026-10-20T13:24:58.790854+00:00",
-  "count": 1415,
+  "updated": "2026-10-21T13:34:43.265646+00:00",
+  "count": 1429,
   "items": [
+    {
+      "id": "f98209cb670e",
+      "title": "EBRD-led lenders back 1.2 GW solar, 600 MWh storage plant in Egypt",
+      "url": "https://www.pv-magazine.com/2026/10/21/ebrd-led-lenders-back-1-2-gw-solar-600-mwh-storage-plant-in-egypt/",
+      "published": "2026-10-21T13:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A European development bank is arranging up to $265 million for a 1.2 GW solar plant with 600 MWh of storage in Egypt, as part of a debt package of up to $566 million. The post EBRD-led lenders back 1.2 GW solar, 600 MWh storage plant in Egypt appeared first on pv magazine Global."
+    },
+    {
+      "id": "a37ddf34db2f",
+      "title": "Enhanced safety and performance, easier assembly: More BESS engineers would use PSA tape if they knew about it",
+      "url": "https://www.energy-storage.news/enhanced-safety-and-performance-easier-assembly-more-bess-engineers-would-use-psa-tape-if-they-knew-about-it/",
+      "published": "2026-10-21T12:58:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Although relatively new to the energy storage space, pressure-sensitive adhesive (PSA) tape is used for protection, security and flexible configuration of equipment in many industries."
+    },
+    {
+      "id": "54736658290c",
+      "title": "Viridi deploys ‘Fail-Safe Anti-Propagation architecture’ indoor BESS at New York affordable housing development",
+      "url": "https://www.energy-storage.news/viridi-deploys-fail-safe-anti-propagation-architecture-indoor-bess-at-new-york-affordable-housing-development/",
+      "published": "2026-10-21T12:27:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Distributed energy storage company Viridi and developer and financier Good Carbon Co. have announced the deployment of a 3.75MWh energy storage project in Buffalo, New York."
+    },
+    {
+      "id": "5c8b6f9f7ab1",
+      "title": "Enertrag and Axpo reach FID, order equipment on French BESS projects totalling 239MWh",
+      "url": "https://www.energy-storage.news/enertrag-and-axpo-reach-fid-order-equipment-on-french-bess-projects-totalling-239mwh/",
+      "published": "2026-10-21T09:35:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "German IPP Enertrag and Swiss utility Axpo have launched BESS projects in France, including what could be the country’s first 3-hour project."
+    },
+    {
+      "id": "3573b4342d22",
+      "title": "Engineering discipline, bankability and operational performance become differentiators as India’s BESS market ‘faces biggest test’",
+      "url": "https://www.energy-storage.news/engineering-discipline-bankability-and-operational-performance-become-differentiators-as-indias-bess-market-faces-biggest-test/",
+      "published": "2026-10-21T09:11:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IndiGrid COO discusses India’s BESS growth, challenges, tariff pressures, safety standards and localisation as the market scales up."
+    },
+    {
+      "id": "2fbebf5bdefa",
+      "title": "Hoymiles releases a 2,000 kWh C&I energy storage solution",
+      "url": "https://www.pv-magazine.com/2026/10/21/hoymiles-releases-a-2000-kwh-ci-energy-storage-solution/",
+      "published": "2026-10-21T07:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese manufacturer Hoymiles has launched a C&#38;I battery storage system with capacities ranging from 2 MWh to 2.61 MWh and power outputs of up to 1.25 MW. The containerized system features liquid cooling, integrated fire protection, and backup power switching in less than 20 ms. The post Hoymile…"
+    },
+    {
+      "id": "fb2ce252af58",
+      "title": "Finland: Foresight Group acquires Nordic country’s largest BESS from FRV",
+      "url": "https://www.energy-storage.news/finland-foresight-group-acquires-nordic-countrys-largest-bess-from-frv/",
+      "published": "2026-10-21T07:25:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Foresight Group has acquired the 100MW/400MWh Nivala BESS via its Foresight Energy Infrastructure Partners II (FEIP II) fund."
+    },
+    {
+      "id": "2cb554276028",
+      "title": "India’s energy storage market: Bridging the gap between tenders and execution",
+      "url": "https://www.energy-storage.news/indias-energy-storage-market-bridging-the-gap-between-tenders-and-execution/",
+      "published": "2026-10-21T07:20:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India’s BESS pipeline exceeds 100GW, but financing, execution and tariff pressures threaten delivery of 411.4GWh of storage by FY2032."
+    },
+    {
+      "id": "a8808b7deb64",
+      "title": "Deye, EVE and Ganfeng Lithium: Strong Q3 results for trio of players across Chinese energy storage industry value chain",
+      "url": "https://www.energy-storage.news/deye-eve-and-ganfeng-lithium-strong-q3-results-for-trio-of-players-across-chinese-energy-storage-industry-value-chain/",
+      "published": "2026-10-21T07:07:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Deye, EVE Energy and Ganfeng Lithium are among Chinese energy storage players to recently release Q3 2026 financial results, with all three reporting robust growth."
+    },
+    {
+      "id": "f99a0f8a2751",
+      "title": "BESS developers must dig beyond the headline numbers of Malaysia’s solar-storage mandate and corporate PPAs",
+      "url": "https://www.energy-storage.news/bess-developers-must-dig-beyond-the-headline-numbers-of-malaysias-solar-storage-mandate-and-corporate-ppas/",
+      "published": "2026-10-21T03:59:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two major schemes will drive Southeast Asian country's deployments but require close examination, writes Flora Zhang, market analyst at Malaysia Energy Storage Association (MESA)."
+    },
+    {
+      "id": "6b8bfb39d935",
+      "title": "Ingeteam supplies PCS for 130MWh of BESS and DC-coupled projects in Australia",
+      "url": "https://www.energy-storage.news/ingeteam-supplies-pcs-for-130mwh-of-bess-and-dc-coupled-projects-in-australia/",
+      "published": "2026-10-21T02:06:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spain-headquartered power electronics manufacturer Ingeteam has supplied power conversion systems (PCS) for around 65MW/130MWh of battery storage projects in Victoria, New South Wales (NSW) and South Australia."
+    },
+    {
+      "id": "91c0af6d39a8",
+      "title": "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project",
+      "url": "https://www.energy-storage.news/rondo-energy-and-rio-tinto-begin-design-work-on-australias-largest-thermal-energy-storage-project/",
+      "published": "2026-10-21T01:55:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Rondo Energy and Rio Tinto have started engineering and design work on a 360MWh thermal energy storage (TES) project in Australia."
+    },
+    {
+      "id": "a30112bacdd7",
+      "title": "How Recycled Minerals from GM EV Batteries Are Helping Power New Ones",
+      "url": "https://cleantechnica.com/2026/10/20/how-recycled-minerals-from-gm-ev-batteries-are-helping-power-new-ones/",
+      "published": "2026-10-21T01:02:01+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "By Melissa Flaherty, Director of Sustainable EV Battery Ecosystem, GM When it comes to EV batteries, most of us start with the same questions: How far can I go on a charge? How long will my battery last? Those are fair questions. But here’s something that might surprise you: powering ... [continued]…"
+    },
+    {
+      "id": "c20576a768c3",
+      "title": "Georgia electric cooperative plans 50-MW home battery deployment",
+      "url": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
+      "published": "2026-10-20T16:58:27+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Central Georgia Electric Membership Corp. plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid."
+    },
     {
       "id": "03d6c8b957de",
       "title": "‘What are the blindspots right now’: The shifting anatomy of BESS capex",
