@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-21T13:34:43.265646+00:00",
-  "count": 1429,
+  "updated": "2026-10-22T13:36:29.585598+00:00",
+  "count": 1438,
   "items": [
+    {
+      "id": "17f2cbb70503",
+      "title": "TCL Sunpower launches hybrid energy storage cabinet for C&I applications",
+      "url": "https://www.pv-magazine.com/2026/10/22/tcl-sunpower-launches-hybrid-energy-storage-cabinet-for-ci-applications/",
+      "published": "2026-10-22T13:28:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese manufacturer has unveiled a 100 kWh scalable energy storage cabinet for the European market. The company plans to bring a full portfolio of commercial and industrial (C&#38;I) energy storage to the continent soon. The post TCL Sunpower launches hybrid energy storage cabinet for C&amp;I a…"
+    },
+    {
+      "id": "0cc12ed4d989",
+      "title": "European Union battery supply chain policies show mixed results so far",
+      "url": "https://www.energy-storage.news/european-union-battery-supply-chain-policies-show-mixed-results-so-far/",
+      "published": "2026-10-22T13:01:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As demand for battery storage soars, the European Union (EU) has tried to grow its local battery supply chain with mixed success so far, writes PV ESS analyst Charlotte Gisbourne."
+    },
+    {
+      "id": "277159db6800",
+      "title": "Sonnen files for insolvency",
+      "url": "https://www.pv-magazine.com/2026/10/22/sonnen-files-for-insolvency/",
+      "published": "2026-10-22T12:50:53+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "German battery storage manufacturer Sonnen has filed for insolvency, months after Shell sold the company to family office Tiven. The company plans to continue serving its 150,000-plus customers while restructuring or liquidating several subsidiaries. The post Sonnen files for insolvency appeared fir…"
+    },
+    {
+      "id": "206532c54158",
+      "title": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching",
+      "url": "https://www.energy-storage.news/frances-storage-market-moves-to-higher-durations-with-secondary-reserve-saturation-cliff-edge-approaching/",
+      "published": "2026-10-22T10:51:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money."
+    },
+    {
+      "id": "c150a3b71046",
+      "title": "Rwanda tenders 200 MW floating PV, 800 MWh BESS project",
+      "url": "https://www.pv-magazine.com/2026/10/22/rwanda-tenders-200-mw-floating-pv-800-mwh-bess-project/",
+      "published": "2026-10-22T10:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A tender is open in Rwanda for a 200 MW floating solar plant to be tied to 800 MWh of battery storage. The deadline to submit pre-qualification bids is November 12. The post Rwanda tenders 200 MW floating PV, 800 MWh BESS project appeared first on pv magazine Global."
+    },
+    {
+      "id": "38d0ff1d1f55",
+      "title": "Faria Renewables inaugurates 134MWh, Huawei-supplied Greece BESS",
+      "url": "https://www.energy-storage.news/faria-renewables-inaugurates-134mwh-huawei-supplied-greece-bess/",
+      "published": "2026-10-22T10:38:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP and EPC Faria Renewables has inaugurated its 49.9MW/134.16MWh Galani BESS project in Elassona, Greece."
+    },
+    {
+      "id": "723616dbb8ae",
+      "title": "Engie starts building first co-located solar and battery project in France",
+      "url": "https://www.pv-magazine.com/2026/10/22/engie-starts-building-first-co-located-solar-and-battery-project-in-france/",
+      "published": "2026-10-22T10:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Engie has begun construction of its first co-located solar and battery project in France, combining 29.8 MW of solar capacity with a 20 MWh battery system to shift electricity delivery to periods of higher grid demand. The post Engie starts building first co-located solar and battery project in Fran…"
+    },
+    {
+      "id": "a4ba32e9895b",
+      "title": "UL Solutions launches certification pathway for modular DC BESS",
+      "url": "https://www.energy-storage.news/ul-solutions-launches-certification-pathway-for-modular-dc-bess/",
+      "published": "2026-10-22T09:25:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Science safety leader UL Solutions has announced a new certification pathway intended to help manufacturers of modular direct current (DC) battery energy storage systems (BESS)."
+    },
+    {
+      "id": "f51697ed0d06",
+      "title": "Rio Tinto plans 360 MWh thermal battery for Australian alumina refinery",
+      "url": "https://www.pv-magazine.com/2026/10/22/rio-tinto-plans-360-mwh-thermal-battery-for-australian-alumina-refinery/",
+      "published": "2026-10-22T09:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Rio Tinto is assessing a 360 MWh thermal battery to replace fossil fuels in alumina refining, with the proposed Australian project potentially cutting annual emissions by 67,000 metric tons of carbon dioxide. The post Rio Tinto plans 360 MWh thermal battery for Australian alumina refinery appeared f…"
+    },
     {
       "id": "f98209cb670e",
       "title": "EBRD-led lenders back 1.2 GW solar, 600 MWh storage plant in Egypt",
