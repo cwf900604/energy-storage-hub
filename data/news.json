@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-22T13:36:29.585598+00:00",
-  "count": 1438,
+  "updated": "2026-10-23T13:11:59.245056+00:00",
+  "count": 1450,
   "items": [
+    {
+      "id": "09291bbe0b8a",
+      "title": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments",
+      "url": "https://www.energy-storage.news/tesla-q3-2026-energy-storage-revenues-fall-despite-second-highest-quarterly-deployments/",
+      "published": "2026-10-23T11:25:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tesla’s energy storage business deployed 13.7GWh in Q3 2026, its second-highest quarterly figure to date, but saw a 16% year-on-year decline in revenues for the division."
+    },
+    {
+      "id": "7ed24509eeb2",
+      "title": "Google and Voltus expand PJM virtual power plant agreement to 1GW",
+      "url": "https://www.energy-storage.news/google-and-voltus-expand-pjm-virtual-power-plant-agreement-to-1gw/",
+      "published": "2026-10-23T11:12:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US."
+    },
+    {
+      "id": "ec7f52a39369",
+      "title": "Sodium-ion storage maker Peak Energy raises $108 million in GM-led round",
+      "url": "https://www.pv-magazine.com/2026/10/23/sodium-ion-storage-maker-peak-energy-raises-108-million-in-gm-led-round/",
+      "published": "2026-10-23T08:54:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A US sodium-ion battery storage company has closed a $108 million Series B round led by General Motors’ venture arm, as it prepares to start production at a 4 GWh factory in California and launch its systems in the data center market. The post Sodium-ion storage maker Peak Energy raises $108 million…"
+    },
+    {
+      "id": "b2323f11ecb5",
+      "title": "European solar, BESS marketplace expands to Romania",
+      "url": "https://www.pv-magazine.com/2026/10/23/european-solar-bess-marketplace-expands-to-romania/",
+      "published": "2026-10-23T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solmeria, an online marketplace for selling solar and battery energy storage systems directly to buyers, is now listing projects in Romania alongside offers in France and Italy. The post European solar, BESS marketplace expands to Romania appeared first on pv magazine Global."
+    },
+    {
+      "id": "1576e920da3c",
+      "title": "Sonnen files for insolvency in Germany two months after Shell offloading",
+      "url": "https://www.energy-storage.news/sonnen-files-for-insolvency-in-germany-two-months-after-shell-offloading/",
+      "published": "2026-10-23T08:18:51+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency."
+    },
+    {
+      "id": "54d67b0ae950",
+      "title": "ACME Solar signs 1.2GWh PPA with SECI for clean energy supply during non-solar hours from Indian renewables assets",
+      "url": "https://www.energy-storage.news/acme-solar-ppa-seci-clean-energy-solar-india-renewables-assets/",
+      "published": "2026-10-23T04:09:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ACME Solar has signed a 300MW/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio."
+    },
+    {
+      "id": "bb993d6b6943",
+      "title": "What The Battery Show Told Us About the Next Chapter of Electrification",
+      "url": "https://cleantechnica.com/2026/10/22/what-the-battery-show-told-us-about-the-next-chapter-of-electrification/",
+      "published": "2026-10-23T03:57:17+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Battery Show North America 2026 in Detroit, Michigan wasn&#8217;t about the next breakthrough. It was about who can deliver. Each fall you can learn a lot about the battery industry by walking through the halls of Huntington Place in Detroit. This year&#8217;s Battery Show North America, held Oc…"
+    },
+    {
+      "id": "874a4063380e",
+      "title": "Alinta Energy abandons ‘critical’ pumped hydro energy storage project in Australia",
+      "url": "https://www.energy-storage.news/alinta-energy-abandons-critical-pumped-hydro-energy-storage-project-in-australia/",
+      "published": "2026-10-23T02:55:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alinta Energy has discontinued work on the 7.2GWh Oven Mountain pumped hydro energy storage (PHES) project in New South Wales (NSW), Australia."
+    },
+    {
+      "id": "1789aabe4757",
+      "title": "ANALYSIS: Solar & Storage Growth Drives Down Summer Wholesale Electricity Prices by 42% in Texas & 51% in California",
+      "url": "https://cleantechnica.com/2026/10/22/analysis-solar-storage-growth-drives-down-summer-wholesale-electricity-prices-by-42-in-texas-51-in-california/",
+      "published": "2026-10-23T01:00:34+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New analysis shows how solar and storage are lowering electricity costs in red and blue states as affordability takes center stage heading into the midterm elections. WASHINGTON D.C. — As energy affordability emerges as a defining issue heading into the midterm elections, new analysis from the Solar…"
+    },
+    {
+      "id": "34b410a107d8",
+      "title": "Sierra Club Applauds Approval for Ameren Missouri’s New Solar & Storage Projects",
+      "url": "https://cleantechnica.com/2026/10/22/sierra-club-applauds-approval-for-ameren-missouris-new-solar-storage-projects/",
+      "published": "2026-10-23T00:42:35+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "ST. LOUIS, Mo. — Yesterday, the Missouri Public Service Commission (PSC) approved Ameren Missouri’s proposal to build solar and storage projects. The Sierra Club and its members supported the projects at public hearings around the state. Renewable energy remains the cheapest way to generate electric…"
+    },
+    {
+      "id": "8fd6d9908270",
+      "title": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF",
+      "url": "https://www.energy-storage.news/global-energy-storage-deployments-will-see-45-year-on-year-growth-surge-in-2026-bloombergnef/",
+      "published": "2026-10-22T14:17:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The global energy storage market will see a decade of sustained, rapid growth and reach 3.1TW cumulative capacity by 2036, according to BloombergNEF (BNEF)."
+    },
+    {
+      "id": "ed726df08aac",
+      "title": "Sodium-ion BESS: Hithium enters Canadian market, Peak Energy closes Series B with GM-led funding",
+      "url": "https://www.energy-storage.news/sodium-ion-bess-hithium-enters-canadian-market-peak-energy-closes-series-b-with-gm-led-funding/",
+      "published": "2026-10-22T13:46:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "In recent North American sodium-ion news, Hithium is entering the Canadian market with two BESS solutions, while Peak Energy has closed a Series B financing round led by GM."
+    },
     {
       "id": "17f2cbb70503",
       "title": "TCL Sunpower launches hybrid energy storage cabinet for C&I applications",
