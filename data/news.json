@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-23T13:11:59.245056+00:00",
-  "count": 1450,
+  "updated": "2026-10-24T12:30:09.487008+00:00",
+  "count": 1456,
   "items": [
+    {
+      "id": "0755deb3ca33",
+      "title": "Italy deploys 4.83 GW of PV in January-September",
+      "url": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september/",
+      "published": "2026-10-24T09:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Italy connected 4.83 GW of new solar capacity in the first nine months of 2026, bringing cumulative installed capacity to 48.35 GW at the end of September. Utility-scale projects accounted for 46% of new additions, while the country's cumulative battery storage capacity approached 20 GWh, according …"
+    },
+    {
+      "id": "90dc699d326a",
+      "title": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026",
+      "url": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026/",
+      "published": "2026-10-24T07:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Vietnam has instructed provincial and municipal authorities to introduce support policies for residential rooftop solar installations by the end of December 2026, as part of efforts to secure electricity supplies between 2027 and 2030. The government is also pushing for faster deployment of battery …"
+    },
+    {
+      "id": "53a830d5a6df",
+      "title": "Couple travels through 10 African countries in solar-powered motorhome with battery storage",
+      "url": "https://www.pv-magazine.com/2026/10/24/couple-travels-through-10-african-countries-in-solar-powered-motorhome-with-battery-storage/",
+      "published": "2026-10-24T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A Brazilian couple traveled through 10 African countries in a motorhome equipped with rooftop solar panels, 15.36 kWh of lithium battery storage, and alternator charging. The system powers household appliances and satellite internet, enabling off-grid travel with minimal reliance on external electri…"
+    },
+    {
+      "id": "d03b6ac36995",
+      "title": "Australia’s 2.2 GW Snowy 2.0 pumped hydro cost estimate rises again",
+      "url": "https://www.pv-magazine.com/2026/10/24/australias-2-2-gw-snowy-2-0-pumped-hydro-cost-estimate-rises-again/",
+      "published": "2026-10-24T06:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Projects &#38; Applications Australia’s 2.2 GW Snowy 2.0 pumped hydro cost estimate rises again The principal contractor for Australia’s 2.2 GW Snowy 2.0 pumped hydro storage project has revised the expected cost to AUD 22.5 billion ($15.8 billion) to AUD 25 billion, with commissioning scheduled for…"
+    },
+    {
+      "id": "4723e1860633",
+      "title": "New EV Battery Gives Gasmobiles The Deep Freeze",
+      "url": "https://cleantechnica.com/2026/10/23/ev-battery-mystery-donut-labs-performance-extreme-cold/",
+      "published": "2026-10-23T18:20:42+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Mystery swirls around a new EV battery from the Finnish startup Donut Lab, which has just passed an extreme cold-weather performance test. The post New EV Battery Gives Gasmobiles The Deep Freeze appeared first on CleanTechnica."
+    },
+    {
+      "id": "0bd104d069d1",
+      "title": "What Can Grid Flexibility Actually Do Here?",
+      "url": "https://cleantechnica.com/2026/10/23/what-can-grid-flexibility-do-here/",
+      "published": "2026-10-23T17:28:29+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Grid flexibility is not one resource or one number. A new open TFIE Strategy report maps how batteries, demand, networks, interconnection and other resources change value with location, duration and operating conditions. The post What Can Grid Flexibility Actually Do Here? appeared first on CleanTec…"
+    },
     {
       "id": "09291bbe0b8a",
       "title": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments",
