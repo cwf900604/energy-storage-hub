@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-25T13:02:16.768098+00:00",
-  "count": 1456,
+  "updated": "2026-10-26T14:57:25.520242+00:00",
+  "count": 1464,
   "items": [
+    {
+      "id": "d7090116d721",
+      "title": "Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation",
+      "url": "https://www.pv-magazine.com/2026/10/26/xpanner-launches-automated-pile-driver-to-speed-up-utility-scale-solar-energy-storage-installation/",
+      "published": "2026-10-26T13:30:01+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The fully automated system combines GNSS positioning and remote control operation to reduce pile driving cycle times by 45% on utility-scale solar and battery storage job sites. The post Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation appeared firs…"
+    },
+    {
+      "id": "0006a1890db7",
+      "title": "Heron Power and NiSource announce US data centre and BESS-focused deals with Vantage, Microsoft",
+      "url": "https://www.energy-storage.news/heron-power-and-nisource-announce-us-data-centre-and-bess-focused-deals-with-vantage-microsoft/",
+      "published": "2026-10-26T12:26:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Heron Power and NiSource have separately announced US data centre-focused deals involving battery energy storage systems (BESS) in recent days."
+    },
+    {
+      "id": "cfc0bb8a107b",
+      "title": "Software stack complexity and the push for interoperability standards in US BESS",
+      "url": "https://www.energy-storage.news/software-stack-complexity-and-the-push-for-interoperability-standards-in-us-bess/",
+      "published": "2026-10-26T11:46:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS industry experts note that rising complexity in BESS software is driving calls for industry-wide interoperability and data standards."
+    },
+    {
+      "id": "53f7ac8e4efb",
+      "title": "Citicore secures $552 million for 900 MW solar, 120 MWh storage portfolio in Philippines",
+      "url": "https://www.pv-magazine.com/2026/10/26/citicore-secures-552-million-for-900-mw-solar-120-mwh-storage-portfolio-in-philippines/",
+      "published": "2026-10-26T11:40:22+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Bank of the Philippine Islands, Land Bank of the Philippines and Development Bank of the Philippines have provided PHP 35.014 billion ($552 million) in financing for a portfolio of five solar projects totaling 900 MW and 120 MWh of battery storage in the Philippines. The post Citicore secures $552 m…"
+    },
+    {
+      "id": "0d84e7856930",
+      "title": "Samsung SDI signs 1 GWh supply agreement for US-made NCA battery storage",
+      "url": "https://www.pv-magazine.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
+      "published": "2026-10-26T11:06:34+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "South Korean manufacturer’s Michigan-based subsidiary will supply Alpha Omega Power with utility-scale battery storage. The supply agreement covers Samsung SDI’s containerized nickel cobalt aluminum (NCA) cell-based solution, Samsung Battery Box 1.7. The post Samsung SDI signs 1 GWh supply agreement…"
+    },
+    {
+      "id": "76f2fa0bb5a4",
+      "title": "Czech ministry proposes storage capacity auctions to 2027",
+      "url": "https://www.pv-magazine.com/2026/10/26/czech-ministry-proposes-storage-capacity-auctions-to-2027/",
+      "published": "2026-10-26T09:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had planned for. The post Czech ministry proposes storage capacity auctions to 2027 app…"
+    },
+    {
+      "id": "7b39a86330ee",
+      "title": "Singapore targets 1GWh of energy storage in Energy Infrastructure Plan to meet rising demand for electricity",
+      "url": "https://www.energy-storage.news/singapore-targets-1gwh-of-energy-storage-in-energy-infrastructure-plan-to-meet-rising-demand-for-electricity/",
+      "published": "2026-10-26T07:14:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Faced with unprecedented growth in demand, Singapore’s Energy Market Authority has launched plan that includes a gigawatt-hour energy storage target."
+    },
+    {
+      "id": "ae1545acaa8e",
+      "title": "1GW data centre with 5,000MWh battery storage system submitted to Australia’s EPBC Act for approval",
+      "url": "https://www.energy-storage.news/1gw-data-centre-with-5000mwh-battery-storage-system-submitted-to-australias-epbc-act-for-approval/",
+      "published": "2026-10-26T03:38:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Gingerah Energy has referred a 1GW data centre complex with a 5GWh BESS in Western Australia to Australia's EPBC Act."
+    },
     {
       "id": "0755deb3ca33",
       "title": "Italy deploys 4.83 GW of PV in January-September",
