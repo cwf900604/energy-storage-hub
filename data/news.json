@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-26T14:57:25.520242+00:00",
-  "count": 1464,
+  "updated": "2026-10-27T14:09:27.997827+00:00",
+  "count": 1476,
   "items": [
+    {
+      "id": "7c1280363c12",
+      "title": "Samsung SDI signs 1GWh US BESS supply agreement with Alpha Omega Power",
+      "url": "https://www.energy-storage.news/samsung-sdi-signs-1gwh-us-bess-supply-agreement-with-alpha-omega-power/",
+      "published": "2026-10-27T11:32:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Korean battery and electronics materials manufacturer Samsung SDI has signed a 1GWh supply agreement with US IPP Alpha Omega Power (AOP)."
+    },
+    {
+      "id": "e15e2c26512b",
+      "title": "Czech ministry proposes storage capacity auctions to 2027",
+      "url": "https://www.pv-magazine.com/2026/10/27/czech-ministry-proposes-storage-capacity-auctions-to-2027-2/",
+      "published": "2026-10-27T11:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had planned for. The post Czech ministry proposes storage capacity auctions to 2027 app…"
+    },
+    {
+      "id": "e2bafcb8c997",
+      "title": "Poland: Greenvolt sells 1.6GWh of projects to A&R, PGE building 800MWh with Fluence tech",
+      "url": "https://www.energy-storage.news/poland-greenvolt-sells-1-6gwh-of-projects-to-ar-pge-building-800mwh-with-fluence-tech/",
+      "published": "2026-10-27T11:07:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Greenvolt has agreed to sell two BESS in Poland to A&#038;R, PGE Group has started building an 800MWh one, while SC Holding, Tauron and Tavion have launched projects into the country."
+    },
+    {
+      "id": "37711770eab0",
+      "title": "Australian renewable energy investment surges to new heights",
+      "url": "https://www.pv-magazine.com/2026/10/27/australian-renewable-energy-investment-surges-to-new-heights/",
+      "published": "2026-10-27T11:01:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Five renewable energy projects totaling 1.4 GW of new generation capacity and 2.3 GW/7.1 GWh of battery energy storage capacity came online across Australia in the first six months of 2026. The post Australian renewable energy investment surges to new heights appeared first on pv magazine Global."
+    },
+    {
+      "id": "831b35acc6db",
+      "title": "Let’s keep things practical: contracting in battery energy storage systems (BESS)",
+      "url": "https://www.energy-storage.news/lets-keep-things-practical-contracting-in-battery-energy-storage-systems-bess/",
+      "published": "2026-10-27T10:55:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As BESS projects grow more complex, so does the question of what 'purpose' even means in a construction contract, writes contracts lawyer Suriya Ashok of Clyde &#038; Co."
+    },
+    {
+      "id": "b6dc42a70a95",
+      "title": "Sigenergy launches the SigenCube C&I BESS",
+      "url": "https://www.pv-magazine.com/2026/10/27/sigenergy-launches-the-sigencube-ci-bess/",
+      "published": "2026-10-27T10:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "With a 30% reduction in overall footprint, support for heavy industrial machinery during critical surges, and noise levels below 60 dB at one meter, the system is designed to address the core challenges of commercial deployments. The post Sigenergy launches the SigenCube C&amp;I BESS appeared first …"
+    },
+    {
+      "id": "0fcc5a63c7e4",
+      "title": "India’s Delectrik Systems awarded 120MWh long-duration vanadium flow battery contract in Gujarat",
+      "url": "https://www.energy-storage.news/indias-delectrik-systems-awarded-120mwh-long-duration-vanadium-flow-battery-contract-in-gujarat/",
+      "published": "2026-10-27T08:53:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Vanadium redox flow battery (VRFB) startup Delectrik Systems has been awarded a 20MW/120MWh project in Gujarat, India."
+    },
+    {
+      "id": "0a4ff90d03bd",
+      "title": "Giga Storage closes €260 million debt financing for 1,400MWh Germany BESS",
+      "url": "https://www.energy-storage.news/giga-storage-closes-e260-million-debt-financing-for-1400mwh-germany-bess/",
+      "published": "2026-10-27T08:48:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Owner-operator Giga Storage has finalised financing for the construction of its 350MW/1,400MWh Albatross energy storage project near Neuenkirchen in Lower Saxony, Germany."
+    },
+    {
+      "id": "fa664b924347",
+      "title": "From Barrel to Battery: What Will Europe’s Clean Car Debate Decide",
+      "url": "https://cleantechnica.com/2026/10/26/from-barrel-to-battery-what-will-europes-clean-car-debate-decide/",
+      "published": "2026-10-27T03:15:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The new energy reality: 1 kWh of battery is cheaper than a barrel of oil The EU is fiercely debating the future of the automotive industry and how far the transition to battery electric cars will be slowed down. Last time we had this debate back in 2022, Europe was ... [continued] The post From Barr…"
+    },
+    {
+      "id": "6dd0a65d7dc5",
+      "title": "New Whitepaper Shows How Grid Operators & Energy Regulators Can Use Solar & Storage to Secure the Grid, Boost Reliability & Reduce Energy Costs",
+      "url": "https://cleantechnica.com/2026/10/26/new-whitepaper-shows-how-grid-operators-energy-regulators-can-use-solar-storage-to-secure-the-grid-boost-reliability-reduce-energy-costs/",
+      "published": "2026-10-27T02:26:46+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Report Shows How to Unlock the Full Potential of Distributed Energy Resources WASHINGTON D.C. — A new report released today by the Solar Energy Industries Association (SEIA) and Current Energy Group outlines how grid operators and regulators can deploy distributed energy resources (DERs) like solar …"
+    },
+    {
+      "id": "c36169052ee5",
+      "title": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research",
+      "url": "https://www.energy-storage.news/philippines-bess-revenue-streams-will-shift-to-arbitrage-after-initial-reserve-market-reliance-aurora-energy-research/",
+      "published": "2026-10-27T01:37:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Aurora Energy Research has launched a forecast service to help investors and developers assess the commercial case for battery storage in the Philippines."
+    },
+    {
+      "id": "ecd8e07b8855",
+      "title": "BESS already reducing curtailment in Chile, says ACERA; in-construction projects to triple capacity",
+      "url": "https://www.energy-storage.news/bess-already-reducing-curtailment-in-chile-says-acera-in-construction-projects-to-triple-capacity/",
+      "published": "2026-10-26T17:48:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Ana Lía Rojas, executive director at the Chilean renewable energy and energy storage association (ACERA) gave the opening keynote of Energy Storage Summit Latin America 2026 and spoke about Chile's current BESS market."
+    },
     {
       "id": "d7090116d721",
       "title": "Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation",
