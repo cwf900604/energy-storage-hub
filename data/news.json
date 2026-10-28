@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-27T14:09:27.997827+00:00",
-  "count": 1476,
+  "updated": "2026-10-28T14:56:24.668585+00:00",
+  "count": 1488,
   "items": [
+    {
+      "id": "d02cc9af430a",
+      "title": "UK government approves nearly 2 GW of co-located solar in October",
+      "url": "https://www.pv-magazine.com/2026/10/28/uk-government-approves-nearly-2-gw-of-co-located-solar-in-october/",
+      "published": "2026-10-28T13:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Four projects in nationally significant infrastructure project planning pipeline granted planning permission by secretary of state. All four projects include battery energy storage systems. The post UK government approves nearly 2 GW of co-located solar in October appeared first on pv magazine Globa…"
+    },
+    {
+      "id": "52c8dd03aeb7",
+      "title": "BESS developer Bimergen Energy files for Retail Electric Provider certificate to serve Texas data centres",
+      "url": "https://www.energy-storage.news/bess-developer-bimergen-energy-files-for-retail-electric-provider-certificate-to-serve-texas-data-centres/",
+      "published": "2026-10-28T12:25:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy storage developer-operator Bimergen Energy has filed an application for an Option 2 Retail Electric Provider (REP) certificate in Texas, US."
+    },
+    {
+      "id": "88e584fb0e9e",
+      "title": "‘Europe has the capability’ to support homegrown BESS industry, Valo CEO Fath says in exclusive interview",
+      "url": "https://www.energy-storage.news/europe-has-the-capability-to-support-homegrown-bess-industry-valo-ceo-fath-says-in-exclusive-interview/",
+      "published": "2026-10-28T12:18:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium meets Peter Fath, CEO of Valo, about the newly launched energy storage joint venture’s next steps and broader strategy."
+    },
+    {
+      "id": "4ca038d754c1",
+      "title": "Data centres could drive sodium-ion, LDES adoption in Europe – analyst",
+      "url": "https://www.energy-storage.news/data-centres-could-drive-sodium-ion-ldes-adoption-in-europe-analyst/",
+      "published": "2026-10-28T11:43:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sodium-ion’s position has strengthened substantially in the past 12 months but its adoption in Europe depends on several key factors including data centres and their use case, an analyst said."
+    },
+    {
+      "id": "0f670287cf16",
+      "title": "LG Energy Solution signs MOU with Energix for 4.5GWh of potential BESS deployments in US and Europe",
+      "url": "https://www.energy-storage.news/lg-energy-solution-signs-mou-with-energix-for-4-5gwh-of-potential-bess-deployments-in-us-and-europe/",
+      "published": "2026-10-28T10:45:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "South Korean battery giant LG Energy Solution (LG ES) has signed a non-binding memorandum of understanding (MOU) with owner-operator Energix-Renewable Energies to expand collaboration on energy storage projects in Europe and the US."
+    },
+    {
+      "id": "43c98e19af89",
+      "title": "Kyon Energy puts 282MWh Alfeld battery storage project in Germany into operation",
+      "url": "https://www.energy-storage.news/kyon-energy-282mwh-alfeld-battery-storage-project-germany-operation/",
+      "published": "2026-10-28T10:14:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS developer Kyon Energy has commissioned and put into operation its 137.5MW/282MWh Alfeld BESS project in Germany, potentially the country’s largest to reach that milestone."
+    },
+    {
+      "id": "81662fbde589",
+      "title": "India’s BESS pipeline needs bankable tenders and diversified revenue streams",
+      "url": "https://www.energy-storage.news/indias-bess-pipeline-needs-bankable-tenders-diversified-revenue-streams/",
+      "published": "2026-10-28T09:15:15+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India’s storage market is expanding, but project delivery depends on predictable procurement, domestic manufacturing and revenue models that support investment."
+    },
+    {
+      "id": "05b660df57fc",
+      "title": "Itaipu studies up to 1 GW of solar to support Paraguay’s power grid",
+      "url": "https://www.pv-magazine.com/2026/10/28/itaipu-studies-up-to-1-gw-of-solar-to-support-paraguays-power-grid/",
+      "published": "2026-10-28T08:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Simulations of PV plants connected at three points in Paraguay’s electricity network found that specialized controls could dampen inter-area power oscillations, while the study also recommends battery storage to improve system response. The post Itaipu studies up to 1 GW of solar to support Paraguay…"
+    },
+    {
+      "id": "6149fdbc4974",
+      "title": "CATL holds global launch for 9MWh TENER+ BESS at All-Energy Australia, signs PCS agreement with Hitachi Energy",
+      "url": "https://www.energy-storage.news/catl-holds-global-launch-for-9mwh-tener-bess-at-all-energy-australia-signs-pcs-agreement-with-hitachi-energy/",
+      "published": "2026-10-28T04:20:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CATL has launched its 9MWh TENER+ battery storage system at All-Energy Australia 2026 and signed three MoUs with Australian partners."
+    },
+    {
+      "id": "43d2f76845f7",
+      "title": "Energy security, not just climate goals, drive Caribbean and Latin American storage growth",
+      "url": "https://www.energy-storage.news/energy-security-not-just-climate-goals-drive-caribbean-and-latin-american-storage-growth/",
+      "published": "2026-10-27T16:19:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Regulation, energy independence and energy demand growth as key drivers for BESS development across several markets in Latin America."
+    },
+    {
+      "id": "329263295a55",
+      "title": "India has 5.3GWh of operational BESS, with 185GWh under development, CEA official says",
+      "url": "https://www.energy-storage.news/india-has-5-3gwh-of-operational-bess-with-185gwh-under-development-cea-official-says/",
+      "published": "2026-10-27T16:05:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India has 5.3GWh of operational battery energy storage system (BESS) capacity, with a further 185GWh of projects under development, according to Prashant Bhamu, deputy director of integrated resources planning at the Central Electricity Authority (CEA), part of the Ministry of Power."
+    },
+    {
+      "id": "7a1fee3aaf3d",
+      "title": "BNEF ups US energy storage deployment forecast by 30%",
+      "url": "https://www.utilitydive.com/news/bnef-ups-us-energy-storage-deployment-forecast-by-30/872870/",
+      "published": "2026-10-27T14:19:38+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Hyperscalers&rsquo; interest in on-site and nearby energy storage has converted into firm orders this year, the global energy consultancy said last week in its latest industry outlook."
+    },
     {
       "id": "7c1280363c12",
       "title": "Samsung SDI signs 1GWh US BESS supply agreement with Alpha Omega Power",
