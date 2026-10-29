@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-28T14:56:24.668585+00:00",
-  "count": 1488,
+  "updated": "2026-10-29T15:01:30.926444+00:00",
+  "count": 1500,
   "items": [
+    {
+      "id": "bccf216139ca",
+      "title": "Sure Looks Like Trump Loves EVs After All",
+      "url": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
+      "published": "2026-10-29T14:25:06+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Despite Trump's war on EVs, the US Department of Energy has launched the new \"BattMan\" battery innovation accelerator led by experts at the Pacific Northwest National Laboratory. The post Sure Looks Like Trump Loves EVs After All appeared first on CleanTechnica."
+    },
+    {
+      "id": "ff4112d65775",
+      "title": "Scaling European Battery Recycling via the Circular Economy Act",
+      "url": "https://cleantechnica.com/2026/10/29/scaling-european-battery-recycling-via-the-circular-economy-act/",
+      "published": "2026-10-29T14:08:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Ahead of the Circular Economy Act, a joint letter from T&#38;E, Recharge, Clean Tech for Europe and EIES calls for concrete measures to support the effective scaling of Europe’s material recovery and recycling capacity. Recovering materials from end-of-life batteries is a key means to secure much ne…"
+    },
+    {
+      "id": "120b47377da3",
+      "title": "California Energy Commission releases US$46 million for DERS supporting grid reliability",
+      "url": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
+      "published": "2026-10-29T13:27:47+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The California Energy Commission (CEC) has released over US$46 million for the state’s Distributed Electricity Backup Assets (DEBA) Programme."
+    },
+    {
+      "id": "50db0296fa5c",
+      "title": "Intense BESS competition and density race increases technical and contractual risks, advisor says",
+      "url": "https://www.energy-storage.news/intense-bess-competition-and-density-race-increases-technical-and-contractual-risks-advisor-says/",
+      "published": "2026-10-29T13:19:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The intense competition between BESS suppliers in the European market and the ever-more dense products available increases technical risk and the possibility of contractual issues further down the line, a France-based advisor said."
+    },
+    {
+      "id": "09f9a1086ae2",
+      "title": "FranklinWH expands US VPP reach with Alliant Energy and Entergy Louisiana partnerships",
+      "url": "https://www.energy-storage.news/franklinwh-expands-us-vpp-reach-with-alliant-energy-and-entergy-louisiana-partnerships/",
+      "published": "2026-10-29T13:08:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Distributed energy resource (DER)-focused company FranklinWH has recently announced advancements in residential energy storage programmes in Louisiana and Iowa."
+    },
+    {
+      "id": "345d6002e785",
+      "title": "Portugal makes grid-forming mandatory for large-scale BESS and launches 1GW tender",
+      "url": "https://www.energy-storage.news/portugal-makes-grid-forming-mandatory-for-large-scale-bess-and-launches-1gw-tender/",
+      "published": "2026-10-29T11:23:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Sonnedix has put two solar-plus-storage projects into commercial operation in Portugal, coinciding with the government moving to use BESS to strengthen the reliability of its electricity grid."
+    },
+    {
+      "id": "fd3fe0e85c02",
+      "title": "Nordics roundup: Delta Capacity closes Finland financings, Ingrid-Alpiq offtake framework, Monsson’s first investment",
+      "url": "https://www.energy-storage.news/nordics-roundup-delta-capacity-closes-finland-financings-ingrid-alpiq-offtake-framework-monssons-first-investment/",
+      "published": "2026-10-29T11:22:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A trio of battery storage news announcements from the buoyant Nordic market, including projects in Finland and Sweden."
+    },
+    {
+      "id": "cfe21ebce376",
+      "title": "Spain solar PPA prices fall to €30.93/MWh as BESS gains ground",
+      "url": "https://www.pv-magazine.com/2026/10/29/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/",
+      "published": "2026-10-29T10:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Average prices for standalone solar power purchase agreements (PPAs) in Spain fell 7.7% year on year to €30.93 ($34.46)/MWh in the third quarter of 2026, while hybrid solar-and-storage contracts reached €48/MWh. Rising development costs and renewable energy curtailment are increasing interest in bat…"
+    },
+    {
+      "id": "b88501d60955",
+      "title": "Scatec secures $217 million for Egypt smelter solar-plus-storage plant",
+      "url": "https://www.pv-magazine.com/2026/10/29/scatec-secures-217-million-for-egypt-smelter-solar-plus-storage-plant/",
+      "published": "2026-10-29T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A solar and battery project in Egypt will supply state-owned Egypt Aluminium under a 25-year, sovereign-guaranteed power purchase agreement as the smelter seeks to meet trade-related environmental standards. The post Scatec secures $217 million for Egypt smelter solar-plus-storage plant appeared fir…"
+    },
+    {
+      "id": "1857e3836ff2",
+      "title": "Heat pump grant survives, new loans for solar and battery storage in UK Budget",
+      "url": "https://www.pv-magazine.com/2026/10/29/heat-pump-grant-survives-new-loans-for-solar-and-battery-storage-in-uk-budget/",
+      "published": "2026-10-29T08:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Heat pump grants subsidy retained, but future budget is reduced, while Warm Home Loans program promises to cut the cost of financing residential solar. End of zero VAT rating for energy saving materials. The post Heat pump grant survives, new loans for solar and battery storage in UK Budget appeared…"
+    },
+    {
+      "id": "d042ae38cb44",
+      "title": "Algorithmic bidding not the NEM’s ‘boogeyman,’ says Fluence at All-Energy Australia 2026",
+      "url": "https://www.energy-storage.news/algorithmic-bidding-not-the-nems-boogeyman-says-fluence-at-all-energy-australia-2026/",
+      "published": "2026-10-29T03:07:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Algorithmic bidding systems used to trade battery storage do not threaten competition in Australia's NEM, according to Fluence."
+    },
+    {
+      "id": "882de7262185",
+      "title": "China Steps Back From Promoting Second-Life EV Batteries",
+      "url": "https://cleantechnica.com/2026/10/28/china-second-life-ev-battery-reuse-rules/",
+      "published": "2026-10-28T15:15:36+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "China spent much of the 2010s electrifying urban bus fleets while most countries were still testing whether battery-electric buses could replace diesel. By the end of 2025, it had 551,400 new-energy urban buses, representing 87.5% of the fleet. That early success has brought China to a stage other c…"
+    },
     {
       "id": "d02cc9af430a",
       "title": "UK government approves nearly 2 GW of co-located solar in October",
