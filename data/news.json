@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-29T15:01:30.926444+00:00",
-  "count": 1500,
+  "updated": "2026-10-30T14:54:43.873609+00:00",
+  "count": 1509,
   "items": [
+    {
+      "id": "95cb4fe6cc5b",
+      "title": "BESS augmentation: what owner-operators need to know",
+      "url": "https://www.energy-storage.news/bess-augmentation-what-owner-operators-need-to-know/",
+      "published": "2026-10-30T12:25:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "How should BESS owner-operators be thinking about augmentation of their projects further down the line?"
+    },
+    {
+      "id": "91920bf55d27",
+      "title": "FERC’s rulings on PJM, home of ‘Data Centre Alley,’ put the spotlight on states",
+      "url": "https://www.energy-storage.news/fercs-rulings-on-pjm-home-of-data-centre-alley-put-the-spotlight-on-states/",
+      "published": "2026-10-30T11:37:05+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Few grids illustrate the strain of America's data centre boom more starkly than the PJM Interconnection."
+    },
+    {
+      "id": "71ad03c0445c",
+      "title": "BESS Industry Buzz: Sonnen’s collapse, BESS contracts, new market entrants and over-reporting availability",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-sonnens-collapse-bess-contracts-new-market-entrants-and-over-reporting-availability/",
+      "published": "2026-10-30T09:52:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We're back with another BESS Industry Buzz after a short period off, tracking interesting hot takes and analysis from across the energy storage industry."
+    },
+    {
+      "id": "45a4c4867f0d",
+      "title": "Samsung SDI: 60GWh of ESS battery orders in 2026 so far, 53% year-over-year ‘revenue surge’",
+      "url": "https://www.energy-storage.news/samsung-sdi-60gwh-of-ess-battery-orders-in-2026-so-far-53-year-over-year-revenue-surge/",
+      "published": "2026-10-30T09:52:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Samsung SDI has released its Q3 2026 financial results, highlighting a 52.6% year-over-year rise in revenue and a return to profitability."
+    },
+    {
+      "id": "59181ff2ddb9",
+      "title": "Chinese portable battery storage players report rising overseas orders in Q3 results",
+      "url": "https://www.energy-storage.news/chinese-portable-battery-storage-players-report-rising-overseas-orders-in-q3-results/",
+      "published": "2026-10-30T04:10:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Carrie Xiao reports on the recent financial and operational results of Chinese portable battery storage manufacturers, many of which are based in Shenzhen."
+    },
+    {
+      "id": "db465108ae80",
+      "title": "8-hour BESS market ‘completely artificial’, but asymmetric registration adds value, says Tesla at All-Energy Australia 2026",
+      "url": "https://www.energy-storage.news/8-hour-bess-market-completely-artificial-but-asymmetric-registration-adds-value-says-tesla-at-all-energy-australia-2026/",
+      "published": "2026-10-30T01:21:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Demand for 8-hour battery energy storage in Australia is \"completely artificial\" and relies on government underwriting, according to Tesla, which said asymmetric registration can help such projects earn more."
+    },
+    {
+      "id": "eb3f65d6f4b0",
+      "title": "SMA launches DC-coupled grid-forming solar-plus-storage solution for Germany, Australia and the UK",
+      "url": "https://www.energy-storage.news/sma-launches-dc-coupled-grid-forming-solar-plus-storage-solution-for-germany-australia-and-the-uk/",
+      "published": "2026-10-30T01:08:21+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Germany-headquartered inverter manufacturer SMA has launched a grid-forming solar-plus-storage solution in Australia, unveiling it at the All-Energy Australia 2026 event in Melbourne this week."
+    },
+    {
+      "id": "051d41a275d1",
+      "title": "Ireland’s Grid Flexibility Assessment Shows Why Location Matters",
+      "url": "https://cleantechnica.com/2026/10/29/grid-flexibility-location-ireland-naas/",
+      "published": "2026-10-29T16:59:03+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Ireland's Naas substation shows why flexible batteries and loads must match the location, timing and operating conditions of grid constraints. The post Ireland&#8217;s Grid Flexibility Assessment Shows Why Location Matters appeared first on CleanTechnica."
+    },
+    {
+      "id": "6576670f6474",
+      "title": "Scatec’s US$650 million solar-plus-storage project for Egypt Aluminium gets EBRD, EIB and AfD financing commitment",
+      "url": "https://www.energy-storage.news/scatecs-us650-million-solar-plus-storage-project-for-egypt-aluminium-gets-ebrd-eib-and-afd-financing-commitment/",
+      "published": "2026-10-29T15:46:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Scatec, the European Investment Bank (EIB), the European Bank for Reconstruction and Development (EBRD) and the African Development Bank (AfDB) have signed an investment agreement for Dandara solar-plus-storage project in Egypt."
+    },
     {
       "id": "bccf216139ca",
       "title": "Sure Looks Like Trump Loves EVs After All",
