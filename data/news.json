@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-30T14:54:43.873609+00:00",
-  "count": 1509,
+  "updated": "2026-10-31T14:23:44.649614+00:00",
+  "count": 1511,
   "items": [
+    {
+      "id": "f9a841791bc3",
+      "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
+      "url": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/",
+      "published": "2026-10-31T02:27:19+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with operable battery storage, compared with 2% in 2017, according to data reported to EI…"
+    },
     {
       "id": "95cb4fe6cc5b",
       "title": "BESS augmentation: what owner-operators need to know",
@@ -10,6 +19,15 @@
       "source": "Energy Storage News",
       "lang": "en",
       "summary": "How should BESS owner-operators be thinking about augmentation of their projects further down the line?"
+    },
+    {
+      "id": "ed00d27f13fe",
+      "title": "Xcel Energy rolls out $70B, 5-year capital plan focused on renewables",
+      "url": "https://www.utilitydive.com/news/xcel-energy-renewables-wind-earnings/873273/",
+      "published": "2026-10-30T12:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "&ldquo;We believe that we can, in fact, protect the planet&rdquo; while serving growing demand, CEO Bob Frenzel said.&nbsp;The spending plan includes 9.2 GW of renewables and 2.3 GW of storage."
     },
     {
       "id": "91920bf55d27",
