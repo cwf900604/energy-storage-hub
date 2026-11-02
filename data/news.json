@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-01T14:49:53.472004+00:00",
-  "count": 1511,
+  "updated": "2026-11-02T17:59:23.711762+00:00",
+  "count": 1520,
   "items": [
+    {
+      "id": "df1bd067ef96",
+      "title": "NEWSFLASH: Gresham House Energy Storage Fund launches sales process",
+      "url": "https://www.energy-storage.news/newsflash-gresham-house-energy-storage-fund-launches-sales-process/",
+      "published": "2026-11-02T16:59:10+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%."
+    },
+    {
+      "id": "f10841035812",
+      "title": "Jackery Launches Explorer 100D Portable Power Station. Maximum Capability For Carryon Compatibility",
+      "url": "https://cleantechnica.com/2026/11/02/jackery-launches-explorer-100d-portable-power-station/",
+      "published": "2026-11-02T16:38:59+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Jackery just launched the Explorer 100D portable power station. This is Jackery’s smallest battery, giving a new level of versatility to power many of the devices people rely on most. Meanwhile, it integrates the durability and safety people expect from Jackery’s larger models into a compact case. T…"
+    },
+    {
+      "id": "17ac3e665db2",
+      "title": "Exelon eyes $8B in energy storage, partly to address PJM supply crunch",
+      "url": "https://www.utilitydive.com/news/exelon-energy-storage-new-jersey-earnings/873423/",
+      "published": "2026-11-02T14:26:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "President and CEO Calvin Butler said the grid operator isn&rsquo;t adding generation fast enough, but the utility&rsquo;s plan to invest in&nbsp;energy storage and transmission can help address the issue."
+    },
+    {
+      "id": "ca0f7bbc7492",
+      "title": "Envision claims world first with 800 V DC architecture for AI data center",
+      "url": "https://www.pv-magazine.com/2026/11/02/envision-claims-world-first-with-800-v-dc-architecture-for-ai-data-center/",
+      "published": "2026-11-02T14:13:08+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Integrated system combining solid-state transformer and battery storage deployed at AI data center in China. The 800 V DC architecture allows for more computing power within the same physical footprint. The post Envision claims world first with 800 V DC architecture for AI data center appeared first…"
+    },
+    {
+      "id": "8abc3fd7b03e",
+      "title": "Armenia introduces interest rate subsidies for storage systems",
+      "url": "https://www.pv-magazine.com/2026/11/02/armenia-introduces-interest-rate-subsidies-for-storage-systems/",
+      "published": "2026-11-02T13:44:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "New government provisions offer businesses interest rate subsidies of 6 to 10 percentage points on loans and leases for battery storage equipment. The post Armenia introduces interest rate subsidies for storage systems appeared first on pv magazine Global."
+    },
+    {
+      "id": "1108fdb88c40",
+      "title": "Trump bulk power equipment ban sparks industry pushback: ‘Let’s not reinvent the wheel’",
+      "url": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/",
+      "published": "2026-11-02T12:42:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US President Donald Trump’s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy storage industry."
+    },
+    {
+      "id": "530094b08f8b",
+      "title": "AGL refers 2GWh BESS in Queensland to Australia’s EPBC Act as ACEnergy submits 250MW Victoria project",
+      "url": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
+      "published": "2026-11-02T02:22:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two Australian battery storage projects in Queensland and Victoria have entered federal environmental review, with AGL Energy and developer ACEnergy each submitting referrals under the same national process."
+    },
+    {
+      "id": "f0c99fb58362",
+      "title": "‘Advancing grid-forming energy storage’: Sungrow wins Hazelwood BESS 2 PCS and BESS order in Australia",
+      "url": "https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/",
+      "published": "2026-11-02T02:13:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sungrow will supply both the BESS and the grid-forming power conversion equipment for ENGIE's Hazelwood BESS expansion in Victoria, Australia."
+    },
+    {
+      "id": "c04e5d8fcfa6",
+      "title": "Five days deliver 38% of Australia’s NEM BESS fleet revenue for October",
+      "url": "https://www.energy-storage.news/five-days-deliver-38-of-australias-nem-bess-fleet-revenue-for-october/",
+      "published": "2026-11-02T01:59:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's grid-scale BESS fleet earned an estimated AU$37.62 million in the National Electricity Market (NEM) in October 2026."
+    },
     {
       "id": "f9a841791bc3",
       "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
