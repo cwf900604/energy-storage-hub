@@ -1,7 +1,133 @@
 {
-  "updated": "2026-11-02T17:59:23.711762+00:00",
-  "count": 1520,
+  "updated": "2026-11-03T15:58:22.946220+00:00",
+  "count": 1534,
   "items": [
+    {
+      "id": "0538f9a3ef3a",
+      "title": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions",
+      "url": "https://www.energy-storage.news/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions/",
+      "published": "2026-11-03T12:01:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process."
+    },
+    {
+      "id": "b80d3bbdcc3c",
+      "title": "BESS for EV charging: why sites need it, how it works and when to install",
+      "url": "https://www.energy-storage.news/bess-for-ev-charging-guide/",
+      "published": "2026-11-03T11:58:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Grid connections are now the biggest brake on rapid EV charging. Here's how battery storage lets charging sites deliver more power from a smaller connection, and when it pays to add it."
+    },
+    {
+      "id": "449e6ce7112f",
+      "title": "Key takeaways from All Energy Australia 2026",
+      "url": "https://www.pv-magazine.com/2026/11/03/batteries-are-big-at-all-energy-australia-2026/",
+      "published": "2026-11-03T11:14:39+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The outlook for Australia’s renewable energy transition appears positive with supportive government policies and renewable energy targets, a surge in battery installations, and a strong pipeline of grid-scale solar and storage projects helping to fuel confidence. The post Key takeaways from All Ener…"
+    },
+    {
+      "id": "2216a214e1d0",
+      "title": "Slovenia tenders solar-plus-storage project",
+      "url": "https://www.pv-magazine.com/2026/11/03/slovenia-tenders-solar-plus-storage-project/",
+      "published": "2026-11-03T11:09:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A tender is open in Slovenia for the development of a solar-plus-storage project at a former waste landfill site. The deadline for applications is November 19. The post Slovenia tenders solar-plus-storage project appeared first on pv magazine Global."
+    },
+    {
+      "id": "591532e0d666",
+      "title": "BW ESS puts Europe’s largest BESS into commercial operation in the UK",
+      "url": "https://www.energy-storage.news/bw-ess-puts-europes-largest-bess-commercial-operation-uk-gb/",
+      "published": "2026-11-03T10:35:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BW ESS has put its 350MW/1,240MWh Hams Hall BESS project in the UK into operation, the largest in Europe."
+    },
+    {
+      "id": "2d9d62d37c38",
+      "title": "Behind-the-meter generation could deliver five times more grid relief than data center load shifting",
+      "url": "https://www.pv-magazine.com/2026/11/03/behind-the-meter-generation-could-deliver-five-times-more-grid-relief-than-data-center-load-shifting/",
+      "published": "2026-11-03T10:02:58+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "An Ember analysis finds that data center load shifting could reduce peak electricity demand by up to 1.5% in Ireland by 2030, offering limited grid flexibility. Behind-the-meter generation and storage could provide nearly five times more relief, with potential reductions of up to 2.7 GW in Texas. Th…"
+    },
+    {
+      "id": "53a653a57cfd",
+      "title": "Hybrid wind-solar-battery plants can power Kazakhstan’s demand growth",
+      "url": "https://www.pv-magazine.com/2026/11/03/hybrid-wind-solar-battery-plants-can-power-kazakhstans-demand-growth/",
+      "published": "2026-11-03T09:54:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Ember analysis finds that hybrid wind, solar and battery plants could supply electricity at an average cost of $56/MWh in Kazakhstan, compared with $70–170/MWh for new coal, while meeting up to 90% of typical demand. The post Hybrid wind-solar-battery plants can power Kazakhstan’s demand growth appe…"
+    },
+    {
+      "id": "6f3475f9a859",
+      "title": "VIDEO: High-current battery module connections for energy storage systems",
+      "url": "https://www.energy-storage.news/video-high-current-battery-module-connections-for-energy-storage-systems/",
+      "published": "2026-11-03T09:43:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news proudly presents our sponsored webinar with Amphenol, 'Designing high-current battery module connections for energy storage systems.'"
+    },
+    {
+      "id": "3a14078368ac",
+      "title": "Fluence CEO Julian Nebreda and CFO Ahmed Pasha leave with immediate effect",
+      "url": "https://www.energy-storage.news/fluence-ceo-julian-nebreda-and-cfo-ahmed-pasha-leave-with-immediate-effect/",
+      "published": "2026-11-03T03:29:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "CEO and CFO of energy storage technology provider Fluence have both left the company."
+    },
+    {
+      "id": "bacefc348ff2",
+      "title": "‘A lot of interest in sodium-ion’ from Australian mining and data centres, CATL’s ANZ general manager says",
+      "url": "https://www.energy-storage.news/a-lot-of-interest-in-sodium-ion-from-australian-mining-and-data-centres-catls-anz-general-manager-says/",
+      "published": "2026-11-03T02:18:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ESN Premium speaks with Zane Zhou of CATL Australia and New Zealand, about TENER+, sodium-ion demand, the Collie BESS and more."
+    },
+    {
+      "id": "af5ae3777b61",
+      "title": "‘Capital to move our next wave’: Revera Energy doubles holdco facility to US$300 million for BESS in UK and Australia",
+      "url": "https://www.energy-storage.news/capital-to-move-our-next-wave-revera-energy-doubles-holdco-facility-to-us300-million-for-bess-in-uk-and-australia/",
+      "published": "2026-11-03T01:58:54+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Revera Energy has doubled its holdco credit facility from US$150 million to US$300 million to fund its BESS pipeline in the UK and Australia."
+    },
+    {
+      "id": "dc0d0dbd9f7a",
+      "title": "Australia: Victoria’s SEC secures 4-hour Glenrowan BESS offtake, first BESS units arrive at Gentari’s Maryvale",
+      "url": "https://www.energy-storage.news/australia-victorias-sec-secures-4-hour-glenrowan-bess-offtake-first-bess-units-arrive-at-gentaris-maryvale/",
+      "published": "2026-11-03T01:55:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Victoria's SEC secures 10-year Glenrowan BESS offtake as Gentari's first BESS units arrive at NSW's Maryvale solar-storage project."
+    },
+    {
+      "id": "d48ce8659ef3",
+      "title": "More of the Same Expensive Dependence on Fossil Fuels in TEP and APS 2026 Energy Plans",
+      "url": "https://cleantechnica.com/2026/11/02/more-of-the-same-expensive-dependence-on-fossil-fuels-in-tep-and-aps-2026-energy-plans/",
+      "published": "2026-11-03T00:52:41+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "PHOENIX — Arizona utilities Tucson Electric Power Company (TEP) and Arizona Public Service (APS) filed their 2026 Integrated Resource Plans (IRPs) on Friday that evaluate how utilities will obtain energy for the next 15 years. While their plans include new renewable energy and storage, they continue…"
+    },
+    {
+      "id": "bc0d927e1a75",
+      "title": "Swarm Of Electric Trucks Coming To US (Battery Swapping Included?)",
+      "url": "https://cleantechnica.com/2026/11/02/electric-trucks-us-canada-battery-swapping-trade-wars/",
+      "published": "2026-11-02T19:52:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Australian firm Janus Electric has hooked up with Canada's Electrovaya to accelerate the electric truck conversion field in North America, regardless of the sharp U-turn in US electrification policy. The post Swarm Of Electric Trucks Coming To US (Battery Swapping Included?) appeared first on Cl…"
+    },
     {
       "id": "df1bd067ef96",
       "title": "NEWSFLASH: Gresham House Energy Storage Fund launches sales process",
