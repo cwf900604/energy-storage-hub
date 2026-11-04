@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-03T15:58:22.946220+00:00",
-  "count": 1534,
+  "updated": "2026-11-04T16:01:47.407070+00:00",
+  "count": 1545,
   "items": [
+    {
+      "id": "09898a450769",
+      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
+      "url": "https://www.energy-storage.news/us-midterms-chinas-battery-stocks-jump-korean-ones-soar-reaction-democrat-wins/",
+      "published": "2026-11-04T15:54:16+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Democrats have won the House and the Senate in the US Midterm elections, dealing a blow to the Trump administration and sending Chinese and Korean battery share prices upwards."
+    },
+    {
+      "id": "eaf29113d599",
+      "title": "LG Energy Solution reports 60% growth in ESS shipments, 160GWh order backlog",
+      "url": "https://www.energy-storage.news/lg-energy-solution-reports-60-growth-in-ess-shipments-160gwh-order-backlog/",
+      "published": "2026-11-04T15:32:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "LG Energy Solution saw 28% quarter-on-quarter growth in revenue in Q3 2026, with “significant energy storage system (ESS) shipment growth” among the main drivers."
+    },
+    {
+      "id": "6172c98d4d42",
+      "title": "Shoals and Array announce merger plan in bid to create ‘one-stop shop’",
+      "url": "https://www.pv-magazine.com/2026/11/04/shoals-and-array-announce-merger-plan-in-bid-to-create-one-stop-shop/",
+      "published": "2026-11-04T14:36:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Merger between electronic balance of system (EBOS) and tracker company brings a raft of products for solar and battery storage installations into a single business. Shoals shareholders are expected to own roughly 65% of the merged company. The post Shoals and Array announce merger plan in bid to cre…"
+    },
+    {
+      "id": "80bd44887846",
+      "title": "Could BESS move towards LMFP battery chemistry?",
+      "url": "https://www.energy-storage.news/could-bess-move-towards-lmfp-battery-chemistry/",
+      "published": "2026-11-04T11:45:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What is LMFP battery chemistry, and why is interest growing in it as a possible alternative to LFP batteries in battery energy storage system (BESS) applications?"
+    },
+    {
+      "id": "51d33eddd2f1",
+      "title": "Malaysia’s data center industry gets 500 MW solar, 1 GWh battery storage boost",
+      "url": "https://www.pv-magazine.com/2026/11/04/malaysias-data-center-industry-gets-500-mw-solar-1-gwh-battery-storage-boost/",
+      "published": "2026-11-04T11:01:20+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A 500 MW solar project paired with a 1 GWh battery storage system is planned in Malaysia to supply renewable electricity to DayOne’s data centers. The project, backed by IOI Corporation and Tenaga Nasional Berhad, will operate under the country’s Corporate Renewable Energy Supply Scheme. The post Ma…"
+    },
+    {
+      "id": "dd998868a28b",
+      "title": "Return finances 220MWh in Spain, BW ESS buys 800MWh in France",
+      "url": "https://www.energy-storage.news/return-finances-220mwh-in-spain-bw-ess-buys-800mwh-in-france/",
+      "published": "2026-11-04T11:00:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operators Return and BW ESS have financed and acquired large-scale projects in Spain and France, respectively, totalling a little over 1GWh."
+    },
+    {
+      "id": "85ceb9be2dc0",
+      "title": "Poweroad FLEX-261 series passes dual-standard large-scale fire testing",
+      "url": "https://www.pv-magazine.com/2026/11/04/poweroad-flex-261-series-passes-dual-standard-large-scale-fire-testing/",
+      "published": "2026-11-04T10:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Testing was conducted in accordance with UL 9540A and CSA C800 and provides technical evidence to support fire safety assessments for multi-cabinet C&#38;I energy storage installations. POWEROAD has received a CSA Group Letter of Attestation for passing the tests. The post Poweroad FLEX-261 series p…"
+    },
+    {
+      "id": "85f29001a75a",
+      "title": "EU going in wrong direction on battery labelling rules, energy storage associations say in joint letter",
+      "url": "https://www.energy-storage.news/eu-wrong-direction-battery-labelling-rules-energy-storage-associations-joint-letter/",
+      "published": "2026-11-04T09:34:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The European Union is treading the wrong path on battery regulation, according to industry groups from battery, energy storage, electric mobility and adjacent sectors."
+    },
+    {
+      "id": "ebf0dc528191",
+      "title": "‘We’ve done all the trials’: Akaysha calls for system security contracts for grid-forming battery storage in Australia",
+      "url": "https://www.energy-storage.news/weve-done-all-the-trials-akaysha-calls-for-system-security-contracts-for-grid-forming-battery-storage-in-australia/",
+      "published": "2026-11-04T02:15:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia has finished trialling grid-forming battery storage for system security services and needs contracts signed within two years."
+    },
+    {
+      "id": "e7da89783ee8",
+      "title": "If The US Department Of Defense Gets Solar Power, Why Can’t We?",
+      "url": "https://cleantechnica.com/2026/11/03/us-military-solar-power-microgrid-fortress-america/",
+      "published": "2026-11-03T23:29:09+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "White Sands Missile Range celebrated the launch of an on-site, solar-enabled microgrid last year, and the facility has already begun planning for another microgrid with solar power. The post If The US Department Of Defense Gets Solar Power, Why Can&#8217;t We? appeared first on CleanTechnica."
+    },
+    {
+      "id": "d4af4ddd7ad8",
+      "title": "Can ‘BattMan’ secure the US battery manufacturing supply chain?",
+      "url": "https://www.utilitydive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873599/",
+      "published": "2026-11-03T16:01:22+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The Energy Department&rsquo;s Battery Manufacturing Accelerator aims to plug gaps in domestic material and component supplies over the next few years as U.S. battery demand looks set to quadruple."
+    },
     {
       "id": "0538f9a3ef3a",
       "title": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions",
