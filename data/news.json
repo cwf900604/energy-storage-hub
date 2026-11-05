@@ -1,7 +1,124 @@
 {
-  "updated": "2026-11-04T16:01:47.407070+00:00",
-  "count": 1545,
+  "updated": "2026-11-05T16:16:02.058524+00:00",
+  "count": 1558,
   "items": [
+    {
+      "id": "aefcf2254fb0",
+      "title": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL",
+      "url": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/",
+      "published": "2026-11-05T14:42:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We catch up with the CEO of Netherlands-headquartered system integrator Alfen to discuss its sodium-ion BESS partnership with CATL and plans for the technology in Europe."
+    },
+    {
+      "id": "f3bb0b4d792e",
+      "title": "China’s energy storage fleet grows to 167 GW as utilization improves",
+      "url": "https://www.pv-magazine.com/2026/11/05/chinas-energy-storage-fleet-grows-to-167-gw-as-utilization-improves/",
+      "published": "2026-11-05T14:17:21+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The NEA reported 63% annual growth in installed capacity, alongside longer storage durations and improving utilization rates. The post China’s energy storage fleet grows to 167 GW as utilization improves appeared first on pv magazine Global."
+    },
+    {
+      "id": "9f794f2f4c8e",
+      "title": "Hoymiles plans to establish inverter factory in Oman",
+      "url": "https://www.pv-magazine.com/2026/11/05/hoymiles-plans-to-establish-inverter-factory-in-oman/",
+      "published": "2026-11-05T13:00:47+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Chinese inverter manufacturer Hoymiles has signed a strategic agreement with three partners to develop solar, energy storage and manufacturing projects in Oman. The proposed $100 million partnership includes a renewable energy investment fund and a solar inverter manufacturing facility targeting Mid…"
+    },
+    {
+      "id": "86dd9eecc62d",
+      "title": "US distributed energy storage updates from Base Power and Sunrun",
+      "url": "https://www.energy-storage.news/us-distributed-energy-storage-updates-from-base-power-and-sunrun/",
+      "published": "2026-11-05T11:27:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US retail giant Walmart has made a strategic investment in home battery storage firm Base Power, while Sunrun has doubled the size of its home battery VPP in Puerto Rico."
+    },
+    {
+      "id": "b350c830fef9",
+      "title": "What Democratic control of Congress could mean for US BESS and renewables",
+      "url": "https://www.energy-storage.news/what-democratic-control-of-congress-could-mean-for-us-bess-and-renewables/",
+      "published": "2026-11-05T11:23:26+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Democrats scored major victories in the US Midterm elections, taking both the House and Senate and flipping several long-held Republican strongholds, with changes likely to occur in the clean energy sector."
+    },
+    {
+      "id": "c2da71dddae6",
+      "title": "Revolta installs first 10 kWh sodium-ion home battery in Germany",
+      "url": "https://www.pv-magazine.com/2026/11/05/revolta-installs-first-10-kwh-sodium-ion-home-battery-in-germany/",
+      "published": "2026-11-05T10:51:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The German startup has commissioned its first customer system in an unusual place, with further pilot installations planned across Germany in the coming weeks. The post Revolta installs first 10 kWh sodium-ion home battery in Germany appeared first on pv magazine Global."
+    },
+    {
+      "id": "e3f41a919751",
+      "title": "Pairing residential heat pumps with potassium carbonate-based thermochemical storage",
+      "url": "https://www.pv-magazine.com/2026/11/05/pairing-residential-heat-pumps-with-potassium-carbonate-based-thermochemical-storage/",
+      "published": "2026-11-05T10:33:13+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "U.S. researchers have found that combining residential heat pumps with thermochemical energy storage could reduce electricity demand during cold spells. Improved storage efficiency and heat pump performance could increase the contribution of thermal storage in highly decarbonized power grids. The po…"
+    },
+    {
+      "id": "13b5e3de92f0",
+      "title": "Return secures €835 million ‘first-of-its-kind’ financing for Germany BESS rollout, targets 1GW annually",
+      "url": "https://www.energy-storage.news/return-secures-835-million-germany-bess-rollout-targets-1gw-annually/",
+      "published": "2026-11-05T10:32:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operator Return has secured an €835 million (US$938 million) portfolio financing underwritten by Deutsche Bank and Rabobank to expand its BESS activities in Germany."
+    },
+    {
+      "id": "cc17bcdeee1e",
+      "title": "‘Ready to provide energy security’: Eku Energy’s 500MWh BESS enters commercial operation in Australia’s ACT",
+      "url": "https://www.energy-storage.news/ready-to-provide-energy-security-eku-energys-500mwh-bess-enters-commercial-operation-in-australias-act/",
+      "published": "2026-11-05T09:18:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Eku Energy has fully commissioned its 250MW/500MWh Williamsdale BESS in the Australian Capital Territory (ACT)."
+    },
+    {
+      "id": "abb7abb04067",
+      "title": "Neoen, Frontier Energy and Lightyears secure financing for solar-plus-storage in Australia and New Zealand",
+      "url": "https://www.energy-storage.news/neoen-frontier-energy-and-lightyears-secure-financing-for-solar-plus-storage-in-australia-and-new-zealand/",
+      "published": "2026-11-05T09:15:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Three developers have secured debt and equity for solar PV, wind and battery storage projects across Australia and New Zealand."
+    },
+    {
+      "id": "f2900186e037",
+      "title": "Korean researchers build all-solid battery prototype with 235.13 Wh/L energy density",
+      "url": "https://www.pv-magazine.com/2026/11/05/korean-researchers-build-all-solid-battery-prototype-with-235-13-wh-l-energy-density/",
+      "published": "2026-11-05T09:14:07+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers at South Korea's Dongguk University have developed an anode-free all-solid-state thin-film battery featuring an ultrathin tin/carbon interlayer to improve lithium deposition and cycling stability. The 2.77-micrometer-thick prototype achieved a volumetric energy density of 235.13 Wh/L aft…"
+    },
+    {
+      "id": "ff751f031f87",
+      "title": "Tokyo tests solar-powered hydrogen production at high-rise office complex",
+      "url": "https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex/",
+      "published": "2026-11-05T09:10:59+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Three Japanese companies are deploying a solar-powered hydrogen production and storage system at a commercial complex in Tokyo. The project combines rooftop photovoltaics, battery storage, hydrogen-absorbing alloys and fuel cells to supply electricity to parts of the building. The post Tokyo tests s…"
+    },
+    {
+      "id": "c255808454a3",
+      "title": "Who Controls the Battery in Your Driveway?",
+      "url": "https://cleantechnica.com/2026/11/04/who-controls-the-battery-in-your-driveway/",
+      "published": "2026-11-05T04:51:54+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Tesla brought home power backup to America. In Australia, an update is switching it off. North American owners just got Powershare with Powerwall. Australian owners of existing Teslas got a software update that appears to block the third-party gear they use to power their homes. It is a test case ..…"
+    },
     {
       "id": "09898a450769",
       "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
