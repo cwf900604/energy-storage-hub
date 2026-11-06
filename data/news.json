@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-05T16:16:02.058524+00:00",
-  "count": 1558,
+  "updated": "2026-11-06T15:46:19.478051+00:00",
+  "count": 1567,
   "items": [
+    {
+      "id": "dcd301004ecf",
+      "title": "Ford Energy partners with DESRI to deploy US BESS",
+      "url": "https://www.energy-storage.news/ford-energy-partners-with-desri-to-deploy-us-bess/",
+      "published": "2026-11-06T14:06:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Renewables developer D. E. Shaw Renewable Investments (DESRI) and Ford Motor Company’s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US."
+    },
+    {
+      "id": "3b7c064eb601",
+      "title": "BESS Industry Buzz: Blue Wave in the midterms, RTE disagreements, cybersecurity incident in Chile",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-blue-wave-in-the-midterms-rte-disagreements-cybersecurity-incident-in-chile/",
+      "published": "2026-11-06T14:05:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Welcome to our latest BESS Industry Buzz, this week featuring the US midterms, ultra-rapid BESS commissioning, how to calculate RTE and a cybersecurity incident in Chile."
+    },
+    {
+      "id": "0ab7c09b52a6",
+      "title": "Norwegian central bank buys US$300 million stake in Brookfield’s soon-to-be acquired BESS developer Aypa Power",
+      "url": "https://www.energy-storage.news/norwegian-central-bank-buys-us300-million-stake-in-brookfields-soon-to-be-acquired-bess-developer-aypa-power/",
+      "published": "2026-11-06T14:04:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Norges Bank Investment Management (NBIM), the asset management unit of the central bank of Norway, has acquired a 10% interest in North American battery storage developer-operator Aypa Power."
+    },
+    {
+      "id": "4bfb8420ab77",
+      "title": "India approves Viability Gap Funding to support 92GWh of BESS and pumped hydro energy storage capacity",
+      "url": "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/",
+      "published": "2026-11-06T14:02:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "India’s Union government has approved the next IR145 billion (US$1.5 billion) phase of the Viability Gap Funding (VGP) policy support mechanism for energy storage capacity additions. In addition, a Ministry of Power official has reportedly said state power companies will likely soon be required to i…"
+    },
+    {
+      "id": "f02a707222c4",
+      "title": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg",
+      "url": "https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/",
+      "published": "2026-11-06T12:29:09+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Australian researchers found that hydrogen gas turbines could provide more cost-effective backup power than fuel cells during periods of low solar availability. Their study highlights how reservoir properties and system design affect the cost and performance of underground hydrogen storage. The post…"
+    },
+    {
+      "id": "b4c507556785",
+      "title": "World’s largest liquid-air storage facility comes online in China",
+      "url": "https://www.pv-magazine.com/2026/11/06/worlds-largest-liquid-air-storage-facility-comes-online-in-china/",
+      "published": "2026-11-06T11:03:49+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "China’s 60 MW/600 MWh liquid-air energy storage facility in Qinghai began generating electricity on October 30, marking a major milestone in long-duration energy storage commercialization. The world’s largest grid-connected LAES project offers 10 hours of continuous power output, supporting renewabl…"
+    },
+    {
+      "id": "cc60ac76bf34",
+      "title": "EnergyAustralia takes delivery of final units for 250MWh Hallett battery storage system",
+      "url": "https://www.energy-storage.news/energyaustralia-takes-delivery-of-final-units-for-250mwh-hallett-battery-storage-system/",
+      "published": "2026-11-06T08:44:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EnergyAustralia has taken delivery of the final battery storage units for its 50MW/250MWh Hallett BESS in South Australia, as construction continues at the site."
+    },
+    {
+      "id": "b259eab8410d",
+      "title": "Thermal Dawn — Thermal Storage Is Cheap Storage",
+      "url": "https://cleantechnica.com/2026/11/05/thermal-dawn-thermal-storage-is-cheap-storage/",
+      "published": "2026-11-06T04:32:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Another great idea from Down Under: Thermal Dawn promises cost effective heating and cooling, mainly by replacing gas boilers in cold climates. CleanTechnica had a chance to interview Nick Zeniou, Founder of Thermal Dawn, recently by phone, fresh after his presentation at Everything Electric. You ca…"
+    },
+    {
+      "id": "f771002572ab",
+      "title": "Co-located solar, storage jumps to 16% of all installations, up from 2% in 2017: EIA",
+      "url": "https://www.utilitydive.com/news/storage-solar-colocation-eia-seia/873882/",
+      "published": "2026-11-05T16:37:03+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The share of solar projects co-located with storage is projected to pass 30% over the next two years, based on planned additions, according to a report from the&nbsp;U.S. Energy Information Administration."
+    },
     {
       "id": "aefcf2254fb0",
       "title": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL",
