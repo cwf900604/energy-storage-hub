@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-06T15:46:19.478051+00:00",
-  "count": 1567,
+  "updated": "2026-11-07T14:45:50.710981+00:00",
+  "count": 1572,
   "items": [
+    {
+      "id": "8766babc2a8f",
+      "title": "How the Solar+ industries can make better decisions for the energy transition",
+      "url": "https://www.pv-magazine.com/2026/11/07/how-the-solar-industries-can-make-better-decisions-for-the-energy-transition/",
+      "published": "2026-11-07T10:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "This week, Women in Solar+ Europe (WiSEu) shares the lessons from its Solar &#38; Storage Live European tour: why silence puts projects at risk, what turns representation into real influence, and how leaders can make room for challenge, learning and innovation, even under pressure. The post How the …"
+    },
+    {
+      "id": "252b92d198b2",
+      "title": "Researchers develop 10.56 kW solar-powered pleasure boat",
+      "url": "https://www.pv-magazine.com/2026/11/07/researchers-unveil-10-56-kw-solar-powered-pleasure-boat/",
+      "published": "2026-11-07T08:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers in Canada have designed a solar-powered pleasure boat featuring a 10.56 kW PV array and a 19.68 kWh battery system. Simulations under solar conditions in Cyprus showed that the system could meet propulsion demand while providing a 39.8% surplus energy margin. The post Researchers develop…"
+    },
+    {
+      "id": "b5f8ff6001d0",
+      "title": "India’s installed solar PV capacity to exceed 350 GW by 2030, says IEA",
+      "url": "https://www.pv-magazine.com/2026/11/07/indias-installed-solar-pv-capacity-to-exceed-350-gw-by-2030-says-iea/",
+      "published": "2026-11-07T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Growth will be supported by utility-scale projects, rooftop solar and corporate procurement, although grid and storage investments remain critical. The post India’s installed solar PV capacity to exceed 350 GW by 2030, says IEA appeared first on pv magazine Global."
+    },
+    {
+      "id": "2a22f8a0fc7b",
+      "title": "Beyond scale and hardware",
+      "url": "https://www.pv-magazine.com/2026/11/07/beyond-scale-and-hardware/",
+      "published": "2026-11-07T05:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar and battery energy storage systems (BESS) have scaled dramatically since 2015, but demand growth is not necessarily translating into better economics for manufacturers, writes Susan Taylor of S&#38;P Global Energy. Solar manufacturers continue to battle overcapacity after years of capacity gro…"
+    },
+    {
+      "id": "8d4786f39c59",
+      "title": "NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill",
+      "url": "https://cleantechnica.com/2026/11/06/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/",
+      "published": "2026-11-07T04:14:00+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) is the result of years of negotiations on permitting reform. The product is a bill that combines critically important transmission and grid reforms with significant and concerning changes to federal environmental laws, permitting sta…"
+    },
     {
       "id": "dcd301004ecf",
       "title": "Ford Energy partners with DESRI to deploy US BESS",
