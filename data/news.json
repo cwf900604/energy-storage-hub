@@ -1,7 +1,205 @@
 {
-  "updated": "2026-11-08T14:51:58.125263+00:00",
-  "count": 1572,
+  "updated": "2026-11-10T16:14:35.985562+00:00",
+  "count": 1594,
   "items": [
+    {
+      "id": "3b3e39e6a069",
+      "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, ‘won’t solve interconnection queue wait’",
+      "url": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
+      "published": "2026-11-10T14:13:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats’ taking of the House and Senate in the 2026 US midterm elections."
+    },
+    {
+      "id": "ff1ea560959a",
+      "title": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record",
+      "url": "https://www.pv-magazine.com/2026/11/10/huaneng-commissions-dual-flywheel-frequency-regulation-system-claims-china-single-unit-power-record/",
+      "published": "2026-11-10T13:30:53+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "China’s Huaneng Group connected a 5.5 MW dual-flywheel energy storage system to the grid at its Lanzhou coal-fired power plant, enhancing frequency regulation capabilities. The system reportedly delivers sub-100-millisecond response times and over 99.5% accuracy, supporting grid stability amid growi…"
+    },
+    {
+      "id": "fe81361e4ab8",
+      "title": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country’s largest BTM BESS",
+      "url": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
+      "published": "2026-11-10T13:02:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alectra Energy Solutions and Convergent Energy &#038; Power have completed a 320MWh BESS portfolio at three sites in Ontario."
+    },
+    {
+      "id": "fc22d197730a",
+      "title": "Japan to assess renewable, storage technologies beyond PV and wind",
+      "url": "https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind/",
+      "published": "2026-11-10T12:35:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions. The post Japan to assess renewable, storage technologies beyond PV and wind appeared first on pv magazine Global."
+    },
+    {
+      "id": "2fd6363f3dc6",
+      "title": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan’s layered market",
+      "url": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
+      "published": "2026-11-10T12:20:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Battery energy storage system (BESS) projects in Japan by Sumitomo Corporation and Greenvolt provide an interesting snapshot of the country’s development landscape."
+    },
+    {
+      "id": "f007a95d01ab",
+      "title": "Italy: RWE and BNZ launch construction on large-scale battery projects",
+      "url": "https://www.energy-storage.news/italy-rwe-and-bnz-launch-construction-on-large-scale-battery-projects/",
+      "published": "2026-11-10T12:11:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Power firms RWE and BNZ have both announced construction on large-scale BESS projects in Italy, all-in-all totalling nearly 500MWh of capacity."
+    },
+    {
+      "id": "fefbcb6e8010",
+      "title": "Italian startup plans offshore gravity storage projects",
+      "url": "https://www.pv-magazine.com/2026/11/10/italian-startup-plans-offshore-gravity-storage-projects/",
+      "published": "2026-11-10T11:43:25+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I…"
+    },
+    {
+      "id": "f28b45ba1278",
+      "title": "Croatia opens €30 million funding call for solar, storage in agriculture",
+      "url": "https://www.pv-magazine.com/2026/11/10/croatia-opens-e30-million-funding-call-for-solar-storage-in-agriculture/",
+      "published": "2026-11-10T11:15:23+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A funding call aimed at solar and storage installations that support the agricultural sector is open in Croatia. It will remain open through Jan. 31, 2027, or until the available funding has been exhausted. The post Croatia opens €30 million funding call for solar, storage in agriculture appeared fi…"
+    },
+    {
+      "id": "e25539e49d1e",
+      "title": "Vietnam increases solar tariffs for 2026, maintains storage premiums",
+      "url": "https://www.pv-magazine.com/2026/11/10/vietnam-increases-solar-tariffs-for-2026-maintains-storage-premiums/",
+      "published": "2026-11-10T11:12:14+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Vietnam has set 2026 electricity generation price ceilings for ground-mounted solar projects ranging from VND 1,104.32 ($0.04)/kWh in the south to VND 1,591.02/kWh in the north. For floating solar, the maximum prices range from VND 1,340.21/kWh in the south to VND 1,939.74/kWh in the north. The post…"
+    },
+    {
+      "id": "a9b4a79c90ed",
+      "title": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity",
+      "url": "https://www.energy-storage.news/ngen-croatia-first-standalone-transmission-connected-bess-online-60mw-120mwh-capacity/",
+      "published": "2026-11-10T10:43:06+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS owner-operator NGEN has put its Šibenik project into commercial operation in Croatia, claiming it as the first standalone project to connect at the transmission-level."
+    },
+    {
+      "id": "2110015a3aad",
+      "title": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape",
+      "url": "https://www.energy-storage.news/video-improving-bess-thermal-and-dielectric-performance-with-psa-tape/",
+      "published": "2026-11-10T10:08:50+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news proudly presents our sponsored webinar with Argent International, 'New Ways to Improve BESS Thermal and Dielectric Performance.'"
+    },
+    {
+      "id": "b25dea8295ef",
+      "title": "1.2GWh BESS in South Australia and ACEnergy’s Little River project referred to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/1-2gwh-bess-in-south-australia-and-acenergys-little-river-project-referred-to-australias-epbc-act/",
+      "published": "2026-11-10T09:13:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Two Australian BESS projects in South Australia and Victoria have been submitted to the federal government under the EPBC Act."
+    },
+    {
+      "id": "bca7ed17fcc6",
+      "title": "Australia’s Cheaper Home Batteries Program hits 16.8GWh installed capacity",
+      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-hits-16-8gwh-installed-capacity/",
+      "published": "2026-11-10T09:10:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia's federal Cheaper Home Batteries Program has passed 600,000 home battery storage systems sold, roughly 16.8GWh."
+    },
+    {
+      "id": "763ea4db8d9b",
+      "title": "More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+      "url": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/",
+      "published": "2026-11-10T04:53:37+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "WASHINGTON D.C. — More than 300 solar and storage companies are urging Congress to pass the Bipartisan American Affordability and Jobs Act (BAAJA), S. 5653, warning that outdated federal permitting processes and grid infrastructure bottlenecks are delaying critical energy projects and driving up ele…"
+    },
+    {
+      "id": "071090c22021",
+      "title": "5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like",
+      "url": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/",
+      "published": "2026-11-10T04:50:49+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Five years ago, the first Mustang Mach-E customers began adding something important to the Ford electric vehicle battery validation work: real-world ownership at scale. As part of our quality process, design and validation engineering starts long before a vehicle reaches a customer. We model battery…"
+    },
+    {
+      "id": "bfb2e5603dc1",
+      "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis",
+      "url": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
+      "published": "2026-11-09T15:03:14+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Five years on from Glasgow, EVs have proved the single most effective way to curb oil use, says T&#38;E. Battery electric vehicles (BEVs) make up about 4.2% of the global car fleet but account for a quarter of all new cars sold worldwide; BEVs displace 1.2 million barrels of oil ... [continued] The …"
+    },
+    {
+      "id": "7e2a49bb43e8",
+      "title": "Ford Drops Hint About New Fathom EV Battery Life",
+      "url": "https://cleantechnica.com/2026/11/09/ford-drops-clue-about-ford-fathom-ev-battery/",
+      "published": "2026-11-09T14:00:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Ford is drawing attention to the long lifespan of the 2021 Mustang Mach-E EV battery, setting high expectations for the forthcoming Fathom electric pickup truck. The post Ford Drops Hint About New Fathom EV Battery Life appeared first on CleanTechnica."
+    },
+    {
+      "id": "46696b302577",
+      "title": "Removing barriers to distributed energy resources could save US power system US$614 billion by 2050, report finds",
+      "url": "https://www.energy-storage.news/removing-barriers-to-distributed-energy-resources-could-save-us-power-system-us614-billion-by-2050-report-finds/",
+      "published": "2026-11-09T12:39:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A new report prepared by The Brattle Group for The Pew Charitable Trusts finds that removing barriers to distributed energy resources (DERs) could avoid an estimated US$614 billion in US power system costs through 2050."
+    },
+    {
+      "id": "317db7c3b741",
+      "title": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds",
+      "url": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/",
+      "published": "2026-11-09T11:01:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector."
+    },
+    {
+      "id": "ddeb432de93d",
+      "title": "The next wave of energy storage capacity is already on the grid",
+      "url": "https://www.utilitydive.com/spons/the-next-wave-of-energy-storage-capacity-is-already-on-the-grid/873140/",
+      "published": "2026-11-09T10:00:00+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "One study found $98M in missed revenue across 30 batteries. Better software controls can help capture it."
+    },
+    {
+      "id": "e871429446eb",
+      "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
+      "published": "2026-11-09T09:23:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act."
+    },
+    {
+      "id": "d1c8aca891fd",
+      "title": "Australia’s NEM BESS-stored energy hits record 20.17GWh, up 203% in a year",
+      "url": "https://www.energy-storage.news/australias-nem-bess-stored-energy-hits-record-20-17gwh-up-203-in-a-year/",
+      "published": "2026-11-09T09:19:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy held in battery energy storage systems (BESS) across Australia's NEM reached a record 20.17GWh on 6 November."
+    },
     {
       "id": "8766babc2a8f",
       "title": "How the Solar+ industries can make better decisions for the energy transition",
