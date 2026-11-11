@@ -1,7 +1,124 @@
 {
-  "updated": "2026-11-10T16:14:35.985562+00:00",
-  "count": 1594,
+  "updated": "2026-11-11T15:56:44.543713+00:00",
+  "count": 1607,
   "items": [
+    {
+      "id": "04cb6af0520a",
+      "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
+      "url": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/",
+      "published": "2026-11-11T15:10:05+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Austria’s third and final funding round for solar and storage in 2026 attracted more than 41,000 applications, but only 7,007 received approval. Funding for the smallest PV systems was exhausted within 29 seconds of the application window opening. The post Austria’s solar and storage rebates exhaust…"
+    },
+    {
+      "id": "d82c63c3c6f3",
+      "title": "German utility plans 30 MWh zinc-bromine BESS",
+      "url": "https://www.pv-magazine.com/2026/11/11/german-utility-plans-30-mwh-zinc-bromine-bess/",
+      "published": "2026-11-11T15:08:22+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Stadtwerke Gaggenau and Capac AG are planning a €15.2 million ($16.8 million) project featuring US manufacturer Eos’ stackable zinc-bromine battery technology, with construction due to begin in 2027 and commissioning scheduled for 2028. The post German utility plans 30 MWh zinc-bromine BESS appeared…"
+    },
+    {
+      "id": "909fa8c13bde",
+      "title": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
+      "url": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
+      "published": "2026-11-11T14:25:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation."
+    },
+    {
+      "id": "903e6ee506a5",
+      "title": "Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
+      "url": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
+      "published": "2026-11-11T14:21:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets."
+    },
+    {
+      "id": "2d52926e18c9",
+      "title": "The PPA market has a flexibility problem, hybrid PPAs are part of the answer",
+      "url": "https://www.pv-magazine.com/2026/11/11/the-ppa-market-has-a-flexibility-problem-hybrid-ppas-are-part-of-the-answer/",
+      "published": "2026-11-11T13:19:18+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "With hybrid PPAs such as solar-plus-BESS models commanding premiums, the case is obvious. But risk remains part of a complex problem for further growth in the market, writes Paolo Grossi. The post The PPA market has a flexibility problem, hybrid PPAs are part of the answer appeared first on pv magaz…"
+    },
+    {
+      "id": "234799b282d2",
+      "title": "Semi-solid state batteries for BESS: potential and challenges",
+      "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
+      "published": "2026-11-11T12:22:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?"
+    },
+    {
+      "id": "705a12f8c647",
+      "title": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong",
+      "url": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
+      "published": "2026-11-11T11:33:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "RelyEZ has listed on the Main Board of The Stock Exchange of Hong Kong Limited, becoming the latest Chinese energy storage system solution provider to list in Hong Kong."
+    },
+    {
+      "id": "60e29a6790e1",
+      "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
+      "url": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
+      "published": "2026-11-11T08:57:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany."
+    },
+    {
+      "id": "6c57de91b7cb",
+      "title": "800MWh BESS enters NSW assessment as Recurrent’s 600MWh Sundown project clears Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
+      "published": "2026-11-11T08:53:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Delta and partner Samsung Vista C&#038;I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW."
+    },
+    {
+      "id": "b914eea62b3f",
+      "title": "Western Australia backs Australian Vanadium’s relocatable flow battery electrolyte facility",
+      "url": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
+      "published": "2026-11-11T08:51:29+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility."
+    },
+    {
+      "id": "822ca4fe9f69",
+      "title": "Solar & Storage Industry Statement on Bipartisan Permitting Reform Bill Passing First Procedural Vote",
+      "url": "https://cleantechnica.com/2026/11/10/solar-storage-industry-statement-on-bipartisan-permitting-reform-bill-passing-first-procedural-vote/",
+      "published": "2026-11-11T00:54:35+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "WASHINGTON D.C. — Following is a statement from Tim Pawlenty, CEO of the Solar Energy Industries Association (SEIA) on the Bipartisan American Affordability and Jobs Act (BAAJA) clearing its first procedural hurdle in the U.S. Senate: “Americans urgently need lower energy costs, a better electric gr…"
+    },
+    {
+      "id": "9c7b7a501b20",
+      "title": "Norway’s Electric Snowplow Worked. Sweden Added Hydrogen Anyway.",
+      "url": "https://cleantechnica.com/2026/11/10/norway-electric-snowplow-sweden-hydrogen-range-extender/",
+      "published": "2026-11-10T20:27:29+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A Norwegian Scania has already plowed mountain roads. Sweden's new fuel-cell range extender adds tanks and fueling equipment to a battery truck and needs a business case. The post Norway&#8217;s Electric Snowplow Worked. Sweden Added Hydrogen Anyway. appeared first on CleanTechnica."
+    },
+    {
+      "id": "9599864ff91d",
+      "title": "Community engagement is key to on-site battery storage, experts say",
+      "url": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
+      "published": "2026-11-10T16:05:42+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say."
+    },
     {
       "id": "3b3e39e6a069",
       "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, ‘won’t solve interconnection queue wait’",
