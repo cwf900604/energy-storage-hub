@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-11T15:56:44.543713+00:00",
-  "count": 1607,
+  "updated": "2026-11-12T16:39:35.685259+00:00",
+  "count": 1616,
   "items": [
+    {
+      "id": "85677c1dc213",
+      "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+      "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+      "published": "2026-11-12T14:33:57+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain."
+    },
+    {
+      "id": "539a73db8e28",
+      "title": "Octopus aims to mobilize $600 million for Asian renewables",
+      "url": "https://www.pv-magazine.com/2026/11/12/octopus-aims-to-mobilize-600-million-for-asian-renewables/",
+      "published": "2026-11-12T14:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Octopus Energy has launched an Asia fund whose first investment backs a Manila developer targeting 450 MW of solar and 350 MWh of battery storage by 2030. The post Octopus aims to mobilize $600 million for Asian renewables appeared first on pv magazine Global."
+    },
+    {
+      "id": "b1082f8711b9",
+      "title": "Sweden plans new inverter and battery database",
+      "url": "https://www.pv-magazine.com/2026/11/12/sweden-plans-new-inverter-and-battery-database/",
+      "published": "2026-11-12T12:47:52+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sweden plans to launch a voluntary database for solar inverters, battery storage systems and bidirectional EV charging equipment in 2027, replacing its existing pre-assessment system for new listings. The database will provide standardized technical documentation to support grid connection assessmen…"
+    },
+    {
+      "id": "ec566753b838",
+      "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
+      "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+      "published": "2026-11-12T11:59:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises."
+    },
+    {
+      "id": "98b34c6844ac",
+      "title": "Kazakhstan proposes new PPA mechanism to reduce offtake risks, plans storage auctions",
+      "url": "https://www.pv-magazine.com/2026/11/12/kazakhstan-proposes-new-ppa-mechanism-to-reduce-offtake-risks-plans-storage-auctions/",
+      "published": "2026-11-12T11:10:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Kazakhstan is proposing a new mechanism allowing renewable energy generators to sell electricity to the country's single buyer after at least 36 months under bilateral contracts. The measure aims to reduce offtake risks, improve revenue certainty and make projects more attractive to investors and le…"
+    },
+    {
+      "id": "705c1bec9a7b",
+      "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
+      "url": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+      "published": "2026-11-12T10:58:28+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterprises."
+    },
+    {
+      "id": "edaa16cccd58",
+      "title": "What six months of Dutch market data tell us about the true worth of renewables & BESS dispatch optimisation",
+      "url": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+      "published": "2026-11-12T09:54:46+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software company Powerlys."
+    },
+    {
+      "id": "44cdc184603d",
+      "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
+      "url": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+      "published": "2026-11-12T08:53:07+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September."
+    },
+    {
+      "id": "dd1c3df23ace",
+      "title": "‘Must be ready and able to deliver’: EnergyAustralia pays AU$750,000 over alleged FCAS failures at four BESS",
+      "url": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
+      "published": "2026-11-12T08:51:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency services offered into the market."
+    },
     {
       "id": "04cb6af0520a",
       "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
