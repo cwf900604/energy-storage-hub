@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-12T16:39:35.685259+00:00",
-  "count": 1616,
+  "updated": "2026-11-13T15:58:53.618194+00:00",
+  "count": 1627,
   "items": [
+    {
+      "id": "c02942d103c8",
+      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
+      "url": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
+      "published": "2026-11-13T14:14:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth."
+    },
+    {
+      "id": "e18b1bd44036",
+      "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
+      "url": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
+      "published": "2026-11-13T12:24:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said."
+    },
+    {
+      "id": "ef473f3e40e2",
+      "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
+      "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
+      "published": "2026-11-13T11:38:00+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona."
+    },
+    {
+      "id": "77c34bf8a401",
+      "title": "Dark clouds gather over Germany’s solar sector",
+      "url": "https://www.pv-magazine.com/2026/11/13/dark-clouds-gather-over-germanys-solar-sector/",
+      "published": "2026-11-13T11:11:08+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail to push through reforms to Germany's Renewable Energy Sources Act (EEG) in time, according to Martin S…"
+    },
+    {
+      "id": "da95489cf503",
+      "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
+      "url": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
+      "published": "2026-11-13T10:37:49+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoardo, professor at the Polytechnic University of Turin, told pv magazine that utility-scale energy stora…"
+    },
+    {
+      "id": "9a1f2242a1cb",
+      "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
+      "published": "2026-11-13T10:01:42+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power."
+    },
+    {
+      "id": "04acc32fd6de",
+      "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
+      "published": "2026-11-13T09:10:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act."
+    },
+    {
+      "id": "75a063df964e",
+      "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
+      "url": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
+      "published": "2026-11-12T21:12:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW."
+    },
+    {
+      "id": "221975cff182",
+      "title": "QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve",
+      "url": "https://cleantechnica.com/2026/11/12/quantumscape-solid-state-ev-batteries-new-osprey-platform-sulfide/",
+      "published": "2026-11-12T20:19:53+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The US startup Quantumscape is contributing its new \"Osprey\" platform to kickstart solid-state EV batteries into the mass market and help accelerate the vehicle electrification movement. The post QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve appeared first on CleanTechnica."
+    },
+    {
+      "id": "67d66fdf30d6",
+      "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+      "url": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
+      "published": "2026-11-12T18:25:33+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said."
+    },
+    {
+      "id": "ae28751733e4",
+      "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
+      "url": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
+      "published": "2026-11-12T16:05:13+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "The company says reforms would boost renewables and help it achieve resource adequacy and environmental compliance targets. It has also asked regulators to expand distribution and transmission-connected storage options."
+    },
     {
       "id": "85677c1dc213",
       "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
