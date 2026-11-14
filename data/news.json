@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-13T15:58:53.618194+00:00",
-  "count": 1627,
+  "updated": "2026-11-14T14:52:13.884734+00:00",
+  "count": 1630,
   "items": [
+    {
+      "id": "dbb172275435",
+      "title": "UNSW develops three-minute lithium-ion battery health test",
+      "url": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
+      "published": "2026-11-14T10:47:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Researchers at the University of New South Wales (UNSW) have developed a prototype that uses electrical pulses and statistical models to assess lithium-ion battery health in under three minutes per cell, with a potential role in sorting retired batteries for reuse or recycling. The post UNSW develop…"
+    },
+    {
+      "id": "edb325d641f1",
+      "title": "Masdar completes $950 million solar and battery storage project in California",
+      "url": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
+      "published": "2026-11-14T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Abu Dhabi clean energy developer and its joint venture partner Terra-Gen have brought the Lockhart complex online, adding 365 MW of solar generation and 173.7 MW of energy storage to the California grid. The post Masdar completes $950 million solar and battery storage project in California appea…"
+    },
+    {
+      "id": "939046000d36",
+      "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+      "url": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+      "published": "2026-11-14T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027. The post Clarifying the CATL Tener Sodium, with new specifications and availability appeared first on…"
+    },
     {
       "id": "c02942d103c8",
       "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
