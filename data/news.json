@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-14T14:52:13.884734+00:00",
-  "count": 1630,
+  "updated": "2026-11-15T15:28:13.605589+00:00",
+  "count": 1632,
   "items": [
+    {
+      "id": "e762efbd83a1",
+      "title": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
+      "url": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
+      "published": "2026-11-15T14:17:31+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "A new IEA report finds renewables are already strengthening energy security and competitiveness while cutting fuel import costs—but faster electrification, grid modernization, and greater flexibility can extend these gains across the economy. Spain’s rapid expansion of renewable power has strengthen…"
+    },
+    {
+      "id": "1c839ae4ffb7",
+      "title": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+      "url": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
+      "published": "2026-11-15T04:39:35+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy’s control of VPP breakers will add dispatchable load flexibility to the SOLRITE sonnen VPP, while paving a simpler, faster, and lower-cos…"
+    },
     {
       "id": "dbb172275435",
       "title": "UNSW develops three-minute lithium-ion battery health test",
