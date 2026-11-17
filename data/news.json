@@ -1,7 +1,142 @@
 {
-  "updated": "2026-11-16T18:06:18.748232+00:00",
-  "count": 1638,
+  "updated": "2026-11-17T17:28:01.576642+00:00",
+  "count": 1653,
   "items": [
+    {
+      "id": "58ebc3c3d291",
+      "title": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG",
+      "url": "https://cleantechnica.com/2026/11/17/china-electric-heavy-trucks-diesel-lng-freight-economics/",
+      "published": "2026-11-17T17:22:37+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "September battery-electric heavy trucks reached 49.8% of new domestic registrations, while actual freight case studies explain why charging and route design matter. The post China&#8217;s Electric Heavy Trucks Are Taking Sales from Diesel and LNG appeared first on CleanTechnica."
+    },
+    {
+      "id": "8fdb7d8d41f1",
+      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
+      "url": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
+      "published": "2026-11-17T15:44:48+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon."
+    },
+    {
+      "id": "a714d4b93f09",
+      "title": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+      "url": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
+      "published": "2026-11-17T15:20:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries."
+    },
+    {
+      "id": "b22845ec1236",
+      "title": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say",
+      "url": "https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/",
+      "published": "2026-11-17T14:40:19+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "There is limited benefit to questioning every decision made, but operators should be hands on with their optimiser, industry sources said at the Battery Asset Management Summit UK &#038; Ireland 2026 last month."
+    },
+    {
+      "id": "56fe90c262fa",
+      "title": "Italy surpasses 1 million renewable-linked battery storage systems",
+      "url": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/",
+      "published": "2026-11-17T13:48:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Italy had more than 1 million electrochemical storage systems integrated with renewable energy installations at the end of October, with combined capacity of 12.84 GWh and power output of 6.5 GW, according to grid operator Terna. The post Italy surpasses 1 million renewable-linked battery storage sy…"
+    },
+    {
+      "id": "638b0568f6d9",
+      "title": "US energy storage deployments for first nine months of 2026 up 20% from last year",
+      "url": "https://www.energy-storage.news/us-energy-storage-deployments-for-first-nine-months-of-2026-up-20-from-last-year/",
+      "published": "2026-11-17T12:44:03+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US energy storage deployments have increased year-on-year by a fifth, underpinned by utility-scale activity and state-level targets that have translated into installed capacity."
+    },
+    {
+      "id": "45d641f6117e",
+      "title": "Waaree Energy Storage says new 5.15GWh Gujarat battery pack manufacturing line is ‘milestone’ for ‘Make-in-India’ strategy",
+      "url": "https://www.energy-storage.news/waaree-energy-storage-says-new-5-15gwh-gujarat-battery-pack-manufacturing-line-is-milestone-for-make-in-india-strategy/",
+      "published": "2026-11-17T12:37:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Waaree ESS has begun commercial production at its 5.15GWh battery pack manufacturing line in Rola, Valsad, Gujarat."
+    },
+    {
+      "id": "1fe799886d16",
+      "title": "‘Protectionism has never created prosperity’: EnerVenue CEO on US manufacturing plans at RE+",
+      "url": "https://www.energy-storage.news/protectionism-has-never-created-prosperity-enervenue-ceo-on-us-manufacturing-plans-at-re/",
+      "published": "2026-11-17T12:28:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EnerVenue CEO Henning Rath discussed its first multi-MWh order, its North American push, and the policy uncertainty shaping battery manufacturing in the US."
+    },
+    {
+      "id": "fb5bee9eaffc",
+      "title": "German companies develop safety concept for inverter-free plug-in battery storage",
+      "url": "https://www.pv-magazine.com/2026/11/17/german-companies-develop-safety-concept-for-inverter-free-plug-in-battery-storage/",
+      "published": "2026-11-17T12:04:02+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The proposed system combines cell-level power electronics with real-time circuit monitoring to prevent household wiring from overheating. Each module will offer 2 kWh to 5 kWh of storage capacity, with integrated grid protection and emergency power functionality. The post German companies develop sa…"
+    },
+    {
+      "id": "cd3b73a9d47f",
+      "title": "Italy reaches 6GWh of operational grid-scale BESS; 10GWh under construction",
+      "url": "https://www.energy-storage.news/italy-6gwh-operational-grid-scale-bess-10gwh-under-construction/",
+      "published": "2026-11-17T12:01:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Italy’s grid-scale market continues to accelerate following last year’s MACSE auction starting gun, with capacity set to nearly double in the next 12 months."
+    },
+    {
+      "id": "0ebdc0ca9d45",
+      "title": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges",
+      "url": "https://www.energy-storage.news/global-energy-storage-alliance-launches-at-cop31-aims-to-address-persistent-energy-transition-challenges/",
+      "published": "2026-11-17T10:05:41+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A new Global Energy Storage Alliance initiative launched this week on the sidelines of COP31, with UN, IRENA and Chinese government officials in attendance."
+    },
+    {
+      "id": "eceb45863b65",
+      "title": "Chilean PV plant hit by cyberattack remains disconnected",
+      "url": "https://www.pv-magazine.com/2026/11/17/chilean-pv-plant-hit-by-cyberattack-remains-disconnected/",
+      "published": "2026-11-17T09:58:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The 103 MW Huatacondo solar plant and its 98 MW/312 MWh battery storage system have been out of service for nearly three months. Chilean authorities are investigating the incident, while a lawmaker has requested details on its impact and the measures taken in response. The post Chilean PV plant hit …"
+    },
+    {
+      "id": "e9cfb162c597",
+      "title": "Power Electronics supplies grid-forming PCS for Edify’s 2.4GWh hybrids in Australia",
+      "url": "https://www.energy-storage.news/power-electronics-grid-forming-pcs-edify-energy-smoky-creek-guthries-gap-queensland/",
+      "published": "2026-11-17T09:19:35+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spain-headquartered power conversion system (PCS) manufacturer Power Electronics is supplying grid-forming inverters and DC/DC converters for Edify Energy's Smoky Creek and Guthrie's Gap solar-plus-storage projects in Queensland, Australia."
+    },
+    {
+      "id": "c9826b11e3c7",
+      "title": "Frontier Energy builds ‘largest SWIS-connected hybrid solar-plus-storage plant’ in Western Australia",
+      "url": "https://www.energy-storage.news/frontier-energy-construction-waroona-solar-plus-storage-bess-western-australia/",
+      "published": "2026-11-17T09:16:49+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "ASX-listed Frontier Energy has started construction on Stage 1 of its Waroona Renewable Energy Project in Western Australia (WA), which pairs solar PV with a battery energy storage system (BESS)."
+    },
+    {
+      "id": "5c4b211b157b",
+      "title": "BMW In South Carolina: A Free Trade Success Story",
+      "url": "https://cleantechnica.com/2026/11/17/bmw-in-south-carolina-a-free-trade-success-story/",
+      "published": "2026-11-17T06:21:42+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I recently attended BMW&#8217;s “Beyond The Machine” event in South Carolina. The largest facility of the German company globally is Plant Spartanburg in Greer, South Carolina. As part of the event, I saw the opening of BMW&#8217;s new battery plant in nearby Woodruff. We stayed in the nearby city o…"
+    },
     {
       "id": "f422ed24da70",
       "title": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
