@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-17T17:28:01.576642+00:00",
-  "count": 1653,
+  "updated": "2026-11-18T17:01:16.364852+00:00",
+  "count": 1665,
   "items": [
+    {
+      "id": "4dbbba0437f9",
+      "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
+      "url": "https://www.energy-storage.news/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus/",
+      "published": "2026-11-18T14:53:34+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada."
+    },
+    {
+      "id": "d03ec7811570",
+      "title": "Solar Insure Launches 20-Year Commercial Battery Warranty, Expanding Protection for Solar & Storage Projects",
+      "url": "https://cleantechnica.com/2026/11/18/solar-insure-launches-20-year-commercial-battery-warranty-expanding-protection-for-solar-storage-projects/",
+      "published": "2026-11-18T14:32:16+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Launching at RE+ Las Vegas, November 17–20 &#124; Visit Solar Insure at Booth C4190 Commercial property owners invest in solar and battery storage to manage energy costs and strengthen resilience. One question can shape that investment from the start. Who pays when equipment needs repairs years afte…"
+    },
+    {
+      "id": "68be01af950d",
+      "title": "‘Using every ounce of value from the assets’: LG Energy Solution Vertech CPO talks data centres, BESS and software integration at RE+ 2026",
+      "url": "https://www.energy-storage.news/using-every-ounce-of-value-from-the-assets-lg-energy-solution-vertech-cpo-talks-data-centres-bess-and-software-integration-at-re-2026/",
+      "published": "2026-11-18T12:06:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news speaks with LG Energy Solution Vertech chief product officer Tristan Doherty at RE+ 2026."
+    },
+    {
+      "id": "18f7de0dd07d",
+      "title": "ERCOT: EsVolta finances 290MW, Fluence wins project via Linxon EPC partnership",
+      "url": "https://www.energy-storage.news/esvolta-fluence-ercot-texas-bess-financing-linxon-epc-partnership/",
+      "published": "2026-11-18T11:58:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EsVolta has completed over US$180 million in financing for BESS projects in Texas, while Fluence has won a 200MWh project there."
+    },
+    {
+      "id": "3e4aa6055ab6",
+      "title": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale",
+      "url": "https://www.energy-storage.news/ess-inc-files-for-chapter-7-bankruptcy-stem-inc-flags-going-concern-doubts-amidst-athena-optimisation-platform-sale/",
+      "published": "2026-11-18T11:50:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just sold its core software platform Athena."
+    },
+    {
+      "id": "347ca6416e3f",
+      "title": "Sungrow aims to replicate utility-scale success in residential and C&I segments",
+      "url": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
+      "published": "2026-11-18T11:08:17+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe."
+    },
+    {
+      "id": "d3d4f6cfdce0",
+      "title": "Why AI data centers need storage beyond conventional backup power",
+      "url": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+      "published": "2026-11-18T10:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne…"
+    },
+    {
+      "id": "4b5eed28447b",
+      "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+      "url": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+      "published": "2026-11-18T10:00:36+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on…"
+    },
+    {
+      "id": "acc3763d5a6c",
+      "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+      "published": "2026-11-18T08:59:58+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act."
+    },
+    {
+      "id": "98b6140a4ce9",
+      "title": "ADB supports 1 GW solar, storage pipeline in Bangladesh",
+      "url": "https://www.pv-magazine.com/2026/11/18/adb-supports-1-gw-solar-storage-pipeline-in-bangladesh/",
+      "published": "2026-11-18T08:56:51+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Asian Development Bank is providing advisory services for five additional solar and battery storage projects, through a programme aiming to attract more than $1 billion in private investment. The post ADB supports 1 GW solar, storage pipeline in Bangladesh appeared first on pv magazine Global."
+    },
+    {
+      "id": "6cd3f5fe2d08",
+      "title": "REPORT: U.S. Exceeds 200 GWh of Energy Storage Capacity Installed to Date",
+      "url": "https://cleantechnica.com/2026/11/17/report-u-s-exceeds-200-gwh-of-energy-storage-capacity-installed-to-date/",
+      "published": "2026-11-18T02:19:25+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Rapid Growth in Energy Storage Is Helping Stabilize Electricity Prices and Strengthen Grid Reliability; Industry Urges Congress to Pass Permitting Reform to Accelerate Deployment LAS VEGAS — The U.S. energy storage industry installed 14.3 gigawatt-hours (GWh) of new capacity in Q3, bringing total in…"
+    },
     {
       "id": "58ebc3c3d291",
       "title": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG",
@@ -19,6 +118,15 @@
       "source": "Utility Dive — Energy Storage",
       "lang": "en",
       "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon."
+    },
+    {
+      "id": "f7c4cfbb7347",
+      "title": "New York eyes 2030 storage goal with second bulk procurement",
+      "url": "https://www.utilitydive.com/news/nyserda-bulk-energy-storage-solicitation/874888/",
+      "published": "2026-11-17T15:32:15+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "&nbsp;The solicitation seeks up to 1 GW of energy storage, with a preference for longer-duration resources able to alleviate grid congestion and displace peaker-plant emissions in downstate New York."
     },
     {
       "id": "a714d4b93f09",
