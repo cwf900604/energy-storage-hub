@@ -1,7 +1,133 @@
 {
-  "updated": "2026-11-18T17:01:16.364852+00:00",
-  "count": 1665,
+  "updated": "2026-11-19T17:10:10.872025+00:00",
+  "count": 1679,
   "items": [
+    {
+      "id": "a4e90f828b6d",
+      "title": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe",
+      "url": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/",
+      "published": "2026-11-19T16:14:12+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "We hear from the head of market strategy &#038; public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today."
+    },
+    {
+      "id": "c6d0a9cb131c",
+      "title": "Last Chance to Get It Right: The Industrial Accelerator Act Will Make or Break Europe’s Battery Industry",
+      "url": "https://cleantechnica.com/2026/11/19/last-chance-to-get-it-right-the-industrial-accelerator-act-will-make-or-break-europes-battery-industry/",
+      "published": "2026-11-19T14:53:38+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "How the Franco-German auto deal, a wide Made-with-EU scope, and carmakers abandon Europe’s battery value chain to foreign competitors. Getting the Industrial Accelerator Act right There is a growing consensus that Europe must reduce its reliance on Chinese cleantech, especially batteries The IAA mar…"
+    },
+    {
+      "id": "3618a74b80ba",
+      "title": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots",
+      "url": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/",
+      "published": "2026-11-19T12:04:30+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage."
+    },
+    {
+      "id": "3d76f629b95e",
+      "title": "‘Good well past 30 years of operation’: Avery Dennison and Argent on PSA tape ageing tests for battery storage",
+      "url": "https://www.energy-storage.news/avery-dennison-argent-psa-tape-dielectric-performance-bess-30-year-lifetimes/",
+      "published": "2026-11-19T11:53:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Pressure-sensitive adhesive (PSA) tape suppliers are testing dielectric materials for BESS lifetimes of 30 years or more, as rising pack voltages push tracking performance requirements higher."
+    },
+    {
+      "id": "4176727aa643",
+      "title": "What US BESS industry experts are saying about BAAJA at RE+ 2026",
+      "url": "https://www.energy-storage.news/what-us-bess-industry-experts-are-saying-about-baaja-at-re-2026/",
+      "published": "2026-11-19T11:37:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) has been a popular topic of discussion at RE+ 2026 in Las Vegas, Nevada, US."
+    },
+    {
+      "id": "d71acde3e952",
+      "title": "Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York renters",
+      "url": "https://www.pv-magazine.com/2026/11/19/jackery-and-every-electric-launch-4-mwh-plug-in-battery-vpp-for-new-york-renters/",
+      "published": "2026-11-19T11:12:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Jackery has partnered with Brooklyn-based aggregator Every Electric to shift air conditioning load peaks without permitting limitations. The post Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York renters appeared first on pv magazine Global."
+    },
+    {
+      "id": "a4c559f2e002",
+      "title": "Italy: MACSE 2.0 to see higher clearing prices, lower capex impact, but Enel ‘will still bid hard again’, developer says",
+      "url": "https://www.energy-storage.news/italy-macse-2-0-to-see-higher-clearing-prices-lower-capex-impact-but-enel-will-still-bid-hard-again-developer-says/",
+      "published": "2026-11-19T10:59:48+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The second MACSE auction for energy storage in Italy is right around the corner and the dynamics are different this time around to last year’s inaugural event, a developer said."
+    },
+    {
+      "id": "dacac5403a4f",
+      "title": "Most of BESS supply industry is not ready for EU’s 2027 Battery Regulations, report says",
+      "url": "https://www.energy-storage.news/most-bess-supply-industry-not-ready-for-eu-2027-battery-regulations-report/",
+      "published": "2026-11-19T10:45:43+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The EU is introducing several major regulations for batteries next year, including the Battery Passport and supply chain due diligence and traceability requirements, but the BESS industry is far from prepared."
+    },
+    {
+      "id": "293f6532db5a",
+      "title": "BW ESS and Wattmen to develop 500MW of battery energy storage in France",
+      "url": "https://www.energy-storage.news/bw-ess-wattmen-500mw-battery-storage-france/",
+      "published": "2026-11-19T09:50:44+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BW ESS has partnered with Lyon-based developer Wattmen to develop around 500MW of BESS projects in France over the next three years."
+    },
+    {
+      "id": "fd7524b3d39e",
+      "title": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site",
+      "url": "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
+      "published": "2026-11-19T09:34:01+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Statkraft has signed a 10-year deal with Ampyr Solar Europe covering the Snelle Loop co-located solar PV and BESS project in the Netherlands."
+    },
+    {
+      "id": "1faaf99bcef7",
+      "title": "‘Technical and non-controversial’: New Zealand regulator corrects battery storage price band rule date",
+      "url": "https://www.energy-storage.news/nz-regulator-corrects-bess-price-band-rule-date/",
+      "published": "2026-11-19T09:21:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New Zealand's Electricity Authority has corrected the date from which battery energy storage system (BESS) owners can submit up to 10 price bands in their wholesale market offers."
+    },
+    {
+      "id": "3db0526e4a68",
+      "title": "AGL installs first 100 units at 2,000MWh Tomago BESS in New South Wales, Australia",
+      "url": "https://www.energy-storage.news/agl-tomago-bess-first-100-units-installed-nsw/",
+      "published": "2026-11-19T09:13:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australian energy company AGL has installed the first 100 units at its 500MW Tomago battery energy storage system (BESS) in the Hunter region of New South Wales (NSW)."
+    },
+    {
+      "id": "aed1385b28d0",
+      "title": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
+      "url": "https://cleantechnica.com/2026/11/18/almost-90-of-europes-battery-production-at-risk-from-franco-german-car-deal/",
+      "published": "2026-11-19T04:58:55+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Europe has huge potential for battery plants but calls to weaken or delay the Industrial Accelerator Act and carmaker demands to weaken the EU’s CO2 standards, risk handing Europe’s battery value chain to foreign competitors The Franco-German car deal will secure just 13% of Europe’s planned battery…"
+    },
+    {
+      "id": "9974a2b50285",
+      "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
+      "url": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/",
+      "published": "2026-11-18T18:09:18+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Coal throughput at Rotterdam rose 15.3% in the first nine months of 2026. Crude oil and petroleum-product volumes also increased. An inland vessel operator looking only at this year&#8217;s cargo market could see decades of work ahead. But an engine, battery conversion or replacement vessel bought n…"
+    },
     {
       "id": "4dbbba0437f9",
       "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
