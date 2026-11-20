@@ -1,7 +1,115 @@
 {
-  "updated": "2026-11-19T17:10:10.872025+00:00",
-  "count": 1679,
+  "updated": "2026-11-20T16:48:20.632850+00:00",
+  "count": 1691,
   "items": [
+    {
+      "id": "72c5097e3a67",
+      "title": "China grid-connects world’s first artificial-cavern CAES plant",
+      "url": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
+      "published": "2026-11-20T14:43:16+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The 300 MW/1.8 GWh project uses excavated hard-rock chambers, expanding compressed-air storage options beyond natural salt caverns. The post China grid-connects world’s first artificial-cavern CAES plant appeared first on pv magazine Global."
+    },
+    {
+      "id": "d3506d75b1e2",
+      "title": "Enphase highlights new batteries, bidirectional charging",
+      "url": "https://www.pv-magazine.com/2026/11/20/enphase-highlights-new-batteries-bidirectional-charging-and-800-vdc-sst-gear/",
+      "published": "2026-11-20T13:49:45+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Enphase is rolling out residential and commercial storage, meter-collared vehicle-to-grid charging, and a medium-voltage solid-state transformer. The post Enphase highlights new batteries, bidirectional charging appeared first on pv magazine Global."
+    },
+    {
+      "id": "5654c4f6df40",
+      "title": "‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
+      "url": "https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/",
+      "published": "2026-11-20T12:53:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater policy support should be directed toward advancing the technology."
+    },
+    {
+      "id": "e9b6f39ed51d",
+      "title": "Who’s gaining geopolitical advantage in the energy transition?",
+      "url": "https://www.energy-storage.news/whos-gaining-geopolitical-advantage-in-the-energy-transition/",
+      "published": "2026-11-20T12:01:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy."
+    },
+    {
+      "id": "09253a035445",
+      "title": "Germany: operators progress over 4GWh of BESS towards construction ahead of year-end FID deadline",
+      "url": "https://www.energy-storage.news/germany-operators-4gwh-large-scale-bess-construction-fid-deadline/",
+      "published": "2026-11-20T11:55:25+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity."
+    },
+    {
+      "id": "a6d1003b51cc",
+      "title": "BESS Industry Buzz: RE+, EU-made premiums, European revenue variability",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-re-eu-made-premiums-european-revenue-variability/",
+      "published": "2026-11-20T11:34:56+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday."
+    },
+    {
+      "id": "a4def66272f8",
+      "title": "Proper Voltage, Unigrid unveil sodium-ion storage solution for data centers",
+      "url": "https://www.pv-magazine.com/2026/11/20/proper-voltage-unigrid-unveil-sodium-ion-storage-solution-for-data-centers/",
+      "published": "2026-11-20T11:11:19+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Salt Vault High Power cabinet aims to deliver some of the benefits of sodium-ion chemistries including the concept that rapid and repeated power transients may not degrade sodium-ion batteries as fast as lithium and lead-acid. The post Proper Voltage, Unigrid unveil sodium-ion storage solution f…"
+    },
+    {
+      "id": "58caf1ad35ad",
+      "title": "‘Close proximity to key grid infrastructure’: EDF buys 1GWh battery storage system in Australia",
+      "url": "https://www.energy-storage.news/edf-acquires-250mw-holloway-battery-storage-project-new-south-wales-australia/",
+      "published": "2026-11-20T10:00:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "EDF power solutions Australia has acquired the 250MW Holloway BESS project in New South Wales (NSW) from developer SynCo Global."
+    },
+    {
+      "id": "57a50fda559f",
+      "title": "Australia’s remaining BESS gap to 2030 could be in construction within 18 months, IEEFA scorecard finds",
+      "url": "https://www.energy-storage.news/australia-bess-storage-gap-2030-construction-18-months-ieefa-scorecard/",
+      "published": "2026-11-20T09:48:09+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity needed by 2030."
+    },
+    {
+      "id": "aa033ca0eda4",
+      "title": "How a Spanish battery makes money today, and what lenders will finance tomorrow",
+      "url": "https://www.energy-storage.news/how-a-spanish-battery-makes-money-today-and-what-lenders-will-finance-tomorrow/",
+      "published": "2026-11-20T09:34:27+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Spain's first batteries earn mostly from balancing services. As the fleet grows, value is broadening into arbitrage, capacity contracts and new demand, and the projects that capture it will be the ones structured for that mix, writes Roy Franco of renewables investor Energile."
+    },
+    {
+      "id": "3e92e67f5a39",
+      "title": "Inspiring Hearts & Minds on Solar",
+      "url": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/",
+      "published": "2026-11-20T04:19:09+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Since the invention of the solar cell seven decades ago, the story of American solar has seen its fair share of twists and turns on its journey to becoming the country’s most affordable and fastest-growing energy source. While the market continues demanding more solar and energy storage at a rapid .…"
+    },
+    {
+      "id": "fbd9cd084135",
+      "title": "MG U9 EV Ute — It’s A Monster Truck",
+      "url": "https://cleantechnica.com/2026/11/19/mg-u9-ev-ute-its-a-monster-truck/",
+      "published": "2026-11-19T17:24:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "We visit the MG dealership and get to know the MG U9 EV ute up close and personal. As I have said many times to CleanTechnica readers, Australia needs more BEV utes. The PHEV utes are taking a bite out of diesel sales, but we need some monster truck battery ... [continued] The post MG U9 EV Ute — It…"
+    },
     {
       "id": "a4e90f828b6d",
       "title": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe",
