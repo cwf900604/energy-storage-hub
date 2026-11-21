@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-20T16:48:20.632850+00:00",
-  "count": 1691,
+  "updated": "2026-11-21T15:57:50.720069+00:00",
+  "count": 1697,
   "items": [
+    {
+      "id": "f70783ff9ee6",
+      "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
+      "url": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
+      "published": "2026-11-21T14:27:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents. I went to the RE+ in Las Vegas to meet with leaders from Jackery…"
+    },
+    {
+      "id": "c6b88defff4e",
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+      "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
+      "published": "2026-11-21T09:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 appeared first on pv magazine Global."
+    },
+    {
+      "id": "f9fd8eca6e1d",
+      "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+      "url": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
+      "published": "2026-11-21T08:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global."
+    },
+    {
+      "id": "0e7f509ce7a9",
+      "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+      "url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
+      "published": "2026-11-21T07:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward …"
+    },
+    {
+      "id": "f3967a50c823",
+      "title": "Tariffs, taxes and a BESS price rise",
+      "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
+      "published": "2026-11-21T05:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global."
+    },
+    {
+      "id": "cef9bd15687f",
+      "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+      "url": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+      "published": "2026-11-21T02:34:38+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company&#8217;s own cloud environment, giving the team direct responsibility for data policies, access permiss…"
+    },
     {
       "id": "72c5097e3a67",
       "title": "China grid-connects world’s first artificial-cavern CAES plant",
