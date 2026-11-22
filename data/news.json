@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-21T15:57:50.720069+00:00",
-  "count": 1697,
+  "updated": "2026-11-22T16:01:30.644113+00:00",
+  "count": 1698,
   "items": [
+    {
+      "id": "b316f7324afb",
+      "title": "Ford Begins Producing Its Own LFP Batteries",
+      "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
+      "published": "2026-11-22T04:49:26+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Ford is now a battery producer. Yes, it&#8217;s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles. In fact, it is reportedly doing so in a really fast, advanced way. &#8220;The BlueOval Battery Park Michigan assembly ... [co…"
+    },
     {
       "id": "f70783ff9ee6",
       "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
