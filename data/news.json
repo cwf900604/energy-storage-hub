@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-22T16:01:30.644113+00:00",
-  "count": 1698,
+  "updated": "2026-11-23T19:57:11.198481+00:00",
+  "count": 1705,
   "items": [
+    {
+      "id": "1b4f54b1c829",
+      "title": "FERC approves MISO plan to speed legacy interconnection study process",
+      "url": "https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449/",
+      "published": "2026-11-23T14:05:36+00:00",
+      "source": "Utility Dive — Energy Storage",
+      "lang": "en",
+      "summary": "Without the rule changes, the Midcontinent Independent System Operator&rsquo;s queue cycles&nbsp;&mdash; totaling about 125 GW of generation and storage&nbsp;&mdash;&nbsp;would have been delayed, according to the grid operator."
+    },
+    {
+      "id": "896109212df3",
+      "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
+      "url": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/",
+      "published": "2026-11-23T14:00:55+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that."
+    },
+    {
+      "id": "1dc187d47e50",
+      "title": "Pondering The Potential Of Plug-In VPP",
+      "url": "https://cleantechnica.com/2026/11/23/pondering-the-potential-of-plug-in-vpp/",
+      "published": "2026-11-23T13:54:07+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "I recently discussed the potential of the plug-in VPP from Jackery and Every Electric to transform urban energy storage. But the current program could be just the start. The more I discussed it at RE+, the more it started making me thing about where it could go in the future. ... [continued] The pos…"
+    },
+    {
+      "id": "b1b55ed95c69",
+      "title": "Lebanon looks to ramp up solar, storage deployments",
+      "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
+      "published": "2026-11-23T12:09:36+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global."
+    },
+    {
+      "id": "11a0cc0292fe",
+      "title": "BESS overbuild or augmentation: which strategy wins?",
+      "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
+      "published": "2026-11-23T11:39:45+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses."
+    },
+    {
+      "id": "5dd6ea1d667c",
+      "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
+      "url": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
+      "published": "2026-11-23T10:36:16+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Investor prequalification for the solar project is expected to open in February 2027, followed by prequalification for the battery storage project a month later. The post Jordan plans 200 MW solar, 100 MW/400 MWh storage projects appeared first on pv magazine Global."
+    },
+    {
+      "id": "99479ec934a0",
+      "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
+      "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
+      "published": "2026-11-23T09:07:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO."
+    },
     {
       "id": "b316f7324afb",
       "title": "Ford Begins Producing Its Own LFP Batteries",
