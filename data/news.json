@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-23T19:57:11.198481+00:00",
-  "count": 1705,
+  "updated": "2026-11-24T19:24:46.572513+00:00",
+  "count": 1716,
   "items": [
+    {
+      "id": "992f7ca29935",
+      "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
+      "url": "https://www.pv-magazine.com/2026/11/24/felicity-solar-showcases-20-kwh-low-voltage-residential-battery/",
+      "published": "2026-11-24T12:47:08+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese manufacturer’s new lithium iron phosphate battery features a maximum charging power of 10.2 kW, a maximum discharging power of 12.8 kW, and a depth of discharge of 95%. Up to 15 units can be connected in parallel for a total storage capacity of 300 kWh. The post Felicity Solar showcases …"
+    },
+    {
+      "id": "6bd9063e66a7",
+      "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
+      "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience/",
+      "published": "2026-11-24T12:42:40+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system."
+    },
+    {
+      "id": "7461cd242299",
+      "title": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote",
+      "url": "https://www.energy-storage.news/us-senate-passes-bipartisan-permitting-reform-bill-baaja-continues-to-house-vote/",
+      "published": "2026-11-24T12:32:18+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion."
+    },
+    {
+      "id": "19cbdd011f20",
+      "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
+      "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump/",
+      "published": "2026-11-24T12:29:38+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C. The post D…"
+    },
+    {
+      "id": "ad7b0ced9626",
+      "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
+      "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200/",
+      "published": "2026-11-24T11:43:36+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh."
+    },
+    {
+      "id": "b8b364716d3d",
+      "title": "Cyprus plans to deploy over 300 MW of battery storage",
+      "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage/",
+      "published": "2026-11-24T11:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and improve grid flexibility. The post Cyprus plans to deploy over 300 MW of battery stora…"
+    },
+    {
+      "id": "16363890df00",
+      "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
+      "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
+      "published": "2026-11-24T10:26:24+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today."
+    },
+    {
+      "id": "4e0951fabb4d",
+      "title": "Solar and storage insolvencies hit larger German companies",
+      "url": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies/",
+      "published": "2026-11-24T10:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Solar and storage companies accounted for 10 of Germany’s 103 major corporate insolvencies in the third quarter of 2026, with cases increasingly involving project developers and battery manufacturers alongside installers and distributors, according to consultancy Falkensteg. The post Solar and stora…"
+    },
+    {
+      "id": "7c100c8329b0",
+      "title": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions",
+      "url": "https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions/",
+      "published": "2026-11-24T09:44:39+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP."
+    },
+    {
+      "id": "6e16d9733d97",
+      "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
+      "url": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia/",
+      "published": "2026-11-24T09:24:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia."
+    },
+    {
+      "id": "0d29593cd807",
+      "title": "Japan’s expanding BESS market and its uncertain progress",
+      "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
+      "published": "2026-11-24T00:04:52+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium."
+    },
     {
       "id": "1b4f54b1c829",
       "title": "FERC approves MISO plan to speed legacy interconnection study process",
