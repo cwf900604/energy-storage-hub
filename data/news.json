@@ -1,7 +1,124 @@
 {
-  "updated": "2026-11-24T19:24:46.572513+00:00",
-  "count": 1716,
+  "updated": "2026-11-25T18:30:54.784661+00:00",
+  "count": 1729,
   "items": [
+    {
+      "id": "7f5be36a963b",
+      "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
+      "url": "https://cleantechnica.com/2026/11/25/inland-shipping-hvo-prices-battery-swapping/",
+      "published": "2026-11-25T17:33:56+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Europe&#8217;s inland-shipping models underprice renewable diesel. For a new 110-meter dry-cargo vessel, PLATINA4Action calculates HVO (hydrotreated vegetable oil) propulsion at €1,798/day against €1,964/day for battery swapping. Apply the observed October 2026 Dutch HVO market price, including deli…"
+    },
+    {
+      "id": "066a094e9c1b",
+      "title": "VW ID. Cross R-Line Now Available to Order: Model Launch with 99 kW, Flagship Model with 166 kW to Follow",
+      "url": "https://cleantechnica.com/2026/11/25/vw-id-cross-r-line-now-available-to-order-model-launch-with-99-kw-flagship-model-with-166-kw-to-follow/",
+      "published": "2026-11-25T17:26:14+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "New equipment line — for a sportier character and with extensive standard equipment Now available to order in Germany — ID. Cross R-Line with 99 kW (135 PS) and 37 kWh battery Flagship model will follow in March — with 166 kW (226 PS), 52 kWh battery, 290 Nm torque, range ... [continued] The post VW…"
+    },
+    {
+      "id": "c92b2127cfd0",
+      "title": "Italy awards 16 GWh of battery storage in second auction",
+      "url": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction/",
+      "published": "2026-11-25T15:32:57+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Italy's second Electricity Storage Capacity Procurement Mechanism (MACSE) auction awarded all 16 GWh of capacity offered for delivery in 2029, with a weighted average price 12% below the level recorded in the previous auction. The post Italy awards 16 GWh of battery storage in second auction appeare…"
+    },
+    {
+      "id": "c2808283682e",
+      "title": "Fluence claims US production delays under control in first earnings call under transformation strategy",
+      "url": "https://www.energy-storage.news/fluence-claims-us-production-delays-under-control-in-first-earnings-call-under-transformation-strategy/",
+      "published": "2026-11-25T14:36:37+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks."
+    },
+    {
+      "id": "799ab49c68a4",
+      "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
+      "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
+      "published": "2026-11-25T14:13:13+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid."
+    },
+    {
+      "id": "b447453ac9f3",
+      "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+      "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage/",
+      "published": "2026-11-25T13:22:48+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW electric vehicle charger. The post Poweroad unveils modular LF…"
+    },
+    {
+      "id": "005fff104d23",
+      "title": "UK small-scale battery deployment set to double annual record in 2026",
+      "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
+      "published": "2026-11-25T13:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027. The post UK small-scale battery deployment set to double annual record in 2026 appeared first…"
+    },
+    {
+      "id": "b58e99d92a71",
+      "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
+      "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand/",
+      "published": "2026-11-25T13:12:33+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety."
+    },
+    {
+      "id": "1a504e7d784c",
+      "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
+      "url": "https://www.energy-storage.news/italys-second-macse-auction-clears-12-lower-than-first-enel-bw-ess-a2a-and-field-among-winners/",
+      "published": "2026-11-25T12:42:38+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction."
+    },
+    {
+      "id": "f30875e5dc65",
+      "title": "The eight procurement considerations when buying a sodium-ion BESS",
+      "url": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess/",
+      "published": "2026-11-25T12:21:20+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?"
+    },
+    {
+      "id": "5c49d864626d",
+      "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+      "url": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date/",
+      "published": "2026-11-25T12:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028. The post Greenvolt Power breaks ground at its biggest US solar and battery storage project to date appeared first on pv magazine Global."
+    },
+    {
+      "id": "0beeba2bb6d1",
+      "title": "Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes",
+      "url": "https://www.pv-magazine.com/2026/11/25/campaign-aims-to-bring-solar-plus-storage-to-50000-indigenous-homes/",
+      "published": "2026-11-25T11:00:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Indigenized Energy says solar-plus-storage projects have helped families reduce monthly bills by hundreds of dollars as it launches a $2.5 billion fundraising effort to support a further 50,000 Indigenous homes. The post Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes appeared f…"
+    },
+    {
+      "id": "e17fedb3fdf2",
+      "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
+      "url": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
+      "published": "2026-11-25T09:19:04+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development."
+    },
     {
       "id": "992f7ca29935",
       "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
