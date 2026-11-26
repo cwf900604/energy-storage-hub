@@ -1,7 +1,124 @@
 {
-  "updated": "2026-11-25T18:30:54.784661+00:00",
-  "count": 1729,
+  "updated": "2026-11-26T18:13:36.256908+00:00",
+  "count": 1742,
   "items": [
+    {
+      "id": "081120fd7a6b",
+      "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
+      "url": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
+      "published": "2026-11-26T15:03:14+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded."
+    },
+    {
+      "id": "b89aa7f83395",
+      "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+      "published": "2026-11-26T14:20:22+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too."
+    },
+    {
+      "id": "ae24d4d359d1",
+      "title": "Gambia signs four solar PPAs totalling 232 MW",
+      "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+      "published": "2026-11-26T14:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232 MW appeared first on pv magazine Global."
+    },
+    {
+      "id": "a01d80523aa7",
+      "title": "Rare periods of low PV generation can be managed with storage",
+      "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+      "published": "2026-11-26T13:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low renewable output. The post Rare periods of low PV generation can be …"
+    },
+    {
+      "id": "a0b26dd18385",
+      "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+      "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+      "published": "2026-11-26T13:03:53+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US."
+    },
+    {
+      "id": "ea5c31fe43de",
+      "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+      "url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
+      "published": "2026-11-26T13:00:59+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera 2026. Experts anticipate strong growth in the Spanish market, t…"
+    },
+    {
+      "id": "4bebd6b06b57",
+      "title": "Estonian solar park energized with 55 MW/250 MWh battery",
+      "url": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+      "published": "2026-11-26T12:30:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar park energized with 55 MW/250 MWh battery appeared first on pv magazine Global."
+    },
+    {
+      "id": "ac2ca5124e42",
+      "title": "Huawei launches Luterra S2 in Europe",
+      "url": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
+      "published": "2026-11-26T11:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system occupies 0.15 m2 of floor space and 0.69 m2 of wall space. The…"
+    },
+    {
+      "id": "4264f5ba37a8",
+      "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+      "url": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+      "published": "2026-11-26T11:42:32+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years."
+    },
+    {
+      "id": "d4e47fdfef3c",
+      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+      "url": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+      "published": "2026-11-26T09:30:59+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia."
+    },
+    {
+      "id": "2717ab437210",
+      "title": "Hybrids Are a Waypoint, Not the Destination",
+      "url": "https://cleantechnica.com/2026/11/25/hybrids-are-a-waypoint-not-the-destination/",
+      "published": "2026-11-26T00:41:15+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "An earlier version of this article appeared in The Driven on 15 October 2026. This version has been revised and updated with the most recent registration data. By Ray Wills, Raphael Wellmann, and Peter Newman In January 2024, Toyota chairman Akio Toyoda said battery EVs would reach at most 30% ... […"
+    },
+    {
+      "id": "d57f8d270fac",
+      "title": "Europe’s Solar Problem Is No Longer Solar",
+      "url": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
+      "published": "2026-11-25T23:51:55+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up. By Prof Ray Wills SolarPower Europe’s September mid-year assessment describes a familiar contradiction: solar is contributing more to energy security and affordability, yet weakening p…"
+    },
+    {
+      "id": "98f75e08231b",
+      "title": "The Mayor of the East Midlands is Backing a £47.55 Million Investment to Bring 189 Battery-Electric Buses",
+      "url": "https://cleantechnica.com/2026/11/25/the-mayor-of-the-east-midlands-is-backing-a-47-55-million-investment-to-bring-189-battery-electric-buses/",
+      "published": "2026-11-25T22:59:52+00:00",
+      "source": "CleanTechnica",
+      "lang": "en",
+      "summary": "The Mayor of the East Midlands is backing a £47.55 million investment to bring 189 battery-electric buses to the region, replacing older diesel vehicles and helping to improve air quality. Members of the East Midlands Combined County Authority&#8217;s (EMCCA’s) Board have today backed plans to fund …"
+    },
     {
       "id": "7f5be36a963b",
       "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
