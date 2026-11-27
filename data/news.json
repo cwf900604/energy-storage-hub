@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-26T18:13:36.256908+00:00",
-  "count": 1742,
+  "updated": "2026-11-27T17:55:53.998506+00:00",
+  "count": 1750,
   "items": [
+    {
+      "id": "ae38949a9595",
+      "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
+      "url": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck/",
+      "published": "2026-11-27T13:45:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation. The solar industry’s next phase of growth will depend less on equipment affordabili…"
+    },
+    {
+      "id": "a98abd6f7324",
+      "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
+      "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
+      "published": "2026-11-27T11:20:23+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report."
+    },
+    {
+      "id": "2afda5c0cf82",
+      "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+      "url": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie/",
+      "published": "2026-11-27T11:18:46+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product availability, rising costs, and supply chain constraints are among the ma…"
+    },
+    {
+      "id": "56aab1ead446",
+      "title": "Japan battery financing adapts to inflation-linked capacity contracts",
+      "url": "https://www.pv-magazine.com/2026/11/27/japan-battery-financing-adapts-to-inflation-linked-capacity-contracts/",
+      "published": "2026-11-27T11:15:00+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "A Japanese battery storage developer has drawn its first loans for two projects totaling 90 MW after addressing what it says were financing requirements without domestic precedent, tied to price adjustments in the country's long-term capacity auction contracts. The post Japan battery financing adapt…"
+    },
+    {
+      "id": "d256972bb029",
+      "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+      "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity/",
+      "published": "2026-11-27T11:06:15+00:00",
+      "source": "PV Magazine",
+      "lang": "en",
+      "summary": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while TrendForce has reported further declines in wafer and cell prices. …"
+    },
+    {
+      "id": "d92b3f2c182d",
+      "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+      "published": "2026-11-27T09:44:08+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds."
+    },
+    {
+      "id": "f86530e8dc8d",
+      "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
+      "url": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen/",
+      "published": "2026-11-27T09:13:02+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland."
+    },
+    {
+      "id": "7bcc212ae1d5",
+      "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+      "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar/",
+      "published": "2026-11-27T09:10:31+00:00",
+      "source": "Energy Storage News",
+      "lang": "en",
+      "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar."
+    },
     {
       "id": "081120fd7a6b",
       "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
